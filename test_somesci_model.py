@@ -14,6 +14,7 @@ class TestBinModel():
     def __init__(self):
         self.tokenizer = AutoTokenizer.from_pretrained(TOKENIZER_PATH)
         self.model = BERTMultiTaskOpt2.from_pretrained(MODEL_PATH)
+        self.messages = []
 
     def load_encoding(self):
         # Opening JSON file
@@ -95,6 +96,7 @@ class TestBinModel():
         return preds
 
     def eval_text(self, gs_file, text_file):
+        self.messages = []
         summary = []
         debug = 1
         #Read gold standard file.
@@ -108,7 +110,7 @@ class TestBinModel():
         for line in f_brat.readlines():
             if line!="":
                 tokens = line.split()
-                gs_dictionary[tokens[4]] = tokens[1]
+                gs_dictionary[tokens[4].lower()] = tokens[1]
 
         f_brat.close()
         
@@ -119,28 +121,34 @@ class TestBinModel():
             if debug: print("********************************************************")
             if debug: print("Sentence:"+str(sentence))
             _entities = self.get_entities(sentence)
-            if debug: print("Entities:"+str(_entities))
+            #if debug: print("Entities:"+str(_entities))
             if debug: print("--------------------------------------------------------")
             for entity in _entities:
                 if debug: print (entity["name"])
                 if entity["name"] in gs_dictionary:
                     gs_entity = gs_dictionary[entity["name"]]
-                    if debug: print(gs_entity)
-                    if debug: print(str(entity["type"]) + " " + str(gs_entity))
-                    if (entity["type"] == gs_entity):
+                    #if debug: print(gs_entity)
+                    #if debug: print(str(entity["type"]) + " " + str(gs_entity))
+                    if entity["type"]=="SoftwareDependency" or entity["type"]=="Citation":
+                        entity["type"] = "Application_Mention"
+                    if entity["type"] == gs_entity:
                         true_positive = true_positive + 1
-                        if debug: print ("Match!")
+                        self.messages.append("TP: Match of "+str(entity["name"])+" with type="+str(entity["type"]))
+                        if debug: print ("TP: Match of "+str(entity["name"])+" with type="+str(entity["type"]))
                     else: 
                         false_positive = false_positive + 1
+                        self.messages.append("FP: NOT match of "+str(entity["name"])+" with type="+str(entity["type"])+" and type="+str(gs_entity))
+                        if debug: print ("FP: NOT match of "+str(entity["name"])+" with type="+str(entity["type"])+" and type="+str(gs_entity))
                 else:
-                    false_positive = false_positive + 1
+                    if entity["type"] == "Application_Mention" or entity["type"] == "Version" or entity["type"] == "URL":
+                        false_positive = false_positive + 1
+                        self.messages.append( "FP: NOT match of "+str(entity["name"]))
+                        if debug: print ("FP: NOT match of "+str(entity["name"]))
             total = len(gs_dictionary)
+            print("Dictionary:"+str(gs_dictionary))
             false_negative = total - true_positive
+
         f_text.close()
-        print("SUMMARY")
-        print("TP:"+str(true_positive))
-        print("FP:"+str(false_positive))
-        print("FN:"+str(false_negative))
 
         results = {}
 
@@ -151,8 +159,8 @@ class TestBinModel():
 
         return results
 
-        summary.append(results)
-        print (summary)
+    def view_messages(self):
+        return self.messages
 
 
 
