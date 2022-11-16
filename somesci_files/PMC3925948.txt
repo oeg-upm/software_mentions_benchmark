@@ -1,0 +1,2 @@
+
+Three-dimensional immunohistochemistry. Serial sections were cut at 8.0-mm thickness. After staining (anti-CD31), individual micrographs were collected and stacked. Images were captured using a Yokogawa spinning-disk confocal on a Nikon TE2000U inverted microscope with a 1003 Plan Apo NA 1.4 objective lens, a Hamamatsu ORCA ER-cooled CCD camera, and MetaMorph software. Image stacks were aligned, analyzed, and visualized using freeware Reconstruct software (SynapseWeb).

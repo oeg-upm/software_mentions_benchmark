@@ -1,0 +1,2 @@
+
+Statistical analyses were performed using GraphPad Prism 5 software (Graphpad Software, Inc, La Jolla, CA, USA), and the data are presented as the mean ± standard deviation. Kaplan-Meier analysis with log-rank test was used to analyze the overall survival rate. Multivariate prognostic factors were examined using Cox's proportional-hazards model. An unpaired 2-tailed Student's t-test or 1-way analysis of variance (ANOVA) was used to analyze the in vitro and in vivo data. P,0.05 was considered to be statistically significant.

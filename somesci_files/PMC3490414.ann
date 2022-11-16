@@ -1,0 +1,12 @@
+T1    Application_Mention 1267 1268 Phred/Phrap/ Consed package
+T2    URL 1296 1297 http://www.phrap.org/phredphrapconsed .html
+T3    Application_Mention 1404 1405 BLASTX
+T4    Application_Mention 1466 1467 Perl script
+T5    Application_Mention 1764 1765 SignalP
+T6    Version 1772 1773 3.0
+T7    Application_Mention 1780 1781 TMHMM
+T8    Version 1786 1787 2.0
+T9    URL 1791 1792 http://www .cbs.dtu.dk/services
+T10    Application_Mention 2168 2169 Primer Designer
+T11    Version 2194 2195 1.01
+T12    Developer 2200 2201 Scientific and Education software

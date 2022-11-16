@@ -1,0 +1,2 @@
+
+Descriptive statistics were used to summarize both categorical data (frequencies and percentages) and continuous data (means and standard deviations). Post hoc Bonferroni tests and repeated measures analysis of variance (ANOVA) with Greenhouse-Geisser correction were used to assess the significance of the differences between the numbers of chronic disease medication classes taken before, during. and after chemotherapy. All of the data analysis was performed using the Statistical Package for the Social Sciences program (version16.0).

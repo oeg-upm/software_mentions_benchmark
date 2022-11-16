@@ -1,0 +1,14 @@
+T1    Application_Mention 3010 3011 simplePCI
+T2    Developer 2985 2986 Hamamatsu Photonics
+T3    Application_Mention 3340 3341 ZEN
+T4    Version 3344 3345 2009
+T5    Developer 3134 3135 Carl Zeiss
+T6    Application_Mention 3365 3366 LCS
+T7    Developer 2903 2904 Leica
+T8    Application_Mention 3432 3433 Photoshop
+T9    Developer 3443 3444 Adobe
+T10    Application_Mention 3365 3366 LCS
+T11    Application_Mention 3365 3366 LCS
+T12    Application_Mention 5225 5226 ImageJ
+T13    Developer 5233 5234 National Institutes of Health
+T14    Application_Mention 5875 5876 SimplePCI

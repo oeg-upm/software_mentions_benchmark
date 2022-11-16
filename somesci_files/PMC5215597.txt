@@ -1,0 +1,2 @@
+
+Comparing the three groups (control and two kainate clusters), analysis of variance (ANOVA) statistics with Dunn-Sidak multiple comparisons testing correction was calculated, accepting significance at p < 0.05. All analyses were calculated using MATLAB 2013b (MathWorks, Natick, MA, U.S.A.) and Microsoft Excel. R1.1 A separate ttest was performed between the control and grouped kainate animals, with significance accepted at p < 0.05.

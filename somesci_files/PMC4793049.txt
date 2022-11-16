@@ -1,0 +1,2 @@
+
+The sample distribution was determined by the W Shapiro-Wilk test and the statistical significance for dependent samples by the t-Student test, while for the nonparametric by the Wilcoxon test. α < 0.05 was considered statistically significant (Statistica software ver. 10).

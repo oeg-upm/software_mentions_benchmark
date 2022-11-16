@@ -1,0 +1,2 @@
+
+Statistical analyses have been realized using StatView ® software (SAS Institute Inc., Cary, NC USA). Graphical representations were performed using GraphPad Prism ® (GraphPad Software, Inc., La Jolla, CA, USA). The difference between T0 and T8 has been tested using Student's paired t-test or Wilcoxon Signed-Rank Test according to the normality assumption of data distribution (Kolmogorov-Smirnov test). The firmness score has been analyzed using chi-square test.

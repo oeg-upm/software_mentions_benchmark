@@ -1,0 +1,19 @@
+T1    Application_Mention 1213 1214 Ingenuity Pathways Analysis (IPA)
+T2    Application_Mention 1582 1583 Database for Annotation, Visualization and Integrated Discovery (DAVID)
+T3    Application_Mention 1242 1243 IPA
+T4    Application_Mention 5829 5830 SDS
+T5    Version 5834 5835 2.3
+T6    Developer 5848 5849 Applied Biosystems
+T7    Developer 7095 7096 Bioconductor
+T8    Application_Mention 7125 7126 limma
+T9    Application_Mention 1242 1243 IPA
+T10    Developer 9860 9861 Ingenuity Systems
+T11    URL 9879 9880 www.ingenuity.com
+T12    Application_Mention 1242 1243 IPA
+T13    Application_Mention 10676 10677 Connectivity Map (Cmap)
+T14    Version 1787 1788 02
+T15    URL 10705 10706 http://www.broad.mit.edu/cmap
+T16    Application_Mention 10694 10695 Cmap
+T17    Application_Mention 10694 10695 Cmap
+T18    Application_Mention 11064 11065 NetAffx analysis center
+T19    URL 11089 11090 http://www.affymetrix.com/analysis/ index.affx

@@ -1,0 +1,2 @@
+
+Consistency, a key assumption underlying NMAs, requires that any differences between direct and indirect estimates are due to chance. 11 Consistency was assessed through the inspection of coherence plots. 16 Evidence of inconsistency was observed when CrIs around relative-effectiveness estimates did not cross 1. All analyses were performed using R version 2.14.1 statistical software (R Development Core Team, Vienna, Austria) and WinBUGS version 1.4 (MRC Biostatistics Unit, Cambridge, UK).

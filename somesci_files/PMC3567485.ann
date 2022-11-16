@@ -1,0 +1,23 @@
+T1    Application_Mention 93 94 Ensembl Genome Browser
+T2    Version 125 126 63
+T3    Application_Mention 658 659 BLAST
+T4    Application_Mention 851 852 miRanda
+T5    Application_Mention 886 887 TargetScan
+T6    Application_Mention 901 902 RNAhybrid
+T7    Application_Mention 93 94 Ensembl Genome Browser
+T8    Version 125 126 63
+T9    Application_Mention 1730 1731 pseudoMap
+T10    Application_Mention 1794 1795 MySQL
+T11    URL 1801 1802 http://www.mysql.com
+T12    Application_Mention 1885 1886 Apache HTTP server
+T13    URL 1905 1906 http://www.apache.org
+T14    Application_Mention 1964 1965 Linux
+T15    URL 1988 1989 http:// www.linux.com
+T16    Application_Mention 1730 1731 pseudoMap
+T17    Application_Mention 1794 1795 MySQL
+T18    Application_Mention 2794 2795 PseudoGeneQuest
+T19    Application_Mention 1730 1731 pseudoMap
+T20    Application_Mention 1730 1731 pseudoMap
+T21    Application_Mention 1730 1731 pseudoMap
+T22    Application_Mention 1730 1731 pseudoMap
+T23    Application_Mention 1730 1731 pseudoMap

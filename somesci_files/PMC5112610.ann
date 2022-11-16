@@ -1,0 +1,21 @@
+T1    Application_Mention 338 339 DNAStar EditSeq
+T2    Developer 209 210 NCBI
+T3    Application_Mention 452 453 protein blast
+T4    URL 467 468 http://blast.ncbi.nlm.nih.gov/
+T5    Application_Mention 591 592 ProtParam
+T6    Application_Mention 605 606 ProtScale
+T7    URL 616 617 http://www.expasy.ch/tools/ protscale.html
+T8    Application_Mention 760 761 DNAStar Protean
+T9    Application_Mention 792 793 CFSSP
+T10    URL 799 800 http://www.biogem. org/tool/chou-fasman
+T11    Application_Mention 963 964 DisPort search
+T12    URL 979 980 http://www.disport.org/ search.php
+T13    Application_Mention 338 339 DNAStar EditSeq
+T14    Application_Mention 591 592 ProtParam
+T15    Application_Mention 605 606 ProtScale
+T16    Application_Mention 2365 2366 DisProt search
+T17    Developer 209 210 NCBI
+T18    Application_Mention 452 453 protein blast
+T19    Application_Mention 591 592 ProtParam
+T20    Application_Mention 605 606 ProtScale
+T21    Application_Mention 2365 2366 DisProt search

@@ -1,0 +1,29 @@
+T1    Application_Mention 236 237 MOLREP
+T2    Application_Mention 415 416 COOT
+T3    Application_Mention 489 490 REFMAC
+T4    Version 17 18 5
+T5    Application_Mention 851 852 HKL2000
+T6    Application_Mention 1100 1101 PHASER
+T7    Application_Mention 415 416 COOT
+T8    Application_Mention 489 490 REFMAC
+T9    Version 17 18 5
+T10    Application_Mention 489 490 REFMAC
+T11    Version 17 18 5
+T12    Application_Mention 1732 1733 PROCHECK
+T13    Application_Mention 1752 1753 MOL- BROBITY
+T14    Application_Mention 1824 1825 MOLPROBITY
+T15    Application_Mention 2338 2339 PyMOL
+T16    Application_Mention 2359 2360 BIAevaluation
+T17    Version 2391 2392 3.1
+T18    Developer 2396 2397 GE Healthcare
+T19    Application_Mention 3970 3971 MOSFLM
+T20    Application_Mention 851 852 HKL2000
+T21    Application_Mention 4033 4034 SCALA
+T22    Application_Mention 4064 4065 CCP4 suite
+T23    Application_Mention 4085 4086 scalepack
+T24    Application_Mention 236 237 MOLREP
+T25    Application_Mention 415 416 COOT
+T26    Application_Mention 489 490 REFMAC
+T27    Version 17 18 5
+T28    Application_Mention 489 490 REFMAC
+T29    Version 17 18 5

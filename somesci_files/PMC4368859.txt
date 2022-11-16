@@ -1,0 +1,2 @@
+
+Data are means ± standard deviation (SD). One way analysis of variance and post hoc test (Dunnett) were used to identify significant differences, unless specified otherwise, and statistical significance was set at P < 0.05. The transport parameters (K m , V max , K passive ) were estimated by plotting cocaine brain or cell flux data against total concentration using Equation 7 and nonlinear regression with WinNonlin software. The errors associated with these parameters are asymptotic standard errors returned by the nonlinear regression routine.

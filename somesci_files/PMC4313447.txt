@@ -1,0 +1,2 @@
+
+Meta-analysis was performed using the STATA statistical package version 11. First, we assessed the heterogeneity between the studies by Chi-squared test (P<0.1 as meaningful). We used random or fixed model for pooling the percentage of improvement and 95% confidence intervals in case of heterogeneous and homogenous cases, respectively. In addition, p-values less than 0.05 were regarded significant.

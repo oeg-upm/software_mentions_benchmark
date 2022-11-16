@@ -1,0 +1,2 @@
+
+Quantitative variables were expressed as median values, interquartile ranges (Q1-Q3), and minimum and maximum values. Qualitative variables were expressed as numbers and percentages. We constructed a box plot for a descriptive analysis of TGF-b expression according to pathologic stage, Gleason score, and PSA level. We used the Mann-Whitney test to compare categories. Statistical analyses were performed using GraphPad Prism 3, and significance was set at p#0.05.

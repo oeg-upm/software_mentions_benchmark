@@ -1,0 +1,33 @@
+T1    Application_Mention 252 253 gsAssembler
+T2    Developer 192 193 Roche/454 Life Science
+T3    Application_Mention 1400 1401 DNAMaster
+T4    URL 1411 1412 http://cobamide2.bio.pitt.edu
+T5    Version 1450 1451 5.22.2
+T6    Application_Mention 1459 1460 pDRAW32
+T7    Application_Mention 1471 1472 GeneMark.hmm for Prokaryotes
+T8    Version 1509 1510 2.8
+T9    Application_Mention 1583 1584 BLASTN
+T10    Application_Mention 1594 1595 BLASTP
+T11    Developer 1644 1645 National Center for Biotechnology Information (NCBI)
+T12    Application_Mention 1471 1472 GeneMark.hmm
+T13    Application_Mention 2105 2106 Compute pI/MW
+T14    Application_Mention 2194 2195 Signal P
+T15    Version 2211 2212 3.0
+T16    Application_Mention 2225 2226 TatFind Servers
+T17    Application_Mention 2307 2308 InterProScan
+T18    Application_Mention 2429 2430 TMHMM
+T19    Application_Mention 2449 2450 TMPred
+T20    Application_Mention 2574 2575 T-Coffee
+T21    Application_Mention 2589 2590 Muscle
+T22    Application_Mention 2605 2606 Praline
+T23    Application_Mention 2574 2575 T-Coffee
+T24    Application_Mention 2704 2705 WebLogo
+T25    Application_Mention 2834 2835 EMBOSS Needle
+T26    Developer 2856 2857 EMBL-EBI
+T27    Application_Mention 2574 2575 T-Coffee
+T28    Application_Mention 2991 2992 Gblocks
+T29    Application_Mention 3072 3073 phyml
+T30    Application_Mention 3128 3129 Phylodendron
+T31    URL 3142 3143 http://iubio.bio.indiana.edu/soft/molbio/ java/apps/trees
+T32    Application_Mention 2194 2195 Signal P
+T33    Application_Mention 4048 4049 Tat find

@@ -1,0 +1,61 @@
+T1    Application_Mention 166 167 X! Tandem
+T2    Version 177 178 January 1, 2007
+T3    Application_Mention 258 259 Peptide- Prophet
+T4    Application_Mention 284 285 ProteinProphet
+T5    Application_Mention 410 411 PeptideProphet
+T6    Version 434 435 3.0
+T7    Application_Mention 284 285 ProteinProphet
+T8    Version 434 435 3.0
+T9    Application_Mention 410 411 PeptideProphet
+T10    Application_Mention 410 411 PeptideProphet
+T11    Application_Mention 2233 2234 DeCyder
+T12    Version 2241 2242 6.5
+T13    Developer 2246 2247 GE Healthcare
+T14    Application_Mention 2265 2266 SameSpots
+T15    Version 969 970 2.0
+T16    Developer 2280 2281 Nonlinear Dynamics
+T17    Application_Mention 2349 2350 Statistica
+T18    Developer 2373 2374 StatSoft, Inc
+T19    Version 191 192 7
+T20    Application_Mention 2728 2729 DataAnalysis
+T21    Version 2741 2742 3.4.179
+T22    Developer 2671 2672 Bruker Daltonics
+T23    Application_Mention 3034 3035 CompassXport
+T24    Version 3056 3057 1.2.3
+T25    Application_Mention 284 285 ProteinProphet
+T26    Application_Mention 2233 2234 DeCyder
+T27    Version 2241 2242 6.5
+T28    Application_Mention 2265 2266 SameSpots
+T29    Application_Mention 2233 2234 DeCyder
+T30    Version 2241 2242 6.5
+T31    Application_Mention 4033 4034 MassLynx
+T32    Version 4043 4044 4.0
+T33    Application_Mention 4264 4265 MassWolf
+T34    Version 4273 4274 1.02
+T35    Application_Mention 4287 4288 Waters Datafile Access Component (DAC)
+T36    Application_Mention 410 411 PeptideProphet
+T37    Application_Mention 284 285 ProteinProphet
+T38    Application_Mention 5781 5782 Xcalibur
+T39    Version 5799 5800 1.1
+T40    Application_Mention 5839 5840 ReAdW
+T41    Version 5799 5800 1.1
+T42    Application_Mention 5854 5855 XRawfile
+T43    Application_Mention 410 411 PeptideProphet
+T44    Application_Mention 284 285 ProteinProphet
+T45    Application_Mention 5781 5782 Xcalibur
+T46    Version 7814 7815 2.2
+T47    Application_Mention 5839 5840 ReAdW
+T48    Version 5799 5800 1.1
+T49    Application_Mention 5854 5855 XRawfile
+T50    Application_Mention 410 411 PeptideProphet
+T51    Application_Mention 410 411 PeptideProphet
+T52    Application_Mention 9830 9831 msInspect/AMT
+T53    Application_Mention 284 285 ProteinProphet
+T54    Application_Mention 284 285 ProteinProphet
+T55    Application_Mention 284 285 ProteinProphet
+T56    Application_Mention 12339 12340 Affymetrix microarray suite
+T57    Version 277 278 5
+T58    Application_Mention 410 411 PeptideProphet
+T59    Application_Mention 15271 15272 Mascot
+T60    Application_Mention 284 285 ProteinProphet
+T61    Application_Mention 284 285 ProteinProphet

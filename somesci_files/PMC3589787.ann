@@ -1,0 +1,16 @@
+T1    Application_Mention 1066 1067 Q-bank
+T2    URL 1074 1075 www.q-bank. eu
+T3    Application_Mention 2979 2980 TreeBASE
+T4    URL 2989 2990 www.treebase.org
+T5    Application_Mention 3035 3036 MycoBank
+T6    URL 3045 3046 www.MycoBank.org
+T7    Application_Mention 3154 3155 MAFFT
+T8    Version 3163 3164 6
+T9    URL 3166 3167 http://mafft.cbrc.jp/alignment/server/index. html
+T10    Application_Mention 3275 3276 BioEdit
+T11    Version 3286 3287 7.0.5.2
+T12    Application_Mention 3441 3442 MrBayes
+T13    Version 3452 3453 3.2.1
+T14    Application_Mention 3636 3637 MrModeltest
+T15    Application_Mention 1066 1067 Q-bank
+T16    Application_Mention 1066 1067 Q-bank

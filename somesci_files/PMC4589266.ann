@@ -1,0 +1,26 @@
+T1    Application_Mention 118 119 TBSS
+T2    Application_Mention 139 140 FSL
+T3    Version 145 146 5.0.6
+T4    Developer 152 153 University of Oxford
+T5    Application_Mention 139 140 FSL
+T6    Application_Mention 388 389 eddy_correct
+T7    Application_Mention 402 403 bet
+T8    Application_Mention 411 412 dtifit
+T9    Application_Mention 118 119 TBSS
+T10    Version 491 492 1.2
+T11    URL 496 497 http://fsl.fmrib.ox.ac.uk/ fsl/fslwiki/TBSS/UserGuide
+T12    Application_Mention 139 140 FSL
+T13    Application_Mention 118 119 TBSS
+T14    Application_Mention 139 140 FSL
+T15    Version 145 146 5.0.6
+T16    Developer 152 153 University of Oxford
+T17    Application_Mention 1526 1527 AFNI
+T18    Version 1533 1534 2011_12_21_1014
+T19    Developer 1549 1550 National Institute of Mental Health
+T20    Application_Mention 139 140 FSL
+T21    Application_Mention 388 389 eddy_correct
+T22    Application_Mention 402 403 bet
+T23    Application_Mention 411 412 dtifit
+T24    Application_Mention 139 140 FSL
+T25    Application_Mention 1892 1893 fnirt
+T26    Application_Mention 2893 2894 AFNI 3dROIstats

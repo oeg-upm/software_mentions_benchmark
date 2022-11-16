@@ -1,0 +1,2 @@
+
+All analyses were performed in Stata V.13. Crude baseline demographic and biomedical measures were reported as mean values and SDs. Risk score stratifications were selected according to their reported risks of developing type 2 diabetes. 9 Annual incidence of type 2 diabetes for AUSDRISK categories was estimated using the reported risk of progression over 5 years assuming a constant yearly risk.

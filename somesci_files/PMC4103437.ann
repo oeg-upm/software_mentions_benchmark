@@ -1,0 +1,21 @@
+T1    Application_Mention 1 2 CLC Genomics Workbench
+T2    Developer 24 25 CLC bio
+T3    Application_Mention 148 149 libngs
+T4    URL 156 157 https://github.com/ sylvainforet/libngs
+T5    Application_Mention 310 311 SPAdes
+T6    Application_Mention 1 2 CLC Genomics Workbench
+T7    Application_Mention 1641 1642 Sequencher
+T8    Version 1660 1661 4.7
+T9    Developer 1665 1666 Gene Codes Corporation
+T10    Application_Mention 1730 1731 Geneious Pro
+T11    Version 1751 1752 6.1.6
+T12    Application_Mention 1992 1993 MEGA
+T13    Version 2005 2006 5.2
+T14    Application_Mention 1730 1731 Geneious Pro
+T15    Version 1751 1752 6.1.6
+T16    Application_Mention 2478 2479 RAxML
+T17    Version 2484 2485 7.0.3
+T18    Application_Mention 2478 2479 RAxML
+T19    Application_Mention 2763 2764 FigTree
+T20    Version 2780 2781 1.3.1
+T21    URL 2788 2789 http://tree.bio.ed.ac.uk/software/ fi gtree/

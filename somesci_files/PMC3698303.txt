@@ -1,0 +1,2 @@
+
+The second swab of the pair was processed directly using the GeneXpert system (Cepheid) with Xpert MRSA cartridge (Cepheid) according to the manufacturer's instruction. In brief, the swab was placed in the elution reagent (black cap), vortexed at high speed for 10 sec, and dispensed into the port "S" of the Xpert MRSA cartridge. The cartridge was inserted and subjected to real-time PCR in the GeneXpert system, and the result was reported by the GeneXpert software (Cepheid). If the MRSA threshold (CT) value of the sample was ≤ 36, it was positively identified as MRSA.

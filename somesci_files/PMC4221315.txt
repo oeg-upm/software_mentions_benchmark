@@ -1,0 +1,2 @@
+
+The data for each variable were tested using the D' Agostino & Pearson normality test. The mean and standard deviation or median and range were determined. Student's t test or the Mann-Whitney test was performed as appropriate. All analyses were performed using GraphPad SoftwareH 5.0 for Windows (GraphPad Software Inc, La Jolla, CA, USA).

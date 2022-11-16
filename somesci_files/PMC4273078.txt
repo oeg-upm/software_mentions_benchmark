@@ -1,0 +1,2 @@
+
+Statistical analyses were conducted using the SAS program (version 9.1) for Windows. All data are presented as the mean ± SD. A t test was used to test for the homogeneity of demographic and clinical characteristics between the exercise and control group. Significant differences between groups were determined using unpaired t tests. Significant differences within groups were determined using paired t tests. The level of statistical significance was considered to be a probability value of less than 0.05.

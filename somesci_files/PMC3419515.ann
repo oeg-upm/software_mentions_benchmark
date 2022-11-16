@@ -1,0 +1,11 @@
+T1    Application_Mention 107 108 MAQ
+T2    Application_Mention 107 108 MAQ
+T3    Application_Mention 368 369 custom Perl script
+T4    Application_Mention 1686 1687 MUSCLE
+T5    Version 1694 1695 3.7
+T6    Application_Mention 1686 1687 MUSCLE
+T7    Developer 2971 2972 NCBI
+T8    Application_Mention 2976 2977 tBLASTn
+T9    Version 2985 2986 2.2.24
+T10    Application_Mention 3031 3032 custom Perl scripts
+T11    Application_Mention 3061 3062 BioPerl modules

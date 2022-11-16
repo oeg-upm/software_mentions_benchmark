@@ -1,0 +1,30 @@
+T1    Application_Mention 153 154 ClustalW
+T2    Application_Mention 291 292 MEGA
+T3    Version 296 297 4.0
+T4    Application_Mention 545 546 PSIPRED
+T5    Application_Mention 643 644 I-TASSER
+T6    Application_Mention 787 788 MOD- ELLER
+T7    Application_Mention 891 892 MODELLER
+T8    Application_Mention 891 892 MODELLER
+T9    Application_Mention 891 892 MODELLER
+T10    Application_Mention 1570 1571 PROSA
+T11    Application_Mention 2470 2471 Primer Express
+T12    Version 2493 2494 3.0
+T13    Application_Mention 153 154 ClustalW
+T14    Application_Mention 291 292 MEGA
+T15    Version 296 297 4.0
+T16    Application_Mention 4254 4255 BLAST
+T17    Application_Mention 643 644 I-TASSER
+T18    Application_Mention 1570 1571 PROSA
+T19    Application_Mention 5268 5269 HBPLUS
+T20    Application_Mention 6061 6062 PHDsec
+T21    URL 6068 6069 www.predictprotein.org
+T22    Application_Mention 545 546 PSIPRED
+T23    URL 6102 6103 http://bioinf.cs.ucl.ac. uk/psipred
+T24    Application_Mention 6311 6312 FUGUE
+T25    URL 6317 6318 www-cryst.bioc.cam.ac.uk/;fugue
+T26    Application_Mention 6350 6351 3DPSSM
+T27    URL 6358 6359 www.sbg.bio.ic.ac.uk
+T28    Application_Mention 7423 7424 MAS
+T29    Application_Mention 7423 7424 MAS
+T30    Application_Mention 7423 7424 MAS

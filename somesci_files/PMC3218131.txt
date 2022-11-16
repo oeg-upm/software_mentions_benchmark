@@ -1,0 +1,2 @@
+
+The statistical analysis was conducted with SPSS ver. 12.0 (SPSS Inc., Chicago, IL, USA), and the survival curve was prepared using a Kaplan-Meier analysis. The univariate analysis and the multivariate analysis of prognostic factors were performed using the log-rank method and the Cox proportional hazard ratio, respectively. A P-value of less than 0.05 was considered to be statistically significant.

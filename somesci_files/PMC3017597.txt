@@ -1,0 +1,2 @@
+
+Two-tailed analysis of variance (ANOVA) or multivariate analysis of variance (MANOVA) statistical analyses were performed using SPSS program (version 18) considering as significant: *P 0.05, **P 0.01 and ***P 0.001. Scheffe or Games-Howell post hoc tests were used when appropriate to distinguish which components analyzed are causing the significant variance between conditions.

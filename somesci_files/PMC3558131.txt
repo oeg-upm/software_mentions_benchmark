@@ -1,0 +1,2 @@
+
+The data from three or four dose-dependent experiments were tested by ANOVA followed by post-hoc analysis (Duncan test). All analysis performed with SPSS software.

@@ -1,0 +1,4 @@
+
+After electrophoresis in a 1.5% agarose gel, ethidium bromide-stained bands were visualized by ultraviolet transillumination, and the fluorescence intensity was semiquantified using a Bio2239 gel analysis system (Bio-Print, Chicago, IL).
+The cells positively stained with anti-GRP94 primary antibody appeared with brown-yellow granules in the cytoplasm of hepatocytes. The intensity of immunohistochemical staining was analyzed using Image-Pro-Plus image analysis software. An average gray value supplied by the software was used to reference the intensity of GRP94 staining (ie, normalized to an internal control).
+Data were analyzed using SPSS 17.0 software (SPSS Inc, Chicago, IL) and are presented as mean AE standard deviation. Statistical significance was determined using 1-way analysis of variance. P < 0.05 was recognized as significantly different.

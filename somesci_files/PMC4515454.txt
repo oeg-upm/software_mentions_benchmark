@@ -1,0 +1,2 @@
+
+The difference between preoperative and postoperative outcome measures were analyzed using Wilcoxon signed rank test for continuous outcome measures and Fisher exact test for categorical outcome measures. The null hypotheses of no difference was rejected if p-values were < 0.05. Statistical analyses used SPSS ver. 15.0 (SPSS Inc., Chicago, IL, USA).

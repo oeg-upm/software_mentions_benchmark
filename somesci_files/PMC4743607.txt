@@ -1,0 +1,2 @@
+
+all statistical tests were two-sided and considered significant if p  0.05. all analyses were conducted using SPSS version 19.0 (Statistical Package for Social Sciences, Chicago, IL, USa). Missing items from multi-item scales of the EORTC QLQ-C30 and EORTC QLQ-CR38 were mean-imputed if at least half of the items from the scale were answered, according to the EORTC guideline. Missing items on the DS14 and HaDS scales were mean imputed if only one item was missing, otherwise the scale score became missing [6,19].

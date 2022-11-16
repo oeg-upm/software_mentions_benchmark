@@ -1,0 +1,2 @@
+
+Because of the misfit of the data to normal hypothesis, non-parametric tests such as the Mann-Whitney U test and non-parametric correlation tests of Gamma and Kendall were applied. Data processing was carried out viaSPSS ver. 16 (SPSS Inc., Chicago, IL, USA).
