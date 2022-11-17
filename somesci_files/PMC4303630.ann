@@ -1,15 +1,15 @@
-T1    Application_Mention 129 130 Genemapper
+T1    Application_Mention 129 139 Genemapper
 T2    Version 149 150 4
-T3    Application_Mention 236 237 GenAlEx (Genetic Analyses in Excel)
-T4    Version 280 281 6.5
-T5    Application_Mention 451 452 EstimateS
-T6    Application_Mention 537 538 Mathematica
+T3    Application_Mention 236 271 GenAlEx (Genetic Analyses in Excel)
+T4    Version 280 283 6.5
+T5    Application_Mention 451 460 EstimateS
+T6    Application_Mention 537 548 Mathematica
 T7    Version 549 550 7
-T8    Application_Mention 1130 1131 MIGRATE
-T9    Application_Mention 3406 3407 InStruct
-T10    Application_Mention 3430 3431 ObStruct
-T11    Application_Mention 3406 3407 InStruct
-T12    Application_Mention 3430 3431 ObStruct
-T13    Application_Mention 451 452 EstimateS
-T14    Application_Mention 1130 1131 MIGRATE
-T15    Application_Mention 3406 3407 InStruct
+T8    Application_Mention 1130 1137 MIGRATE
+T9    Application_Mention 3406 3414 InStruct
+T10    Application_Mention 3430 3438 ObStruct
+T11    Application_Mention 4199 4207 InStruct
+T12    Application_Mention 4658 4666 ObStruct
+T13    Application_Mention 6069 6078 EstimateS
+T14    Application_Mention 6560 6567 MIGRATE
+T15    Application_Mention 8173 8181 InStruct

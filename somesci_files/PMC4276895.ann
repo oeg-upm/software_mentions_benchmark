@@ -1,9 +1,9 @@
-T1    Application_Mention 121 122 Feature Extraction
-T2    Version 141 142 10.7.3.1
-T3    Developer 151 152 Agilent Technologies
-T4    Application_Mention 351 352 GeneSpring GX
-T5    Version 365 366 11.5.1
-T6    Developer 151 152 Agilent Technologies
-T7    Application_Mention 351 352 GeneSpring GX
-T8    Version 365 366 11.5.1
-T9    Developer 151 152 Agilent Technologies
+T1    Application_Mention 121 139 Feature Extraction
+T2    Version 141 149 10.7.3.1
+T3    Developer 151 171 Agilent Technologies
+T4    Application_Mention 351 364 GeneSpring GX
+T5    Version 365 371 11.5.1
+T6    Developer 373 393 Agilent Technologies
+T7    Application_Mention 589 602 GeneSpring GX
+T8    Version 603 609 11.5.1
+T9    Developer 611 631 Agilent Technologies

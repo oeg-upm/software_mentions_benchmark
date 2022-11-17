@@ -1,5 +1,5 @@
-T1    Application_Mention 50 51 Access
-T2    Developer 67 68 Microsoft Corporation
-T3    Application_Mention 189 190 Minitab
-T4    Version 197 198 16
-T5    Developer 222 223 Minitab Inc
+T1    Application_Mention 50 56 Access
+T2    Developer 67 88 Microsoft Corporation
+T3    Application_Mention 189 196 Minitab
+T4    Version 197 199 16
+T5    Developer 222 233 Minitab Inc

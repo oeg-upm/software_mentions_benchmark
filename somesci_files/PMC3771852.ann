@@ -1,6 +1,6 @@
-T1    Application_Mention 51 52 SPARTAN
-T2    Version 59 60 10
-T3    Developer 72 73 Wavefunction, Inc
-T4    Application_Mention 900 901 SYBYL-X
-T5    Version 908 909 1.1
-T6    Developer 930 931 Tripos International
+T1    Application_Mention 51 58 SPARTAN
+T2    Version 59 61 10
+T3    Developer 72 89 Wavefunction, Inc
+T4    Application_Mention 900 907 SYBYL-X
+T5    Version 908 911 1.1
+T6    Developer 930 950 Tripos International

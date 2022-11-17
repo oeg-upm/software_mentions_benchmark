@@ -1,25 +1,25 @@
-T1    Application_Mention 31 32 QmRLFS-finder
-T2    Application_Mention 31 32 QmRLFS-finder
-T3    Application_Mention 31 32 QmRLFS-finder
-T4    Application_Mention 31 32 QmRLFS-finder
-T5    Application_Mention 1567 1568 Ensembl gene annotation system
-T6    Application_Mention 1808 1809 Gbrowse
-T7    Version 178 179 2
-T8    Application_Mention 1827 1828 UCSC genome browser
-T9    Application_Mention 1827 1828 UCSC genome browser
-T10    URL 2340 2341 https://genome.ucsc.edu
-T11    Application_Mention 3010 3011 MySQL
-T12    URL 3070 3071 http://www.ensembl.org/info/ data/mysql.html
-T13    Application_Mention 1567 1568 Ensembl
-T14    Version 154 155 75
-T15    URL 3238 3239 http://feb2014.archive. ensembl.org/info/data/ftp
-T16    Application_Mention 31 32 QmRLFS-finder
-T17    Application_Mention 3540 3541 BEDTools
-T18    Application_Mention 4075 4076 QmRLFS- finder
-T19    Application_Mention 1567 1568 Ensembl
-T20    Application_Mention 1567 1568 Ensembl
-T21    Application_Mention 1567 1568 Ensembl
-T22    Application_Mention 8337 8338 Gbrowse2
-T23    Application_Mention 1567 1568 Ensembl
-T24    Application_Mention 1567 1568 Ensembl
-T25    Application_Mention 31 32 QmRLFS-finder
+T1    Application_Mention 31 44 QmRLFS-finder
+T2    Application_Mention 703 716 QmRLFS-finder
+T3    Application_Mention 887 900 QmRLFS-finder
+T4    Application_Mention 1031 1044 QmRLFS-finder
+T5    Application_Mention 1567 1597 Ensembl gene annotation system
+T6    Application_Mention 1808 1815 Gbrowse
+T7    Version 1816 1817 2
+T8    Application_Mention 1827 1846 UCSC genome browser
+T9    Application_Mention 2319 2338 UCSC genome browser
+T10    URL 2340 2363 https://genome.ucsc.edu
+T11    Application_Mention 3010 3015 MySQL
+T12    URL 3070 3114 http://www.ensembl.org/info/ data/mysql.html
+T13    Application_Mention 3218 3225 Ensembl
+T14    Version 3234 3236 75
+T15    URL 3238 3287 http://feb2014.archive. ensembl.org/info/data/ftp
+T16    Application_Mention 3382 3395 QmRLFS-finder
+T17    Application_Mention 3540 3548 BEDTools
+T18    Application_Mention 4075 4089 QmRLFS- finder
+T19    Application_Mention 4891 4898 Ensembl
+T20    Application_Mention 5548 5555 Ensembl
+T21    Application_Mention 5567 5574 Ensembl
+T22    Application_Mention 8337 8345 Gbrowse2
+T23    Application_Mention 8441 8448 Ensembl
+T24    Application_Mention 8456 8463 Ensembl
+T25    Application_Mention 9288 9301 QmRLFS-finder

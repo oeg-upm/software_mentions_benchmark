@@ -1,12 +1,12 @@
-T1    Application_Mention 115 116 sff_extract
-T2    URL 137 138 http://bioinf. comav.upv.es/sff_extract/index.html
-T3    Application_Mention 287 288 MSATCOM-MANDER
-T4    Application_Mention 689 690 Primer3
-T5    Application_Mention 752 753 QDD
-T6    Application_Mention 689 690 Primer3
-T7    Developer 1546 1547 Applied Biosystems
-T8    Application_Mention 1740 1741 GeneMapper
-T9    Version 1193 1194 4.1
-T10    Application_Mention 1837 1838 Excel
-T11    Developer 1844 1845 Microsoft Corporation
-T12    Application_Mention 1935 1936 ATETRA
+T1    Application_Mention 115 126 sff_extract
+T2    URL 137 187 http://bioinf. comav.upv.es/sff_extract/index.html
+T3    Application_Mention 287 301 MSATCOM-MANDER
+T4    Application_Mention 689 696 Primer3
+T5    Application_Mention 752 755 QDD
+T6    Application_Mention 1134 1141 Primer3
+T7    Developer 1546 1564 Applied Biosystems
+T8    Application_Mention 1740 1750 GeneMapper
+T9    Version 1751 1754 4.1
+T10    Application_Mention 1837 1842 Excel
+T11    Developer 1844 1865 Microsoft Corporation
+T12    Application_Mention 1935 1941 ATETRA

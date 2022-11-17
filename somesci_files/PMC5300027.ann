@@ -1,6 +1,6 @@
-T1    Application_Mention 42 43 SAS
-T2    Version 46 47 9.4
-T3    Developer 51 52 SAS Institute Inc
-T4    Application_Mention 85 86 SPSS
-T5    Version 90 91 22
-T6    Developer 94 95 IBM Corporation
+T1    Application_Mention 42 45 SAS
+T2    Version 46 49 9.4
+T3    Developer 51 68 SAS Institute Inc
+T4    Application_Mention 85 89 SPSS
+T5    Version 90 92 22
+T6    Developer 94 109 IBM Corporation

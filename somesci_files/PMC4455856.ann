@@ -1,8 +1,8 @@
-T1    Application_Mention 925 926 Statistical Package for the Social Sciences
-T2    Application_Mention 988 989 Stata
-T3    Version 1002 1003 8SE
-T4    Application_Mention 988 989 Stata
-T5    Developer 1051 1052 Stata Corporation
-T6    Version 1078 1079 12
-T7    Application_Mention 988 989 Stata
-T8    Version 1209 1210 12.0
+T1    Application_Mention 925 968 Statistical Package for the Social Sciences
+T2    Application_Mention 988 993 Stata
+T3    Version 1002 1005 8SE
+T4    Application_Mention 1023 1028 Stata
+T5    Developer 1051 1068 Stata Corporation
+T6    Version 1078 1080 12
+T7    Application_Mention 1195 1200 Stata
+T8    Version 1209 1213 12.0

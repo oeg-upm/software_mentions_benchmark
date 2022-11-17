@@ -1,14 +1,14 @@
-T1    Application_Mention 552 553 OMEGA
-T2    Version 558 559 2.0
-T3    Developer 585 586 OpenEye Scientific
-T4    Application_Mention 552 553 OMEGA
-T5    Version 558 559 2.0
-T6    Developer 616 617 OE Scientific
-T7    Application_Mention 748 749 LigandScout
-T8    Application_Mention 748 749 LigandScout
-T9    Application_Mention 748 749 LigandScout
-T10    Application_Mention 2839 2840 MOE
-T11    Developer 2852 2853 Chemical Computing Group
-T12    Application_Mention 748 749 LigandScout
-T13    Application_Mention 748 749 LigandScout
-T14    Application_Mention 748 749 LigandScout
+T1    Application_Mention 552 557 OMEGA
+T2    Version 558 561 2.0
+T3    Developer 585 603 OpenEye Scientific
+T4    Application_Mention 605 610 OMEGA
+T5    Version 611 614 2.0
+T6    Developer 616 629 OE Scientific
+T7    Application_Mention 748 759 LigandScout
+T8    Application_Mention 901 912 LigandScout
+T9    Application_Mention 2275 2286 LigandScout
+T10    Application_Mention 2839 2842 MOE
+T11    Developer 2852 2876 Chemical Computing Group
+T12    Application_Mention 3038 3049 LigandScout
+T13    Application_Mention 4760 4771 LigandScout
+T14    Application_Mention 4884 4895 LigandScout

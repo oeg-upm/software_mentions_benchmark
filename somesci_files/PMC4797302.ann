@@ -1,27 +1,27 @@
-T1    Application_Mention 313 314 HiC- Norm
-T2    Application_Mention 475 476 HiCNorm
-T3    URL 515 516 http://www.people.fas.harvard.edu/∼junliu/HiCNorm/
-T4    Application_Mention 947 948 fastq-dump
-T5    Version 967 968 2.3.4
-T6    Application_Mention 1003 1004 SRA) Toolkit
-T7    Application_Mention 1097 1098 Bowtie 2
-T8    Version 1119 1120 2.2.1
-T9    Application_Mention 1255 1256 SAMtools
-T10    Version 1276 1277 0.1.19-44428cd
-T11    Application_Mention 1336 1337 R package 'ShortRead'
-T12    Version 1371 1372 1.20.0
-T13    Application_Mention 1347 1348 ShortRead
-T14    Application_Mention 2025 2026 R package 'spp'
-T15    Version 2054 2055 1.11
-T16    Application_Mention 2036 2037 spp
-T17    URL 2141 2142 http://compbio.med. harvard.edu/Supplements/ChIP-seq/
-T18    Application_Mention 2527 2528 SuperSmoother
-T19    Application_Mention 53 54 R
-T20    Version 2594 2595 3.0.2
-T21    Application_Mention 2610 2611 stats
-T22    Application_Mention 3527 3528 MacPy- MOL
-T23    Version 3538 3539 1.3
-T24    Application_Mention 3734 3735 PRIM
-T25    Application_Mention 3749 3750 R package 'prim'
-T26    Application_Mention 5443 5444 R package 'FNN'
-T27    Application_Mention 475 476 HiCNorm
+T1    Application_Mention 313 322 HiC- Norm
+T2    Application_Mention 475 482 HiCNorm
+T3    URL 515 565 http://www.people.fas.harvard.edu/∼junliu/HiCNorm/
+T4    Application_Mention 947 957 fastq-dump
+T5    Version 967 972 2.3.4
+T6    Application_Mention 1003 1015 SRA) Toolkit
+T7    Application_Mention 1097 1105 Bowtie 2
+T8    Version 1119 1124 2.2.1
+T9    Application_Mention 1255 1263 SAMtools
+T10    Version 1276 1290 0.1.19-44428cd
+T11    Application_Mention 1336 1357 R package 'ShortRead'
+T12    Version 1371 1377 1.20.0
+T13    Application_Mention 1676 1685 ShortRead
+T14    Application_Mention 2025 2040 R package 'spp'
+T15    Version 2054 2058 1.11
+T16    Application_Mention 2116 2119 spp
+T17    URL 2141 2194 http://compbio.med. harvard.edu/Supplements/ChIP-seq/
+T18    Application_Mention 2527 2540 SuperSmoother
+T19    Application_Mention 2583 2584 R
+T20    Version 2594 2599 3.0.2
+T21    Application_Mention 2610 2615 stats
+T22    Application_Mention 3527 3537 MacPy- MOL
+T23    Version 3538 3541 1.3
+T24    Application_Mention 3734 3738 PRIM
+T25    Application_Mention 3749 3765 R package 'prim'
+T26    Application_Mention 5443 5458 R package 'FNN'
+T27    Application_Mention 6020 6027 HiCNorm

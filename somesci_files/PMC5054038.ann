@@ -1,17 +1,17 @@
-T1    Application_Mention 459 460 ace.map
-T2    Application_Mention 560 561 Applied Biosystems Expression Array System Soft- ware
-T3    Version 616 617 1.l.l
-T4    Application_Mention 1073 1074 Applied Biosystems Software
-T5    Developer 560 561 Applied Biosystems
-T6    Application_Mention 459 460 ace.map
-T7    Application_Mention 2294 2295 LOWESS
-T8    Application_Mention 2294 2295 LOWESS
-T9    Application_Mention 2294 2295 LOWESS
-T10    Application_Mention 2294 2295 LOWESS
-T11    Application_Mention 2899 2900 NeONORM
-T12    URL 2987 2988 http://netlib.belllabs.com/netlib/go/lowess.f.gz
-T13    Application_Mention 459 460 ace.map
-T14    Application_Mention 459 460 ace.map
-T15    Application_Mention 3315 3316 gnupplot
-T16    Version 3324 3325 4.0
-T17    Application_Mention 459 460 ace.map
+T1    Application_Mention 459 466 ace.map
+T2    Application_Mention 560 613 Applied Biosystems Expression Array System Soft- ware
+T3    Version 616 621 1.l.l
+T4    Application_Mention 1073 1100 Applied Biosystems Software
+T5    Developer 1198 1216 Applied Biosystems
+T6    Application_Mention 1270 1277 ace.map
+T7    Application_Mention 2294 2300 LOWESS
+T8    Application_Mention 2328 2334 LOWESS
+T9    Application_Mention 2798 2804 LOWESS
+T10    Application_Mention 2858 2864 LOWESS
+T11    Application_Mention 2899 2906 NeONORM
+T12    URL 2987 3035 http://netlib.belllabs.com/netlib/go/lowess.f.gz
+T13    Application_Mention 3076 3083 ace.map
+T14    Application_Mention 3202 3209 ace.map
+T15    Application_Mention 3315 3323 gnupplot
+T16    Version 3324 3327 4.0
+T17    Application_Mention 3394 3401 ace.map

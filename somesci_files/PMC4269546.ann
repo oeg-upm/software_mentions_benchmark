@@ -1,15 +1,15 @@
-T1    Application_Mention 892 893 Eprime
-T2    Version 73 74 2
-T3    Developer 911 912 Psychology Software Tools
-T4    Application_Mention 1744 1745 MATLAB
-T5    Application_Mention 2301 2302 MaxFilter
-T6    Version 2319 2320 2.0
-T7    Developer 2324 2325 Elektra- Neuromag
-T8    Application_Mention 2995 2996 EEGLab
-T9    Application_Mention 3427 3428 SPM
-T10    Version 1628 1629 8
-T11    Developer 3434 3435 Wellcome Institute of Imaging Neuroscience
-T12    Application_Mention 3427 3428 SPM
-T13    Version 1628 1629 8
-T14    Application_Mention 6172 6173 Caret
-T15    URL 6179 6180 http://www.nitrc.org/projects/caret
+T1    Application_Mention 892 898 Eprime
+T2    Version 908 909 2
+T3    Developer 911 936 Psychology Software Tools
+T4    Application_Mention 1744 1750 MATLAB
+T5    Application_Mention 2301 2310 MaxFilter
+T6    Version 2319 2322 2.0
+T7    Developer 2324 2341 Elektra- Neuromag
+T8    Application_Mention 2995 3001 EEGLab
+T9    Application_Mention 3427 3430 SPM
+T10    Version 3431 3432 8
+T11    Developer 3434 3476 Wellcome Institute of Imaging Neuroscience
+T12    Application_Mention 4291 4294 SPM
+T13    Version 4295 4296 8
+T14    Application_Mention 6172 6177 Caret
+T15    URL 6179 6214 http://www.nitrc.org/projects/caret

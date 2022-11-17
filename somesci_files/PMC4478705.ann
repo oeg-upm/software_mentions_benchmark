@@ -1,7 +1,7 @@
-T1    Application_Mention 248 249 JCVI
-T2    Application_Mention 248 249 JCVI
-T3    URL 485 486 http://jcvi.org/metarep
-T4    Application_Mention 336 337 R
-T5    Developer 2672 2673 R Development Core Team
-T6    Version 2697 2698 2012
-T7    Application_Mention 2722 2723 seriation
+T1    Application_Mention 248 252 JCVI
+T2    Application_Mention 458 462 JCVI
+T3    URL 485 508 http://jcvi.org/metarep
+T4    Application_Mention 2669 2670 R
+T5    Developer 2672 2695 R Development Core Team
+T6    Version 2697 2701 2012
+T7    Application_Mention 2722 2731 seriation

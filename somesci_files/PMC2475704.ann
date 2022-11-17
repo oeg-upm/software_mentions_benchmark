@@ -1,14 +1,14 @@
-T1    Application_Mention 722 723 Affymetrix suite
-T2    Version 739 740 5.0
-T3    Application_Mention 789 790 GeneSpring
-T4    Version 739 740 5.0
-T5    Application_Mention 2839 2840 MetaMorph
-T6    Developer 2859 2860 Universal Imaging/Molecular Devices
-T7    Application_Mention 3121 3122 SigmaStat
-T8    Application_Mention 399 400 Affymetrix
-T9    Application_Mention 3206 3207 Affymetrix Microarray Suite
-T10    Version 3234 3235 4.0
-T11    Application_Mention 789 790 GeneSpring
-T12    Developer 3494 3495 Silicon Genetics
-T13    Application_Mention 789 790 GeneSpring
-T14    Application_Mention 399 400 Affymetrix
+T1    Application_Mention 722 738 Affymetrix suite
+T2    Version 739 742 5.0
+T3    Application_Mention 789 799 GeneSpring
+T4    Version 800 803 5.0
+T5    Application_Mention 2839 2848 MetaMorph
+T6    Developer 2859 2894 Universal Imaging/Molecular Devices
+T7    Application_Mention 3121 3130 SigmaStat
+T8    Application_Mention 3168 3178 Affymetrix
+T9    Application_Mention 3206 3233 Affymetrix Microarray Suite
+T10    Version 3234 3237 4.0
+T11    Application_Mention 3473 3483 GeneSpring
+T12    Developer 3494 3510 Silicon Genetics
+T13    Application_Mention 3520 3530 GeneSpring
+T14    Application_Mention 3565 3575 Affymetrix

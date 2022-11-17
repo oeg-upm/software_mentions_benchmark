@@ -1,5 +1,5 @@
-T1    Application_Mention 483 484 ImageJ
-T2    Developer 491 492 National Institutes of Health
-T3    Application_Mention 583 584 SPSS
-T4    Version 588 589 19.0
-T5    Developer 583 584 SPSS
+T1    Application_Mention 483 489 ImageJ
+T2    Developer 491 520 National Institutes of Health
+T3    Application_Mention 583 587 SPSS
+T4    Version 588 592 19.0
+T5    Developer 603 607 SPSS

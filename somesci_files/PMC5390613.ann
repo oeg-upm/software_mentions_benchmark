@@ -1,11 +1,11 @@
-T1    Application_Mention 163 164 MATLAB
-T2    Version 171 172 R2012a
-T3    Developer 179 180 MathWorks
-T4    Application_Mention 517 518 MATLAB-based software
-T5    Application_Mention 163 164 MATLAB
-T6    Version 171 172 R2012a
-T7    Developer 179 180 MathWorks
-T8    Application_Mention 163 164 MATLAB
-T9    Application_Mention 2561 2562 SPSS
-T10    Version 2574 2575 18.0
-T11    Developer 2580 2581 SPSS Inc
+T1    Application_Mention 163 169 MATLAB
+T2    Version 171 177 R2012a
+T3    Developer 179 188 MathWorks
+T4    Application_Mention 517 538 MATLAB-based software
+T5    Application_Mention 831 837 MATLAB
+T6    Version 839 845 R2012a
+T7    Developer 847 856 MathWorks
+T8    Application_Mention 1437 1443 MATLAB
+T9    Application_Mention 2561 2565 SPSS
+T10    Version 2574 2578 18.0
+T11    Developer 2580 2588 SPSS Inc

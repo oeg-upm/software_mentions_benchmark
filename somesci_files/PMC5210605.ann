@@ -1,23 +1,23 @@
-T1    Application_Mention 110 111 RNALocate
-T2    URL 120 121 http://www.rna-society.org/rnalocate
-T3    Application_Mention 110 111 RNALocate
-T4    Application_Mention 110 111 RNALocate
-T5    Application_Mention 110 111 RNALocate
-T6    Application_Mention 110 111 RNALocate
-T7    Application_Mention 1391 1392 Ensemble
-T8    Developer 1377 1378 NCBI
-T9    Application_Mention 1391 1392 Ensemble
-T10    Application_Mention 110 111 RNALocate
-T11    Application_Mention 2165 2166 MySQL server
-T12    Application_Mention 2289 2290 Google Chrome
-T13    Application_Mention 2304 2305 Firefox
-T14    Application_Mention 2316 2317 Internet Explorer
-T15    Application_Mention 110 111 RNALocate
-T16    Application_Mention 110 111 RNALocate
-T17    Developer 3468 3469 Microsoft
-T18    Application_Mention 3478 3479 Excel
-T19    Application_Mention 110 111 RNALocate
-T20    Application_Mention 110 111 RNALocate
-T21    Application_Mention 110 111 RNALocate
-T22    Application_Mention 110 111 RNALocate
-T23    Application_Mention 110 111 RNALocate
+T1    Application_Mention 110 119 RNALocate
+T2    URL 120 156 http://www.rna-society.org/rnalocate
+T3    Application_Mention 335 344 RNALocate
+T4    Application_Mention 697 706 RNALocate
+T5    Application_Mention 1097 1106 RNALocate
+T6    Application_Mention 1215 1224 RNALocate
+T7    Application_Mention 1391 1399 Ensemble
+T8    Developer 1517 1521 NCBI
+T9    Application_Mention 1531 1539 Ensemble
+T10    Application_Mention 2097 2106 RNALocate
+T11    Application_Mention 2165 2177 MySQL server
+T12    Application_Mention 2289 2302 Google Chrome
+T13    Application_Mention 2304 2311 Firefox
+T14    Application_Mention 2316 2333 Internet Explorer
+T15    Application_Mention 2495 2504 RNALocate
+T16    Application_Mention 3119 3128 RNALocate
+T17    Developer 3468 3477 Microsoft
+T18    Application_Mention 3478 3483 Excel
+T19    Application_Mention 3593 3602 RNALocate
+T20    Application_Mention 3625 3634 RNALocate
+T21    Application_Mention 3812 3821 RNALocate
+T22    Application_Mention 3846 3855 RNALocate
+T23    Application_Mention 4407 4416 RNALocate

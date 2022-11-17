@@ -1,6 +1,6 @@
-T1    Application_Mention 276 277 MetaMorph
-T2    Version 301 302 4.6
-T3    Developer 306 307 Universal Imaging
-T4    Application_Mention 534 535 Statistical Package for the Social Sciences (SPSS)
-T5    Version 585 586 15.0
-T6    Developer 614 615 SPSS Inc
+T1    Application_Mention 276 285 MetaMorph
+T2    Version 301 304 4.6
+T3    Developer 306 323 Universal Imaging
+T4    Application_Mention 534 584 Statistical Package for the Social Sciences (SPSS)
+T5    Version 585 589 15.0
+T6    Developer 614 622 SPSS Inc

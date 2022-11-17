@@ -1,18 +1,18 @@
-T1    Application_Mention 51 52 Ensembl
-T2    Application_Mention 164 165 BlastP
-T3    Application_Mention 401 402 MAFFT
-T4    Application_Mention 1940 1941 AUGUSTUS
-T5    URL 1961 1962 http://bioinf.uni-greifswald.de/ webaugustus/prediction/create
-T6    Version 2039 2040 July 24, 2013
-T7    Application_Mention 51 52 Ensembl
-T8    Version 2387 2388 64 (ENSPMAG00000008371)
-T9    Application_Mention 51 52 Ensembl
-T10    Version 2480 2481 64 (ENSPMAG00000000574)
-T11    Application_Mention 2666 2667 PhyML
-T12    Version 2179 2180 3.0
-T13    Application_Mention 2666 2667 PhyML
-T14    Application_Mention 2916 2917 ProtTest
-T15    Application_Mention 4809 4810 Zeiss Axiovision
-T16    Application_Mention 4829 4830 Adobe Photoshop
-T17    Application_Mention 51 52 Ensembl
-T18    Application_Mention 5088 5089 BioMart
+T1    Application_Mention 51 58 Ensembl
+T2    Application_Mention 164 170 BlastP
+T3    Application_Mention 401 406 MAFFT
+T4    Application_Mention 1940 1948 AUGUSTUS
+T5    URL 1961 2023 http://bioinf.uni-greifswald.de/ webaugustus/prediction/create
+T6    Version 2039 2052 July 24, 2013
+T7    Application_Mention 2371 2378 Ensembl
+T8    Version 2387 2410 64 (ENSPMAG00000008371)
+T9    Application_Mention 2464 2471 Ensembl
+T10    Version 2480 2503 64 (ENSPMAG00000000574)
+T11    Application_Mention 2666 2671 PhyML
+T12    Version 2672 2675 3.0
+T13    Application_Mention 2806 2811 PhyML
+T14    Application_Mention 2916 2924 ProtTest
+T15    Application_Mention 4809 4825 Zeiss Axiovision
+T16    Application_Mention 4829 4844 Adobe Photoshop
+T17    Application_Mention 4943 4950 Ensembl
+T18    Application_Mention 5088 5095 BioMart

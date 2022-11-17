@@ -1,7 +1,7 @@
-T1    Application_Mention 857 858 HKL2000
-T2    Application_Mention 959 960 MOLREP
-T3    Application_Mention 1113 1114 REFMAC
-T4    Application_Mention 1294 1295 COOT
-T5    Application_Mention 1455 1456 PHENIX
-T6    Application_Mention 1585 1586 CURVES
-T7    Application_Mention 1644 1645 UCSF Chimera
+T1    Application_Mention 857 864 HKL2000
+T2    Application_Mention 959 965 MOLREP
+T3    Application_Mention 1113 1119 REFMAC
+T4    Application_Mention 1294 1298 COOT
+T5    Application_Mention 1455 1461 PHENIX
+T6    Application_Mention 1585 1591 CURVES
+T7    Application_Mention 1644 1656 UCSF Chimera

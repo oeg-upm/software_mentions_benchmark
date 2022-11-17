@@ -1,7 +1,7 @@
-T1    Application_Mention 453 454 Metamorph
-T2    Version 473 474 6.2
-T3    Application_Mention 522 523 ImageJ
-T4    URL 590 591 http://rsb.info.nih.gov/ij
-T5    Application_Mention 522 523 ImageJ
-T6    Application_Mention 522 523 ImageJ
-T7    Application_Mention 522 523 ImageJ
+T1    Application_Mention 453 462 Metamorph
+T2    Version 473 476 6.2
+T3    Application_Mention 522 528 ImageJ
+T4    URL 590 616 http://rsb.info.nih.gov/ij
+T5    Application_Mention 1110 1116 ImageJ
+T6    Application_Mention 2543 2549 ImageJ
+T7    Application_Mention 3146 3152 ImageJ

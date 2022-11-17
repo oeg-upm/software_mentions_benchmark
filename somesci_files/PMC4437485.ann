@@ -1,8 +1,8 @@
-T1    Application_Mention 1597 1598 Cell Counter
-T2    Application_Mention 1633 1634 ImageJ
-T3    Application_Mention 3181 3182 Clampex
-T4    Version 3189 3190 10.3
-T5    Developer 3195 3196 Molecular Devices
-T6    Application_Mention 4332 4333 Clampfit
-T7    Version 3189 3190 10.3
-T8    Developer 3195 3196 Molecular Devices
+T1    Application_Mention 1597 1609 Cell Counter
+T2    Application_Mention 1633 1639 ImageJ
+T3    Application_Mention 3181 3188 Clampex
+T4    Version 3189 3193 10.3
+T5    Developer 3195 3212 Molecular Devices
+T6    Application_Mention 4332 4340 Clampfit
+T7    Version 4341 4345 10.3
+T8    Developer 4347 4364 Molecular Devices

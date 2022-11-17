@@ -1,9 +1,9 @@
-T1    Application_Mention 38 39 Ingenuity Pathways Knowledge Base
-T2    Version 80 81 8.8
-T3    Developer 85 86 Ingenuity Systems
-T4    Application_Mention 2024 2025 GraphPad Prism
-T5    Version 2047 2048 4.03
-T6    Developer 2053 2054 GraphPad Software Inc
-T7    Application_Mention 2081 2082 Genesis
-T8    Version 2089 2090 1.7.2
-T9    Developer 2096 2097 Graz University of Technology, Institute for Genomics and Bioinformatics
+T1    Application_Mention 38 71 Ingenuity Pathways Knowledge Base
+T2    Version 80 83 8.8
+T3    Developer 85 102 Ingenuity Systems
+T4    Application_Mention 2024 2038 GraphPad Prism
+T5    Version 2047 2051 4.03
+T6    Developer 2053 2074 GraphPad Software Inc
+T7    Application_Mention 2081 2088 Genesis
+T8    Version 2089 2094 1.7.2
+T9    Developer 2096 2168 Graz University of Technology, Institute for Genomics and Bioinformatics

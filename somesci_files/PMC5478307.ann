@@ -1,10 +1,10 @@
-T1    Application_Mention 151 152 Short Oligonucleotide Analysis Package (SOAPsnp)
-T2    Application_Mention 204 205 the Genome Analysis Toolkit
-T3    Application_Mention 376 377 ANNOVAR
-T4    Application_Mention 952 953 SIFT
-T5    Application_Mention 958 959 PolyPhen2
-T6    Application_Mention 969 970 GERP++
-T7    Application_Mention 981 982 MutationTaster
-T8    Application_Mention 1117 1118 Primer
+T1    Application_Mention 151 199 Short Oligonucleotide Analysis Package (SOAPsnp)
+T2    Application_Mention 204 231 the Genome Analysis Toolkit
+T3    Application_Mention 376 383 ANNOVAR
+T4    Application_Mention 952 956 SIFT
+T5    Application_Mention 958 967 PolyPhen2
+T6    Application_Mention 969 975 GERP++
+T7    Application_Mention 981 995 MutationTaster
+T8    Application_Mention 1117 1123 Primer
 T9    Version 1124 1125 3
-T10    URL 1143 1144 http://bioinfo.ut.ee/primer3-0.4.0/primer3/input.htm
+T10    URL 1143 1195 http://bioinfo.ut.ee/primer3-0.4.0/primer3/input.htm

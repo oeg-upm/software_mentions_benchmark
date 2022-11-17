@@ -1,6 +1,6 @@
-T1    Application_Mention 389 390 ImageQuant
-T2    Version 427 428 5.2
-T3    Developer 432 433 Molecular Dynamics
-T4    Application_Mention 837 838 Prism
-T5    Developer 865 866 GraphPad
-T6    Version 883 884 4.03
+T1    Application_Mention 389 399 ImageQuant
+T2    Version 427 430 5.2
+T3    Developer 432 450 Molecular Dynamics
+T4    Application_Mention 837 842 Prism
+T5    Developer 865 873 GraphPad
+T6    Version 883 887 4.03

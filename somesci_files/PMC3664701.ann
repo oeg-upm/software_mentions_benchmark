@@ -1,7 +1,7 @@
-T1    Application_Mention 146 147 Visual Basic
-T2    Developer 160 161 Microsoft Corp
-T3    Application_Mention 326 327 Origin
-T4    Version 333 334 6.1
-T5    Developer 338 339 OriginLab
-T6    Application_Mention 326 327 Origin
-T7    Version 333 334 6.1
+T1    Application_Mention 146 158 Visual Basic
+T2    Developer 160 174 Microsoft Corp
+T3    Application_Mention 326 332 Origin
+T4    Version 333 336 6.1
+T5    Developer 338 347 OriginLab
+T6    Application_Mention 1126 1132 Origin
+T7    Version 1133 1136 6.1

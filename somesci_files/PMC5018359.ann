@@ -1,5 +1,5 @@
-T1    Application_Mention 750 751 SPSS
-T2    Version 769 770 21
-T3    Application_Mention 789 790 Stata
-T4    Version 813 814 12
-T5    Developer 817 818 StataCorp
+T1    Application_Mention 750 754 SPSS
+T2    Version 769 771 21
+T3    Application_Mention 789 794 Stata
+T4    Version 813 815 12
+T5    Developer 817 826 StataCorp

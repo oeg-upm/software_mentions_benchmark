@@ -1,11 +1,11 @@
-T1    Application_Mention 1926 1927 ImageJ
-T2    Application_Mention 2455 2456 Graphpad Prism
-T3    Version 1005 1006 6
-T4    Developer 2473 2474 Graphpad Software
-T5    Application_Mention 1926 1927 ImageJ
-T6    Application_Mention 4246 4247 GraphPad Prism
-T7    Version 1005 1006 6
-T8    Developer 4264 4265 GraphPad Software
-T9    Application_Mention 4246 4247 GraphPad Prism
-T10    Version 1005 1006 6
-T11    Developer 4264 4265 GraphPad Software
+T1    Application_Mention 1926 1932 ImageJ
+T2    Application_Mention 2455 2469 Graphpad Prism
+T3    Version 2470 2471 6
+T4    Developer 2473 2490 Graphpad Software
+T5    Application_Mention 2638 2644 ImageJ
+T6    Application_Mention 4246 4260 GraphPad Prism
+T7    Version 4261 4262 6
+T8    Developer 4264 4281 GraphPad Software
+T9    Application_Mention 5266 5280 GraphPad Prism
+T10    Version 5281 5282 6
+T11    Developer 5284 5301 GraphPad Software

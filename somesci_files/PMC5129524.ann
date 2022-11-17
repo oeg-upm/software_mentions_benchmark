@@ -1,16 +1,16 @@
-T1    Application_Mention 593 594 HiSeq Control
-T2    Version 616 617 1.5.15
-T3    Application_Mention 646 647 Illumina Primary Analysis
-T4    Version 680 681 RTA 1.13.48
-T5    Application_Mention 696 697 Secondary Analysis
-T6    Version 723 724 CASAVA-1.8.2
-T7    Application_Mention 905 906 BLASTx
-T8    Application_Mention 1116 1117 hmmscan
-T9    Version 1133 1134 3.1b1
-T10    Application_Mention 1149 1150 HMMER package
-T11    Application_Mention 1257 1258 tmhmm
-T12    Version 1272 1273 2.0c
-T13    Application_Mention 1299 1300 signalP
-T14    Version 1315 1316 4.1
-T15    Application_Mention 2353 2354 R package pheatmap
-T16    Application_Mention 2811 2812 R package topGO
+T1    Application_Mention 593 606 HiSeq Control
+T2    Version 616 622 1.5.15
+T3    Application_Mention 646 671 Illumina Primary Analysis
+T4    Version 680 691 RTA 1.13.48
+T5    Application_Mention 696 714 Secondary Analysis
+T6    Version 723 735 CASAVA-1.8.2
+T7    Application_Mention 905 911 BLASTx
+T8    Application_Mention 1116 1123 hmmscan
+T9    Version 1133 1138 3.1b1
+T10    Application_Mention 1149 1162 HMMER package
+T11    Application_Mention 1257 1262 tmhmm
+T12    Version 1272 1276 2.0c
+T13    Application_Mention 1299 1306 signalP
+T14    Version 1315 1318 4.1
+T15    Application_Mention 2353 2371 R package pheatmap
+T16    Application_Mention 2811 2826 R package topGO

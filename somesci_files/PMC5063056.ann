@@ -1,9 +1,9 @@
-T1    Application_Mention 294 295 ImageJ
-T2    URL 302 303 http://imagej.nih.gov/ij
-T3    Developer 364 365 National Institutes of Health
-T4    Application_Mention 1417 1418 CC Metrics
-T5    Developer 1481 1482 Rayaz Malik
-T6    Application_Mention 2971 2972 RStudio
-T7    Version 3015 3016 0.98.1102
-T8    Application_Mention 3070 3071 R package pROC
-T9    Application_Mention 3638 3639 R package Boot
+T1    Application_Mention 294 300 ImageJ
+T2    URL 302 326 http://imagej.nih.gov/ij
+T3    Developer 364 393 National Institutes of Health
+T4    Application_Mention 1417 1427 CC Metrics
+T5    Developer 1481 1492 Rayaz Malik
+T6    Application_Mention 2971 2978 RStudio
+T7    Version 3015 3024 0.98.1102
+T8    Application_Mention 3070 3084 R package pROC
+T9    Application_Mention 3638 3652 R package Boot

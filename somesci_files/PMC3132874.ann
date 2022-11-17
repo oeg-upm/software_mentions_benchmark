@@ -1,9 +1,9 @@
-T1    Application_Mention 715 716 MUSCLE
-T2    Version 722 723 3.6
-T3    Application_Mention 800 801 MrBayes
-T4    Version 808 809 3.2
-T5    Application_Mention 1654 1655 Primer V
-T6    Developer 1664 1665 Plymouth Marine Laboratory
-T7    Application_Mention 715 716 MUSCLE
-T8    Version 722 723 3.6
-T9    Application_Mention 2300 2301 RAxML
+T1    Application_Mention 715 721 MUSCLE
+T2    Version 722 725 3.6
+T3    Application_Mention 800 807 MrBayes
+T4    Version 808 811 3.2
+T5    Application_Mention 1654 1662 Primer V
+T6    Developer 1664 1690 Plymouth Marine Laboratory
+T7    Application_Mention 2235 2241 MUSCLE
+T8    Version 2242 2245 3.6
+T9    Application_Mention 2300 2305 RAxML

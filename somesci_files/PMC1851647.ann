@@ -1,6 +1,6 @@
-T1    Developer 210 211 Leica
-T2    Application_Mention 518 519 FW4000
-T3    Application_Mention 518 519 FW4000
-T4    Application_Mention 820 821 Universal Imaging Metamorph
-T5    Developer 1018 1019 Microsoft
-T6    Application_Mention 1028 1029 Excel
+T1    Developer 210 215 Leica
+T2    Application_Mention 518 524 FW4000
+T3    Application_Mention 684 690 FW4000
+T4    Application_Mention 820 847 Universal Imaging Metamorph
+T5    Developer 1018 1027 Microsoft
+T6    Application_Mention 1028 1033 Excel

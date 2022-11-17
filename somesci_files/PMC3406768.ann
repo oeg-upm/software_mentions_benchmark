@@ -1,8 +1,8 @@
-T1    Application_Mention 235 236 Image-Pro PLUS
-T2    Developer 251 252 Media Cybernetics Co., Ltd
-T3    Developer 905 906 Microsoft
-T4    Application_Mention 915 916 Excel
-T5    Version 921 922 2003
-T6    Application_Mention 959 960 Excel Toukei
-T7    Version 972 973 2010
-T8    Developer 990 991 Social Survey Research Information Co., Ltd
+T1    Application_Mention 235 249 Image-Pro PLUS
+T2    Developer 251 277 Media Cybernetics Co., Ltd
+T3    Developer 905 914 Microsoft
+T4    Application_Mention 915 920 Excel
+T5    Version 921 925 2003
+T6    Application_Mention 959 971 Excel Toukei
+T7    Version 972 976 2010
+T8    Developer 990 1033 Social Survey Research Information Co., Ltd

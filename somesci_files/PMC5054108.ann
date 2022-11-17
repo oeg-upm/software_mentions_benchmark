@@ -1,62 +1,62 @@
-T1    Application_Mention 71 72 big-π
-T2    Developer 92 93 University of Vienna
-T3    Application_Mention 180 181 DGPI
-T4    Developer 194 195 University of Geneva
-T5    URL 231 232 http://129.194.185.165/ dgpi
-T6    Application_Mention 293 294 GPI-SOM
-T7    Developer 316 317 University of Bern
-T8    Application_Mention 71 72 big-π
-T9    Application_Mention 71 72 big-π
-T10    Application_Mention 180 181 DGPI
-T11    Application_Mention 293 294 GPI-SOM
-T12    Application_Mention 1865 1866 FragAnchor
-T13    Application_Mention 1865 1866 FragAnchor
-T14    Application_Mention 1865 1866 FragAnchor
-T15    Application_Mention 71 72 big-π
-T16    Application_Mention 3140 3141 GPI- SOM
-T17    Application_Mention 1865 1866 FragAnchor
-T18    Application_Mention 180 181 DGPI
-T19    Application_Mention 71 72 big-π
-T20    Application_Mention 293 294 GPI-SOM
-T21    Application_Mention 3320 3321 SignalP
-T22    Application_Mention 1865 1866 FragAnchor
-T23    Application_Mention 3320 3321 SignalP
-T24    Application_Mention 3320 3321 SignalP
-T25    Application_Mention 1865 1866 FragAnchor
-T26    Application_Mention 71 72 big-π
-T27    Application_Mention 1865 1866 FragAnchor
-T28    Application_Mention 1865 1866 FragAnchor
-T29    Application_Mention 71 72 big-π
-T30    Application_Mention 1865 1866 FragAnchor
-T31    Application_Mention 1865 1866 FragAnchor
-T32    Application_Mention 71 72 big-π
-T33    Application_Mention 1865 1866 FragAnchor
-T34    Application_Mention 1865 1866 FragAnchor
-T35    Application_Mention 71 72 big-π
-T36    Application_Mention 71 72 big-π
-T37    Application_Mention 1865 1866 FragAnchor
-T38    Application_Mention 3140 3141 GPI- SOM
-T39    Application_Mention 71 72 big-π
-T40    Application_Mention 1865 1866 FragAnchor
-T41    Application_Mention 293 294 GPI-SOM
-T42    Application_Mention 1865 1866 FragAnchor
-T43    Application_Mention 293 294 GPI-SOM
-T44    Application_Mention 1865 1866 FragAnchor
-T45    Application_Mention 1865 1866 FragAnchor
-T46    Application_Mention 3320 3321 SignalP
-T47    Application_Mention 1865 1866 FragAnchor
-T48    Application_Mention 293 294 GPI-SOM
-T49    Application_Mention 293 294 GPI-SOM
-T50    Application_Mention 1865 1866 FragAnchor
-T51    Application_Mention 3320 3321 SignalP
-T52    Application_Mention 1865 1866 FragAnchor
-T53    Application_Mention 1865 1866 FragAnchor
-T54    Application_Mention 1865 1866 FragAnchor
-T55    Application_Mention 71 72 big-π
-T56    Application_Mention 3140 3141 GPI- SOM
-T57    Application_Mention 1865 1866 FragAnchor
-T58    Application_Mention 1865 1866 FragAnchor
-T59    Application_Mention 8758 8759 javaNNS
-T60    Version 8766 8767 1.1
-T61    Developer 8788 8789 University of Stuttgart
-T62    URL 8813 8814 http://www-ra.informatik.uni-tuebingen. de/downloads/JavaNNS
+T1    Application_Mention 71 76 big-π
+T2    Developer 92 112 University of Vienna
+T3    Application_Mention 180 184 DGPI
+T4    Developer 194 214 University of Geneva
+T5    URL 231 259 http://129.194.185.165/ dgpi
+T6    Application_Mention 293 300 GPI-SOM
+T7    Developer 316 334 University of Bern
+T8    Application_Mention 1061 1066 big-π
+T9    Application_Mention 1519 1524 big-π
+T10    Application_Mention 1526 1530 DGPI
+T11    Application_Mention 1536 1543 GPI-SOM
+T12    Application_Mention 1865 1875 FragAnchor
+T13    Application_Mention 2439 2449 FragAnchor
+T14    Application_Mention 2977 2987 FragAnchor
+T15    Application_Mention 3124 3129 big-π
+T16    Application_Mention 3140 3148 GPI- SOM
+T17    Application_Mention 3184 3194 FragAnchor
+T18    Application_Mention 3200 3204 DGPI
+T19    Application_Mention 3283 3288 big-π
+T20    Application_Mention 3293 3300 GPI-SOM
+T21    Application_Mention 3320 3327 SignalP
+T22    Application_Mention 3408 3418 FragAnchor
+T23    Application_Mention 3433 3440 SignalP
+T24    Application_Mention 3493 3500 SignalP
+T25    Application_Mention 3530 3540 FragAnchor
+T26    Application_Mention 3556 3561 big-π
+T27    Application_Mention 3563 3573 FragAnchor
+T28    Application_Mention 3769 3779 FragAnchor
+T29    Application_Mention 3845 3850 big-π
+T30    Application_Mention 4076 4086 FragAnchor
+T31    Application_Mention 4229 4239 FragAnchor
+T32    Application_Mention 4284 4289 big-π
+T33    Application_Mention 4344 4354 FragAnchor
+T34    Application_Mention 4519 4529 FragAnchor
+T35    Application_Mention 4612 4617 big-π
+T36    Application_Mention 4673 4678 big-π
+T37    Application_Mention 4827 4837 FragAnchor
+T38    Application_Mention 4860 4868 GPI- SOM
+T39    Application_Mention 4873 4878 big-π
+T40    Application_Mention 5096 5106 FragAnchor
+T41    Application_Mention 5318 5325 GPI-SOM
+T42    Application_Mention 5327 5337 FragAnchor
+T43    Application_Mention 5356 5363 GPI-SOM
+T44    Application_Mention 5506 5516 FragAnchor
+T45    Application_Mention 5694 5704 FragAnchor
+T46    Application_Mention 5719 5726 SignalP
+T47    Application_Mention 5739 5749 FragAnchor
+T48    Application_Mention 5776 5783 GPI-SOM
+T49    Application_Mention 6193 6200 GPI-SOM
+T50    Application_Mention 6279 6289 FragAnchor
+T51    Application_Mention 6483 6490 SignalP
+T52    Application_Mention 6767 6777 FragAnchor
+T53    Application_Mention 6974 6984 FragAnchor
+T54    Application_Mention 7382 7392 FragAnchor
+T55    Application_Mention 7398 7403 big-π
+T56    Application_Mention 7408 7416 GPI- SOM
+T57    Application_Mention 7428 7438 FragAnchor
+T58    Application_Mention 7902 7912 FragAnchor
+T59    Application_Mention 8758 8765 javaNNS
+T60    Version 8766 8769 1.1
+T61    Developer 8788 8811 University of Stuttgart
+T62    URL 8813 8873 http://www-ra.informatik.uni-tuebingen. de/downloads/JavaNNS

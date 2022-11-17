@@ -1,7 +1,7 @@
-T1    Developer 736 737 NIH
-T2    Application_Mention 740 741 ImageJ
-T3    Application_Mention 867 868 image Master 2D Platinum 7
-T4    Developer 498 499 GE Healthcare
-T5    Application_Mention 1901 1902 MASCOT
-T6    Developer 1918 1919 Matrix Science Ltd
-T7    Application_Mention 1901 1902 MASCOT
+T1    Developer 736 739 NIH
+T2    Application_Mention 740 746 ImageJ
+T3    Application_Mention 867 893 image Master 2D Platinum 7
+T4    Developer 904 917 GE Healthcare
+T5    Application_Mention 1901 1907 MASCOT
+T6    Developer 1918 1936 Matrix Science Ltd
+T7    Application_Mention 1978 1984 MASCOT

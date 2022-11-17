@@ -1,16 +1,16 @@
-T1    Application_Mention 473 474 MATLAB
-T2    Application_Mention 721 722 Ensembl
-T3    URL 739 740 www.ensembl.org
-T4    Application_Mention 766 767 Biomart
-T5    Application_Mention 1296 1297 ENSEMBL
-T6    Application_Mention 1461 1462 STAC
-T7    Application_Mention 721 722 Ensembl
-T8    Application_Mention 721 722 Ensembl
-T9    Application_Mention 1772 1773 DAVID
-T10    URL 1793 1794 david.abcc. ncifcrf.gov
-T11    Application_Mention 1461 1462 STAC
-T12    Application_Mention 1461 1462 STAC
-T13    Application_Mention 1461 1462 STAC
-T14    URL 2595 2596 cbil.upenn.edu/STAC
-T15    Application_Mention 1461 1462 STAC
-T16    Version 2920 2921 1.2
+T1    Application_Mention 473 479 MATLAB
+T2    Application_Mention 721 728 Ensembl
+T3    URL 739 754 www.ensembl.org
+T4    Application_Mention 766 773 Biomart
+T5    Application_Mention 1296 1303 ENSEMBL
+T6    Application_Mention 1461 1465 STAC
+T7    Application_Mention 1535 1542 Ensembl
+T8    Application_Mention 1679 1686 Ensembl
+T9    Application_Mention 1772 1777 DAVID
+T10    URL 1793 1816 david.abcc. ncifcrf.gov
+T11    Application_Mention 2083 2087 STAC
+T12    Application_Mention 2098 2102 STAC
+T13    Application_Mention 2581 2585 STAC
+T14    URL 2595 2614 cbil.upenn.edu/STAC
+T15    Application_Mention 2915 2919 STAC
+T16    Version 2920 2923 1.2

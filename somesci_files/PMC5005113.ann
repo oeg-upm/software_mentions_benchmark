@@ -1,8 +1,8 @@
-T1    Application_Mention 755 756 Nucleotide Basic Local Alignment Search Tool (BLASTN)
-T2    Application_Mention 801 802 BLASTN
-T3    Application_Mention 971 972 Molecular Evolutionary Genetics Analysis
-T4    Version 1020 1021 4.1
-T5    Application_Mention 3402 3403 SPSS
-T6    Version 3415 3416 20
-T7    Developer 3419 3420 IBM Corp
-T8    Application_Mention 801 802 BLASTN
+T1    Application_Mention 755 808 Nucleotide Basic Local Alignment Search Tool (BLASTN)
+T2    Application_Mention 920 926 BLASTN
+T3    Application_Mention 971 1011 Molecular Evolutionary Genetics Analysis
+T4    Version 1020 1023 4.1
+T5    Application_Mention 3402 3406 SPSS
+T6    Version 3415 3417 20
+T7    Developer 3419 3427 IBM Corp
+T8    Application_Mention 4174 4180 BLASTN

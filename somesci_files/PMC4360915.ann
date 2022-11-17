@@ -1,7 +1,7 @@
-T1    Application_Mention 843 844 Scion Image
-T2    Developer 843 844 Scion
-T3    Application_Mention 957 958 G*Power
-T4    Version 974 975 3.1.9.2
-T5    Application_Mention 1337 1338 PASW Statistics
-T6    Version 1353 1354 17.0
-T7    Developer 1368 1369 SPSS
+T1    Application_Mention 843 854 Scion Image
+T2    Developer 865 870 Scion
+T3    Application_Mention 957 964 G*Power
+T4    Version 974 981 3.1.9.2
+T5    Application_Mention 1337 1352 PASW Statistics
+T6    Version 1353 1357 17.0
+T7    Developer 1368 1372 SPSS

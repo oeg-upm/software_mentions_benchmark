@@ -1,7 +1,7 @@
-T1    Application_Mention 1287 1288 MATLAB
-T2    Developer 1295 1296 The MathWorks
-T3    Application_Mention 1326 1327 Sound Forge
-T4    Version 749 750 10
-T5    Developer 1355 1356 Sonic Foundry
-T6    Application_Mention 1529 1530 Statistical Package for the Social Sciences (SPSS)
-T7    Version 1589 1590 16
+T1    Application_Mention 1287 1293 MATLAB
+T2    Developer 1295 1308 The MathWorks
+T3    Application_Mention 1326 1337 Sound Forge
+T4    Version 1350 1352 10
+T5    Developer 1355 1368 Sonic Foundry
+T6    Application_Mention 1529 1579 Statistical Package for the Social Sciences (SPSS)
+T7    Version 1589 1591 16

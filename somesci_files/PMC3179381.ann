@@ -1,4 +1,4 @@
-T1    Application_Mention 808 809 MACH
-T2    URL 814 815 www.sph.umich.edu/csg/abecasis/MACH/index.html
-T3    Application_Mention 864 865 IMPUTE
-T4    URL 872 873 mathgen.stats.ox.ac.uk/impute/impute_v2.html
+T1    Application_Mention 808 812 MACH
+T2    URL 814 860 www.sph.umich.edu/csg/abecasis/MACH/index.html
+T3    Application_Mention 864 870 IMPUTE
+T4    URL 872 916 mathgen.stats.ox.ac.uk/impute/impute_v2.html

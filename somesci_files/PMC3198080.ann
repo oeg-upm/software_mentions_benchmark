@@ -1,6 +1,6 @@
-T1    Application_Mention 263 264 ImageJ
-T2    Application_Mention 2106 2107 Lucia
-T3    Version 2120 2121 4.60
-T4    Application_Mention 2920 2921 Prism
-T5    Version 2927 2928 4.02
-T6    Developer 2933 2934 GraphPad Software
+T1    Application_Mention 263 269 ImageJ
+T2    Application_Mention 2106 2111 Lucia
+T3    Version 2120 2124 4.60
+T4    Application_Mention 2920 2925 Prism
+T5    Version 2927 2931 4.02
+T6    Developer 2933 2950 GraphPad Software

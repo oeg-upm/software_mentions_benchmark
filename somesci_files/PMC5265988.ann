@@ -1,12 +1,12 @@
-T1    Application_Mention 208 209 Sequenom Typer
-T2    Version 63 64 4.0
-T3    Developer 68 69 Agena Bioscience Inc
-T4    Developer 266 267 Microsoft
-T5    Application_Mention 276 277 Excel
-T6    Application_Mention 286 287 SPSS
-T7    Version 291 292 16.0
-T8    Developer 286 287 SPSS
-T9    Application_Mention 988 989 SHEsis
-T10    Application_Mention 1022 1023 Haploview
-T11    Version 1057 1058 4.2
-T12    Developer 1063 1064 Broad Institute
+T1    Application_Mention 208 222 Sequenom Typer
+T2    Version 223 226 4.0
+T3    Developer 237 257 Agena Bioscience Inc
+T4    Developer 266 275 Microsoft
+T5    Application_Mention 276 281 Excel
+T6    Application_Mention 286 290 SPSS
+T7    Version 291 295 16.0
+T8    Developer 297 301 SPSS
+T9    Application_Mention 988 994 SHEsis
+T10    Application_Mention 1022 1031 Haploview
+T11    Version 1057 1060 4.2
+T12    Developer 1063 1078 Broad Institute

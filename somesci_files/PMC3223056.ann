@@ -1,41 +1,41 @@
-T1    Application_Mention 1475 1476 AlignX
-T2    Application_Mention 1496 1497 Vector NTI software package
-T3    Developer 1525 1526 Invitrogen
-T4    Application_Mention 1854 1855 BLAST2
-T5    Developer 1862 1863 http://www.ncbi.nlm.nih.gov
-T6    Application_Mention 1908 1909 FGE- NESH+
-T7    Application_Mention 1924 1925 FGENESH_C
-T8    URL 1960 1961 http:// linux1.softberry.com/berry.phtml
-T9    Application_Mention 2125 2126 BLASTX
-T10    Application_Mention 3199 3200 VectorNTI
-T11    Version 3209 3210 10.0
-T12    Developer 1525 1526 Invitrogen Corporation
-T13    Application_Mention 3256 3257 CLC main workbench
-T14    Version 1141 1142 5
-T15    Developer 3278 3279 CLC bio
-T16    Application_Mention 3351 3352 BioEdit
-T17    URL 3369 3370 http://www.mbio.ncsu.edu/bioedit/bioedit.html
-T18    Application_Mention 3461 3462 HAP
-T19    URL 3488 3489 http:// research.calit2.net/hap
-T20    Application_Mention 5112 5113 STRUCTURE
-T21    Version 5122 5123 2.2.3
-T22    URL 5171 5172 http://pritch.bsd.uchicago.edu/ structure.html
-T23    Application_Mention 5491 5492 SAS
-T24    Developer 5500 5501 SAS Institute
-T25    Application_Mention 5112 5113 STRUCTURE
-T26    Version 5629 5630 2.2.3. R 2
-T27    Application_Mention 5828 5829 TASSEL
-T28    Version 5835 5836 2.01
-T29    Application_Mention 5828 5829 TASSEL
-T30    Version 5835 5836 2.01
-T31    Application_Mention 5112 5113 STRUCTURE
-T32    Version 5122 5123 2.2.3
-T33    Application_Mention 5491 5492 SAS
-T34    Version 7239 7240 9.0
-T35    Developer 5500 5501 SAS Institute
-T36    Application_Mention 5828 5829 TASSEL
-T37    Version 5835 5836 2.01
-T38    Application_Mention 3461 3462 HAP
-T39    URL 3488 3489 http:// research.calit2.net/hap
-T40    Application_Mention 14250 14251 COILS
-T41    URL 14290 14291 http://www.ch.embnet.org/software/coils/ COILS_doc.html
+T1    Application_Mention 1475 1481 AlignX
+T2    Application_Mention 1496 1523 Vector NTI software package
+T3    Developer 1525 1535 Invitrogen
+T4    Application_Mention 1854 1860 BLAST2
+T5    Developer 1862 1889 http://www.ncbi.nlm.nih.gov
+T6    Application_Mention 1908 1918 FGE- NESH+
+T7    Application_Mention 1924 1933 FGENESH_C
+T8    URL 1960 2000 http:// linux1.softberry.com/berry.phtml
+T9    Application_Mention 2125 2131 BLASTX
+T10    Application_Mention 3199 3208 VectorNTI
+T11    Version 3209 3213 10.0
+T12    Developer 3215 3237 Invitrogen Corporation
+T13    Application_Mention 3256 3274 CLC main workbench
+T14    Version 3275 3276 5
+T15    Developer 3278 3285 CLC bio
+T16    Application_Mention 3351 3358 BioEdit
+T17    URL 3369 3414 http://www.mbio.ncsu.edu/bioedit/bioedit.html
+T18    Application_Mention 3461 3464 HAP
+T19    URL 3488 3519 http:// research.calit2.net/hap
+T20    Application_Mention 5112 5121 STRUCTURE
+T21    Version 5122 5127 2.2.3
+T22    URL 5171 5217 http://pritch.bsd.uchicago.edu/ structure.html
+T23    Application_Mention 5491 5494 SAS
+T24    Developer 5500 5513 SAS Institute
+T25    Application_Mention 5619 5628 STRUCTURE
+T26    Version 5629 5639 2.2.3. R 2
+T27    Application_Mention 5828 5834 TASSEL
+T28    Version 5835 5839 2.01
+T29    Application_Mention 6382 6388 TASSEL
+T30    Version 6389 6393 2.01
+T31    Application_Mention 6430 6439 STRUCTURE
+T32    Version 6440 6445 2.2.3
+T33    Application_Mention 7235 7238 SAS
+T34    Version 7239 7242 9.0
+T35    Developer 7244 7257 SAS Institute
+T36    Application_Mention 10625 10631 TASSEL
+T37    Version 10632 10636 2.01
+T38    Application_Mention 11293 11296 HAP
+T39    URL 11298 11329 http:// research.calit2.net/hap
+T40    Application_Mention 14250 14255 COILS
+T41    URL 14290 14345 http://www.ch.embnet.org/software/coils/ COILS_doc.html

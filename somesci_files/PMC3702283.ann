@@ -1,8 +1,8 @@
-T1    Application_Mention 909 910 Origin
-T2    Developer 917 918 Microcal software Inc
-T3    Application_Mention 2074 2075 Clampex
-T4    Version 2090 2091 10
-T5    Developer 1873 1874 Molecular Devices
-T6    Application_Mention 2150 2151 Clampfit
-T7    Version 2090 2091 10
-T8    Developer 1873 1874 Molecular Devices
+T1    Application_Mention 909 915 Origin
+T2    Developer 917 938 Microcal software Inc
+T3    Application_Mention 2074 2081 Clampex
+T4    Version 2090 2092 10
+T5    Developer 2094 2111 Molecular Devices
+T6    Application_Mention 2150 2158 Clampfit
+T7    Version 2167 2169 10
+T8    Developer 2171 2188 Molecular Devices

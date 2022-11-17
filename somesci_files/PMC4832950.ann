@@ -1,7 +1,7 @@
-T1    Application_Mention 921 922 Leica Q550CW
-T2    Application_Mention 964 965 Qwin
-T3    Application_Mention 1959 1960 Cell Quest Research
-T4    Developer 1935 1936 Becton Dickinson
-T5    Application_Mention 2472 2473 SPSS
-T6    Version 2477 2478 17.0
-T7    Developer 2504 2505 SPSS Inc
+T1    Application_Mention 921 933 Leica Q550CW
+T2    Application_Mention 964 968 Qwin
+T3    Application_Mention 1959 1978 Cell Quest Research
+T4    Developer 1989 2005 Becton Dickinson
+T5    Application_Mention 2472 2476 SPSS
+T6    Version 2477 2481 17.0
+T7    Developer 2504 2512 SPSS Inc

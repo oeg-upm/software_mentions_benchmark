@@ -1,8 +1,8 @@
-T1    Application_Mention 649 650 Integrative Genomics Viewer
-T2    Application_Mention 972 973 COSMIC
-T3    Version 981 982 72
-T4    Application_Mention 3129 3130 Genome Analysis Toolkit
-T5    Application_Mention 3157 3158 MuTect
-T6    Application_Mention 3171 3172 Strelka
-T7    Application_Mention 972 973 COSMIC
-T8    Version 981 982 72
+T1    Application_Mention 649 676 Integrative Genomics Viewer
+T2    Application_Mention 972 978 COSMIC
+T3    Version 981 983 72
+T4    Application_Mention 3129 3152 Genome Analysis Toolkit
+T5    Application_Mention 3157 3163 MuTect
+T6    Application_Mention 3171 3178 Strelka
+T7    Application_Mention 5033 5039 COSMIC
+T8    Version 5042 5044 72

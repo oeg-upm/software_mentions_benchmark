@@ -1,10 +1,10 @@
-T1    Application_Mention 449 450 Fiji
-T2    Application_Mention 464 465 Gel Analyzer
-T3    Application_Mention 1197 1198 Fluctuation Analyzer
-T4    Developer 1239 1240 Malte Wachsmuth
-T5    Application_Mention 1526 1527 AutofocusScreen
-T6    Application_Mention 1838 1839 FlowJo
-T7    Version 1846 1847 7.6.4
-T8    Developer 1862 1863 Tree Star
-T9    Application_Mention 2433 2434 CellCognition
-T10    Application_Mention 449 450 Fiji
+T1    Application_Mention 449 453 Fiji
+T2    Application_Mention 464 476 Gel Analyzer
+T3    Application_Mention 1197 1217 Fluctuation Analyzer
+T4    Developer 1239 1254 Malte Wachsmuth
+T5    Application_Mention 1526 1541 AutofocusScreen
+T6    Application_Mention 1838 1844 FlowJo
+T7    Version 1846 1851 7.6.4
+T8    Developer 1862 1871 Tree Star
+T9    Application_Mention 2433 2446 CellCognition
+T10    Application_Mention 2926 2930 Fiji

@@ -1,13 +1,13 @@
-T1    Application_Mention 112 113 Ensembl
-T2    Application_Mention 112 113 Ensembl
-T3    Application_Mention 813 814 BDGP Splice Site Prediction
-T4    Application_Mention 4365 4366 ESyPred3D
-T5    Application_Mention 4591 4592 RasTop
-T6    Version 107 108 2.2
-T7    URL 4603 4604 http://www.genein- finity.org/rastop
-T8    Application_Mention 5515 5516 SPSS
-T9    Version 868 869 21
-T10    Developer 5551 5552 IBM
-T11    Application_Mention 5572 5573 SAS
-T12    Version 5584 5585 9.3
-T13    Developer 5572 5573 SAS
+T1    Application_Mention 112 119 Ensembl
+T2    Application_Mention 181 188 Ensembl
+T3    Application_Mention 813 840 BDGP Splice Site Prediction
+T4    Application_Mention 4365 4374 ESyPred3D
+T5    Application_Mention 4591 4597 RasTop
+T6    Version 4598 4601 2.2
+T7    URL 4603 4639 http://www.genein- finity.org/rastop
+T8    Application_Mention 5515 5519 SPSS
+T9    Version 5547 5549 21
+T10    Developer 5551 5554 IBM
+T11    Application_Mention 5572 5575 SAS
+T12    Version 5584 5587 9.3
+T13    Developer 5589 5592 SAS

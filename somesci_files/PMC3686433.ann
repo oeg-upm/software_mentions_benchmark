@@ -1,7 +1,7 @@
-T1    Application_Mention 434 435 ZCURVE
-T2    URL 482 483 http://tubic.tju.edu.cn/Zcurve_B
-T3    Application_Mention 434 435 ZCURVE
-T4    Application_Mention 5111 5112 Prodigal
-T5    Application_Mention 434 435 ZCURVE
-T6    Version 5198 5199 1.0
-T7    Application_Mention 5326 5327 RPGM
+T1    Application_Mention 434 440 ZCURVE
+T2    URL 482 514 http://tubic.tju.edu.cn/Zcurve_B
+T3    Application_Mention 1804 1810 ZCURVE
+T4    Application_Mention 5111 5119 Prodigal
+T5    Application_Mention 5191 5197 ZCURVE
+T6    Version 5198 5201 1.0
+T7    Application_Mention 5326 5330 RPGM

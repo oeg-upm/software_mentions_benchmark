@@ -1,8 +1,8 @@
-T1    Developer 9 10 Microsoft
-T2    Application_Mention 19 20 Excel
-T3    Version 34 35 2000 and 2007
-T4    Developer 9 10 Microsoft
-T5    Application_Mention 119 120 Access
-T6    Version 34 35 2000 and 2007
-T7    Application_Mention 246 247 Stata
-T8    Version 255 256 11.0
+T1    Developer 9 18 Microsoft
+T2    Application_Mention 19 24 Excel
+T3    Version 34 47 2000 and 2007
+T4    Developer 109 118 Microsoft
+T5    Application_Mention 119 125 Access
+T6    Version 136 149 2000 and 2007
+T7    Application_Mention 246 251 Stata
+T8    Version 255 259 11.0

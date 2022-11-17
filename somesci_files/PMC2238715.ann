@@ -1,12 +1,12 @@
-T1    Application_Mention 365 366 XwinNMR
-T2    Version 373 374 3.5
-T3    Developer 378 379 Bruker Biospin
-T4    Application_Mention 523 524 MATLAB
-T5    Application_Mention 819 820 Micromass MarkerLynxt applications manager
-T6    Version 870 871 4.0
-T7    Developer 875 876 Waters Corp
-T8    Application_Mention 829 830 MarkerLynx
-T9    Application_Mention 1217 1218 ApexTrack2
-T10    Application_Mention 1577 1578 SIMCA-P
-T11    Version 1585 1586 11
-T12    Developer 1598 1599 Umetrics
+T1    Application_Mention 365 372 XwinNMR
+T2    Version 373 376 3.5
+T3    Developer 378 392 Bruker Biospin
+T4    Application_Mention 523 529 MATLAB
+T5    Application_Mention 819 861 Micromass MarkerLynxt applications manager
+T6    Version 870 873 4.0
+T7    Developer 875 886 Waters Corp
+T8    Application_Mention 1124 1134 MarkerLynx
+T9    Application_Mention 1217 1227 ApexTrack2
+T10    Application_Mention 1577 1584 SIMCA-P
+T11    Version 1585 1587 11
+T12    Developer 1598 1606 Umetrics

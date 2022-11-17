@@ -1,17 +1,17 @@
-T1    Application_Mention 1065 1066 ImageJ
-T2    Application_Mention 1065 1066 ImageJ
-T3    Application_Mention 1065 1066 ImageJ
-T4    Application_Mention 9723 9724 LSM
-T5    Version 9577 9578 510
-T6    Developer 9594 9595 Carl Zeiss
-T7    Application_Mention 9723 9724 LSM
-T8    Version 9577 9578 510
-T9    Application_Mention 10908 10909 AxioVision
-T10    Application_Mention 1065 1066 ImageJ
-T11    Application_Mention 1065 1066 ImageJ
-T12    Developer 12373 12374 National Institutes of Health
-T13    Application_Mention 1065 1066 ImageJ
-T14    Application_Mention 1065 1066 ImageJ
-T15    Application_Mention 1065 1066 ImageJ
-T16    Application_Mention 1065 1066 ImageJ
-T17    Application_Mention 1065 1066 ImageJ
+T1    Application_Mention 1065 1071 ImageJ
+T2    Application_Mention 3116 3122 ImageJ
+T3    Application_Mention 8083 8089 ImageJ
+T4    Application_Mention 9723 9726 LSM
+T5    Version 9727 9730 510
+T6    Developer 9741 9751 Carl Zeiss
+T7    Application_Mention 10284 10287 LSM
+T8    Version 10288 10291 510
+T9    Application_Mention 10908 10918 AxioVision
+T10    Application_Mention 11136 11142 ImageJ
+T11    Application_Mention 12356 12362 ImageJ
+T12    Developer 12373 12402 National Institutes of Health
+T13    Application_Mention 13293 13299 ImageJ
+T14    Application_Mention 13842 13848 ImageJ
+T15    Application_Mention 14105 14111 ImageJ
+T16    Application_Mention 14166 14172 ImageJ
+T17    Application_Mention 14478 14484 ImageJ

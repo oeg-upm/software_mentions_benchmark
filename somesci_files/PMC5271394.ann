@@ -1,5 +1,5 @@
-T1    Application_Mention 42 43 Excel
-T2    Application_Mention 99 100 MS Access
-T3    Application_Mention 259 260 Dell Statistica data analysis software system
-T4    Version 314 315 13
-T5    Developer 318 319 Dell, Inc
+T1    Application_Mention 42 47 Excel
+T2    Application_Mention 99 108 MS Access
+T3    Application_Mention 259 304 Dell Statistica data analysis software system
+T4    Version 314 316 13
+T5    Developer 318 327 Dell, Inc

@@ -1,8 +1,8 @@
-T1    Application_Mention 394 395 Tagger
-T2    Application_Mention 845 846 Haploview
-T3    Version 863 864 3.32
-T4    Application_Mention 901 902 STATA
-T5    Version 909 910 9.2
-T6    Developer 914 915 Stata, College Station
-T7    Application_Mention 845 846 Haploview
-T8    Application_Mention 1519 1520 PLINK
+T1    Application_Mention 394 400 Tagger
+T2    Application_Mention 845 854 Haploview
+T3    Version 863 867 3.32
+T4    Application_Mention 901 906 STATA
+T5    Version 909 912 9.2
+T6    Developer 914 936 Stata, College Station
+T7    Application_Mention 1084 1093 Haploview
+T8    Application_Mention 1519 1524 PLINK

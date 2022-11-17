@@ -1,13 +1,13 @@
-T1    Developer 347 348 Bruker Daltonics
-T2    Application_Mention 370 371 MALDI Biotyper
-T3    Application_Mention 1724 1725 Metrichor
-T4    Version 1744 1745 r7.X
-T5    Application_Mention 1795 1796 Poretools
-T6    Application_Mention 1920 1921 SPAdes Genome Assembler
-T7    Version 1945 1946 v3.5.0
-T8    Application_Mention 2554 2555 ClustalX2
-T9    Application_Mention 2572 2573 FigTree
-T10    Version 2581 2582 1.4.2
-T11    Application_Mention 2750 2751 BLAST+
-T12    Application_Mention 2761 2762 PfamScan
-T13    Application_Mention 2878 2879 Alien Hunter
+T1    Developer 347 363 Bruker Daltonics
+T2    Application_Mention 370 384 MALDI Biotyper
+T3    Application_Mention 1724 1733 Metrichor
+T4    Version 1744 1748 r7.X
+T5    Application_Mention 1795 1804 Poretools
+T6    Application_Mention 1920 1943 SPAdes Genome Assembler
+T7    Version 1945 1951 v3.5.0
+T8    Application_Mention 2554 2563 ClustalX2
+T9    Application_Mention 2572 2579 FigTree
+T10    Version 2581 2586 1.4.2
+T11    Application_Mention 2750 2756 BLAST+
+T12    Application_Mention 2761 2769 PfamScan
+T13    Application_Mention 2878 2890 Alien Hunter

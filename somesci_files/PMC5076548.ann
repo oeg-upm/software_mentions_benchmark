@@ -1,4 +1,4 @@
-T1    Application_Mention 47 48 StatView
-T2    Developer 68 69 SAS Institute Inc
-T3    Application_Mention 150 151 GraphPad Prism
-T4    Developer 168 169 GraphPad Software, Inc
+T1    Application_Mention 47 55 StatView
+T2    Developer 68 85 SAS Institute Inc
+T3    Application_Mention 150 164 GraphPad Prism
+T4    Developer 168 190 GraphPad Software, Inc

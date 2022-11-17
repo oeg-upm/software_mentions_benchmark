@@ -1,17 +1,17 @@
-T1    Application_Mention 622 623 ImageJ
-T2    Version 629 630 1.44p
-T3    Developer 645 646 U. S. National Institutes of Health
-T4    URL 707 708 http://imagej.nih.gov/ij
-T5    Developer 2667 2668 Microsoft
-T6    Application_Mention 2677 2678 Excel
-T7    Version 2684 2685 2013
-T8    Application_Mention 2694 2695 JSTAT
-T9    Version 2700 2701 13.0
-T10    Version 739 740 2012
-T11    Developer 2667 2668 Microsoft
-T12    Application_Mention 2677 2678 Excel
-T13    Version 2684 2685 2013
-T14    Application_Mention 3349 3350 JMP
-T15    Version 3353 3354 11.0.0
-T16    Version 2684 2685 2013
-T17    Developer 3368 3369 SAS Institute
+T1    Application_Mention 622 628 ImageJ
+T2    Version 629 634 1.44p
+T3    Developer 645 680 U. S. National Institutes of Health
+T4    URL 707 731 http://imagej.nih.gov/ij
+T5    Developer 2667 2676 Microsoft
+T6    Application_Mention 2677 2682 Excel
+T7    Version 2684 2688 2013
+T8    Application_Mention 2694 2699 JSTAT
+T9    Version 2700 2704 13.0
+T10    Version 2706 2710 2012
+T11    Developer 2810 2819 Microsoft
+T12    Application_Mention 2820 2825 Excel
+T13    Version 2827 2831 2013
+T14    Application_Mention 3349 3352 JMP
+T15    Version 3353 3359 11.0.0
+T16    Version 3361 3365 2013
+T17    Developer 3368 3381 SAS Institute

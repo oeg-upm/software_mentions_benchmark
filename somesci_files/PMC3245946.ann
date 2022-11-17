@@ -1,21 +1,21 @@
-T1    Application_Mention 842 843 Quantity One
-T2    Developer 865 866 Bio-Rad Laboratories, Inc
-T3    Application_Mention 842 843 Quantity One
-T4    Application_Mention 2051 2052 SigmaPlot
-T5    Version 2078 2079 11
-T6    Developer 2082 2083 Systat Software, Inc
-T7    Application_Mention 3313 3314 Sigma Plot
-T8    Developer 2082 2083 Systat Software, Inc
-T9    Application_Mention 4860 4861 Molecular Operating Environment (MOE
-T10    Version 4897 4898 2008.02
-T11    Developer 4906 4907 Chemical Computing Group
-T12    Application_Mention 4893 4894 MOE
-T13    Application_Mention 5501 5502 Chimera
-T14    Version 5517 5518 1.51
-T15    Developer 5523 5524 UCSF Chimera, Resource for Biocomputing, Visualization, and Informatics at the University of California
-T16    Application_Mention 4893 4894 MOE
-T17    Application_Mention 4893 4894 MOE
-T18    Application_Mention 5501 5502 Chimera
-T19    Application_Mention 6127 6128 Pipeline Pilot
-T20    Version 2519 2520 7.5
-T21    Developer 6147 6148 Accelrys Corporation
+T1    Application_Mention 842 854 Quantity One
+T2    Developer 865 890 Bio-Rad Laboratories, Inc
+T3    Application_Mention 1858 1870 Quantity One
+T4    Application_Mention 2051 2060 SigmaPlot
+T5    Version 2078 2080 11
+T6    Developer 2082 2102 Systat Software, Inc
+T7    Application_Mention 3313 3323 Sigma Plot
+T8    Developer 3334 3354 Systat Software, Inc
+T9    Application_Mention 4860 4896 Molecular Operating Environment (MOE
+T10    Version 4897 4904 2008.02
+T11    Developer 4906 4930 Chemical Computing Group
+T12    Application_Mention 5055 5058 MOE
+T13    Application_Mention 5501 5508 Chimera
+T14    Version 5517 5521 1.51
+T15    Developer 5523 5626 UCSF Chimera, Resource for Biocomputing, Visualization, and Informatics at the University of California
+T16    Application_Mention 5678 5681 MOE
+T17    Application_Mention 5821 5824 MOE
+T18    Application_Mention 6049 6056 Chimera
+T19    Application_Mention 6127 6141 Pipeline Pilot
+T20    Version 6142 6145 7.5
+T21    Developer 6147 6167 Accelrys Corporation

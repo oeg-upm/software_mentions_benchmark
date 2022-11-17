@@ -1,21 +1,21 @@
-T1    Application_Mention 1000 1001 HiSeq Sequencing Control
-T2    Application_Mention 1035 1036 CASAVA
-T3    Version 1059 1060 1.8
-T4    Developer 478 479 Illumina
-T5    Application_Mention 1147 1148 FASTX application
-T6    URL 1166 1167 www.molecularevolution.org
-T7    Application_Mention 1507 1508 Bowtie
-T8    Version 8 9 2
-T9    URL 1517 1518 www. bowtie-bio.sf.net
-T10    Application_Mention 1835 1836 Ensembl
-T11    Version 1851 1852 75
-T12    URL 1855 1856 http://www.ensembl.org
-T13    Application_Mention 1916 1917 piRNABank
-T14    URL 1927 1928 http://pirnabank.ibab. ac.in
-T15    Application_Mention 591 592 R
-T16    URL 2053 2054 http://www. R-project.org
-T17    Application_Mention 2088 2089 Bioconductor
-T18    URL 2110 2111 http://www. bioconductor.org
-T19    Application_Mention 2978 2979 Prism
-T20    Version 2984 2985 6.0
-T21    Developer 2989 2990 Graphpad
+T1    Application_Mention 1000 1024 HiSeq Sequencing Control
+T2    Application_Mention 1035 1041 CASAVA
+T3    Version 1059 1062 1.8
+T4    Developer 1064 1072 Illumina
+T5    Application_Mention 1147 1164 FASTX application
+T6    URL 1166 1192 www.molecularevolution.org
+T7    Application_Mention 1507 1513 Bowtie
+T8    Version 1514 1515 2
+T9    URL 1517 1539 www. bowtie-bio.sf.net
+T10    Application_Mention 1835 1842 Ensembl
+T11    Version 1851 1853 75
+T12    URL 1855 1877 http://www.ensembl.org
+T13    Application_Mention 1916 1925 piRNABank
+T14    URL 1927 1955 http://pirnabank.ibab. ac.in
+T15    Application_Mention 2029 2030 R
+T16    URL 2053 2078 http://www. R-project.org
+T17    Application_Mention 2088 2100 Bioconductor
+T18    URL 2110 2138 http://www. bioconductor.org
+T19    Application_Mention 2978 2983 Prism
+T20    Version 2984 2987 6.0
+T21    Developer 2989 2997 Graphpad

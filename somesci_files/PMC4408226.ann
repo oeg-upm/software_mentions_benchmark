@@ -1,25 +1,25 @@
-T1    Application_Mention 510 511 ChemAxon Standardizer
-T2    Version 535 536 5.3
-T3    Developer 510 511 ChemAxon
-T4    URL 568 569 http://www.chemaxon.com
-T5    Application_Mention 1176 1177 ISIDA Duplicates
-T6    Application_Mention 1219 1220 HiT QSAR
-T7    Application_Mention 2464 2465 ISIDA/Cluster
-T8    URL 2487 2488 http://infochim.u-strasbg.fr
-T9    Application_Mention 2464 2465 ISIDA/Cluster
-T10    Application_Mention 3330 3331 Dragon
-T11    Version 3424 3425 5.5
-T12    Developer 3429 3430 Talete SRL
-T13    Application_Mention 1219 1220 HiT QSAR
-T14    Application_Mention 1219 1220 HiT QSAR
-T15    Application_Mention 5607 5608 CF
-T16    Version 5627 5628 2.12
-T17    Application_Mention 7060 7061 DERMWIN
-T18    Application_Mention 7060 7061 DERMWIN
-T19    Developer 7203 7204 EPI Suite
-T20    Application_Mention 7060 7061 DERMWIN
-T21    Application_Mention 7060 7061 DERMWIN
-T22    Application_Mention 7060 7061 DERMWIN
-T23    Application_Mention 7060 7061 DERMWIN
-T24    Application_Mention 7060 7061 DERMWIN
-T25    Application_Mention 7060 7061 DERMWIN
+T1    Application_Mention 510 531 ChemAxon Standardizer
+T2    Version 535 538 5.3
+T3    Developer 540 548 ChemAxon
+T4    URL 568 591 http://www.chemaxon.com
+T5    Application_Mention 1176 1192 ISIDA Duplicates
+T6    Application_Mention 1219 1227 HiT QSAR
+T7    Application_Mention 2464 2477 ISIDA/Cluster
+T8    URL 2487 2515 http://infochim.u-strasbg.fr
+T9    Application_Mention 3246 3259 ISIDA/Cluster
+T10    Application_Mention 3330 3336 Dragon
+T11    Version 3424 3427 5.5
+T12    Developer 3429 3439 Talete SRL
+T13    Application_Mention 4224 4232 HiT QSAR
+T14    Application_Mention 5402 5410 HiT QSAR
+T15    Application_Mention 5607 5609 CF
+T16    Version 5627 5631 2.12
+T17    Application_Mention 7060 7067 DERMWIN
+T18    Application_Mention 7163 7170 DERMWIN
+T19    Developer 7203 7212 EPI Suite
+T20    Application_Mention 7451 7458 DERMWIN
+T21    Application_Mention 7809 7816 DERMWIN
+T22    Application_Mention 7863 7870 DERMWIN
+T23    Application_Mention 8408 8415 DERMWIN
+T24    Application_Mention 8474 8481 DERMWIN
+T25    Application_Mention 8650 8657 DERMWIN

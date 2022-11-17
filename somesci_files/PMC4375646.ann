@@ -1,17 +1,17 @@
-T1    Application_Mention 45 46 ScanEdit
-T2    Version 55 56 4.4
-T3    Developer 60 61 Compumedics NeuroScan
-T4    Application_Mention 1305 1306 FEAT [FMRI Expert Analysis Tool
-T5    Version 1346 1347 6.00
-T6    Application_Mention 1360 1361 FSL (FMRIB3s Software Library
-T7    URL 1390 1391 http://www.fmrib.ox.ac.uk/fsl
-T8    Application_Mention 1489 1490 MCFLIRT [Motion Correction: FMRIB3s Linear Image Registration Tool
-T9    Application_Mention 1683 1684 Brain Extraction Tool
-T10    Application_Mention 1989 1990 FLIRT [FMRIB3s Linear Image Registration Tool
-T11    Application_Mention 1489 1490 MCFLIRT [Motion Correction: FMRIB3s Linear Image Registration Tool
-T12    Application_Mention 2773 2774 FILM (FMRIB3s Improved Linear Model)
-T13    Application_Mention 3002 3003 FLAME (FMRIB3s Local Analysis of Mixed Effects)
-T14    Application_Mention 3277 3278 AlphaSim
-T15    Application_Mention 3293 3294 AFNI
-T16    URL 3314 3315 http://afni.nimh.nih.gov/pub/dist/doc/program_help/AlphaSim.html
-T17    Application_Mention 3277 3278 AlphaSim
+T1    Application_Mention 45 53 ScanEdit
+T2    Version 55 58 4.4
+T3    Developer 60 81 Compumedics NeuroScan
+T4    Application_Mention 1305 1336 FEAT [FMRI Expert Analysis Tool
+T5    Version 1346 1350 6.00
+T6    Application_Mention 1360 1389 FSL (FMRIB3s Software Library
+T7    URL 1390 1419 http://www.fmrib.ox.ac.uk/fsl
+T8    Application_Mention 1489 1555 MCFLIRT [Motion Correction: FMRIB3s Linear Image Registration Tool
+T9    Application_Mention 1683 1704 Brain Extraction Tool
+T10    Application_Mention 1989 2034 FLIRT [FMRIB3s Linear Image Registration Tool
+T11    Application_Mention 2230 2296 MCFLIRT [Motion Correction: FMRIB3s Linear Image Registration Tool
+T12    Application_Mention 2773 2809 FILM (FMRIB3s Improved Linear Model)
+T13    Application_Mention 3002 3049 FLAME (FMRIB3s Local Analysis of Mixed Effects)
+T14    Application_Mention 3277 3285 AlphaSim
+T15    Application_Mention 3293 3297 AFNI
+T16    URL 3314 3378 http://afni.nimh.nih.gov/pub/dist/doc/program_help/AlphaSim.html
+T17    Application_Mention 3620 3628 AlphaSim

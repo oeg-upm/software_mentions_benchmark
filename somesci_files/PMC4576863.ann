@@ -1,11 +1,11 @@
-T1    Application_Mention 2656 2657 ImageJ
-T2    Developer 2673 2674 National Institutes of Health
-T3    Application_Mention 3788 3789 Igor
-T4    Version 3793 3794 4.0
-T5    Developer 3798 3799 Wave- Metrics
-T6    Application_Mention 3816 3817 Clampfit
-T7    Developer 3736 3737 Axon
-T8    Application_Mention 4782 4783 pClamp
-T9    Version 2853 2854 10
-T10    Application_Mention 4782 4783 pClamp
-T11    Developer 3736 3737 Axon
+T1    Application_Mention 2656 2662 ImageJ
+T2    Developer 2673 2702 National Institutes of Health
+T3    Application_Mention 3788 3792 Igor
+T4    Version 3793 3796 4.0
+T5    Developer 3798 3811 Wave- Metrics
+T6    Application_Mention 3816 3824 Clampfit
+T7    Developer 3826 3830 Axon
+T8    Application_Mention 4782 4788 pClamp
+T9    Version 4789 4791 10
+T10    Application_Mention 5722 5728 pClamp
+T11    Developer 5739 5743 Axon

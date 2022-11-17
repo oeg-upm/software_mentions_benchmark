@@ -1,7 +1,7 @@
-T1    Developer 122 123 University of California, Santa Cruz (UCSC)
-T2    Application_Mention 166 167 Genome Browser
-T3    Application_Mention 166 167 Genome Browser
-T4    Application_Mention 1832 1833 phyloFit
-T5    Application_Mention 1832 1833 phyloFit
-T6    Application_Mention 2572 2573 PHAST software package
-T7    Application_Mention 1832 1833 phyloFit
+T1    Developer 122 165 University of California, Santa Cruz (UCSC)
+T2    Application_Mention 166 180 Genome Browser
+T3    Application_Mention 1558 1572 Genome Browser
+T4    Application_Mention 1832 1840 phyloFit
+T5    Application_Mention 2554 2562 phyloFit
+T6    Application_Mention 2572 2594 PHAST software package
+T7    Application_Mention 2658 2666 phyloFit

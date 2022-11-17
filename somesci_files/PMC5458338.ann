@@ -1,6 +1,6 @@
-T1    Application_Mention 492 493 Matlab
-T2    Application_Mention 1370 1371 matlab function dprime_simple
-T3    URL 1401 1402 https://it.mathworks.com/matlabcentral/fileex change/47711-dprime-simple-m
-T4    Application_Mention 1558 1559 GraphPad Prism
+T1    Application_Mention 492 498 Matlab
+T2    Application_Mention 1370 1399 matlab function dprime_simple
+T3    URL 1401 1475 https://it.mathworks.com/matlabcentral/fileex change/47711-dprime-simple-m
+T4    Application_Mention 1558 1572 GraphPad Prism
 T5    Version 1581 1582 6
-T6    Developer 1584 1585 GraphPad Software
+T6    Developer 1584 1601 GraphPad Software

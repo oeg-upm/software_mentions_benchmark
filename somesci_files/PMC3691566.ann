@@ -1,10 +1,10 @@
-T1    Application_Mention 666 667 Zeiss LSM Image
-T2    Application_Mention 1630 1631 Bio MAS (molecule annotation system)
-T3    Version 1667 1668 3.0
-T4    Developer 1681 1682 CapitalBio Corporation
-T5    Application_Mention 1634 1635 MAS
-T6    Version 1667 1668 3.0
-T7    Application_Mention 2439 2440 DAVID (Database for Annotation, Visualization and Integrated Discovery)
-T8    Application_Mention 3431 3432 iQTM5
-T9    Application_Mention 3675 3676 Primer
-T10    Version 249 250 3
+T1    Application_Mention 666 681 Zeiss LSM Image
+T2    Application_Mention 1630 1666 Bio MAS (molecule annotation system)
+T3    Version 1667 1670 3.0
+T4    Developer 1681 1703 CapitalBio Corporation
+T5    Application_Mention 2258 2261 MAS
+T6    Version 2262 2265 3.0
+T7    Application_Mention 2439 2510 DAVID (Database for Annotation, Visualization and Integrated Discovery)
+T8    Application_Mention 3431 3436 iQTM5
+T9    Application_Mention 3675 3681 Primer
+T10    Version 3682 3683 3

@@ -1,5 +1,5 @@
-T1    Application_Mention 314 315 STATA
-T2    Version 330 331 14.1
-T3    Application_Mention 461 462 SPSS
-T4    Version 467 468 19
-T5    Developer 471 472 IBM Corp
+T1    Application_Mention 314 319 STATA
+T2    Version 330 334 14.1
+T3    Application_Mention 461 465 SPSS
+T4    Version 467 469 19
+T5    Developer 471 479 IBM Corp

@@ -1,7 +1,7 @@
-T1    Application_Mention 657 658 Image J
-T2    Version 665 666 1.47v
-T3    Developer 672 673 NIH Image, National Institute of Health
+T1    Application_Mention 657 664 Image J
+T2    Version 665 670 1.47v
+T3    Developer 672 711 NIH Image, National Institute of Health
 T4    Application_Mention 1049 1050 R
-T5    Version 1080 1081 3.1.0
-T6    Developer 1087 1088 Foundation for Statistical Computing
-T7    Application_Mention 1595 1596 R lawstat package
+T5    Version 1080 1085 3.1.0
+T6    Developer 1087 1123 Foundation for Statistical Computing
+T7    Application_Mention 1595 1612 R lawstat package

@@ -1,11 +1,11 @@
-T1    Application_Mention 328 329 BWA
-T2    Version 332 333 0.6.2
-T3    Application_Mention 504 505 Samtools
-T4    Version 513 514 0.1.18
-T5    Application_Mention 526 527 Picard
-T6    Version 533 534 1.68
-T7    Application_Mention 548 549 GATK
-T8    Version 553 554 2.3.4
-T9    Application_Mention 636 637 VCF Tools
-T10    Version 646 647 0.1.10
-T11    Application_Mention 841 842 ANNOVAR
+T1    Application_Mention 328 331 BWA
+T2    Version 332 337 0.6.2
+T3    Application_Mention 504 512 Samtools
+T4    Version 513 519 0.1.18
+T5    Application_Mention 526 532 Picard
+T6    Version 533 537 1.68
+T7    Application_Mention 548 552 GATK
+T8    Version 553 558 2.3.4
+T9    Application_Mention 636 645 VCF Tools
+T10    Version 646 652 0.1.10
+T11    Application_Mention 841 848 ANNOVAR

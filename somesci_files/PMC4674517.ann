@@ -1,6 +1,6 @@
-T1    Application_Mention 308 309 MIMS
-T2    Version 334 335 1.3.0
-T3    Application_Mention 393 394 SPSS
-T4    Version 406 407 21
-T5    Developer 410 411 SPSS Inc
-T6    Application_Mention 2478 2479 MySMS
+T1    Application_Mention 308 312 MIMS
+T2    Version 334 339 1.3.0
+T3    Application_Mention 393 397 SPSS
+T4    Version 406 408 21
+T5    Developer 410 418 SPSS Inc
+T6    Application_Mention 2478 2483 MySMS

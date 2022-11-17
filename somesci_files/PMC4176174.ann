@@ -1,8 +1,8 @@
-T1    Application_Mention 698 699 CTFFIND
-T2    Version 125 126 3
-T3    Application_Mention 824 825 XMIPP
-T4    Application_Mention 1153 1154 EMAN
-T5    Application_Mention 1950 1951 ML3D
-T6    Application_Mention 1153 1154 EMAN
-T7    Application_Mention 2342 2343 UCSF Chimera
-T8    Application_Mention 2347 2348 Chimera
+T1    Application_Mention 698 705 CTFFIND
+T2    Version 706 707 3
+T3    Application_Mention 824 829 XMIPP
+T4    Application_Mention 1153 1157 EMAN
+T5    Application_Mention 1950 1954 ML3D
+T6    Application_Mention 2031 2035 EMAN
+T7    Application_Mention 2342 2354 UCSF Chimera
+T8    Application_Mention 2427 2434 Chimera

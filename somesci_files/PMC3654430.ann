@@ -1,7 +1,7 @@
-T1    Application_Mention 102 103 Treeviewer
-T2    Version 113 114 1.6.6
-T3    URL 120 121 http://taxonomy. zoology.gla.ac.uk/rod/treeview.html
-T4    Application_Mention 191 192 ClustalW
-T5    URL 201 202 http://www.bioinformatics.nl/tools/clustalw.html
-T6    Application_Mention 283 284 Boxshade
-T7    URL 293 294 http://www.ch.embnet.org
+T1    Application_Mention 102 112 Treeviewer
+T2    Version 113 118 1.6.6
+T3    URL 120 172 http://taxonomy. zoology.gla.ac.uk/rod/treeview.html
+T4    Application_Mention 191 199 ClustalW
+T5    URL 201 249 http://www.bioinformatics.nl/tools/clustalw.html
+T6    Application_Mention 283 291 Boxshade
+T7    URL 293 317 http://www.ch.embnet.org

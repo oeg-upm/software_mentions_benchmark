@@ -1,5 +1,5 @@
-T1    Application_Mention 490 491 GraphViz
-T2    Application_Mention 813 814 Cytoscape
-T3    URL 824 825 http://cytoscape.org
-T4    Application_Mention 2230 2231 Pathway Commons
-T5    URL 2247 2248 http://pathwaycommons.org
+T1    Application_Mention 490 498 GraphViz
+T2    Application_Mention 813 822 Cytoscape
+T3    URL 824 844 http://cytoscape.org
+T4    Application_Mention 2230 2245 Pathway Commons
+T5    URL 2247 2272 http://pathwaycommons.org

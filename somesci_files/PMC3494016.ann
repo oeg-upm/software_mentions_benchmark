@@ -1,8 +1,8 @@
-T1    Application_Mention 401 402 GSEA
-T2    Application_Mention 1255 1256 QuantityOne
-T3    Developer 1277 1278 BioRad
-T4    Application_Mention 2349 2350 SAM
-T5    Application_Mention 2400 2401 Multiexperiment Viewer (MeV)
-T6    Application_Mention 3066 3067 DAVID Functional Annotation web tool
-T7    Application_Mention 3231 3232 Gene Set Enrichment Analysis (GSEA)
-T8    Application_Mention 3231 3232 Gene Set Enrichment Analysis (GSEA)
+T1    Application_Mention 401 405 GSEA
+T2    Application_Mention 1255 1266 QuantityOne
+T3    Developer 1277 1283 BioRad
+T4    Application_Mention 2349 2352 SAM
+T5    Application_Mention 2400 2428 Multiexperiment Viewer (MeV)
+T6    Application_Mention 3066 3102 DAVID Functional Annotation web tool
+T7    Application_Mention 3231 3266 Gene Set Enrichment Analysis (GSEA)
+T8    Application_Mention 3285 3320 Gene Set Enrichment Analysis (GSEA)

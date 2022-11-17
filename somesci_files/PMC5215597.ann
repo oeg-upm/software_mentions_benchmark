@@ -1,5 +1,5 @@
-T1    Application_Mention 247 248 MATLAB
-T2    Version 254 255 2013b
-T3    Developer 261 262 MathWorks
-T4    Developer 296 297 Microsoft
-T5    Application_Mention 306 307 Excel
+T1    Application_Mention 247 253 MATLAB
+T2    Version 254 259 2013b
+T3    Developer 261 270 MathWorks
+T4    Developer 296 305 Microsoft
+T5    Application_Mention 306 311 Excel

@@ -1,7 +1,7 @@
-T1    Application_Mention 1486 1487 LAS AF
-T2    Version 1495 1496 2.4.1
-T3    Developer 1312 1313 Leica Microsystems
-T4    Application_Mention 1568 1569 Definiens Developer XD
-T5    Application_Mention 2397 2398 SPSS Statistics
-T6    Version 2421 2422 20.0
-T7    Developer 2393 2394 IBM
+T1    Application_Mention 1486 1492 LAS AF
+T2    Version 1495 1500 2.4.1
+T3    Developer 1502 1520 Leica Microsystems
+T4    Application_Mention 1568 1590 Definiens Developer XD
+T5    Application_Mention 2397 2412 SPSS Statistics
+T6    Version 2421 2425 20.0
+T7    Developer 2427 2430 IBM

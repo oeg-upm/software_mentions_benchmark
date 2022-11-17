@@ -1,18 +1,18 @@
-T1    Application_Mention 1 2 Hangman
-T2    Application_Mention 321 322 Mediman
-T3    Application_Mention 321 322 Mediman
-T4    Application_Mention 494 495 MySQL
-T5    Developer 1650 1651 Microsoft
-T6    Application_Mention 1660 1661 Excel
-T7    Application_Mention 2271 2272 CASUS
-T8    Developer 1914 1915 Apple
-T9    Application_Mention 4043 4044 iOS
-T10    Application_Mention 4048 4049 Android
-T11    Application_Mention 321 322 Mediman
-T12    Application_Mention 4620 4621 jQuery mobile
-T13    Application_Mention 5034 5035 Phonegap
-T14    URL 5044 5045 http://phonegap.com
-T15    Application_Mention 321 322 Mediman
-T16    Application_Mention 1 2 Hangman
-T17    Application_Mention 321 322 Mediman
-T18    Application_Mention 321 322 Mediman
+T1    Application_Mention 1 8 Hangman
+T2    Application_Mention 321 328 Mediman
+T3    Application_Mention 479 486 Mediman
+T4    Application_Mention 494 499 MySQL
+T5    Developer 1650 1659 Microsoft
+T6    Application_Mention 1660 1665 Excel
+T7    Application_Mention 2271 2276 CASUS
+T8    Developer 4037 4042 Apple
+T9    Application_Mention 4043 4046 iOS
+T10    Application_Mention 4048 4055 Android
+T11    Application_Mention 4350 4357 Mediman
+T12    Application_Mention 4620 4633 jQuery mobile
+T13    Application_Mention 5034 5042 Phonegap
+T14    URL 5044 5063 http://phonegap.com
+T15    Application_Mention 5187 5194 Mediman
+T16    Application_Mention 5623 5630 Hangman
+T17    Application_Mention 6259 6266 Mediman
+T18    Application_Mention 6954 6961 Mediman

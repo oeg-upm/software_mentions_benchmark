@@ -1,5 +1,5 @@
-T1    Application_Mention 399 400 Medcalc
-T2    Developer 417 418 MedCalc Software
-T3    Application_Mention 748 749 SPSS
-T4    Version 761 762 19
-T5    Developer 765 766 IBM
+T1    Application_Mention 399 406 Medcalc
+T2    Developer 417 433 MedCalc Software
+T3    Application_Mention 748 752 SPSS
+T4    Version 761 763 19
+T5    Developer 765 768 IBM

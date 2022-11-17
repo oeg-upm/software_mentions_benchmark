@@ -1,25 +1,25 @@
-T1    Application_Mention 449 450 FastQC
-T2    URL 470 471 http://www.bioinformatics.babraham.ac.uk/ projects/fastqc
-T3    Application_Mention 642 643 Trimmomatic
-T4    Application_Mention 729 730 BWA
-T5    Application_Mention 740 741 GATK
-T6    Application_Mention 897 898 ANNOVAR
-T7    Application_Mention 897 898 ANNOVAR
-T8    Application_Mention 1580 1581 SIFT
-T9    Application_Mention 1586 1587 PolyPhen2-HDIV
-T10    Application_Mention 1602 1603 PolyPhen2-HVAR
-T11    Application_Mention 1618 1619 LRT
-T12    Application_Mention 1623 1624 MutationTaster
-T13    Application_Mention 1639 1640 MutationAssessor
-T14    Application_Mention 1657 1658 FATHMM
-T15    Application_Mention 1665 1666 MetaSVM
-T16    Application_Mention 1678 1679 MetaLR
-T17    Application_Mention 1691 1692 VEST3
-T18    Application_Mention 1697 1698 CADD-raw
-T19    Application_Mention 1707 1708 CADD-phred
-T20    Application_Mention 1719 1720 GERPþþ
-T21    Application_Mention 1727 1728 phyloP46way-placental
-T22    Application_Mention 1750 1751 phyloP100way-vertebrate
-T23    Application_Mention 1778 1779 SiPhy- 29way-logOdds
-T24    Application_Mention 1960 1961 Ensembl
-T25    Version 749 750 8
+T1    Application_Mention 449 455 FastQC
+T2    URL 470 527 http://www.bioinformatics.babraham.ac.uk/ projects/fastqc
+T3    Application_Mention 642 653 Trimmomatic
+T4    Application_Mention 729 732 BWA
+T5    Application_Mention 740 744 GATK
+T6    Application_Mention 897 904 ANNOVAR
+T7    Application_Mention 1523 1530 ANNOVAR
+T8    Application_Mention 1580 1584 SIFT
+T9    Application_Mention 1586 1600 PolyPhen2-HDIV
+T10    Application_Mention 1602 1616 PolyPhen2-HVAR
+T11    Application_Mention 1618 1621 LRT
+T12    Application_Mention 1623 1637 MutationTaster
+T13    Application_Mention 1639 1655 MutationAssessor
+T14    Application_Mention 1657 1663 FATHMM
+T15    Application_Mention 1665 1672 MetaSVM
+T16    Application_Mention 1678 1684 MetaLR
+T17    Application_Mention 1691 1696 VEST3
+T18    Application_Mention 1697 1705 CADD-raw
+T19    Application_Mention 1707 1717 CADD-phred
+T20    Application_Mention 1719 1725 GERPþþ
+T21    Application_Mention 1727 1748 phyloP46way-placental
+T22    Application_Mention 1750 1773 phyloP100way-vertebrate
+T23    Application_Mention 1778 1798 SiPhy- 29way-logOdds
+T24    Application_Mention 1960 1967 Ensembl
+T25    Version 1976 1977 8

@@ -1,11 +1,11 @@
-T1    Application_Mention 93 94 BLAST
-T2    Application_Mention 127 128 BLAST 2
-T3    Application_Mention 93 94 BLAST
-T4    Developer 249 250 National Library of Medicine
-T5    Application_Mention 93 94 BLAST
-T6    Version 133 134 2
-T7    Application_Mention 958 959 ClustalX
-T8    Application_Mention 1346 1347 TREE VIEW
-T9    Application_Mention 1739 1740 SignalP
-T10    Version 1747 1748 3.0
-T11    Application_Mention 958 959 ClustalX
+T1    Application_Mention 93 98 BLAST
+T2    Application_Mention 127 134 BLAST 2
+T3    Application_Mention 234 239 BLAST
+T4    Developer 249 277 National Library of Medicine
+T5    Application_Mention 333 338 BLAST
+T6    Version 339 340 2
+T7    Application_Mention 958 966 ClustalX
+T8    Application_Mention 1346 1355 TREE VIEW
+T9    Application_Mention 1739 1746 SignalP
+T10    Version 1747 1750 3.0
+T11    Application_Mention 2614 2622 ClustalX

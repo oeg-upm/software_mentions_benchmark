@@ -1,9 +1,9 @@
-T1    Application_Mention 590 591 BLAST
-T2    URL 606 607 http:// www.ncbi.nlm.nih.gob/blast
-T3    Application_Mention 802 803 MultAlin
-T4    Application_Mention 895 896 MEGA
-T5    Application_Mention 1198 1199 SigmaPlot
-T6    Developer 1209 1210 Systat Software Inc
-T7    Application_Mention 590 591 BLAST
-T8    Application_Mention 802 803 MultAlin program
-T9    Application_Mention 590 591 BLAST
+T1    Application_Mention 590 595 BLAST
+T2    URL 606 640 http:// www.ncbi.nlm.nih.gob/blast
+T3    Application_Mention 802 810 MultAlin
+T4    Application_Mention 895 899 MEGA
+T5    Application_Mention 1198 1207 SigmaPlot
+T6    Developer 1209 1228 Systat Software Inc
+T7    Application_Mention 1638 1643 BLAST
+T8    Application_Mention 1659 1675 MultAlin program
+T9    Application_Mention 3307 3312 BLAST

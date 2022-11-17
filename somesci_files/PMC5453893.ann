@@ -1,10 +1,10 @@
-T1    Application_Mention 191 192 SPSS
-T2    Version 211 212 19.0
-T3    Developer 217 218 IBM Corp
-T4    Application_Mention 249 250 Prism
-T5    Version 261 262 5.0
-T6    Developer 266 267 GraphPad Software
-T7    Application_Mention 359 360 G*Power
-T8    Version 373 374 3.1
-T9    URL 378 379 http://www.gpower.hhu.de
-T10    Application_Mention 249 250 Prism
+T1    Application_Mention 191 195 SPSS
+T2    Version 211 215 19.0
+T3    Developer 217 225 IBM Corp
+T4    Application_Mention 249 254 Prism
+T5    Version 261 264 5.0
+T6    Developer 266 283 GraphPad Software
+T7    Application_Mention 359 366 G*Power
+T8    Version 373 376 3.1
+T9    URL 378 402 http://www.gpower.hhu.de
+T10    Application_Mention 433 438 Prism

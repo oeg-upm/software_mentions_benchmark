@@ -1,15 +1,15 @@
-T1    Application_Mention 1241 1242 BeadStudio
-T2    Application_Mention 106 107 R
-T3    URL 1889 1890 http://www.R-project.org
-T4    Application_Mention 1950 1951 R/affy package
-T5    Application_Mention 106 107 R
-T6    Application_Mention 1241 1242 BeadStudio
-T7    Application_Mention 2260 2261 R/beadarray
-T8    Application_Mention 2363 2364 R/preprocessCore package
-T9    Application_Mention 2723 2724 R/maanova package
-T10    Application_Mention 4443 4444 Primer Express
-T11    Version 4476 4477 3.0
-T12    Developer 4481 4482 PE Applied Biosystems
-T13    Application_Mention 5924 5925 SPSS
-T14    Version 5929 5930 14.0
-T15    Developer 5935 5936 SPSS Inc
+T1    Application_Mention 1241 1251 BeadStudio
+T2    Application_Mention 1540 1541 R
+T3    URL 1889 1913 http://www.R-project.org
+T4    Application_Mention 1950 1964 R/affy package
+T5    Application_Mention 2171 2172 R
+T6    Application_Mention 2239 2249 BeadStudio
+T7    Application_Mention 2260 2271 R/beadarray
+T8    Application_Mention 2363 2387 R/preprocessCore package
+T9    Application_Mention 2723 2740 R/maanova package
+T10    Application_Mention 4443 4457 Primer Express
+T11    Version 4476 4479 3.0
+T12    Developer 4481 4502 PE Applied Biosystems
+T13    Application_Mention 5924 5928 SPSS
+T14    Version 5929 5933 14.0
+T15    Developer 5935 5943 SPSS Inc

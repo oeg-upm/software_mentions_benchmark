@@ -1,6 +1,6 @@
-T1    Application_Mention 2167 2168 Stata
-T2    Version 2173 2174 10
-T3    Developer 2186 2187 StataCorp
-T4    Application_Mention 2321 2322 GraphPad Prism
-T5    Version 2336 2337 5.0
-T6    Developer 2341 2342 GraphPad Software Inc
+T1    Application_Mention 2167 2172 Stata
+T2    Version 2173 2175 10
+T3    Developer 2186 2195 StataCorp
+T4    Application_Mention 2321 2335 GraphPad Prism
+T5    Version 2336 2339 5.0
+T6    Developer 2341 2362 GraphPad Software Inc

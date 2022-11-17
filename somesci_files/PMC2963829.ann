@@ -1,8 +1,8 @@
-T1    Application_Mention 667 668 ImageJ
-T2    URL 676 677 http://www.rsbweb.nih.gov/ij
-T3    Application_Mention 735 736 MATLAB
-T4    Developer 744 745 Th e MathWorks
-T5    Application_Mention 2445 2446 MetaFluor
-T6    Developer 2457 2458 Molecular Devices
-T7    Application_Mention 3574 3575 iQ iCycler
-T8    Developer 2721 2722 Bio-Rad
+T1    Application_Mention 667 673 ImageJ
+T2    URL 676 704 http://www.rsbweb.nih.gov/ij
+T3    Application_Mention 735 741 MATLAB
+T4    Developer 744 758 Th e MathWorks
+T5    Application_Mention 2445 2454 MetaFluor
+T6    Developer 2457 2474 Molecular Devices
+T7    Application_Mention 3574 3584 iQ iCycler
+T8    Developer 3597 3604 Bio-Rad
