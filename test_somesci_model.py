@@ -6,7 +6,7 @@ import json
 import torch
 
 # Setup the path of the model and the tokenizer
-MODEL_PATH = "/Users/estebangonzalezguardia/projects/software_benchmark/models/Gold-Multi-Simple-SciBERT/12-11-2022"
+MODEL_PATH = "/Users/estebangonzalezguardia/projects/software_benchmark/models/Gold-Multi-Simple-SciBERT/06-10-2022"
 TOKENIZER_PATH = "/Users/estebangonzalezguardia/projects/software_benchmark/models/scibert_scivocab_cased"
 
 class TestBinModel():
@@ -43,9 +43,9 @@ class TestBinModel():
         labels_map = self.load_encoding()
 
         preds = []
-        print(text)
+        #print(text)
         for i, ls in enumerate(lis):
-            print(f"\nlabels_map {labels_map[i][0]}\n")
+            #print(f"\nlabels_map {labels_map[i][0]}\n")
             name = ''
             entity = ''
             idx = 0
@@ -98,38 +98,52 @@ class TestBinModel():
     def eval_text(self, gs_file, text_file):
         self.messages = []
         summary = []
-        debug = 1
+        debug = 0
         #Read gold standard file.
         true_positive = 0
         false_positive = 0
         false_negative = 0
         total = 0
+        hashcode = ""
 
+        #Build dictionary for BRAT file
         gs_dictionary = {}
         f_brat = open(gs_file)
         for line in f_brat.readlines():
             if line!="":
                 tokens = line.split()
-                gs_dictionary[tokens[4].lower()] = tokens[1]
+                hashcode = str(tokens[4].lower())+str(tokens[2])+str(tokens[3])
+                gs_dictionary[hashcode] = tokens[1]
+                #gs_dictionary[tokens[4].lower()] = tokens[1]
 
         f_brat.close()
-        
+        print("Dictionary:"+str(gs_dictionary))
+
         f_text = open(text_file)
         text = f_text.read()
         sentences = sent_tokenize(text)
+
+        #Variable to calculate the position of the word respects the text, not the sentence
+        sentence_cursor = 0
+
         for sentence in sentences:
             if debug: print("********************************************************")
             if debug: print("Sentence:"+str(sentence))
             _entities = self.get_entities(sentence)
-            #if debug: print("Entities:"+str(_entities))
+            if debug: print("Entities:"+str(_entities))
             if debug: print("--------------------------------------------------------")
             for entity in _entities:
+                #print(entity)
+                if debug: print("Entity:"+str(entity))
                 if debug: print (entity["name"])
-                if entity["name"] in gs_dictionary:
-                    gs_entity = gs_dictionary[entity["name"]]
+                hashcode = str(entity["name"].lower())+str(sentence_cursor+entity["start"])+str(sentence_cursor+entity["end"])
+                if debug: print("hashcode:"+str(hashcode))
+                if debug: print("Dictionary2:"+str(gs_dictionary))
+                if hashcode in gs_dictionary:
+                    gs_entity = gs_dictionary[hashcode]
                     #if debug: print(gs_entity)
                     #if debug: print(str(entity["type"]) + " " + str(gs_entity))
-                    if entity["type"]=="SoftwareDependency" or entity["type"]=="Citation":
+                    if entity["type"]=="SoftwareDependency" or entity["type"]=="Citation" or entity["type"]=="ProgrammingLanguage":
                         entity["type"] = "Application_Mention"
                     if entity["type"] == gs_entity:
                         true_positive = true_positive + 1
@@ -144,12 +158,14 @@ class TestBinModel():
                         false_positive = false_positive + 1
                         self.messages.append( "FP: NOT match of "+str(entity["name"]))
                         if debug: print ("FP: NOT match of "+str(entity["name"]))
+
+
             total = len(gs_dictionary)
-            print("Dictionary:"+str(gs_dictionary))
             false_negative = total - true_positive
+            sentence_cursor = sentence_cursor + len(sentence) + 1
 
         f_text.close()
-
+        
         results = {}
 
         results["file"]=text_file
