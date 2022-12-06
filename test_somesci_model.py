@@ -62,6 +62,8 @@ class TestBinModel():
                 if out != 'O':
                     part = tokens[j]
                     # print(_idx,out,part)
+                    if out[0] == 'B' and name == '':
+                        entity == out[2::]
                     if out[0] == 'B' and name != '':
                     #if out[0] == 'B':
                         _idx = aux_text.find(name)
@@ -70,13 +72,15 @@ class TestBinModel():
                             print(
                                 'Error en las etiquetas/prediccion, NO DEBERIA DE OCURRIR')
                             name = part
+                            entity = out[2::]
                             # print(aux_text)
                             continue
                         idx += _idx
-                        entity = out[2::]
+                        
                         end = idx+len(name)
                         preds.append({'name': name, 'type': entity,
                                     'start': idx, 'end': end})
+                        entity = out[2::]
                         #print(entity, idx, end, name)
                         idx = end
                         name = ''
@@ -85,7 +89,22 @@ class TestBinModel():
                     if tokens[j][0:2] == '##':
                         part = tokens[j][2::]
                     name += part
+                    entity = out[2::]
                     # print(out,tokens[j])
+                elif name!='':
+                    _idx = aux_text.find(name)
+                    _end = _idx + len(name)
+                    
+                    idx += _idx
+                    end = idx+len(name)
+                    
+                    preds.append({'name': name, 'type': entity,
+                                    'start': idx, 'end': end})
+                    #print(entity, idx, end, name)
+                    idx = end
+                    name = ''
+                    entity = ''
+                    aux_text = aux_text[_end::]
             if entity != '':
                 _idx = aux_text.find(name)
                 if _idx == -1:
