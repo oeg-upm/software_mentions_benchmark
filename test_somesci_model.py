@@ -180,6 +180,10 @@ class TestBinModel():
                 original_type = entity["type"]
                 if entity["type"]=="SoftwareDependency" or entity["type"]=="Abbreviation" or entity["type"]=="ProgrammingLanguage" or entity["type"]=="OperativeSystem" or entity["type"]=="Application" or entity["type"]=="AlternativeName" or entity["type"]=="Extension":
                     entity["type"] = "Application_Mention"
+                if entity["type"]=="Organization":
+                    entity["type"] = "Developer"
+                if entity["type"]=="Release":
+                    entity["type"] = "Version"
                 if hashcode in gs_dictionary:
                     gs_entity = gs_dictionary[hashcode]
                     #if debug: print(gs_entity)
@@ -212,7 +216,7 @@ class TestBinModel():
         f_text.close()
 
         total = len(gs_dictionary)
-        false_negative = total - true_positive
+        false_negative = total - true_positive - false_positive
         
         results = {}
 
