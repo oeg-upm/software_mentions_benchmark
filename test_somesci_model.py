@@ -6,6 +6,7 @@ from transformers import pipeline
 
 import json
 import torch
+import re
 
 # Setup the path of the model and the tokenizer
 MODEL_PATH = "/Users/estebangonzalezguardia/projects/software_benchmark/models/Gold-Multi-Simple-SciBERT/12-11-2022"
@@ -35,6 +36,10 @@ class TestBinModel():
     def get_entities_pipeline(self, excerpt):
         myner = pipeline('ner', model='/Users/estebangonzalezguardia/projects/software_benchmark/models/Gold-Multi-Simple-SciBERT/12-11-2022')
         print(myner)
+
+    def findEntity(self, entity_name, text):
+        tokens = text.split(" ")
+
 
     def get_entities(self, excerpt):
         text = excerpt
@@ -67,6 +72,7 @@ class TestBinModel():
                     if out[0] == 'B' and name != '':
                     #if out[0] == 'B':
                         _idx = aux_text.find(name)
+                        #_idx = re.fullmatch(name, aux_text)
                         _end = _idx + len(name)
                         if _idx == -1:
                             print(
@@ -93,6 +99,7 @@ class TestBinModel():
                     # print(out,tokens[j])
                 elif name!='':
                     _idx = aux_text.find(name)
+                    #_idx = re.fullmatch(name, aux_text)
                     _end = _idx + len(name)
                     
                     idx += _idx
@@ -107,6 +114,7 @@ class TestBinModel():
                     aux_text = aux_text[_end::]
             if entity != '':
                 _idx = aux_text.find(name)
+                #_idx = re.fullmatch(name, aux_text)
                 if _idx == -1:
                     print('Error en las etiquetas/prediccion, NO DEBERIA DE OCURRIR')
                     continue
@@ -136,6 +144,8 @@ class TestBinModel():
         fp_type=0
         fp_text=0
         fp_position=0
+
+        fn_text=0
 
         total = 0
         hashcode = ""
@@ -197,6 +207,9 @@ class TestBinModel():
                         fp_type = fp_type + 1
                         self.messages.append("FP: NOT match of "+str(entity["name"])+" with type_somesci="+str(original_type)+" and type_softcite="+str(gs_entity))
                         if debug: print ("FP: NOT match of "+str(entity["name"])+" with type="+str(entity["type"])+" and type="+str(gs_entity))
+                    del gs_dictionary[hashcode]
+                    if entity["name"] in gs_dictionary_withoutposition:
+                        del gs_dictionary_withoutposition[entity["name"]]
                 else:
                     if entity["type"] == "Application_Mention" or entity["type"] == "Version" or entity["type"] == "URL":
                         false_positive = false_positive + 1
@@ -204,8 +217,9 @@ class TestBinModel():
                             self.fp_position_reverse = self.fp_position_reverse + 1
                         if debug: print ("FP: NOT match of "+str(entity["name"]))
                         if entity["name"] in gs_dictionary_withoutposition:
-                            fp_position = fp_position + 1
-                            self.messages.append( "FP: NOT match in position of "+str(entity["name"])+" with code="+str(hashcode)+" and dictionary:"+str(gs_dictionary))
+                            fp_position=0
+                            #fp_position = fp_position + 1
+                            #self.messages.append( "FP: NOT match in position of "+str(entity["name"])+" with code="+str(hashcode)+" and dictionary:"+str(gs_dictionary))
                         else:
                             self.messages.append( "FP: NOT match in text of "+str(entity["name"])+" with code="+str(hashcode)+" and dictionary:"+str(gs_dictionary))
                             fp_text = fp_text + 1
@@ -215,8 +229,19 @@ class TestBinModel():
 
         f_text.close()
 
-        total = len(gs_dictionary)
-        false_negative = total - true_positive - false_positive
+        self.messages.append("Dictionary:"+str(gs_dictionary_withoutposition))
+        for entity in gs_dictionary:
+            entity_name = entity[0:entity.index('$')]
+            if entity_name in gs_dictionary_withoutposition:
+                self.messages.append("FN: Not match of text="+str(entity_name))
+                fn_text = fn_text + 1
+            else:
+                print("Null")
+                #self.messages.append("FN: Not match of "+str(entity_name)+" with code="+str(hashcode)+" in dictionary:"+str(gs_dictionary))
+            false_negative = false_negative + 1
+
+        #total = len(gs_dictionary)
+        #false_negative = total - true_positive - false_positive
         
         results = {}
 
@@ -227,6 +252,7 @@ class TestBinModel():
         results["fp_type"]=fp_type
         results["fp_text"]=fp_text
         results["false_negative"]=false_negative
+        results["fn_text"]=fn_text
 
         return results
 
