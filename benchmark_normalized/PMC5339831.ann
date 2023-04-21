@@ -1,0 +1,14 @@
+T1    Application_Mention 1192 1200 Volocity
+T2    Developer 1202 1213 PerkinElmer
+T3    Application_Mention 4308 4319 Axio Vision
+T4    Developer 4334 4339 Zeiss
+T5    Application_Mention 4511 4517 Mascot
+T6    Version 4520 4523 2.3
+T7    Developer 4525 4539 Matrix Science
+T8    Application_Mention 4557 4564 Sequest
+T9    Version 4568 4572 1.20
+T10    Application_Mention 4578 4597 Proteome Discoverer
+T11    Version 4600 4603 1.3
+T12    Developer 4605 4629 Thermo Fisher Scientific
+T13    Application_Mention 4678 4687 PhosphoRS
+T14    Application_Mention 4703 4722 Proteome Discoverer

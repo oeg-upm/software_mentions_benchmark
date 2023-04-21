@@ -1,0 +1,2 @@
+
+Densitometry data were plotted as fold induction of relative density units, with the zero value absorbance in each figure set arbitrarily to 1 or 100%. Statistical comparisons of absorbance differences were performed by the Mann-Whitney test (Statview 4.5, Abacus Concepts, Berkeley, CA), and p values p < 0.05 were considered significant. All data are shown as means ± SD of at least three independent experiments.

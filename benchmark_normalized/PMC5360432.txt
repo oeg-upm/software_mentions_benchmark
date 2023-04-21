@@ -1,0 +1,2 @@
+
+Test compound activity was calculated according to the change in absorbance at 340 nm (ΔA340). The ΔA340 of the reaction solutions containing AJS1669 at a final concentration of 100 µM (without any G6P present) or 1 µM (with 2.5 mM G6P) was taken as a normalization value (100%) to calculate the relative activity (%) at various concentrations. The concentration of the compound that elicited a 50% increase in relative activity (EC 50 ) was calculated using XLfit (IDBS, Tokyo, Japan).

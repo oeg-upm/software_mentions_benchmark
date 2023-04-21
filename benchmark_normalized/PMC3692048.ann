@@ -1,0 +1,44 @@
+T1    Application_Mention 5 17 DIANA-microT
+T2    Version 30 33 4.0
+T3    Application_Mention 650 662 DIANA-microT
+T4    Version 675 678 5.0
+T5    Application_Mention 774 790 DIANA-microT-CDS
+T6    Application_Mention 1149 1156 Ensembl
+T7    Version 1158 1160 69
+T8    Application_Mention 1246 1251 DIANA
+T9    Application_Mention 1335 1340 DIANA
+T10    Application_Mention 1499 1511 DIANA-microT
+T11    Application_Mention 1682 1687 DIANA
+T12    Application_Mention 1735 1769 Taverna Workflow Management System
+T13    Application_Mention 1811 1832 DIANA-Taverna Plug-in
+T14    Application_Mention 2077 2089 DIANA-microT
+T15    Application_Mention 2133 2140 Ensembl
+T16    Version 2142 2144 69
+T17    Application_Mention 3291 3296 DIANA
+T18    Application_Mention 3501 3513 DIANA-microT
+T19    Application_Mention 3674 3686 DIANA-microT
+T20    Version 3699 3702 5.0
+T21    Application_Mention 4054 4066 DIANA-microT
+T22    Application_Mention 4856 4869 DIANA-miRPath
+T23    Version 4871 4874 2.1
+T24    Application_Mention 4889 4901 DIANA-microT
+T25    Application_Mention 5077 5088 Taverna WMS
+T26    Application_Mention 5091 5103 DIANA-microT
+T27    Version 5116 5119 5.0
+T28    Application_Mention 5268 5280 DIANA-microT
+T29    Application_Mention 5453 5466 DIANA- microT
+T30    Version 5479 5482 5.0
+T31    Application_Mention 5524 5535 Taverna WMS
+T32    Application_Mention 5566 5587 DIANA-Taverna Plug-in
+T33    Application_Mention 5589 5610 DIANA-Taverna Plug-in
+T34    Application_Mention 5719 5726 Taverna
+T35    Application_Mention 5896 5901 DIANA
+T36    Application_Mention 6028 6041 DIANA-miRPath
+T37    Version 6043 6046 2.1
+T38    Application_Mention 6618 6630 DIANA-microT
+T39    Application_Mention 6965 6972 Ensembl
+T40    Version 6975 6977 69
+T41    Application_Mention 7002 7017 Taverna Plug-in
+T42    Application_Mention 7388 7404 DIANA-microT-CDS
+T43    Application_Mention 7938 7951 DIANA-miRPath
+T44    Version 7953 7954 2

@@ -1,0 +1,10 @@
+T1    Application_Mention 507 529 BurrowsWheeler Aligner
+T2    Application_Mention 534 540 Picard
+T3    Application_Mention 593 597 GATK
+T4    Version 598 601 3.0
+T5    Developer 619 634 Broad Institute
+T6    Application_Mention 970 978 PolyPhen
+T7    Version 979 980 2
+T8    URL 982 1023 http://www. genetics.bwh.harvard.edu/pph2
+T9    Application_Mention 1030 1045 Mutation Taster
+T10    URL 1047 1077 http:// www.mutationtaster.org

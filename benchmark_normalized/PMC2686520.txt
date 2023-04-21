@@ -1,0 +1,2 @@
+
+For each operon, the DOOR database contains its component genes, its precalculated promoter sequence (up to 200 bp, our default value), its precalculated similar operons, a link to the relevant literature in the ODB database (3) and a link to its corresponding operon page at MicrobesOnline. The whole DOOR system is implemented on a Fedora Core 8 Linux computer using MySQL as the database management system. DOOR employs Apache for its web server, and php to implement the dynamic web pages. In addition, the Wiki of the DOOR system is implemented using MediaWiki 1.13.0.

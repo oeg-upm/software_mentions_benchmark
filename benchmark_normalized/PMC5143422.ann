@@ -1,0 +1,22 @@
+T1    Application_Mention 468 475 HKL2000
+T2    Application_Mention 502 514 CrystalClear
+T3    Application_Mention 693 699 Phenix
+T4    Application_Mention 719 722 CNS
+T5    Application_Mention 932 936 Coot
+T6    Application_Mention 979 984 PyMol
+T7    Application_Mention 995 1000 SYBYL
+T8    URL 1010 1024 www.tripos.com
+T9    Application_Mention 1220 1225 SYBYL
+T10    Application_Mention 1718 1722 GOLD
+T11    Application_Mention 2899 2904 ATSAS
+T12    Application_Mention 2942 2948 PRIMUS
+T13    Application_Mention 3066 3072 CRYSOL
+T14    Application_Mention 3179 3183 GNOM
+T15    Application_Mention 3297 3303 DAMMIN
+T16    Application_Mention 3310 3316 GASBOR
+T17    Application_Mention 3326 3333 DAMAVER
+T18    Application_Mention 3508 3522 GraphPad Prism
+T19    Version 3523 3524 5
+T20    Application_Mention 3529 3534 PyMol
+T21    Application_Mention 4485 4499 GraphPad Prism
+T22    Version 4500 4501 5

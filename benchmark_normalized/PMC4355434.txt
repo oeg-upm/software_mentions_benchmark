@@ -1,0 +1,2 @@
+
+Independent t-tests were used to compare the mean values of two independent parametric continuous variables. The Mann-Whitney test was used to compare the median values of two nonparametric continuous variables. Categorical variables were verified by Pearson chi-square or Fisher exact test. p<0.05 was considered to indicate statistical significance. Statistical analyses were performed with IBM SPSS Statistics ver. 20.0 (IBM Co., Armonk, NY, USA).

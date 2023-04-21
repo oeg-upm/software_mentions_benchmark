@@ -1,0 +1,2 @@
+
+We used OriginPro 8 (OriginLab, Northampton, MA, USA) software to create graphs, for curve fitting, and statistical testing. We measured NADH tissue fluorescence (% of baseline) as a function of tissue pO 2 (mm Hg). In Figure 1D, we show a fit of the sigmoidal Boltzmann function,

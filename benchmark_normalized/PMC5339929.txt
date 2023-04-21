@@ -1,0 +1,2 @@
+
+Statistical analysis was performed using SPSS (version 11.5,SPSS Inc., Chicago, IL, USA). Serum HBV DNA levels and HBsAg concentrations were logarithmically transformed for analysis. Continuous variables were expressed as mean ± standard deviation (SD) or median (range), and categorical variables as absolute and relative frequencies.

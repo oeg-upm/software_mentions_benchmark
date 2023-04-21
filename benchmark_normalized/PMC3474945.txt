@@ -1,0 +1,2 @@
+
+Statistical analysis for the LTT validation results was performed by using the Chi-square test (Prism 5, GraphPad software, La Jolla, USA).

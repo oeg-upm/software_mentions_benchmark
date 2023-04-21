@@ -1,0 +1,2 @@
+
+One-Way Analyses of Variance (ANOVA) were performed to compare group means, and Tukey's Post Hoc tests were used for subsequent pair-wise comparisons. Kaplan-Meier curve analysis was used to compare individual tumor doubling rates. Log-rank (Mantel-Cox) tests were used to compare KaplanMeier curves with the program GraphPad Prism 5 (GraphPad Software, San Diego, CA), and p-values of 0.05 and below were considered significant.

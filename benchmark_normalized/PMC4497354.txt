@@ -1,0 +1,2 @@
+
+For statistical analysis, the chi-square test and Fisher's exact test were used to compare categorical variables, and the Mann-Whitney U-test was used to compare continuous variables. Patient and graft survivals were calculated using the Kaplan-Meier method with the log-rank test. A P < 0.05 was considered as statistically significant. Analysis was performed using SPSS (Chicago, IL, USA).

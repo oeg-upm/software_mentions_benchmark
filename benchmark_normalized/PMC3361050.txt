@@ -1,0 +1,2 @@
+
+Data analysis was performed using Statistical Package for Social Sciences (SPSS) version 9. Differences between controls and alcoholics were tested using the χ 2 test and considered significant if the type 1 error was less than 5% using SPSS. The Hardy Weinberg equilibrium was calculated using the SAS computer program for Windows. Odds ratios and confidence intervals at 95% were also calculated. Haplotype frequencies and linkage disequilibrium were calculated using R with Biocon- ductor packages haplo.stats and genetics.

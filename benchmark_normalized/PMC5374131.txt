@@ -1,0 +1,2 @@
+
+Continuous variables were analyzed using the Mann Whitney U test and categorical variables analyzed using the Pearson χ 2 test. The sensitivity and specificity of various tumor sizes were analyzed using a receiver operating characteristic (ROC) curve, and the optimal cutoff value was determined. All statistical analyses were performed using SPSS statistical software (SPSS for Windows, version 13;  SPSS Inc., IL). A P-value < 0.05 was considered statistically significant.

@@ -1,0 +1,2 @@
+
+Statistical analysis. All assays were performed in at least three independent experiments and data are presented as the mean + standard error of the mean. Statistical analysis was performed by one-way analysis of variance and Newman-Keuls multiple comparison test, using GraphPad Prism 5.0 software (GraphPad Software Inc., La Jolla, CA, USA). P<0.05 was considered to indicate a statistically significant difference.

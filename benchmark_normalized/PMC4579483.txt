@@ -1,0 +1,2 @@
+
+The data were analyzed through the equations already introduced in this paper. To investigate the association between comprehending the instruction for crosswise model and the trust of respondents in it, Chi-square test was used. All calculations were performed through Excel and R-package.

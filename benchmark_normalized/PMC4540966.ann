@@ -1,0 +1,19 @@
+T1    Application_Mention 829 869 Multiple Em for Motif Elicitation (MEME)
+T2    Application_Mention 4035 4076 Basic Local Alignment Search Tool (BLAST)
+T3    Application_Mention 4537 4542 BLAST
+T4    Application_Mention 4634 4644 SeqMan Pro
+T5    Developer 4646 4663 DNASTAR Lasergene
+T6    Version 4672 4677 8.0.2
+T7    Application_Mention 6139 6145 mVISTA
+T8    Application_Mention 6333 6341 ClustalX
+T9    Version 6342 6348 2.0.11
+T10    Application_Mention 6441 6445 MEME
+T11    Version 6481 6484 4.6
+T12    Developer 6486 6502 Bailey and Elkan
+T13    Version 6503 6507 1994
+T14    Application_Mention 6571 6578 WebLogo
+T15    Version 6625 6630 2.8.2
+T16    Application_Mention 6821 6843 customized Perl script
+T17    Application_Mention 7208 7217 SigmaStat
+T18    Version 7218 7221 3.5
+T19    Developer 7223 7238 Systat Software

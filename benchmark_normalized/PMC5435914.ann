@@ -1,0 +1,25 @@
+T1    Application_Mention 186 192 BOWTIE
+T2    Application_Mention 221 225 MACS
+T3    Version 235 238 1.4
+T4    Application_Mention 367 373 Pyicos
+T5    Application_Mention 447 454 EnsEMBL
+T6    Application_Mention 466 481 EnsEMBL Biomart
+T7    Version 490 492 54
+T8    Application_Mention 500 512 Bioconductor
+T9    Application_Mention 521 533 ChIPpeakAnno
+T10    Application_Mention 662 666 CEAS
+T11    Application_Mention 985 991 WEEDER
+T12    Application_Mention 1001 1005 MEME
+T13    Application_Mention 1162 1169 EnsEMBL
+T14    Application_Mention 1420 1427 Gitools
+T15    URL 1482 1504 http://www.gitools.org
+T16    Application_Mention 1687 1763 DAVID tools (Database for Annotation, visualization and integrated discovery
+T17    Version 1766 1769 6.7
+T18    URL 1772 1801 http://david.abcc.ncifcrf.gov
+T19    Application_Mention 1943 1948 Pscan
+T20    Application_Mention 2777 2785 BedTools
+T21    Application_Mention 2946 2984 in-house R programming language script
+T22    Application_Mention 3547 3572 DNA-ChIP Analyzer (dChIP)
+T23    Application_Mention 3711 3729 Affymetrix package
+T24    Application_Mention 3733 3747 R bioconductor
+T25    Application_Mention 3874 3879 Limma

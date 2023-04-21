@@ -1,0 +1,25 @@
+T1    Application_Mention 276 286 PostgreSQL
+T2    Application_Mention 1149 1155 BLASTP
+T3    Application_Mention 1521 1535 RASTA-Bacteria
+T4    Application_Mention 1595 1610 RASTA- Bacteria
+T5    Application_Mention 1630 1638 RPSBLAST
+T6    Application_Mention 1777 1791 RASTA-Bacteria
+T7    Application_Mention 2801 2815 RASTA-Bacteria
+T8    Application_Mention 3823 3833 PostgreSQL
+T9    Application_Mention 4215 4220 Linux
+T10    Application_Mention 4239 4245 Apache
+T11    Application_Mention 4474 4481 Gbrowse
+T12    Application_Mention 4528 4534 CGview
+T13    Application_Mention 4599 4605 MUSCLE
+T14    Application_Mention 4615 4622 Jalview
+T15    Application_Mention 4653 4664 Primer3Plus
+T16    Application_Mention 4675 4687 IslandViewer
+T17    Application_Mention 6012 6026 RASTA-Bacteria
+T18    Application_Mention 6151 6158 Gbrowse
+T19    Application_Mention 8361 8369 WU-BLAST
+T20    Version 8370 8373 2.0
+T21    Developer 8375 8382 W. Gish
+T22    Application_Mention 8480 8488 RPSBLAST
+T23    Application_Mention 8951 8956 Blast
+T24    Application_Mention 9077 9084 Gbrowse
+T25    Application_Mention 10725 10733 RPSBLAST

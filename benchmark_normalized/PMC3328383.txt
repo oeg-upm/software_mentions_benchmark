@@ -1,0 +1,2 @@
+
+Images of immunostained molecules were acquired at room temperature using a fluorescence microscope (Axioskop 2; Carl Zeiss) equipped with a Plan Apochromatic 100× 1.4 NA oil objective lens and a charge-coupled device camera (CoolSNAP HQ; Photometrics) using IPLab software (BD). Images were processed with Photoshop (Adobe) and aligned according to the FISH probe pattern using Illustrator software (Adobe).

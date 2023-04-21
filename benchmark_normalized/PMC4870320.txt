@@ -1,0 +1,2 @@
+
+All statistical analyses were performed using the IBM SPSS ver. 20 (IBM Co., Armonk, NY, USA) with a 95% confidence level. We used the independent t-test to compare data from the groups and a p-value of less than 0.05 was considered to indicate significance.

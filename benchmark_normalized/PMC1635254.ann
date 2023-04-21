@@ -1,0 +1,12 @@
+T1    Application_Mention 420 425 BLAST
+T2    Application_Mention 692 704 PERL scripts
+T3    Application_Mention 711 718 BioPerl
+T4    Application_Mention 771 779 Ensemble
+T5    Application_Mention 826 838 Perl scripts
+T6    Application_Mention 887 899 repeatmasker
+T7    URL 901 928 http://www.repeatmasker.org
+T8    Application_Mention 3123 3130 GenePix
+T9    Version 3344 3347 4.1
+T10    Application_Mention 3413 3418 limma
+T11    Application_Mention 3443 3444 R
+T12    Application_Mention 3833 3838 limma

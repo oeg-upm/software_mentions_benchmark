@@ -1,0 +1,26 @@
+T1    Application_Mention 3959 3967 MaxQuant
+T2    Version 3968 3976 1.2.0.13
+T3    Application_Mention 3981 4000 Proteome Discoverer
+T4    Version 4001 4004 1.3
+T5    Developer 4006 4020 Thermo- Fisher
+T6    Application_Mention 4113 4121 Maxquant
+T7    Application_Mention 4123 4133 Andromedia
+T8    Application_Mention 4220 4228 MaxQuant
+T9    Developer 4230 4266 Max Planck Institute of Biochemistry
+T10    Version 4298 4305 1.3.0.5
+T11    Application_Mention 4877 4885 Proteome
+T12    Version 4903 4906 3.6
+T13    Application_Mention 4994 5013 Proteome Discoverer
+T14    Version 5014 5017 1.3
+T15    Application_Mention 5042 5048 Mascot
+T16    Application_Mention 5115 5125 Percolator
+T17    Version 5126 5130 1.17
+T18    Developer 5132 5156 University of Washington
+T19    Application_Mention 5182 5188 Mascot
+T20    Developer 5204 5218 Matrix Science
+T21    Application_Mention 5535 5543 Maxquant
+T22    Application_Mention 5548 5567 Proteome Discoverer
+T23    Version 5568 5571 1.3
+T24    Application_Mention 5595 5603 Scaffold
+T25    Application_Mention 5732 5738 GeneGo
+T26    Developer 5740 5755 Thomson Reuters
