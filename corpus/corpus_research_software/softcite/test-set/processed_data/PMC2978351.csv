@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'location', 'of', 'cancer', 'mutants', 'and', 'cancer', 'rescue', 'mutants', 'in', 'the', 'p53', '3D', 'structure', 'was', 'visualized', 'using', 'Visual', 'Molecular', 'Dynamics', '(VMD)', '(http://www.ks.uiuc.edu/', 'Research/vmd/).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O']"

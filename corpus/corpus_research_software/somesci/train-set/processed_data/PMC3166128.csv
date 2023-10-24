@@ -1,0 +1,2 @@
+tokens,labels
+"['We', 'used', 'SPSS', 'v.17', 'to', 'estimate', 'univariate', 'Spearman', 'Rank', 'correlations,', 'and', 'partial', 'correlation', 'and', 'multiple', 'regression', 'with', 'backwards', 'exclusion', 'to', 'identify', 'associations', 'with', 'smoking', 'prevalence', 'that', 'were', 'independently', 'significant', 'at', 'p<0.05.']","['O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

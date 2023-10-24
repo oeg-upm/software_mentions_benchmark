@@ -1,0 +1,2 @@
+
+We also used stratified g-estimation models to assess if synthetic exposure caused people to leave work differentially by race and gender. SAS software V.9.3 (SAS Institute Inc, Cary, North Carolina, USA) was used for the g-estimation and categorical analyses, and R software (R Development Core Team, Vienna, Austria) was used for the spline analysis.

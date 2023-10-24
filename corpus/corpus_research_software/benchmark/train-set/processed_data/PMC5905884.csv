@@ -1,0 +1,2 @@
+tokens,labels
+"['DLMs', 'were', 'implemented', 'using', 'the', 'dlnm', 'package', 'version', '2.2.6', 'in', 'R', 'Studio', '(Vienna,', 'Austria)', 'and', 'other', 'analyses', 'were', 'performed', 'in', 'SAS', '(v9.4,', 'SAS', 'Institute', 'Inc.,', 'Cary,', 'NC).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,6 @@
+tokens,labels
+"['The', 'analysis', 'of', 'the', 'collected', 'data', 'was', 'with', 'IBM', 'SPSS', 'statistics', 'package', 'ver.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O']"
+"['20.0', '(IBM,', 'Armonk,', 'NY,', 'USA).']","['O', 'O', 'O', 'O', 'O']"
+"['It', 'was', 'used', 'for', 'the', 'descriptive', 'statistics', 'including', 'the', 'means,', 'ratios', 'and', 'their', 'confidence', 'intervals,', 'and', 'also', 'the', 'diagrams', 'and', 'tables.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'tests', 'included', 'the', 'independent', 't-test,', 'one-way', 'analysis', 'of', 'variance,', 'chi-square,', 'univariate', 'and', 'multivariate', 'binary', 'logistic', 'regression', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'significance', 'level', 'was', 'set', 'at', '0.05', 'for', 'all', 'the', 'statistical', 'tests.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

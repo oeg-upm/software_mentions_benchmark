@@ -1,0 +1,4 @@
+tokens,labels
+"['We', 'used', 'Microsoft', 'Excel', 'versions', '2000', 'and', '2007', 'to', 'categorise', 'studies.']","['O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Where', 'needed,', 'data', 'were', 'exported', 'into', 'Microsoft', 'Access', '(versions', '2000', 'and', '2007)', 'and', 'specific', 'keyword', 'queries', 'used', 'to', 'select', 'precise', 'sections', 'of', 'the', 'data', 'for', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['We', 'used', 'Stata', '(V.11.0)', 'for', 'statistical', 'analysis', 'and', 'to', 'generate', 'figures.']","['O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

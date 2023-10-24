@@ -1,0 +1,3 @@
+tokens,labels
+"['We', 'attribute', 'this', 'accuracy', 'gap', 'to', 'the', 'lack', 'of', 'dependency', 'modeling', 'among', 'decoder', 'inputs.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['In', 'this', 'paper,', 'we', 'propose', 'CNAT', 'which', 'learns', 'implicitly', 'categorical', 'codes', 'as', 'latent', 'variables', 'into', 'the', 'non-autoregressive', 'decoding.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+
+Survival was estimated using the Kaplan-Meier product-limit method using SPSS (v. 22) software (SPSS Inc., Chicago, IL, USA). Patient and tumour characteristics, namely age, T-stage, grade of tumour, axillary lymph node (LN) status, and hormone receptor status, were studied to determine the effect of each variable on survival rates. The two-sided log-rank test was used to test the association between patient variables and survival. P ≤ 0.05 was considered as significant.

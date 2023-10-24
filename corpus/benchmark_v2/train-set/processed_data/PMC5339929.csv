@@ -1,0 +1,4 @@
+tokens,labels
+"['Statistical', 'analysis', 'was', 'performed', 'using', 'SPSS', '(version', '11.5,SPSS', 'Inc.,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Serum', 'HBV', 'DNA', 'levels', 'and', 'HBsAg', 'concentrations', 'were', 'logarithmically', 'transformed', 'for', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Continuous', 'variables', 'were', 'expressed', 'as', 'mean', '±', 'standard', 'deviation', '(SD)', 'or', 'median', '(range),', 'and', 'categorical', 'variables', 'as', 'absolute', 'and', 'relative', 'frequencies.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

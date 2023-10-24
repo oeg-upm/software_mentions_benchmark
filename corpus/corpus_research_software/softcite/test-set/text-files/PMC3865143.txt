@@ -1,0 +1,2 @@
+
+Paired t-tests were used to compare the sleep-deprived and normal sleep conditions. The Wilcoxon signed-rank test (nonparametric test, n=16) was also applied. Significance levels were set at P,0.05. All statistical analyses were conducted using Statistical Package for the Social Sciences version 22.0 software (IBM, Armonk, NY, USA).Times of going to sleep and waking (actigraphy data) were 1.59±101.42 minutes and 9.36±148.77 minutes, respectively. This "night owl" sleep schedule may have been due to the flexible time schedule typical of university students.

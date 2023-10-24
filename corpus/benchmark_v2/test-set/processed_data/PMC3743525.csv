@@ -1,0 +1,2 @@
+tokens,labels
+"['All', 'statistical', 'analyses', 'were', 'done', 'in', 'Stata', '12', '(Stata', 'Corp.', 'Inc.', 'TX,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,5 @@
+tokens,labels
+"['The', 'data', 'for', 'each', 'variable', 'were', 'tested', 'using', 'the', ""D'"", 'Agostino', '&', 'Pearson', 'normality', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'mean', 'and', 'standard', 'deviation', 'or', 'median', 'and', 'range', 'were', 'determined.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"[""Student's"", 't', 'test', 'or', 'the', 'Mann-Whitney', 'test', 'was', 'performed', 'as', 'appropriate.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'analyses', 'were', 'performed', 'using', 'GraphPad', 'SoftwareH', '5.0', 'for', 'Windows', '(GraphPad', 'Software', 'Inc,', 'La', 'Jolla,', 'CA,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

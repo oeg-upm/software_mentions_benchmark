@@ -1,0 +1,7 @@
+tokens,labels
+"['Statistical', 'analysis', 'was', 'performed', 'with', 'IBM', 'SPSS', 'Statistics', 'v.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O']"
+"['22.0', '(SPSS', 'Inc.,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'mean', 'and', 'the', 'standard', 'deviation', 'of', 'each', 'group', 'were', 'calculated.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'data', 'were', 'analyzed', 'with', 'Mann-Whitney', 'U', 'test', 'to', 'check', 'for', 'significant', 'differences', 'among', 'the', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Wilcoxon', 'signedrank', 'tests', 'were', 'also', 'used', 'to', 'analyze', 'the', 'effects', 'of', 'the', 'direction', 'of', 'the', 'dislodging', 'force', 'within', 'the', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'analyses', 'were', 'performed', 'at', '95%', 'level', 'of', 'confidence', '(α', '=', '.05).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

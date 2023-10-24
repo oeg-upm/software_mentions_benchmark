@@ -1,0 +1,6 @@
+tokens,labels
+"['Data', 'were', 'analyzed', 'using', 'SPSS', 'version', '13.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"
+"['The', 'Kolmogorov-Smirnov', 'test', 'was', 'used', 'to', 'determine', 'whether', 'the', 'quantitative', 'variables', 'were', 'normally', 'distributed.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Descriptive', 'statistics', '(frequencies,', 'percentages,', 'means,', 'and', 'standard', 'deviations)', 'were', 'calculated', 'for', 'compliance', 'with', 'quality', 'indicators.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Pearson', 'correlation', 'analysis', 'was', 'conducted', 'to', 'examine', 'the', 'relationship', 'between', ""nurses'"", 'compliance', 'with', 'auditing', 'indicators', 'and', 'their', 'age', 'and', 'work', 'experience.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Independent-samples', 't-tests', 'were', 'used', 'to', 'compare', 'the', 'mean', 'compliance', 'scores', 'of', 'nurses', 'by', 'dichotomous', 'demographic', 'variables.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,8 @@
+tokens,labels
+"['Experiments', 'were', 'performed', 'three', 'times', 'in', 'triplicate.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Data', 'was', 'expressed', 'either', 'as', 'percentages', 'of', 'nontreated', 'controls', '(individual', 'testing)', 'or', 'as', 'percentages', 'of', 'the', 'signal', 'observed', 'for', '30', 'pM', 'E', '2', '(testing', 'mixtures', 'NFLX-E', '2', ').']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'normality', 'of', 'the', 'distribution', 'of', 'data', 'was', 'tested', 'with', 'the', 'Shapiro-Wilk', 'test', '(p<0.05).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['To', 'compare', 'data,', '1-way', 'ANOVA', 'was', 'applied', 'to', 'normally', 'distributed', 'data,', 'followed', 'by', ""Dunnett's"", 'Multiple', 'Comparison', 'post', 'hoc', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['For', 'data', 'that', 'were', 'not', 'normally', 'distributed', 'we', 'used', 'KruskalWallis', 'test,', 'followed', 'by', ""Dunnett's"", 'Multiple', 'Comparison', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Differences', 'in', 'P', 'values', 'of', '<0.05', 'were', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analyses', 'and', 'graphs', 'were', 'performed', 'using', 'GraphPad', 'Prism', '5.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

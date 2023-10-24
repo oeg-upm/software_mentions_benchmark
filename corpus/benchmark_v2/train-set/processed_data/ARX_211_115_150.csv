@@ -1,0 +1,3 @@
+tokens,labels
+"['To', 'the', 'best', 'of', 'our', 'knowledge,', 'AirObject', 'is', 'one', 'of', 'the', 'first', 'temporal', 'object', 'encoding', 'methods.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Source', 'code', 'is', 'available', 'at', 'https://github.com/Nik-V9/AirObject.']","['O', 'O', 'O', 'O', 'O', 'O']"

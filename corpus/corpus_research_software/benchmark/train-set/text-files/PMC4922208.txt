@@ -1,0 +1,2 @@
+
+All the components of a breast cancer screening program were transferred to simulation software and Excel to calculate the cost effectiveness ratio. A Monte Carlo simulation was done with 1000 iteration and 95% confidence interval of cancer costs and effects in screened and nonscreened strategies.

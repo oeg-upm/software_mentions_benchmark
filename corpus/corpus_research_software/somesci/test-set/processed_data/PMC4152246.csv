@@ -1,0 +1,2 @@
+tokens,labels
+"['Charts', 'were', 'created', 'using', 'MS', 'Excel', 'to', 'compare', 'data', 'across', 'and', 'within', 'cases.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,4 @@
+tokens,labels
+"['Statistical', 'design:', 'Data', 'were', 'analyzed', 'using', 'SPSS', 'software', 'version', '16.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"
+"['The', 'mean,', 'standard', 'deviation', 'and', 'the', 'Student', 't', 'test', 'were', 'used', 'to', 'compare', 'blood', 'flow', 'indices', 'in', 'the', 'control', 'and', 'abortion', 'groups', 'and', 'the', 'paired', 't-test', 'was', 'used', 'for', 'comparison', 'of', 'blood', 'flow', 'before', 'and', 'after', 'administration', 'of', 'IMN', 'in', 'the', 'abortion', 'group.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'p≤0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O']"

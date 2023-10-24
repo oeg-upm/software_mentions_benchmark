@@ -1,0 +1,2 @@
+
+As already performed by Ortega et al. (Ortega et al., 2010), all the analyses conducted on the HELENA data were adjusted by a weighing factor to balance the sample according to the age and sex distribution of the theoretical sample to guarantee representation of each of the stratified groups. The counts of subjects (n) are reported in the tables as unweighted values. All the statistical analyses were performed using the SPSS statistical software package for Microsoft Windows (version 12.00, SPSS Inc., Chicago, IL, USA).

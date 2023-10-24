@@ -1,0 +1,5 @@
+tokens,labels
+"['Statistical', 'analyses', 'were', 'performed,', 'and', 'the', 'data', 'were', 'expressed', 'as', 'the', 'mean', '±', 'standard', 'deviation', '(SD)', 'of', 'five', 'experiments.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['SPSS', '16.0', 'was', 'utilized', 'for', 'data', 'analysis.']","['B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 't-test', 'was', 'employed', 'to', 'compare', 'two', 'groups,', 'and', 'one-way', 'analysis', 'of', 'variance', '(ANOVA)', 'was', 'used', 'to', 'compare', 'multiple', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'p-value<0.05', 'was', 'regarded', 'as', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"

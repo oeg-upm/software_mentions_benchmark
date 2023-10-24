@@ -1,0 +1,2 @@
+tokens,labels
+"['Inspired', 'by', 'the', 'different', 'properties', 'of', 'the', 'tensor', 'nuclear', 'norm', '(TNN)', 'and', 'the', 'Casorati', 'matrix', 'nuclear', 'norm', '(MNN),', 'we', 'introduce', 'a', 'combined', 'TNN', 'and', 'Casorati', 'MNN', 'regularizations', 'framework', 'to', 'reconstruct', 'dMRI,', 'which', 'we', 'term', 'as', 'TMNN']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention']"

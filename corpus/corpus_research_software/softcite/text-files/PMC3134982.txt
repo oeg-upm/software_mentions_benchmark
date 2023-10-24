@@ -1,0 +1,2 @@
+
+Data are presented in Figs. (1, 2) as box-and-whisker plots indicating median, quartiles, whiskers and outliers.StatGraphics Centurion (Statpoint Technologies, Inc., Warrenton, Virginia, USA) was used for statistical analysis. One-way analysis of variance (ANOVA) following multiple comparisons with Fisher's least significant difference (LSD) procedure at the 95.0% confidence level was performed to determine if there were significant differences.

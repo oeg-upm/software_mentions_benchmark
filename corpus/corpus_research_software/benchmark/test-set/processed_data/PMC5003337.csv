@@ -1,0 +1,2 @@
+tokens,labels
+"['All', 'preprocessing,', 'time–frequency', 'SPM', 'analyses,', 'and', 'ERP', 'analyses', 'were', 'performed', 'using', 'SPM', '(http://www.fil.ion.ucl.ac.uk/spm)', 'implemented', 'in', 'MATLAB', 'R2012b', '(MathWorks).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"

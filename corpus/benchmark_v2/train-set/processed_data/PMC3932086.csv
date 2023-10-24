@@ -1,0 +1,4 @@
+tokens,labels
+"['A', 'PFC', 'mask', 'was', 'created', 'using', 'the', 'normalized', 'T1-weighted', 'high-resolution', 'images', 'of', 'all', 'participants,', 'which', 'were', 'stripped', 'using', 'BrainSuite2', '(http://brainsuite.', 'usc.edu).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"
+"['The', 'PFC', 'mask', 'included', 'Brodmann', 'areas', '(BA)', '9-12,', '24,', '25,', '32,', 'and', '44-47.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Only', 'voxels', 'within', 'this', 'mask', 'were', 'further', 'analyzed.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

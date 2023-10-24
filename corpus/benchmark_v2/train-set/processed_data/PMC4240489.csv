@@ -1,0 +1,3 @@
+tokens,labels
+"['Mann-Whitney', 'U-test,', 'Student', 't-test,', 'χ', '2', '-test,', 'the', 'Fisher', 'exact', 'test', 'were', 'used', 'as', 'appropriate', 'to', 'compare', 'premedication', 'groups', 'with', 'respect', 'to', 'baseline', 'characteristic', 'and', 'outcomes', 'of', 'interest;', 'significance', 'level', 'was', 'set', 'at', '0.05,', 'Statistica', 'ver.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+"['8.0', '(StatSoft,', 'Tulsa,', 'OK,', 'USA)', 'was', 'used', 'to', 'perform', 'the', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

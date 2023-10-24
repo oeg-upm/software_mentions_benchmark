@@ -1,0 +1,2 @@
+tokens,labels
+"['Associations', 'with', 'teenage', 'motherhood', 'were', 'modeled', 'using', 'multilevel', 'logistic', 'regression', 'of', 'the', 'above', 'structure', 'using', 'STATA', 'MP', 'statistical', 'package', 'version', '14', '(StataCorp', 'L,', 'College', 'Station,', 'Texas,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,4 @@
+
+Data Processing-Indexing of diffraction images was performed using the programs DENZO (15) or XDS (16). Scaling of data was performed using the program SCALEPACK (15). The merged scaled data were imported into the CCP4 format with programs from the CCP4 program suite organized under the CCP4i interface (17).
+Structure Determination and Refinement-Phases were determined using the molecular replacement method with idealized polyalanine ␤-strands using the program PHASER (18). The program COOT (19) was used for model building along with rounds of refinement with the program REFMAC (20). Statistics for structure determination and atomic refinement are given in Table 1.
+Illustration of Structures-Protein structures and models were illustrated using the program PyMOL (22).

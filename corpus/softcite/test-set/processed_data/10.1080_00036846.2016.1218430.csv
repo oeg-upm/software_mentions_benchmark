@@ -1,0 +1,4 @@
+tokens,labels
+"['The', 'software', 'package', 'AMOS', '(Analysis', 'of', 'Moment', 'Structures)', 'by', 'Arbuckle', '(2006)', 'was', 'used', 'to', 'analyse', 'the', 'data.']","['O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Initially,', 'a', 'test', 'of', 'multivariate', 'normality', 'was', 'conducted', 'and,', 'as', 'a', 'result,', 'six', 'observations', 'were', 'removed.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['These', 'observations', 'had', 'Mahalanobis', 'distance', 'values', 'that', 'deviated', 'significantly', 'from', 'the', 'other', 'observations', '3', '-their', 'removal', 'resulted', 'in', 'a', 'sample', 'size', 'of', '504.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,13 @@
+tokens,labels
+"['Statistical', 'Analysis.']","['O', 'O']"
+"['Odds', 'ratios', '(ORs)', 'were', 'used', 'as', 'a', 'measure', 'of', 'the', 'association', 'between', 'the', 'TNF-a', '308G.A', 'polymorphism', 'and', 'RHD', 'risk.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['We', 'evaluated', 'the', 'risk', 'of', 'the', 'AA', 'or', 'GA', 'genotype', 'on', 'RHD', 'compared', 'with', 'the', 'GG', 'genotypes,', 'and', 'then', 'calculated', 'the', 'ORs', 'of', 'GA/AA', 'versus', 'GG', 'and', 'AA', 'versus', 'GG/GA,', 'using', 'dominant', 'and', 'recessive', 'genetic', 'models', 'of', 'the', 'A', 'allele,', 'respectively.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Pooled', 'estimates', 'of', 'the', 'OR', 'were', 'obtained', 'by', 'calculating', 'a', 'weighted', 'average', 'of', 'OR', 'from', 'eligible', 'study.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'betweenstudy', 'heterogeneity', 'I', '2', 'was', 'assessed', 'with', 'the', 'Q-test', '31.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Heterogeneity', 'was', 'considered', 'significant', 'if', 'the', 'P', ',', '0.05', 'among', 'studies.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'pooled', 'OR', 'was', 'calculated', 'using', 'the', 'fixed-effects', 'model.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Otherwise,', 'the', 'random-effects', 'model', 'was', 'used.']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'HWE', 'was', 'assessed', 'by', ""Fisher's"", 'exact', 'test', 'with', 'significance', 'set', 'at', 'P', ',', '0.05', 'level.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'potential', 'publication', 'bias', 'was', 'constructed', 'by', 'a', 'funnel', 'plot.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'funnel', 'plot', 'symmetry', 'was', 'evaluated', 'by', 'using', ""Egger's"", 'linear', 'regression', 'test', 'on', 'the', 'natural', 'logarithm', 'scale', 'of', 'the', 'OR', 'and', 'significance', 'was', 'set', 'at', 'P', ',', '0.05', 'level.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'analyses', 'were', 'performed', 'using', 'theStata', 'software', '(version', '10.0', 'StataCorp', 'LP,', 'College', 'Station,', 'TX).']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

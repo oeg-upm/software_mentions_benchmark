@@ -1,0 +1,2 @@
+tokens,labels
+"['Analysis', 'were', 'conducted', 'using', 'SPSS', 'vs.', '20.0', '(IBM', 'Corp.,', 'released', '2011,', 'Armonk,', 'NY)', 'and', 'GraphPad', 'Prism', '7.0', 'software', '(GraphPad', 'Software,', 'Inc.,', 'San', 'Diego,', 'CA).']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

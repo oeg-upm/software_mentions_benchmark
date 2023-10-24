@@ -1,0 +1,4 @@
+tokens,labels
+"['SPSS', 'version', '14', 'for', 'Windows', 'was', 'used', 'for', 'statistical', 'calculations.']","['B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Mann-Whitney', 'and', 'Chi', 'tests', 'were', 'employed', 'to', 'analyze', 'intergroup', 'difference.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'significance', 'was', 'declared', 'at', 'the', 'p', '<', '0.05', 'range.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

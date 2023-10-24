@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'completed', 'questionnaires', 'were', 'coded', 'and', 'entered', 'into', 'EPI', 'info', 'version', '3.5.3', 'statistical', 'software', 'and', 'then', 'exported', 'to', 'SPSS', 'windows', 'version', '20', 'program', 'for', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"

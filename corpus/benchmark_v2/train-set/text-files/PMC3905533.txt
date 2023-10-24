@@ -1,0 +1,2 @@
+
+Descriptive statistics included the frequency distribution table and mean (SD), and were obtained through the Software SPSS version 17. In addition, chi-square and/or Fisher's exact test was used to compare the quantitative variables, independent t-test and/or Mann-Whitney U test to compare means, and also univariate and multivariable logistic regression analysis viaStata software. P-value of less than 0.05 was defined as a statistically significant level.

@@ -1,0 +1,2 @@
+
+The two models were estimated using computer programs developed with the help of the "Matlab" software. The log likelihood for the two models, and for a variety of alternative hypothesis, is presented in table 1. 6 The parameter of β * t do not enter explicitly in the numerical optimization routine. They are concentrated out by the Kim filter.

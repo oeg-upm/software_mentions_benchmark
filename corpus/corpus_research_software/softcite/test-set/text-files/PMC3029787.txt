@@ -1,0 +1,2 @@
+
+The data were analysed using Kruskall Wallis tests for non parametric data to test the dose effect. When global analysis was significant (P < 0.05), the Kolmogorov Smirnov test was used to compare the different treated groups to the control group. The tests were carried out on SAS ® software version 8.

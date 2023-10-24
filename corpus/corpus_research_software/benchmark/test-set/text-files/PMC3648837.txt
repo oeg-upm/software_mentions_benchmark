@@ -1,0 +1,2 @@
+
+Data are expressed as mean ± standard deviation. Data were checked for normal distribution before analysis using the Kolmogorov-Smirnov test. Fisher's exact test, analysis of variance (ANOVA) with Fisher's post hoc test, and simple regression analysis were used as appropriate. A value of p < 0.05 was considered significant. All statistics were performed using StatView 5.0 software for Macintosh (Abacus Concepts, Berkley, CA).

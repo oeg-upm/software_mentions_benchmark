@@ -1,0 +1,2 @@
+
+Biomarker selection. To identify biomarkers for prostate cancer aggressiveness, we developed a selection and evaluation process that could be broadly applicable across diseases and conditions. The process, shown in Figure Definiens automated image analysis. We developed an automated image analysis algorithm using Definiens Developer XD for tumour identification and biomarker quantification as described in Supplementary Materials.

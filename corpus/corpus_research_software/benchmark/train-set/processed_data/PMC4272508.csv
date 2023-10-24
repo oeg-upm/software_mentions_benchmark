@@ -1,0 +1,6 @@
+tokens,labels
+"['All', 'variables', 'were', 'expressed', 'for', 'categorical', 'data', 'as', 'the', 'means±s.e.m.', 'or', 'medians', 'and', 'interquartile', 'ranges', 'for', 'continuous', 'data', 'with', 'or', 'without', 'a', 'normal', 'distribution,', 'respectively.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Normally', 'distributed', 'continuous', 'variables', 'were', 'compared', 'between', 'groups', 'using', 'two-tailed-tests.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Nonparametric', 'data', 'was', 'compared', 'between', 'groups', 'using', 'the', 'independent', 'samples', 'Mann-Whitney', 'U-test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['P-value', '<0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analyses', 'were', 'performed', 'using', 'the', 'computer', 'softwareStatistical', 'Package', 'for', 'the', 'Social', 'Sciences', 'version', '20.0', '(SPSS,', 'Chicago,', 'IL).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O']"

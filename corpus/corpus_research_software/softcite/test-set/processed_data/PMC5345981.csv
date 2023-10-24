@@ -1,0 +1,5 @@
+tokens,labels
+"['Unless', 'stated', 'otherwise,', 'all', 'the', 'experiments', 'were', 'performed', 'at', 'least', 'three', 'times.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'experimental', 'data', 'are', 'expressed', 'as', 'mean', '±', 'standard', 'deviation.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'analysis', 'was', 'performed', 'using', 'one-way', 'analysis', 'of', 'variance', 'followed', 'by', 'Bonferroni', 'test', 'with', 'Statistical', 'Package', 'for', 'the', 'Social', 'Sciences', '(SPSS)', '16.0', 'software.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O']"
+"['*P\ue02c0.05', 'was', 'considered', 'as', 'statistically', 'significant', 'and', '**P\ue02c0.01', 'as', 'extremely', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

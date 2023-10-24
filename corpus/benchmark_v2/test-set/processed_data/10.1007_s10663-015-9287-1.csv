@@ -1,0 +1,6 @@
+tokens,labels
+"['Beirne', '(2011)']","['O', 'O']"
+"['For', 'further', 'details', 'we', 'refer', 'the', 'Reader', 'to', 'Meyer', 'and', 'Yu', '(2000).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Estimation', 'of', 'SV', 'model', 'was', 'performed', 'using', 'OpenBugs', 'program', 'of', 'Meyer', 'and', 'Yu', '(2000).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['First', '10', '000', 'iterations', 'were', 'treated', 'as', 'the', ""''burn-out''"", 'period,', 'while', 'next', '10,000-as', 'the', 'sample', 'from', 'the', 'posterior', 'distribution.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Estimation', 'of', 'conditional', 'mean', 'was', 'performed', 'in', 'OxMetrics', '6.1', 'program.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"

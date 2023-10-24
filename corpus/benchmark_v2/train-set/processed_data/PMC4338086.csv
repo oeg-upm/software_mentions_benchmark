@@ -1,0 +1,6 @@
+tokens,labels
+"['Statistical', 'analyses', 'were', 'performed', 'using', 'PASW', 'ver.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+"['18.0', '(SPSS', 'Inc.,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['Continuous', 'variables', 'were', 'presented', 'as', 'mean±SD.']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'paired', 't-test', 'was', 'used', 'to', 'compare', 'normally', 'distributed', 'data,', 'and', 'the', 'Wilcoxon', 'signed-rank', 'test', 'was', 'used', 'otherwise.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Two-sided', 'P-values', 'of', 'less', 'than', '0.05', 'indicated', 'statistical', 'significance.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

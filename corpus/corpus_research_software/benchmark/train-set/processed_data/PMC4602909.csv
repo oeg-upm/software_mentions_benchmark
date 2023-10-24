@@ -1,0 +1,7 @@
+tokens,labels
+"['Data', 'were', 'represented', 'as', 'mean', 'with', 'range', '(minimum', 'to', 'maximum)', 'for', 'continuous', 'variables', 'and', 'n', '(%)', 'for', 'categorical', 'ones.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['intervals', '(95%', 'CIs).']","['O', 'O', 'O']"
+"['Variables', 'with', 'significance', 'level', 'of', 'P', '<', '0.1', 'in', 'the', 'univariate', 'Cox-regression', 'model', 'were', 'selected', 'for', 'multivariate', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Kaplan-Meier', 'survival', 'curves', 'with', 'a', 'log-rank', 'test', 'were', 'performed', 'to', 'identify', 'the', 'OS', 'and', 'PFS', 'among', 'the', 'clinical', 'and', 'pathological', 'characteristics.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['18', 'All', 'statistical', 'assessments', 'were', '2-tailed,', 'and', 'P', 'values', '<0.05', 'were', 'considered', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analyses', 'were', 'carried', 'out', 'with', 'IBM', 'SPSS', 'statistical', 'software', 'version', '22', 'for', 'Windows', '(IBM', 'Corp.,', 'New', 'York,', 'NY).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,3 @@
+tokens,labels
+"['If', 'not', 'otherwise', 'noted,', 'we', 'use', 'the', 'same', 'architecture', 'for', 'all', 'experiments,', 'sometimes', 'including', 'the', 'latent', 'probabilistic', 'model', '(SOM-VAE_prob', 'and', 'sometimes', 'excluding', 'it', '(SOM-VAE']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'B-Application_Mention']"
+"['For', 'model', 'implementation', 'details,', 'we', 'refer', 'to', 'the', 'appendix', '(Sec.', 'B)1']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

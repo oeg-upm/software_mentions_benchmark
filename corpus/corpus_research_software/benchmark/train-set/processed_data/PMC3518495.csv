@@ -1,0 +1,7 @@
+tokens,labels
+"['Statistical', 'analysis.']","['O', 'O']"
+"['The', 'data', 'presented', 'are', 'shown', 'as', 'means', '±', 'SD', 'of', 'three', 'or', 'five', 'independent', 'experiments.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'significance', 'was', 'estimated', 'by', ""Student's"", 't', 'test', 'for', 'unpaired', 'observations', 'and', 'one-or', 'two-way', 'ANOVA,', 'followed', 'by', ""Bonferroni's,"", ""Tukey's,"", 'or', ""Dunnett's"", 'post-hoc', 'comparisons.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Differences', 'were', 'considered', 'significant', 'at', 'when', 'p', 'values', 'were', '<', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analyses', 'were', 'conducted', 'using', 'GraphPad', 'Prism', '5.0', '(GraphPad', 'Software).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O']"
+"['For', 'immunoblots,', 'a', 'linear', 'correlation', 'was', 'observed', 'between', 'increasing', 'amounts', 'of', 'input', 'protein', 'and', 'signal', 'intensity.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

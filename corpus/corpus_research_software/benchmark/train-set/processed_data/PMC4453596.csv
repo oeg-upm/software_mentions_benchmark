@@ -1,0 +1,5 @@
+tokens,labels
+"['Data', 'extraction', 'and', 'computations', 'were', 'performed', 'with', 'the', 'Perl', 'programming', 'language', '(version', '5.12.2;', 'Perl', 'Foundation,', 'Walnut,', 'CA,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Microsoft', 'SQL', 'Server', '2005', '(Microsoft', 'Corp.,', 'Redmond,', 'WA,', 'USA)', 'was', 'used', 'for', 'data', 'linkage,', 'processing,', 'and', 'sampling.']","['O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analyses', 'were', 'performed', 'with', 'the', 'SAS', '9.2', 'software', '(SAS', 'Institute', 'Inc.,', 'Cary,', 'NC,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'significance', 'was', 'defined', 'as', 'a', 'P-value', 'of', 'o0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

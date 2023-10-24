@@ -1,0 +1,2 @@
+tokens,labels
+"['All', 'analyses', 'were', 'conducted', 'using', 'PASW', 'Statistics', '18', '(SPSS', 'Inc.,', '2009,', 'Chicago,', 'IL,', 'USA)', 'and', 'were', 'two-tailed', 'with', 'a', 'critical', 'p-value', 'of', '0.05.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

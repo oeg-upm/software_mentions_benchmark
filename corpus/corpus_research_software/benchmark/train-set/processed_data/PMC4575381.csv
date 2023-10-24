@@ -1,0 +1,4 @@
+tokens,labels
+"['Model', 'distribution', 'and', 'covariate', 'selection', 'were', 'based', 'on', 'maximizing', 'the', 'log-likelihood', 'and', 'minimizing', 'the', 'Akaike', 'information', 'criterion.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'proportional', 'hazards', 'assumption', 'was', 'tested', 'by', 'graphical', 'inspection', 'and', 'by', 'exploring', 'whether', 'the', 'included', 'covariates', 'significantly', 'varied', 'over', 'time.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'statistical', 'analysis', 'was', 'executed', 'using', 'Stata', '12', '(StataCorp', 'LP,', 'College', 'Station,', 'TX,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

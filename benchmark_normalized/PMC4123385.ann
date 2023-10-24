@@ -1,9 +1,0 @@
-T1    Application_Mention 238 289 Simple Sequence Repeat Identifi cation Tool (SSRIT)
-T2    URL 324 365 http://www.gramene.org/db/markers/ssrtool
-T3    Application_Mention 702 716 Primer Premier
-T4    Version 717 720 5.0
-T5    Developer 731 760 PREMIER Biosoft International
-T6    Application_Mention 2358 2364 BLASTX
-T7    URL 2374 2413 http://blast.ncbi.nlm.nih.gov/Blast.cgi
-T8    Application_Mention 2637 2643 BLASTX
-T9    Application_Mention 2647 2649 GO

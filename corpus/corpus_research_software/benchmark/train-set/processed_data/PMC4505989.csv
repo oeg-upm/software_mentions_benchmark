@@ -1,0 +1,4 @@
+tokens,labels
+"['We', 'used', 'survey', 'data', 'analysis', 'methods', 'in', 'the', 'STATA', 'Corp.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['2011,', 'STATA', 'Statistical', 'Software', '(Release', '12.', 'College', 'Station,', 'TX:', 'STATA', 'Corp', 'LP.', 'Package).']","['O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Moreover,', 'descriptive', 'analysis', 'was', 'used', 'to', 'determine', 'the', 'percentage', 'of', 'abdominal', 'obesity,', 'overweight', 'and', 'general', 'obesity', 'among', 'children', 'and', 'adolescents.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

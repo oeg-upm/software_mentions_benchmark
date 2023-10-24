@@ -1,0 +1,2 @@
+tokens,labels
+"['Statistical', 'models', 'were', 'run', 'using', 'Proc', 'Genmod', 'in', 'SAS', 'v9.1.2', '(Cary,', 'North', 'Carolina).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"

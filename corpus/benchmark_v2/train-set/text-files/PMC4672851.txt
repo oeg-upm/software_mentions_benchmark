@@ -1,0 +1,2 @@
+
+All the data were analyzed using SYSTAT, 12 software programs, before applying statistical test Logarithmic transformation has been carried out. Analysis of Variance (ANOVA) statistical test was applied to compare the mean values of the three groups, SCHEFFE multiple comparison to assess the mean differences within the group and Pearson correlation coefficient test was applied to correlate the hematological parameters with periodontal clinical parameters.

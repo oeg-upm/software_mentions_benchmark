@@ -1,0 +1,6 @@
+tokens,labels
+"['Results', 'were', 'analyzed', 'using', 'SPSS', 'version15.0', 'for', 'Windows', '(SPSS,', 'Chicago,', 'IL).']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'general', 'linear', 'model', '(repeated-measures', 'ANOVA)', 'was', 'used,', 'with', 'order', 'of', 'session', '(euglycemia-hypoglycemia', 'or', 'hypoglycemia-euglycemia)', 'as', 'a', 'between-subjects', 'factor,', 'and', 'condition', '(euglycemia', 'or', 'hypoglycemia)', 'as', 'a', 'within-subjects', 'factor,', 'to', 'compare', 'hypoglycemia', 'with', 'euglycemia.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Additional', 'analysis', 'using', 'paired', 't', 'tests', 'was', 'performed', 'to', 'assess', 'the', 'change', 'in', 'any', 'given', 'parameter', 'from', 'baseline.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'P', 'value', 'Ͻ0.05', 'was', 'considered', 'to', 'be', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Results', 'are', 'reported', 'as', 'mean', 'Ϯ', 'SD', 'unless', 'otherwise', 'stated.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,5 @@
+tokens,labels
+"['Logs', 'noted', 'dilation', 'progression,', 'which', 'included', 'pain', 'and', 'anxiety', 'with', 'dilation,', 'time', 'to', 'achieve', 'intercourse,', 'setbacks,', 'and', 'untoward', 'effects.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Post-treatment', 'FSFI', 'scores', 'were', 'compared', 'with', 'preprocedure', 'scores.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'lead', 'author', '(Dr', 'Pacik)', 'personally', 'entered', 'all', 'data', 'prospectively', 'into', 'an', 'extensive', 'Excel', 'spreadsheet', '(Microsoft,', 'Redmond,', 'WA,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O']"
+"['This', 'included', 're-evaluation', 'of', 'data', 'at', 'the', 'time', 'of', 'consultation,', 'treatment,', 'and', 'posttreatment', 'progress.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+tokens,labels
+"['For', 'analysing', 'genotype', 'effects', 'in', 'the', 'purebred', 'and', 'intercross', 'chickens,', 'we', 'used', 'Generalized', 'Linear', 'Models', '(SPSS', 'v.', '22.0).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"

@@ -1,0 +1,6 @@
+tokens,labels
+"['Numeric', 'results', 'were', 'summarized', 'as', 'median', 'and', 'range.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'Kruskal-Wallis', 'test', 'followed', 'by', 'the', 'Mann-Whitney', 'U', 'test', 'was', 'applied', 'to', 'compare', 'experimental', 'laboratory', 'markers', 'and', ""Fisher's"", 'exact', 'test', 'for', 'categorical', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Binary', 'logistic', 'regression', 'examined', 'the', 'relationship', 'between', 'numbers', 'of', 'CD34+/KDR+', 'cells', 'and', 'recurrence.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['p', 'values', '<0.05', '(two-sided)', 'were', 'regarded', 'as', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'analysis', 'was', 'performed', 'using', 'SPSS', 'version', '17.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"

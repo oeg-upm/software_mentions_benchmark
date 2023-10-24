@@ -1,0 +1,7 @@
+tokens,labels
+"['Statistical', 'analysis', 'was', 'carried', 'out', 'using', 'Review', 'Manager', '5.3.0.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O']"
+"['The', 'changes', 'in', 'seven', 'functional', 'indexes', 'were', 'determined', 'as', 'differences', 'between', 'baseline', 'and', 'study', 'completion.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Outcome', 'measurements', 'were', 'combined', 'by', 'calculating', 'the', 'mean', 'difference', 'with', '95%', 'confidence', 'interval', '(CI).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['To', 'quantify', 'the', 'effect', 'of', 'heterogeneity', 'test', 'result,', 'I', '2', 'heterogeneity', 'test', 'was', 'used.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'random-effects', 'model', 'was', 'used', 'if', 'I', '2', 'value', 'was', '.50%;', 'if', 'not,', 'a', 'fixed-effects', 'model', 'was', 'used.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Publication', 'bias', 'was', 'evaluated', 'using', 'the', 'funnel', 'plot.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

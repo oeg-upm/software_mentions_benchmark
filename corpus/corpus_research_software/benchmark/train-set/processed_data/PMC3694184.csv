@@ -1,0 +1,7 @@
+tokens,labels
+"['All', 'data', 'are', 'expressed', 'as', 'the', 'mean', '±', 'standard', 'deviation', '(SD).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'one-way', 'analysis', 'of', 'variance', '(ANOVA)', 'followed', 'by', ""Tukey's"", 'multiple', 'comparison', 'tests', 'was', 'used', 'to', 'analyze', 'results', 'from', 'the', 'mouse', 'model.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"[""Student's"", 't-test', 'was', 'performed', 'to', 'analyze', 'data', 'from', 'the', 'swine', 'experiments.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'Mann-Whitney', 'U', 'test', '(nonparametric', 'test)', 'was', 'also', 'used', 'to', 'compare', 'microscopic', 'lesion', 'scores', '(ordinal', 'data)', 'for', 'tissues', 'from', 'the', 'experimentally', 'PRRSV-infected', 'pigs.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analyses', 'were', 'performed', 'using', 'SPSS', 'version17.0', 'software', '(SPSS,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"
+"['P-values', '＜', '0.05', 'were', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"

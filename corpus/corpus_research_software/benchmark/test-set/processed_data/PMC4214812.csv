@@ -1,0 +1,3 @@
+tokens,labels
+"['Data', 'collected', 'in', 'the', 'above', 'manner', 'were', 'then', 'entered', 'in', 'a', 'purpose-created', 'database.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'data', 'were', 'analyzed', 'by', 'using', 'Microsoft', 'Office', '2010', '(8).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"

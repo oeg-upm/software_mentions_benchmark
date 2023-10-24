@@ -1,0 +1,6 @@
+tokens,labels
+"['Growth', 'assays', 'were', 'performed', 'as', 'previously', 'described', '(Zubko', 'et', 'al,', '2004).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Pooled', 'colonies', 'were', 'inoculated', 'into', '2', 'ml', 'of', 'YEPD', 'and', 'grown', 'to', 'saturation', 'at', '231C.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Five-fold', 'serial', 'dilutions', 'were', 'replicated', 'onto', 'agar', 'plates', 'and', 'grown', 'at', 'a', 'range', 'of', 'temperatures.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Plates', 'were', 'photographed', 'using', 'an', 'SPimager', '(S&P', 'Robotics).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Levels', 'were', 'adjusted', 'with', 'Photoshop', 'CS4.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

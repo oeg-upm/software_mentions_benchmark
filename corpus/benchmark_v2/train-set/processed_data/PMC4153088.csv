@@ -1,0 +1,4 @@
+tokens,labels
+"['Wald', 'and', 'likelihood', 'ratio', 'tests', 'were', 'used', 'to', 'assess', 'the', 'statistical', 'significance', 'of', 'observed', 'associations', '(P', '<', '0·05,', 'twosided', 'tests).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'fit', 'of', 'the', 'models', 'was', 'evaluated', 'by', 'the', 'Hosmer-Lemeshow', 'and', 'the', 'Pearson', 'χ', '2', 'goodness-of-fit', 'tests.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'analyses', 'were', 'performed', 'using', 'the', 'statistical', 'software', 'systems', 'SAS', 'version', '9.2', '(SAS', 'Institute', 'Inc.)', 'and', 'Stata', 'version', '12', '(StataCorp', 'LP).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+
+Statistical analysis. The data presented are shown as means ± SD of three or five independent experiments. Statistical significance was estimated by Student's t test for unpaired observations and one-or two-way ANOVA, followed by Bonferroni's, Tukey's, or Dunnett's post-hoc comparisons. Differences were considered significant at when p values were < 0.05. All statistical analyses were conducted using GraphPad Prism 5.0 (GraphPad Software). For immunoblots, a linear correlation was observed between increasing amounts of input protein and signal intensity.

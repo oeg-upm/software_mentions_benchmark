@@ -1,0 +1,2 @@
+tokens,labels
+"['Tracking', 'was', 'performed', 'using', 'Ctrax', '[67]', 'including', 'the', 'provided', 'Matlab', 'toolboxes', 'for', 'subsequent', 'correction', 'and', 'analysis', 'of', 'tracking', 'data.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

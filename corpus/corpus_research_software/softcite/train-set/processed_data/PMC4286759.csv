@@ -1,0 +1,7 @@
+tokens,labels
+"['Statistical', 'analysis.']","['O', 'O']"
+"['We', 'calculated', '95%', 'CI', 'for', 'PFS', 'and', 'OS', 'outcomes', 'to', 'assess', 'the', 'treatment', 'efficacy.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Kaplan-Meier', 'method', 'was', 'used', 'to', 'describe', 'PFS', 'and', 'OS.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'reported', 'time-to-event', 'comparisons', 'were', 'conducted', 'using', 'the', 'log-rank', 'test', 'analysis', 'respectively.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'P', 'value', 'of', 'less', 'than', '0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['SPSS', '17.0', 'software', 'was', 'used', 'for', 'all', 'statistical', 'analysis', '(IBM,', 'Armonk,', 'NY).']","['B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

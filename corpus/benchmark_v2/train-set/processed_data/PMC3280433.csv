@@ -1,0 +1,10 @@
+tokens,labels
+"['a', 'method', 'reported', 'previously', '(Mori', 'et', 'al.,', '2008).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['This', 'method', 'yielded', 'B-ring-modified', 'esters', 'as', 'the', 'major', 'products', 'except', 'linolenate', 'ester', '(C18TE).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['In', 'case', 'of', 'synthesis', 'of', 'saturated', 'fatty', 'acid', 'monoesters,', 'the', 'ratio', 'of', 'regioisomers', 'was', 'consistent', 'regardless', 'of', 'the', 'alkyl', 'chain', 'length.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Unsaturated', 'fatty', 'acid', 'esters', 'and', 'dioctanoyl', 'esters', '(C8', '×', '2)', 'were', 'also', 'synthesized,', 'and', 'the', 'ratio', 'of', 'their', 'regioisomers', 'is', 'summarized', 'in', 'Table', '1.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Mixtures', 'of', 'these', 'isomers', 'were', 'used', 'without', 'isolation', 'because', 'they', 'have', 'similar', 'chemical', 'properties', 'and', 'the', 'antiviral', 'activities', 'of', 'these', 'mixtures', 'did', 'not', 'vary', 'with', 'their', 'composition', 'ratio', '(Mori', 'et', 'al.,', '2008).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Log', 'P', 'values', 'were', 'calculated', 'by', 'a', 'software;', 'ChemBioDraw', 'Ultra', 'ver.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O']"
+"['11', 'and', 'used', 'as', 'lipophilicity', 'index', 'Table', '1).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Higher', 'log', 'P', 'means', 'higher', 'lipophilicity.']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'derivatives', 'were', 'dissolved', 'in', 'DMSO', 'and', 'diluted', 'with', 'distilled', 'water.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

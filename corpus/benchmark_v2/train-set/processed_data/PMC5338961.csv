@@ -1,0 +1,7 @@
+tokens,labels
+"['Finger', 'blood', 'flows', 'were', 'compared', 'between', 'the', 'supine', 'and', 'long', 'sitting', 'positions', 'before', 'SGB', 'and', '20', 'min', 'after', 'SGB.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Next,', 'we', 'calculated', 'the', 'finger', 'blood', 'flow', 'ratio', 'as', '(the', 'lowest', 'finger', 'blood', 'flow', 'in', 'the', 'long', 'sitting', 'position)/(finger', 'blood', 'flow', 'in', 'the', 'supine', 'position)', 'both', 'before', 'and', 'after', 'SGB.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['We', 'evaluated', 'the', 'difference', 'in', 'finger', 'blood', 'flow', 'ratios', 'before', 'and', 'after', 'SGB.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'analysis', 'of', 'the', 'data', 'before', 'and', 'after', 'SGB', 'was', 'performed', 'using', 'the', 'Wilcoxon', 'signed-rank', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Stat', 'view', 'for', 'Macintosh', '(version', '5.0;', 'SAS', 'Institute', 'Inc.,', 'Cary,', 'NC,', 'USA)', 'was', 'used', 'for', 'all', 'statistical', 'analyses.']","['B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['p-Values', '<0.01', 'were', 'considered', 'to', 'be', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"

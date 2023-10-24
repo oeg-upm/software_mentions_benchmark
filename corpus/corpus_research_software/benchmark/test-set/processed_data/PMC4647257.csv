@@ -1,0 +1,4 @@
+tokens,labels
+"['Comparison', 'with', 'published', 'data.']","['O', 'O', 'O', 'O']"
+"['We', 'compared', 'the', 'standard', 'deviation', 'seen', 'in', 'each', 'of', 'the', 'model', 'specifications', 'with', 'the', 'data', 'from', 'both', 'NHS', 'Grampian', 'and', 'NHS', 'England', 'for', 'comparable', 'cancer', 'case', 'numbers', '(expressed', 'as', 'a', 'range', 'either', 'side', 'of', 'the', 'model', 'specification', 'number).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'analyses', 'and', 'modelling', 'were', 'conducted', 'using', 'SPSS', 'for', 'Windows', 'Version', '20', '(IBM', 'Corp,', 'Armonk,', 'NY,', 'USA)', 'and', 'R', 'version', '3.02.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"

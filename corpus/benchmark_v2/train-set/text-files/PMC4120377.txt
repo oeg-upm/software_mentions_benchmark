@@ -1,0 +1,2 @@
+
+Data were entered and stored in a Microsoft Access database and statistical analysis and tests conducted in IBM SPSS Statistics V.20. Numeric data were summarised using median values and IQRs. Categorical variables were reported as proportions with Clopper-Pearson 95% CIs calculated for incidence of infection.

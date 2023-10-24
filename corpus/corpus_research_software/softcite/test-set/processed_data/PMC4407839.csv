@@ -1,0 +1,3 @@
+tokens,labels
+"['Brightness', 'and', 'contrast', 'were', 'adjusted', 'in', 'the', 'Janelia', 'Workstation', 'for', 'improved', 'visualization', 'of', 'neurons.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Adobe', 'Photoshop', '(San', 'Jose,', 'CA)', 'was', 'occasionally', 'used', 'to', 'hide', 'nc82', 'immunolabeling', 'or', 'primary', 'neurites', 'of', 'nonessential', 'cells', 'if', 'they', 'interfered', 'with', 'visualizing', 'the', 'relevant', 'neurons', 'in', 'a', 'figure.']","['O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

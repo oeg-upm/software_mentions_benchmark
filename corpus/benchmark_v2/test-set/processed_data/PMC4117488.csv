@@ -1,0 +1,2 @@
+tokens,labels
+"['All', 'data', 'obtained', 'from', 'the', 'communities', 'were', 'recorded', 'using', 'EPI', 'INFO', 'version', '5', '(CDC,', 'Atlanta)', 'and', 'imported', 'into', 'Microsoft', 'Excel']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention']"

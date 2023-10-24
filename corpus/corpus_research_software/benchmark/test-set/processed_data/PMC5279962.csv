@@ -1,0 +1,7 @@
+tokens,labels
+"['Statistical', 'analysis', 'was', 'performed', 'using', 'SPSS', 'software', 'version', '16.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"
+"['For', 'nominal', 'variables,', 'chi-square', 'test', 'was', 'used', 'and', 'if', 'needed,', ""Fisher's"", 'exact', 'test', 'was', 'performed.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Kolmogorov-Simonov', 'was', 'used', 'to', 'determine', 'normality', 'of', 'distribution.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['For', 'comparative', 'dependent', 'data,', 'paired', 'T-test', '(parametric)', 'and', 'if', 'non-parametric,', 'Wilcoxon', 'test', 'were', 'used.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['For', 'comparing', 'the', 'independent', 'data,', 'independent-samples', 't-test', '(parametric)', 'was', 'used', 'and', 'if', 'nonparametric,', 'Mann-Whitney', 'U', 'test', 'was', 'used.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['In', 'all', 'measurements', 'p-value', 'less', 'than', '0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

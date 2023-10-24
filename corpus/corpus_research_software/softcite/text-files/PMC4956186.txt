@@ -1,0 +1,2 @@
+
+The numerical simulation was performed using COMSOL v5.0 (see Fig. 2, C and D). A time-dependent transient 2D model was used to simulate waveforms by applying an AC signal to regions representing the IDT finger pairs on a piezoelectric substrate. The stiffness, coupling coefficient, and electrical permittivity matrices were rotated to correspond to the 128°y-cut x-propagating LN crystal used experimentally. The maximum mesh size dimension was l SAW /10.

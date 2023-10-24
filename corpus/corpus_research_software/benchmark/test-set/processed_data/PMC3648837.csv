@@ -1,0 +1,6 @@
+tokens,labels
+"['Data', 'are', 'expressed', 'as', 'mean', '±', 'standard', 'deviation.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Data', 'were', 'checked', 'for', 'normal', 'distribution', 'before', 'analysis', 'using', 'the', 'Kolmogorov-Smirnov', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"[""Fisher's"", 'exact', 'test,', 'analysis', 'of', 'variance', '(ANOVA)', 'with', ""Fisher's"", 'post', 'hoc', 'test,', 'and', 'simple', 'regression', 'analysis', 'were', 'used', 'as', 'appropriate.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'value', 'of', 'p', '<', '0.05', 'was', 'considered', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistics', 'were', 'performed', 'using', 'StatView', '5.0', 'software', 'for', 'Macintosh', '(Abacus', 'Concepts,', 'Berkley,', 'CA).']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

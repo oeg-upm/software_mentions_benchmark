@@ -1,0 +1,5 @@
+tokens,labels
+"['Detector', 'resolution.']","['O', 'O']"
+"['The', 'detector', 'determines', 'the', 'locations', 'of', 'the', 'anti-atom', 'annihilations', 'by', 'triangulation', 'of', 'the', 'pion', 'tracks', 'produced', 'by', 'each', 'annihilation.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['This', 'process', 'was', 'extensively', 'studied', 'using', 'the', 'GEANT', '3', 'code', '48', ',', 'and', 'a', 'probability', 'density', 'function', 'for', 'the', 'azimuthal', 'resolution', 'error', 'was', 'determined', '37.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['This', 'error', 'was', 'incorporated', 'into', 'the', 'simulation', 'results', 'by', 'adding', 'random', 'angular', 'offsets', 'consistent', 'with', 'this', 'probability', 'density', 'function', 'to', 'each', 'of', 'the', 'simulated', 'annihilation', 'angular', 'locations.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

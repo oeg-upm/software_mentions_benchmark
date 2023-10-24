@@ -1,0 +1,1 @@
+The evaluation shows that FIT has low probability of making both Type I and Type II errors compared to other tests, especially as the number of available samples grows. Our implementation of FIT is publicly available1.

@@ -1,0 +1,2 @@
+
+The SPSS 21.0 statistical software (IBM Corporation, Armonk, NY, USA) was used for the statistical analysis. The measurement data were shown as mean ± standard deviation, the mean value of the two samples was compared by t-test, and the rate was compared by χ 2 test. Spearman correlation analysis was used to compare the correlation between the severity of fatty liver and the HOMA-IR index. All statistical tests were two sided and evaluated at the 0.05 alpha level.

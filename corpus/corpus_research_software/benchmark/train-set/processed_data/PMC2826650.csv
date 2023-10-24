@@ -1,0 +1,8 @@
+tokens,labels
+"['Significant', 'differences', 'in', 'ASC,', 'DHA,', 'and', 'GSH', 'contents', 'between', 'treatments', '(n¼3)', 'and', 'between', 'root', 'sections', '(n¼3)', 'of', 'girdled', 'trees', 'were', 'analysed', 'with', 'the', 'statistics', 'program', 'SPSS', '16.0', 'for', 'windows', '(Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Prior', 'to', 'the', 'test', 'of', 'significance', 'with', 'the', 'Turkey', 'test,', 'the', 'normality', 'and', 'homogeneity', 'of', 'the', 'data', 'were', 'tested.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Normality', 'of', 'the', 'data', 'was', 'tested', 'with', 'the', 'KolmogorovSmirnov', 'test', 'that', 'includes', 'correction', 'of', 'significance', 'after', 'Lilliefors', 'and', 'Shapiro-Wilk.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Homogeneity', 'of', 'variance', 'was', 'tested', 'with', 'the', 'Levene', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['If', 'homogeneity', 'was', 'not', 'given,', 'values', 'were', 'transferred', 'using', 'the', 'natural', 'logarithm.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['If', 'homogeneity', 'was', 'still', 'not', 'given,', 'the', 'Games-Howell', 'test', 'was', 'applied.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Significant', 'differences', 'at', 'P', '<0.05', 'are', 'indicated.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"

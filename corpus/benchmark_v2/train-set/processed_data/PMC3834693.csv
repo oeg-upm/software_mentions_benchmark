@@ -1,0 +1,7 @@
+tokens,labels
+"['All', 'experiments', 'were', 'repeated', 'at', 'least', 'three', 'times.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'results', 'were', 'expressed', 'as', 'mean', '±', 'SD.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Data', 'were', 'analyzed', 'using', 'SPSS', '13.0.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+"['Value', 'of', 'p', '<', '0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"[""Student's"", 't-test', 'was', 'used', 'to', 'compare', 'two', 'means.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['To', 'compare', 'multiple', 'means,', 'one-way', 'analysis', 'of', 'variance', 'in', 'conjunction', 'with', ""Dunnett's"", 'test', 'was', 'performed.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

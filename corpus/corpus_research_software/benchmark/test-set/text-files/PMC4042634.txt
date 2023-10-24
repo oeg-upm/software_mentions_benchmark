@@ -1,0 +1,2 @@
+
+Statistical analysis. Statistical analysis was performed using JMP statistical software. Data are represented as mean ± SD. Two-tailed Student's t test was applied for comparisons of two groups and Welch's correction was applied for unequal variance. One-way analysis of variance followed by the Tukey HSD (honestly significant difference) was applied for multiple comparisons. Survival was evaluated by the Kaplan-Meier log-rank test. For all tests, P < 0.05 was considered significant.

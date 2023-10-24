@@ -1,0 +1,2 @@
+
+Multiple imputation was conducted in R 2.11. Analysis of under-ascertainment and analysis of imputed data were performed using the glamm 21 and mi 22 modules in Stata V.11, respectively.

@@ -1,0 +1,5 @@
+tokens,labels
+"['All', 'analyses', 'were', 'performed', 'in', 'Stata', 'V.13.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+"['Crude', 'baseline', 'demographic', 'and', 'biomedical', 'measures', 'were', 'reported', 'as', 'mean', 'values', 'and', 'SDs.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Risk', 'score', 'stratifications', 'were', 'selected', 'according', 'to', 'their', 'reported', 'risks', 'of', 'developing', 'type', '2', 'diabetes.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['9', 'Annual', 'incidence', 'of', 'type', '2', 'diabetes', 'for', 'AUSDRISK', 'categories', 'was', 'estimated', 'using', 'the', 'reported', 'risk', 'of', 'progression', 'over', '5', 'years', 'assuming', 'a', 'constant', 'yearly', 'risk.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

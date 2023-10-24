@@ -1,0 +1,2 @@
+
+The data were expressed as mean ± SD values using SAS (SAS Institute, Cary, NC, USA). Each experimental set was compared by one-way analysis of variance (ANOVA) and Duncan's multiple-range test (P < 0.05) using the SAS program (SAS Institute, Cary, NC, USA).

@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'data', 'were', 'analyzed', 'using', 'statistical', 'software', 'STATA', 'version', '13', 'and', 'statistical', 'package', 'for', 'social', 'science', '(SPSS', 'version', '22.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'B-Application_Mention', 'O', 'O']"

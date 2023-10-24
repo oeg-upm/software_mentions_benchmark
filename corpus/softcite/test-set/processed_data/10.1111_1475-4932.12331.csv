@@ -1,0 +1,9 @@
+tokens,labels
+"['1', 'Electronic', 'databases.']","['O', 'O', 'O']"
+"['We', 'conducted', 'several', 'database', 'searches.']","['O', 'O', 'O', 'O', 'O']"
+"['We', 'started', 'with', 'three', 'databases', 'where', 'relevant', 'quantitative', 'impact', 'evaluations', 'were', 'expected', 'to', 'be', 'found:', 'EconLit,', 'the', 'Impact', 'Evaluation', 'Repository', 'of', 'the', 'International', 'Initiave', 'for', 'Impact', 'Evaluation', '(3ie),', 'and', 'PubMed.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['In', 'addition,', 'as', 'a', 'check,', 'we', 'performed', 'a', 'cross-database', 'search', 'using', 'theEBSCO', 'Discovery', 'Service', '(OneSearch', 'that', 'covered', 'the', 'following', 'databases:', 'Medline,', 'SocIndex,', 'Science', 'Direct,', 'JSTOR', 'journals,', 'PsycInfo', 'and', 'SocWork', 'Abstracts.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['2', 'Citation', 'chasing.']","['O', 'O', 'O']"
+"['The', 'reference', 'list', 'of', 'every', 'included', 'paper', 'was', 'checked', 'to', 'identify', 'any', 'possible', 'additional', 'studies.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['3', 'Internet', 'searches.']","['O', 'O', 'O']"
+"['Finally,', 'we', 'used', 'the', 'advanced', 'search', 'options', 'in', 'Google', 'and', 'Google', 'Scholar', 'for', 'a', 'search', 'of', 'the', 'World', 'Wide', 'Web.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

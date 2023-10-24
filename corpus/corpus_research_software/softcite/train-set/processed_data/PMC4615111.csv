@@ -1,0 +1,6 @@
+tokens,labels
+"['Images', 'were', 'processed', 'and', 'analyzed', 'using', 'ImageJ']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention']"
+"['For', 'timelapse', 'microscopy', 'quantification', 'of', 'populations', 'the', 'background', 'was', 'subtracted', 'for', 'every', 'image', 'series', 'using', 'rolling', 'ball', 'background', 'subtraction.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Furthermore,', 'the', 'image', 'series', 'were', 'manually', 'screened', 'and', 'series', 'with', 'fluorescent', 'aggregates', 'were', 'excluded', 'from', 'the', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Subsequently,', 'integrated', 'fluorescent', 'intensities', 'were', 'calculated', 'and', 'values', 'were', 'normalized', 'for', 'each', 'series', 'on', 'the', 'time', 'point', 'before', 'inhibitor', 'addition.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Mean', 'values', 'of', 'at', 'least', '8', 'individual', 'positions', 'per', 'condition', 'were', 'calculated.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

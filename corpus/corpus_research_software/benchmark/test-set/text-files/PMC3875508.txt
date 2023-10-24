@@ -1,0 +1,2 @@
+
+The measured data were imported to Solid- Works 2008 environment (Solidworks Crop., Concord, MA, USA) to construct the solid models that were analyzed by a three dimensional FE analysis package (ABAQUS V6.7- 1; Simulia Corp., Providence, USA). Models were meshed with four-node tetrahedral solid elements, and were meshed between 90,765 and 102,795 nodes, and between 457,151 and 519,456 contact elements.

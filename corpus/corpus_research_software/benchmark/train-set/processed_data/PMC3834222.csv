@@ -1,0 +1,2 @@
+tokens,labels
+"['We', 'used', 'multiple', 'imputation', '(Proc', 'MI', 'in', 'SAS', 'to', 'assign', 'values', 'for', 'variables', 'with', 'missing', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

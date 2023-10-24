@@ -1,0 +1,455 @@
+filename	mark	label	off0	off1	span
+10.1002_soej.12244	T1	Application_Mention	370	381	ReadyReturn
+10.1002_soej.12244	T2	Application_Mention	510	517	CalFile
+10.1002_soej.12244	T3	Application_Mention	3287	3292	Mturk
+10.1002_soej.12244	T4	Application_Mention	3349	3354	Mturk
+10.1007_s00148-015-0566-8	T1	Application_Mention	70	75	STATA
+10.1007_s00148-015-0566-8	T2	Application_Mention	2833	2838	STATA
+10.1007_s00148-015-0566-8	T3	Application_Mention	3762	3767	STATA
+10.1007_s00148-015-0566-8	T4	Application_Mention	5634	5639	STATA
+10.1007_s00148-015-0566-8	T5	Application_Mention	6909	6914	STATA
+10.1007_s00181-012-0549-5	T1	Application_Mention	734	739	STATA
+10.1007_s00191-010-0188-y	T1	Application_Mention	2105	2110	STATA
+10.1007_s00191-017-0548-y	T1	Application_Mention	6909	6916	NetLogo
+10.1007_s00191-018-0558-4	T1	Application_Mention	75	86	DiceKriging
+10.1007_s00191-018-0558-4	T2	Application_Mention	311	318	rgenoud
+10.1007_s10258-013-0091-1	T1	Application_Mention	1226	1232	MulCom
+10.1007_s10368-017-0398-y	T1	Application_Mention	571	577	Sspace
+10.1007_s10368-017-0398-y	T2	Application_Mention	593	599	EViews
+10.1007_s10368-017-0398-y	T3	Application_Mention	1899	1905	Eviews
+10.1007_s10368-017-0398-y	T4	Application_Mention	2393	2399	Sspace
+10.1007_s10368-017-0398-y	T5	Application_Mention	2418	2424	Eviews
+10.1007_s10368-017-0398-y	T6	Application_Mention	2684	2690	Sspace
+10.1007_s10368-017-0398-y	T7	Application_Mention	2709	2715	Eviews
+10.1007_s10614-011-9257-z	T1	Application_Mention	212	218	MATLAB
+10.1007_s10614-011-9257-z	T2	Application_Mention	365	377	LQDG Toolbox
+10.1007_s10614-011-9257-z	T3	Application_Mention	2142	2148	MATLAB
+10.1007_s10614-011-9257-z	T4	Application_Mention	3074	3088	LQDGsolver.exe
+10.1007_s10614-011-9257-z	T5	Application_Mention	3235	3252	TBXinput- GUI.exe
+10.1007_s10614-011-9257-z	T6	Application_Mention	3343	3349	MATLAB
+10.1007_s10614-011-9257-z	T7	Application_Mention	3368	3378	LQDGsolver
+10.1007_s10614-011-9257-z	T8	Application_Mention	3480	3486	MATLAB
+10.1007_s10614-011-9257-z	T9	Application_Mention	3743	3749	MATLAB
+10.1007_s10614-011-9257-z	T10	Application_Mention	4026	4032	MATLAB
+10.1007_s10614-011-9257-z	T11	Application_Mention	4294	4310	TBXoutputGUI.exe
+10.1007_s10614-011-9257-z	T12	Application_Mention	4505	4517	LQDG Toolbox
+10.1007_s10614-011-9257-z	T13	Application_Mention	4884	4890	MATLAB
+10.1007_s10614-011-9257-z	T14	Application_Mention	5366	5378	LQDG Toolbox
+10.1007_s10614-011-9257-z	T15	Application_Mention	5427	5439	LQDG Toolbox
+10.1007_s10614-011-9257-z	T16	Application_Mention	5554	5566	LQDG Toolbox
+10.1007_s10614-011-9257-z	T17	Application_Mention	5680	5692	LQDG Toolbox
+10.1007_s10614-011-9257-z	T18	Application_Mention	5819	5831	LQDG Toolbox
+10.1007_s10614-011-9257-z	T19	Application_Mention	6033	6045	LQDG Toolbox
+10.1007_s10614-011-9257-z	T20	Application_Mention	6255	6267	LQDG Toolbox
+10.1007_s10614-011-9257-z	T21	Application_Mention	7903	7915	LQDG Toolbox
+10.1007_s10614-011-9257-z	T22	Application_Mention	7934	7940	MATLAB
+10.1007_s10614-011-9257-z	T23	Application_Mention	7992	7998	MATLAB
+10.1007_s10614-011-9257-z	T24	Application_Mention	8474	8480	MATLAB
+10.1007_s10614-011-9257-z	T25	Application_Mention	9491	9497	MATLAB
+10.1007_s10614-011-9257-z	T26	Application_Mention	9938	9944	MATLAB
+10.1007_s10614-011-9257-z	T27	Application_Mention	10176	10183	OPTGAME
+10.1007_s10614-014-9465-4	T1	Application_Mention	3	9	MATLAB
+10.1007_s10614-017-9706-4	T1	Application_Mention	805	809	Java
+10.1007_s10614-017-9706-4	T2	Application_Mention	811	821	StarOffice
+10.1007_s10614-017-9706-4	T3	Application_Mention	823	828	MySQL
+10.1007_s10614-017-9706-4	T4	Application_Mention	829	836	Solaris
+10.1007_s10614-017-9706-4	T5	Application_Mention	1551	1555	Java
+10.1007_s10614-017-9706-4	T6	Application_Mention	2234	2241	Android
+10.1007_s10614-017-9706-4	T7	Application_Mention	2243	2246	iOS
+10.1007_s10614-017-9706-4	T8	Application_Mention	2248	2262	Windows Mobile
+10.1007_s10614-017-9706-4	T9	Application_Mention	2329	2349	Google search engine
+10.1007_s10614-017-9706-4	T10	Application_Mention	2412	2419	Android
+10.1007_s10614-017-9706-4	T11	Application_Mention	2464	2467	iOS
+10.1007_s10614-017-9706-4	T12	Application_Mention	2484	2498	Windows Mobile
+10.1007_s10614-017-9706-4	T13	Application_Mention	2627	2634	Symbian
+10.1007_s10614-017-9706-4	T14	Application_Mention	3206	3209	iOS
+10.1007_s10614-017-9706-4	T15	Application_Mention	3218	3225	Android
+10.1007_s10614-017-9706-4	T16	Application_Mention	3231	3245	Windows Mobile
+10.1007_s10663-015-9287-1	T1	Application_Mention	122	130	OpenBugs
+10.1007_s10663-015-9287-1	T2	Application_Mention	341	350	OxMetrics
+10.1007_s10683-017-9546-z	T1	Application_Mention	293	299	Matlab
+10.1007_s10683-017-9548-x	T1	Application_Mention	226	231	ORSEE
+10.1007_s10683-017-9548-x	T2	Application_Mention	286	292	z-Tree
+10.1007_s10797-018-9484-5	T1	Application_Mention	561	568	EUROMOD
+10.1007_s10797-018-9484-5	T2	Application_Mention	1896	1903	EUROMOD
+10.1007_s10797-018-9484-5	T3	Application_Mention	1998	2005	EUROMOD
+10.1007_s10797-018-9484-5	T4	Application_Mention	2435	2442	EUROMOD
+10.1007_s10797-018-9484-5	T5	Application_Mention	2541	2548	EUROMOD
+10.1007_s10797-018-9484-5	T6	Application_Mention	3233	3240	EUROMOD
+10.1007_s10797-018-9484-5	T7	Application_Mention	3374	3381	EUROMOD
+10.1007_s10797-018-9484-5	T8	Application_Mention	4717	4724	EUROMOD
+10.1007_s10797-018-9484-5	T9	Application_Mention	4738	4745	EUROMOD
+10.1007_s10797-018-9484-5	T10	Application_Mention	5010	5017	EUROMOD
+10.1007_s10797-018-9484-5	T11	Application_Mention	5057	5064	EUROMOD
+10.1007_s10824-015-9248-3	T1	Application_Mention	131	147	Google Maps APIs
+10.1007_s10824-015-9248-3	T2	Application_Mention	318	331	ArcGIS ArcMap
+10.1007_s10842-011-0105-6	T1	Application_Mention	960	963	iOS
+10.1007_s10842-011-0105-6	T2	Application_Mention	1122	1125	iOS
+10.1007_s10842-011-0105-6	T3	Application_Mention	2094	2101	Symbian
+10.1007_s10842-011-0105-6	T4	Application_Mention	2811	2818	Symbian
+10.1007_s10842-011-0105-6	T5	Application_Mention	2892	2899	Windows
+10.1007_s10842-011-0105-6	T6	Application_Mention	3080	3087	Symbian
+10.1007_s10842-011-0105-6	T7	Application_Mention	3109	3116	Android
+10.1007_s10842-011-0105-6	T8	Application_Mention	3129	3132	iOS
+10.1007_s10842-014-0187-z	T1	Application_Mention	1295	1311	Google Translate
+10.1007_s10842-016-0243-y	T1	Application_Mention	100	105	Skype
+10.1007_s10842-016-0243-y	T2	Application_Mention	998	1003	Skype
+10.1007_s11123-009-0142-x	T1	Application_Mention	62	123	R software environment for statistical computing and graphics
+10.1007_s11123-009-0142-x	T2	Application_Mention	205	214	mic- Econ
+10.1007_s11123-009-0142-x	T3	Application_Mention	242	250	quadprog
+10.1007_s11149-006-9003-y	T1	Application_Mention	1568	1574	MATLAB
+10.1007_s11151-011-9291-y	T1	Application_Mention	142	149	Windows
+10.1007_s11151-011-9291-y	T2	Application_Mention	191	208	Internet Explorer
+10.1007_s11151-015-9460-5	T1	Application_Mention	1975	1990	Google Maps API
+10.1007_s11151-015-9460-5	T2	Application_Mention	2322	2337	Google Maps API
+10.1007_s11151-015-9460-5	T3	Application_Mention	2682	2697	Google Maps API
+10.1007_s11151-015-9460-5	T4	Application_Mention	2878	2893	Google Maps API
+10.1007_s11166-011-9127-z	T1	Application_Mention	542	548	Z-tree
+10.1007_s11558-011-9108-7	T1	Application_Mention	1090	1095	STATA
+10.1017_s136510051300076x	T1	Application_Mention	513	527	Acrobat Reader
+10.1017_s1365100515000619	T1	Application_Mention	101	107	Dynare
+10.1017_s1365100515000619	T2	Application_Mention	222	228	Dynare
+10.1017_s1365100515000619	T3	Application_Mention	299	305	Dynare
+10.1057_s11369-017-0056-y	T1	Application_Mention	590	596	TAXSIM
+10.1080_00036846.2015.1021547	T1	Application_Mention	241	246	Stata
+10.1080_00036846.2016.1218430	T1	Application_Mention	22	58	AMOS (Analysis of Moment Structures)
+10.1080_00220485.2017.1353464	T1	Application_Mention	571	576	STATA
+10.1080_00220485.2017.1353464	T2	Application_Mention	1226	1231	STATA
+10.1080_09645292.2018.1426732	T1	Application_Mention	381	386	Stata
+10.1080_09645292.2018.1426732	T2	Application_Mention	1023	1028	Stata
+10.1080_13504851.2016.1167817	T1	Application_Mention	1060	1068	FRONTIER
+10.1080_14631377.2016.1139301	T1	Application_Mention	785	790	Excel
+10.1080_17421770903541772	T1	Application_Mention	2584	2590	Matlab
+10.1080_17421770903541772	T2	Application_Mention	4676	4682	Matlab
+10.1080_17421770903541772	T3	Application_Mention	4683	4691	routines
+10.1080_17421770903541772	T4	Application_Mention	4966	4972	Matlab
+10.1080_17421770903541772	T5	Application_Mention	4973	4981	routines
+10.1080_17421770903541772	T6	Application_Mention	6128	6134	Matlab
+10.1080_17421770903541772	T7	Application_Mention	6135	6148	routine 'sar'
+10.1080_17421772.2011.647058	T1	Application_Mention	739	744	Geoda
+10.1080_17421772.2011.647058	T2	Application_Mention	1149	1154	GEODA
+10.1080_17421772.2011.647058	T3	Application_Mention	1637	1642	GEODA
+10.1080_17421772.2015.1126966	T1	Application_Mention	626	632	Matlab
+10.1108_jes-04-2014-0055	T1	Application_Mention	318	335	"R package ""ineq."""
+10.1111_1467-8462.12152	T1	Application_Mention	1464	1469	AURIN
+10.1111_1467-8462.12152	T2	Application_Mention	1545	1550	AURIN
+10.1111_1467-8462.12152	T3	Application_Mention	1752	1757	AURIN
+10.1111_1467-8462.12152	T4	Application_Mention	1920	1925	AURIN
+10.1111_1467-8462.12152	T5	Application_Mention	3076	3081	AURIN
+10.1111_1467-8462.12152	T6	Application_Mention	3633	3638	AURIN
+10.1111_1467-8462.12152	T7	Application_Mention	3941	3946	AURIN
+10.1111_1467-8462.12152	T8	Application_Mention	4975	4980	AURIN
+10.1111_1467-8462.12152	T9	Application_Mention	5291	5296	AURIN
+10.1111_1467-8462.12152	T10	Application_Mention	5701	5706	AURIN
+10.1111_1467-8462.12152	T11	Application_Mention	5960	5965	AURIN
+10.1111_1467-8462.12152	T12	Application_Mention	6314	6321	CouchDB
+10.1111_1467-8462.12152	T13	Application_Mention	7016	7021	AURIN
+10.1111_1467-8462.12152	T14	Application_Mention	7307	7312	AURIN
+10.1111_1467-8462.12152	T15	Application_Mention	7694	7699	AURIN
+10.1111_1467-8462.12152	T16	Application_Mention	7978	7983	AURIN
+10.1111_1467-8462.12152	T17	Application_Mention	8540	8545	AURIN
+10.1111_1467-8462.12152	T18	Application_Mention	8872	8877	AURIN
+10.1111_1467-8462.12152	T19	Application_Mention	9777	9782	AURIN
+10.1111_1467-8462.12152	T20	Application_Mention	10559	10564	AURIN
+10.1111_1467-8462.12152	T21	Application_Mention	10816	10821	AURIN
+10.1111_1467-8462.12152	T22	Application_Mention	11773	11778	AURIN
+10.1111_1467-8462.12152	T23	Application_Mention	12167	12172	AURIN
+10.1111_1467-8462.12152	T24	Application_Mention	12314	12319	AURIN
+10.1111_1467-8462.12152	T25	Application_Mention	12748	12753	AURIN
+10.1111_1467-8462.12152	T26	Application_Mention	12882	12888	ArcGIS
+10.1111_1467-8462.12152	T27	Application_Mention	12890	12895	STATA
+10.1111_1467-8462.12152	T28	Application_Mention	12899	12903	SPSS
+10.1111_1467-8462.12152	T29	Application_Mention	12909	12914	AURIN
+10.1111_1467-8462.12152	T30	Application_Mention	13294	13299	AURIN
+10.1111_1467-8462.12152	T31	Application_Mention	13347	13352	AURIN
+10.1111_1467-8462.12152	T32	Application_Mention	13911	13916	AURIN
+10.1111_1467-8462.12152	T33	Application_Mention	14525	14530	AURIN
+10.1111_1467-8462.12152	T34	Application_Mention	14640	14645	AURIN
+10.1111_1467-8462.12152	T35	Application_Mention	14660	14665	AURIN
+10.1111_1467-8462.12152	T36	Application_Mention	15170	15175	AURIN
+10.1111_1467-8462.12152	T37	Application_Mention	15494	15499	AURIN
+10.1111_1467-8462.12152	T38	Application_Mention	15569	15574	AURIN
+10.1111_1467-8462.12152	T39	Application_Mention	15937	15940	iOS
+10.1111_1467-8462.12152	T40	Application_Mention	15945	15952	Android
+10.1111_1467-8462.12152	T41	Application_Mention	16018	16023	AURIN
+10.1111_1467-8462.12152	T42	Application_Mention	16396	16401	AURIN
+10.1111_1467-8462.12246	T1	Application_Mention	541	544	SAS
+10.1111_1467-8462.12246	T2	Application_Mention	641	642	R
+10.1111_1467-8462.12246	T3	Application_Mention	1018	1021	SAS
+10.1111_1467-8462.12246	T4	Application_Mention	1027	1031	SPSS
+10.1111_1467-8462.12246	T5	Application_Mention	1040	1045	Stata
+10.1111_1467-8462.12246	T6	Application_Mention	1712	1732	SAS Enterprise Guide
+10.1111_1467-8462.12246	T7	Application_Mention	1738	1743	Stata
+10.1111_1467-8462.12246	T8	Application_Mention	1748	1752	SPSS
+10.1111_1467-8462.12246	T9	Application_Mention	1776	1780	Word
+10.1111_1467-8462.12246	T10	Application_Mention	1797	1802	Excel
+10.1111_1467-8462.12246	T11	Application_Mention	1809	1818	Ultraedit
+10.1111_1467-8462.12246	T12	Application_Mention	1829	1846	Acrobat Reader DC
+10.1111_1467-8462.12246	T13	Application_Mention	2235	2240	STATA
+10.1111_1468-0106.12204	T1	Application_Mention	14	28	Google Scholar
+10.1111_1468-0106.12204	T2	Application_Mention	1683	1688	Stata
+10.1111_1475-4932.12331	T1	Application_Mention	380	389	OneSearch
+10.1111_1475-4932.12331	T2	Application_Mention	701	707	Google
+10.1111_1475-4932.12331	T3	Application_Mention	712	726	Google Scholar
+10.1111_1756-2171.12020	T1	Application_Mention	2202	2208	TAXSIM
+10.1111_1756-2171.12020	T2	Application_Mention	4949	4955	TAXSIM
+10.1111_1756-2171.12020	T3	Application_Mention	6371	6376	STATA
+10.1111_1756-2171.12020	T4	Application_Mention	6949	6954	STATA
+10.1111_1756-2171.12020	T5	Application_Mention	7041	7047	TAXSIM
+10.1111_coep.12177	T1	Application_Mention	417	423	TAXSIM
+10.1111_coep.12223	T1	Application_Mention	412	418	Google
+10.1111_ecin.12086	T1	Application_Mention	44	49	STATA
+10.1111_ecin.12086	T2	Application_Mention	66	69	SAS
+10.1111_ecin.12279	T1	Application_Mention	1317	1322	Stata
+10.1111_ecin.12279	T2	Application_Mention	1922	1927	Stata
+10.1111_ecin.12386	T1	Application_Mention	149	157	Mouselab
+10.1111_ecin.12386	T2	Application_Mention	2872	2880	Mouselab
+10.1111_ecin.12386	T3	Application_Mention	4121	4129	Mouselab
+10.1111_ecin.12386	T4	Application_Mention	4378	4386	mouselab
+10.1111_ecin.12386	T5	Application_Mention	4676	4684	Mouselab
+10.1111_ecin.12386	T6	Application_Mention	4750	4758	Mouselab
+10.1111_ecin.12477	T1	Application_Mention	484	490	z-tree
+10.1111_ecin.12477	T2	Application_Mention	1637	1695	ORSEE (Online Recruitment System for Economic Experiments)
+10.1111_ecin.12482	T1	Application_Mention	853	858	ORSEE
+10.1111_ecin.12482	T2	Application_Mention	1030	1036	z-Tree
+10.1111_ecin.12490	T1	Application_Mention	337	345	Stata/MP
+10.1111_ecoj.12284	T1	Application_Mention	1009	1014	zTree
+10.1111_ecoj.12284	T2	Application_Mention	1063	1068	ORSEE
+10.1111_j.1467-6419.2007.00527.x	T1	Application_Mention	217	222	Stata
+10.1111_j.1467-6435.2010.00478.x	T1	Application_Mention	767	772	Stata
+10.1111_j.1467-8381.2009.02008.x	T1	Application_Mention	57	61	GAMS
+10.1111_j.1467-8381.2009.02008.x	T2	Application_Mention	230	234	GAMS
+10.1111_j.1467-8381.2009.02008.x	T3	Application_Mention	395	399	GAMS
+10.1111_j.1467-8381.2009.02008.x	T4	Application_Mention	1944	1954	GAMS MPSGE
+10.1111_j.1467-8381.2009.02008.x	T5	Application_Mention	2075	2085	GAMS MPSGE
+10.1111_j.1467-8462.2013.12010.x	T1	Application_Mention	79	88	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T2	Application_Mention	177	182	Stata
+10.1111_j.1467-8462.2013.12010.x	T3	Application_Mention	294	303	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T4	Application_Mention	501	510	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T5	Application_Mention	768	777	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T6	Application_Mention	917	922	Stata
+10.1111_j.1467-8462.2013.12010.x	T7	Application_Mention	1003	1008	Stata
+10.1111_j.1467-8462.2013.12010.x	T8	Application_Mention	1010	1019	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T9	Application_Mention	1032	1037	Stata
+10.1111_j.1467-8462.2013.12010.x	T10	Application_Mention	1237	1246	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T11	Application_Mention	1346	1355	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T12	Application_Mention	1420	1429	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T13	Application_Mention	2837	2846	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T14	Application_Mention	2919	2928	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T15	Application_Mention	3199	3208	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T16	Application_Mention	3816	3821	Stata
+10.1111_j.1467-8462.2013.12010.x	T17	Application_Mention	3888	3897	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T18	Application_Mention	3928	3933	Stata
+10.1111_j.1467-8462.2013.12010.x	T19	Application_Mention	4095	4104	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T20	Application_Mention	4559	4568	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T21	Application_Mention	4629	4634	Stata
+10.1111_j.1467-8462.2013.12010.x	T22	Application_Mention	4643	4652	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T23	Application_Mention	5086	5095	PanelWhiz
+10.1111_j.1467-8462.2013.12010.x	T24	Application_Mention	5104	5111	Windows
+10.1111_j.1467-8462.2013.12010.x	T25	Application_Mention	5121	5126	Linux
+10.1111_j.1467-8462.2013.12010.x	T26	Application_Mention	5147	5158	Stata SE/MP
+10.1111_j.1468-0297.2008.02177.x	T1	Application_Mention	1610	1615	EXCEL
+10.1111_j.1468-0351.2009.00346.x	T1	Application_Mention	85	90	STATA
+10.1111_j.1530-9134.2009.00228.x	T1	Application_Mention	407	410	TeX
+10.1111_j.1530-9134.2009.00228.x	T2	Application_Mention	477	480	TeX
+10.1111_j.1530-9134.2009.00228.x	T3	Application_Mention	2882	2887	Stata
+10.1111_j.1530-9134.2009.00228.x	T4	Application_Mention	3416	3421	Stata
+10.1111_j.1538-4616.2008.00153.x	T1	Application_Mention	385	396	Mathematica
+10.1111_j.1538-4616.2008.00153.x	T2	Application_Mention	400	406	Matlab
+10.1111_jors.12202	T1	Application_Mention	1012	1017	STATA
+10.1111_jors.12244	T1	Application_Mention	508	509	R
+10.1111_jors.12244	T2	Application_Mention	510	511	R
+10.1111_jors.12244	T3	Application_Mention	1362	1368	Python
+10.1111_jors.12244	T4	Application_Mention	3270	3280	JavaScript
+10.1111_jors.12298	T1	Application_Mention	3434	3439	STATA
+10.1111_labr.12083	T1	Application_Mention	41	46	STATA
+10.1111_labr.12083	T2	Application_Mention	57	63	RIFREG
+10.1111_obes.12195	T1	Application_Mention	885	894	OxMetrics
+10.1111_obes.12195	T2	Application_Mention	899	905	MATLAB
+10.1111_roie.12300	T1	Application_Mention	436	442	Matlab
+10.1111_roie.12300	T2	Application_Mention	1553	1559	Matlab
+10.1111_sjpe.12150	T1	Application_Mention	2887	2892	Stata
+10.1111_twec.12479	T1	Application_Mention	36	42	MIRAGE
+10.1111_twec.12479	T2	Application_Mention	75	81	MaGE 1
+10.1111_twec.12479	T3	Application_Mention	227	233	MIRAGE
+10.1111_twec.12479	T4	Application_Mention	968	974	MIRAGE
+10.1111_twec.12479	T5	Application_Mention	2674	2680	MIRAGE
+10.1111_twec.12479	T6	Application_Mention	4510	4516	MIRAGE
+10.1111_twec.12479	T7	Application_Mention	4932	4938	MIRAGE
+10.1111_twec.12479	T8	Application_Mention	6047	6053	MIRAGE
+10.1111_twec.12479	T9	Application_Mention	7565	7571	MIRAGE
+10.1111_twec.12479	T10	Application_Mention	9798	9804	MIRAGE
+10.1111_twec.12479	T11	Application_Mention	10265	10271	MIRAGE
+10.1111_twec.12479	T12	Application_Mention	11464	11468	MaGE
+10.1111_twec.12479	T13	Application_Mention	11473	11479	MIRAGE
+10.1111_twec.12539	T1	Application_Mention	485	490	Stata
+10.1162_08893360052471455	T1	Application_Mention	1261	1267	Matlab
+10.1162_qjec.121.4.1383	T1	Application_Mention	177	181	MIDI
+10.1162_qjec.121.4.1383	T2	Application_Mention	742	748	PubPub
+10.1162_qjec.121.4.1383	T3	Application_Mention	788	794	PubPub
+10.1162_qjec.121.4.1383	T4	Application_Mention	957	963	PubPub
+10.1162_qjec.2005.120.1.131	T1	Application_Mention	89	95	PubPub
+10.1162_qjec.2005.120.1.131	T2	Application_Mention	135	141	PubPub
+10.1162_qjec.2005.120.1.131	T3	Application_Mention	304	310	PubPub
+10.1162_qjec.2005.120.1.273	T1	Application_Mention	89	95	PubPub
+10.1162_qjec.2005.120.1.273	T2	Application_Mention	135	141	PubPub
+10.1162_qjec.2005.120.1.273	T3	Application_Mention	304	310	PubPub
+10.1162_qjec.2005.120.1.345	T1	Application_Mention	177	181	MIDI
+10.1162_qjec.2005.120.1.345	T2	Application_Mention	742	748	PubPub
+10.1162_qjec.2005.120.1.345	T3	Application_Mention	788	794	PubPub
+10.1162_qjec.2005.120.1.345	T4	Application_Mention	957	963	PubPub
+10.1162_qjec.2005.120.1.87	T1	Application_Mention	89	95	PubPub
+10.1162_qjec.2005.120.1.87	T2	Application_Mention	135	141	PubPub
+10.1162_qjec.2005.120.1.87	T3	Application_Mention	304	310	PubPub
+10.1162_qjec.2006.121.1.289	T1	Application_Mention	89	95	PubPub
+10.1162_qjec.2006.121.1.289	T2	Application_Mention	135	141	PubPub
+10.1162_qjec.2006.121.1.289	T3	Application_Mention	304	310	PubPub
+10.1177_0486613415586992	T1	Application_Mention	1877	1882	Linux
+10.1257_000282805774669772	T1	Application_Mention	914	919	EXCEL
+10.1257_000282805774669772	T2	Application_Mention	921	934	Stat/Transfer
+10.1257_000282805774669772	T3	Application_Mention	940	945	STATA
+10.1257_aer.102.3.691	T1	Application_Mention	330	335	Stata
+10.1257_aer.102.3.691	T2	Application_Mention	337	340	SAS
+10.1257_aer.102.3.691	T3	Application_Mention	346	352	Limdep
+10.1257_aer.104.10.3256	T1	Application_Mention	229	234	ORSEE
+10.1257_aer.104.10.3256	T2	Application_Mention	492	498	z-Tree
+10.1257_aer.104.8.2456	T1	Application_Mention	194	201	Exalead
+10.1257_aer.104.8.2456	T2	Application_Mention	1746	1753	Exalead
+10.1257_aer.104.8.2456	T3	Application_Mention	2489	2496	Exalead
+10.1257_aer.104.8.2456	T4	Application_Mention	4739	4746	Exalead
+10.1257_aer.20140850	T1	Application_Mention	267	280	Scholarometer
+10.1257_aer.20140850	T2	Application_Mention	1058	1072	Google Scholar
+10.1257_aer.20150592	T1	Application_Mention	318	332	Google Scholar
+10.1257_aer.20150897	T1	Application_Mention	245	285	Motor Vehicle Emission Simulator (MOVES)
+10.1257_aer.20151404	T1	Application_Mention	304	309	STATA
+10.1257_aer.20160542	T1	Application_Mention	386	401	Mechanical Turk
+10.1257_aer.20160542	T2	Application_Mention	403	409	Elance
+10.1257_aer.20160542	T3	Application_Mention	415	421	UpWork
+10.1257_aer.20160542	T4	Application_Mention	1885	1900	Mechanical Turk
+10.1257_aer.20160542	T5	Application_Mention	1902	1908	Elance
+10.1257_aer.20160542	T6	Application_Mention	1914	1920	UpWork
+10.1257_aer.20160542	T7	Application_Mention	2238	2247	BPP @ MIT
+10.1257_aer.p20161124	T1	Application_Mention	186	231	Person Identification Validation System (PVS)
+10.1257_jep.13.1.181	T1	Application_Mention	738	745	Windows
+10.1257_jep.13.1.181	T2	Application_Mention	849	857	Netscape
+10.1257_jep.15.4.129	T1	Application_Mention	355	360	Stata
+10.1257_jep.15.4.129	T2	Application_Mention	1182	1187	Stata
+10.1257_jep.15.4.157	T1	Application_Mention	364	370	EViews
+10.1257_jep.15.4.157	T2	Application_Mention	372	375	SAS
+10.1257_jep.15.4.157	T3	Application_Mention	377	382	GAUSS
+10.1257_jep.15.4.157	T4	Application_Mention	384	387	TSP
+10.1257_jep.15.4.157	T5	Application_Mention	389	395	Matlab
+10.1257_jep.15.4.157	T6	Application_Mention	397	401	RATS
+10.1257_jep.15.4.157	T7	Application_Mention	586	592	EViews
+10.1257_jep.15.4.29	T1	Application_Mention	886	891	Stata
+10.1257_jep.15.4.29	T2	Application_Mention	961	966	Gauss
+10.1257_jep.15.4.29	T3	Application_Mention	1012	1017	Stata
+10.1257_jep.27.1.3	T1	Application_Mention	270	294	Android operating system
+10.1257_jep.30.2.201	T1	Application_Mention	103	148	Regional Input-Output Multiplier System (RIMS
+10.1257_jep.30.2.201	T2	Application_Mention	204	232	IMpact for PLANning (IMPLAN)
+10.1257_jep.31.1.49	T1	Application_Mention	494	500	WeChat
+10.1257_jep.31.2.211	T1	Application_Mention	114	126	SurveyMonkey
+10.1257_jep.31.2.211	T2	Application_Mention	163	175	SurveyMonkey
+10.1257_jep.31.2.211	T3	Application_Mention	270	282	SurveyMonkey
+10.1515_jbnst-2016-1001	T1	Application_Mention	592	626	Job Submission Application (JoSuA)
+10.1515_jbnst-2017-1004	T1	Application_Mention	120	138	Merge Toolbox (MTB
+10.1515_jbnst-2017-1004	T2	Application_Mention	422	425	MTB
+10.1515_jbnst-2017-1004	T3	Application_Mention	480	485	Stata
+10.1515_jbnst-2017-1004	T4	Application_Mention	496	499	MTB
+10.1515_jbnst-2017-1004	T5	Application_Mention	612	615	MTB
+10.1515_jbnst-2017-1004	T6	Application_Mention	657	660	MTB
+10.1515_jbnst-2017-1004	T7	Application_Mention	1130	1133	MTB
+10.1515_jbnst-2017-1004	T8	Application_Mention	1148	1149	R
+10.1515_jbnst-2017-1004	T9	Application_Mention	1158	1162	PPRL
+10.1515_jbnst-2017-1004	T10	Application_Mention	1263	1267	PPRL
+10.1515_jbnst-2017-1004	T11	Application_Mention	1339	1343	PPRL
+10.1515_jbnst-2018-0002	T1	Application_Mention	754	759	Stata
+10.1515_jbnst-2018-0002	T2	Application_Mention	780	784	SPSS
+10.1590_s0034-71402003000400011	T1	Application_Mention	87	93	Matlab
+10.20955_r.2018.1-16	T1	Application_Mention	49	63	Bitcoin wallet
+10.20955_r.2018.1-16	T2	Application_Mention	67	81	Bitcoin wallet
+10.2139_ssrn.2426106	T1	Application_Mention	217	222	STATA
+10.2217_pme.10.75	T1	Application_Mention	112	118	Google
+10.2217_pme.10.75	T2	Application_Mention	1436	1440	Bing
+10.2217_pme.10.75	T3	Application_Mention	2979	2992	Google Search
+10.2217_pme.10.75	T4	Application_Mention	3568	3574	Google
+10.2217_pme.10.75	T5	Application_Mention	3996	4002	Google
+10.2217_pme.10.75	T6	Application_Mention	4607	4613	Google
+10.2217_pme.10.75	T7	Application_Mention	4720	4726	Google
+10.2217_pme.10.75	T8	Application_Mention	4791	4797	Google
+10.2217_pme.10.75	T9	Application_Mention	5384	5398	Search Planner
+10.2217_pme.10.75	T10	Application_Mention	5542	5548	Google
+10.2217_pme.10.75	T11	Application_Mention	5550	5554	Bing
+10.2217_pme.10.75	T12	Application_Mention	5556	5561	Yahoo
+10.2217_pme.10.75	T13	Application_Mention	5563	5566	AOL
+10.2217_pme.10.75	T14	Application_Mention	5572	5575	ASK
+10.2217_pme.10.75	T15	Application_Mention	5597	5611	Search Planner
+10.2217_pme.10.75	T16	Application_Mention	6098	6112	Search Planner
+10.2217_pme.10.75	T17	Application_Mention	6337	6351	Search Planner
+10.2217_pme.10.75	T18	Application_Mention	6409	6415	Google
+10.2217_pme.10.75	T19	Application_Mention	6716	6722	Google
+10.2217_pme.10.75	T20	Application_Mention	6925	6938	Google Search
+10.2217_pme.10.75	T21	Application_Mention	6943	6954	Bing Search
+10.2217_pme.10.75	T22	Application_Mention	8381	8387	Google
+10.2217_pme.10.75	T23	Application_Mention	8392	8396	Bing
+10.2217_pme.10.75	T24	Application_Mention	9458	9464	Google
+10.2217_pme.10.75	T25	Application_Mention	9532	9538	Google
+10.2217_pme.10.75	T26	Application_Mention	10071	10077	Google
+10.2217_pme.10.75	T27	Application_Mention	10545	10549	Bing
+10.2217_pme.10.75	T28	Application_Mention	10694	10698	Bing
+10.2217_pme.10.75	T29	Application_Mention	10786	10792	Google
+10.2217_pme.10.75	T30	Application_Mention	10952	10958	Google
+10.2217_pme.10.75	T31	Application_Mention	11095	11101	Google
+10.2217_pme.10.75	T32	Application_Mention	11682	11686	Bing
+10.2217_pme.10.75	T33	Application_Mention	11781	11795	Search Planner
+10.2217_pme.10.75	T34	Application_Mention	11819	11833	Search Planner
+10.2217_pme.10.75	T35	Application_Mention	12004	12018	Search Planner
+10.2217_pme.10.75	T36	Application_Mention	13416	13420	Bing
+10.2217_pme.10.75	T37	Application_Mention	13646	13650	Bing
+10.2217_pme.10.75	T38	Application_Mention	13663	13669	Google
+10.2217_pme.10.75	T39	Application_Mention	13703	13707	Bing
+10.2217_pme.10.75	T40	Application_Mention	13869	13875	Google
+10.2217_pme.10.75	T41	Application_Mention	13959	13963	Bing
+10.3138_h400-0370-l1p4-k804	T1	Application_Mention	407	412	NVivo
+10.3386_w11523	T1	Application_Mention	655	661	Matlab
+10.3386_w2589	T1	Application_Mention	1011	1015	RATS
+10.3846_1611-1699.2009.10.169-180	T1	Application_Mention	1057	1062	Excel
+10.3846_1611-1699.2009.10.279-289	T1	Application_Mention	624	628	SPSS
+10.3846_1648-0627.2009.10.107-117	T1	Application_Mention	156	164	MS Excel
+10.3846_btp.2007.31	T1	Application_Mention	5	18	Expert Choice
+10.3846_btp.2007.31	T2	Application_Mention	575	588	Expert Choice
+10.3846_btp.2007.31	T3	Application_Mention	1463	1470	Windows
+10.3846_btp.2007.31	T4	Application_Mention	2220	2231	Lotus Notes
+10.3846_btp.2007.31	T5	Application_Mention	2690	2703	Expert Choice
+10.3846_btp.2007.31	T6	Application_Mention	3452	3465	Expert Choice
+10.3846_btp.2011.05	T1	Application_Mention	942	948	SASSIE
+10.3846_btp.2011.05	T2	Application_Mention	953	960	Prophet
+10.3846_btp.2013.11	T1	Application_Mention	408	423	SPSS Statistics
+10.3846_btp.2013.27	T1	Application_Mention	39	43	SpSS
+10.3846_btp.2013.31	T1	Application_Mention	149	157	SpSSAMOS
+10.3846_btp.2013.31	T2	Application_Mention	1324	1328	AMOS
+10.3846_btp.2015.433	T1	Application_Mention	1735	1745	STATISTICA
+10.3846_btp.2015.534	T1	Application_Mention	138	144	MATLAB
+10.3846_btp.2015.534	T2	Application_Mention	346	352	MATLAB
+10.3846_btp.2015.534	T3	Application_Mention	1257	1263	MATLAB
+10.3846_btp.2017.018	T1	Application_Mention	297	301	SPSS
+10.3846_jbem.2010.13	T1	Application_Mention	458	463	Stata
+10.3846_jbem.2010.20	T1	Application_Mention	13	20	E-VOICE
+10.3846_jbem.2010.20	T2	Application_Mention	1301	1309	WebPolis
+10.3846_jbem.2010.20	T3	Application_Mention	1357	1365	WebPolis
+10.3846_jbem.2010.20	T4	Application_Mention	1622	1630	WebPolis
+10.3846_jbem.2010.20	T5	Application_Mention	1795	1803	WebPolis
+10.3846_jbem.2010.28	T1	Application_Mention	2280	2287	INSPIRE
+10.3846_jbem.2010.28	T2	Application_Mention	2316	2324	Negoisst
+10.3846_jbem.2010.28	T3	Application_Mention	2347	2353	NeGoGo
+10.3846_jbem.2010.28	T4	Application_Mention	2375	2383	NegoCalc
+10.3846_jbem.2010.28	T5	Application_Mention	3207	3212	RAINS
+10.3846_jbem.2010.28	T6	Application_Mention	3419	3433	Familly_Winner
+10.3846_jbem.2010.28	T7	Application_Mention	3546	3557	Smartsettle
+10.3846_jbem.2010.28	T8	Application_Mention	4475	4482	Inspire
+10.3846_jbem.2010.28	T9	Application_Mention	4511	4522	Smartsettle
+10.3846_jbem.2010.28	T10	Application_Mention	4553	4561	Negoisst
+10.3846_jbem.2010.28	T11	Application_Mention	4657	4664	Inspire
+10.3846_jbem.2010.28	T12	Application_Mention	4794	4802	NegoCalc
+10.3846_jbem.2010.28	T13	Application_Mention	4890	4898	NegoCalc
+10.3846_jbem.2010.28	T14	Application_Mention	5731	5739	NegoCalc

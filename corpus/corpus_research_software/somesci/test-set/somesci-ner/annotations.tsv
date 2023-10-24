@@ -1,0 +1,238 @@
+filename	mark	label	off0	off1	span
+PMC5969737	T1	Application_Mention	12	51	Statistical Package for Social Sciences
+PMC5969737	T2	Application_Mention	57	61	SPSS
+PMC6023132	T1	Application_Mention	25	30	STATA
+PMC6028088	T1	Application_Mention	56	61	STATA
+PMC6034840	T1	Application_Mention	45	48	SAS
+PMC6042753	T1	Application_Mention	29	44	SPSS Statistics
+PMC6047798	T1	Application_Mention	276	279	SAS
+PMC6047798	T2	Application_Mention	375	378	SAS
+PMC6051569	T1	Application_Mention	53	56	SAS
+PMC6051569	T3	Application_Mention	57	75	University Edition
+PMC6061992	T1	Application_Mention	39	43	SPSS
+PMC6114920	T1	Application_Mention	181	185	SPSS
+PMC6114920	T2	Application_Mention	15	20	excel
+PMC6201949	T1	Application_Mention	93	97	SPSS
+PMC6201949	T2	Application_Mention	210	214	SPSS
+PMC6261591	T1	Application_Mention	0	4	SPSS
+PMC6287834	T1	Application_Mention	34	39	Stata
+PMC6291235	T1	Application_Mention	0	4	SPSS
+PMC6312285	T1	Application_Mention	46	51	Stata
+PMC6328181	T1	Application_Mention	30	34	SPSS
+PMC6328181	T4	Application_Mention	59	74	SPSS Statistics
+PMC6338375	T1	Application_Mention	85	88	SAS
+PMC5381894	T1	Application_Mention	59	63	SPSS
+PMC5384787	T1	Application_Mention	12	16	SPSS
+PMC5388499	T1	Application_Mention	10	14	SPSS
+PMC5391050	T1	Application_Mention	34	39	Prism
+PMC5423609	T1	Application_Mention	28	32	SPSS
+PMC5513423	T1	Application_Mention	135	139	SPSS
+PMC5544237	T1	Application_Mention	121	128	Tableau
+PMC5544237	T2	Application_Mention	133	138	Excel
+PMC5544237	T3	Application_Mention	73	80	Tableau
+PMC5544237	T4	Application_Mention	140	147	Tableau
+PMC5544237	T7	Application_Mention	176	181	Excel
+PMC5567909	T1	Application_Mention	47	52	Excel
+PMC5568325	T1	Application_Mention	65	77	SurveyMonkey
+PMC5568325	T2	Application_Mention	137	142	Excel
+PMC5570331	T1	Application_Mention	39	57	Experiment Builder
+PMC5570331	T4	Application_Mention	335	341	Matlab
+PMC5573293	T1	Application_Mention	0	4	SPSS
+PMC5573293	T2	Application_Mention	19	34	SPSS statistics
+PMC5587279	T1	Application_Mention	33	48	SPSS Statistics
+PMC5589082	T1	Application_Mention	128	132	SPSS
+PMC5597219	T1	Application_Mention	29	34	Ctrax
+PMC5605050	T1	Application_Mention	37	52	SPSS Statistics
+PMC5627900	T1	Application_Mention	82	97	SPSS Statistics
+PMC5648132	T1	Application_Mention	33	37	SPSS
+PMC5656308	T1	Application_Mention	49	54	STATA
+PMC5659643	T1	Application_Mention	86	91	Stata
+PMC5659773	T1	Application_Mention	39	44	Stata
+PMC5706714	T1	Application_Mention	42	45	SAS
+PMC5728572	T2	Application_Mention	34	38	SPSS
+PMC5728572	T3	Application_Mention	70	75	Stata
+PMC5739404	T1	Application_Mention	25	29	SPSS
+PMC5739404	T2	Application_Mention	36	39	SAS
+PMC5755759	T1	Application_Mention	40	44	SPSS
+PMC5755789	T1	Application_Mention	46	51	STATA
+PMC5755789	T2	Application_Mention	165	169	QGIS
+PMC5757912	T1	Application_Mention	30	35	Excel
+PMC5757912	T2	Application_Mention	46	51	Excel
+PMC5771583	T1	Application_Mention	20	25	Stata
+PMC5783378	T1	Application_Mention	132	138	MATLAB
+PMC5794112	T1	Application_Mention	60	63	SAS
+PMC5794112	T2	Application_Mention	80	85	STATA
+PMC5794112	T5	Application_Mention	86	88	IC
+PMC5794112	T6	Application_Mention	89	91	SE
+PMC5819802	T1	Application_Mention	35	40	Stata
+PMC5826529	T1	Application_Mention	133	148	SPSS Statistics
+PMC5826529	T2	Application_Mention	217	227	LatentGold
+PMC5830041	T1	Application_Mention	86	90	SPSS
+PMC5830041	T2	Application_Mention	24	31	EpiData
+PMC5832313	T1	Application_Mention	252	256	SPSS
+PMC5832313	T2	Application_Mention	346	350	SPSS
+PMC5841764	T1	Application_Mention	55	60	Stata
+PMC5865738	T1	Application_Mention	61	64	SAS
+PMC5874058	T1	Application_Mention	34	38	SPSS
+PMC5880390	T1	Application_Mention	8	13	STATA
+PMC5884536	T1	Application_Mention	70	113	Statistical Package for the Social Sciences
+PMC5884536	T3	Application_Mention	128	143	SPSS Statistics
+PMC5905883	T2	Application_Mention	100	120	Techila Technologies
+PMC5905883	T3	Application_Mention	42	54	Google Cloud
+PMC5922558	T1	Application_Mention	73	77	SPSS
+PMC5937783	T1	Application_Mention	74	89	SPSS Statistics
+PMC5967727	T1	Application_Mention	46	61	SPSS Statistics
+PMC5967727	T2	Application_Mention	71	75	AMOS
+PMC2295259	T1	Application_Mention	78	82	SPSS
+PMC2582449	T1	Application_Mention	205	211	RevMan
+PMC2582449	T2	Application_Mention	97	140	Statistical Package for the Social Sciences
+PMC2582449	T4	Application_Mention	34	37	SAS
+PMC2582449	T7	Application_Mention	156	160	SPSS
+PMC2582449	T12	Application_Mention	38	42	STAT
+PMC2924608	T1	Application_Mention	34	39	STATA
+PMC2924608	T4	Application_Mention	40	42	SE
+PMC2942830	T1	Application_Mention	132	136	SPSS
+PMC2942830	T2	Application_Mention	309	313	SPSS
+PMC2989911	T1	Application_Mention	34	42	Statview
+PMC3001856	T1	Application_Mention	4	7	SAS
+PMC3113910	T1	Application_Mention	0	4	SPSS
+PMC3237560	T1	Application_Mention	4	7	SAS
+PMC3254635	T1	Application_Mention	36	41	Stata
+PMC3257264	T1	Application_Mention	56	64	Epi Info
+PMC3257264	T2	Application_Mention	122	127	STATA
+PMC3257264	T3	Application_Mention	241	246	STATA
+PMC3353911	T1	Application_Mention	34	39	Stata
+PMC3353911	T2	Application_Mention	91	96	Excel
+PMC3356250	T1	Application_Mention	60	64	SPSS
+PMC3356291	T1	Application_Mention	41	50	SigmaPlot
+PMC3402400	T1	Application_Mention	28	32	SPSS
+PMC3469536	T1	Application_Mention	55	70	SPSS Statistics
+PMC3490915	T1	Application_Mention	57	62	Prism
+PMC3492364	T1	Application_Mention	47	52	Excel
+PMC3498156	T1	Application_Mention	36	79	Statistical Package for the Social Sciences
+PMC3504100	T1	Application_Mention	33	44	Cogent 2000
+PMC3507871	T1	Application_Mention	24	29	STATA
+PMC3507917	T1	Application_Mention	28	32	SPSS
+PMC3526652	T1	Application_Mention	127	131	SPSS
+PMC3542333	T1	Application_Mention	52	67	PASW Statistics
+PMC3544765	T1	Application_Mention	33	75	Statistical Package for the Social Science
+PMC3544765	T2	Application_Mention	77	81	SPSS
+PMC3559777	T1	Application_Mention	25	29	SPSS
+PMC3559777	T2	Application_Mention	39	44	STATA
+PMC3561195	T1	Application_Mention	29	32	SAS
+PMC3576340	T1	Application_Mention	105	110	Stata
+PMC3576340	T2	Application_Mention	44	51	EpiData
+PMC3577686	T1	Application_Mention	31	36	Stata
+PMC3634734	T1	Application_Mention	200	204	SPSS
+PMC3656929	T1	Application_Mention	25	29	SPSS
+PMC3660607	T1	Application_Mention	29	32	SAS
+PMC3660607	T2	Application_Mention	64	70	SUDAAN
+PMC3661547	T1	Application_Mention	85	90	Stata
+PMC3666983	T1	Application_Mention	6	10	SPSS
+PMC3669127	T1	Application_Mention	47	51	SPSS
+PMC3670922	T1	Application_Mention	34	38	SPSS
+PMC3676365	T1	Application_Mention	33	48	SPSS Statistics
+PMC3739786	T1	Application_Mention	0	4	SPSS
+PMC3743525	T1	Application_Mention	38	43	Stata
+PMC3749220	T1	Application_Mention	150	155	STATA
+PMC3756026	T1	Application_Mention	25	29	SPSS
+PMC3756996	T1	Application_Mention	95	99	SPSS
+PMC3756996	T2	Application_Mention	239	243	SPSS
+PMC3759436	T1	Application_Mention	0	41	Statistical Product and Service Solutions
+PMC3759436	T2	Application_Mention	43	47	SPSS
+PMC3805582	T1	Application_Mention	59	64	STATA
+PMC3808299	T1	Application_Mention	26	31	STATA
+PMC3835884	T1	Application_Mention	17	23	EEGLAB
+PMC3879246	T1	Application_Mention	42	46	SPSS
+PMC3897519	T1	Application_Mention	24	28	SPSS
+PMC3897519	T2	Application_Mention	76	80	NCSS
+PMC3923838	T1	Application_Mention	37	41	SPSS
+PMC3938582	T1	Application_Mention	27	32	Stata
+PMC3938582	T2	Application_Mention	134	139	STATA
+PMC3942421	T1	Application_Mention	34	38	SPSS
+PMC3948370	T1	Application_Mention	24	27	SAS
+PMC3958518	T1	Application_Mention	0	5	STATA
+PMC3963974	T1	Application_Mention	42	57	PASW Statistics
+PMC3981780	T1	Application_Mention	51	56	STATA
+PMC3989186	T1	Application_Mention	9	14	Prism
+PMC4020748	T1	Application_Mention	247	250	SAS
+PMC4076331	T1	Application_Mention	34	49	PASW Statistics
+PMC4094494	T1	Application_Mention	138	142	SPSS
+PMC4100871	T1	Application_Mention	268	271	JMP
+PMC4113245	T1	Application_Mention	212	215	SAS
+PMC4113245	T2	Application_Mention	231	234	SAS
+PMC4117488	T1	Application_Mention	59	67	EPI INFO
+PMC4117488	T2	Application_Mention	121	126	Excel
+PMC4143241	T1	Application_Mention	50	55	Excel
+PMC4152246	T1	Application_Mention	29	34	Excel
+PMC4211701	T1	Application_Mention	31	36	STATA
+PMC4220931	T1	Application_Mention	296	299	SAS
+PMC4335060	T1	Application_Mention	30	34	SPSS
+PMC4366215	T2	Application_Mention	42	46	JAGS
+PMC4390361	T1	Application_Mention	28	33	STATA
+PMC4390361	T3	Application_Mention	34	36	MP
+PMC4414420	T1	Application_Mention	47	62	SPSS Statistics
+PMC4414468	T1	Application_Mention	0	5	Stata
+PMC4418829	T1	Application_Mention	283	288	excel
+PMC4423990	T1	Application_Mention	34	38	SPSS
+PMC4427319	T1	Application_Mention	43	47	SPSS
+PMC4433227	T1	Application_Mention	37	41	SPSS
+PMC4452766	T1	Application_Mention	34	39	Stata
+PMC4452766	T3	Application_Mention	40	42	SE
+PMC4481314	T1	Application_Mention	46	50	SPSS
+PMC4512684	T1	Application_Mention	30	35	Stata
+PMC4546275	T1	Application_Mention	34	38	SPSS
+PMC4546275	T2	Application_Mention	12	16	AMOS
+PMC4558049	T1	Application_Mention	75	78	SPM
+PMC4636431	T1	Application_Mention	56	60	SPSS
+PMC4664486	T1	Application_Mention	45	54	SigmaPlot
+PMC4684369	T1	Application_Mention	77	82	BLAST
+PMC4684369	T2	Application_Mention	84	117	Basic Local Alignment Search Tool
+PMC4692284	T1	Application_Mention	28	43	SPSS Statistics
+PMC4721654	T1	Application_Mention	62	67	Excel
+PMC4721672	T1	Application_Mention	57	61	SPSS
+PMC4723157	T1	Application_Mention	8	51	Statistical Package for the Social Sciences
+PMC4723157	T3	Application_Mention	53	57	SPSS
+PMC4728114	T1	Application_Mention	185	190	Stata
+PMC4731070	T1	Application_Mention	216	219	SAS
+PMC4744078	T1	Application_Mention	126	131	Excel
+PMC4755532	T1	Application_Mention	31	36	Stata
+PMC4762940	T1	Application_Mention	82	88	Access
+PMC4762940	T2	Application_Mention	135	140	Excel
+PMC4784934	T1	Application_Mention	141	160	PABAK-OS calculator
+PMC4784934	T3	Application_Mention	42	45	SAS
+PMC4805189	T1	Application_Mention	85	88	SAS
+PMC4814065	T1	Application_Mention	30	35	Stata
+PMC4825976	T1	Application_Mention	175	179	SPSS
+PMC4830594	T1	Application_Mention	52	56	SPSS
+PMC4833310	T1	Application_Mention	191	196	stata
+PMC4833352	T1	Application_Mention	38	43	STATA
+PMC4849764	T1	Application_Mention	46	49	SAS
+PMC4877066	T1	Application_Mention	65	70	Stata
+PMC4896451	T1	Application_Mention	209	214	Excel
+PMC4911165	T1	Application_Mention	31	34	SAS
+PMC4917221	T1	Application_Mention	79	84	Stata
+PMC4930171	T1	Application_Mention	34	39	STATA
+PMC4938526	T1	Application_Mention	158	162	SPSS
+PMC4970811	T1	Application_Mention	95	99	SPSS
+PMC4970811	T2	Application_Mention	49	54	Mplus
+PMC5001719	T1	Application_Mention	34	39	Stata
+PMC5003337	T1	Application_Mention	86	89	SPM
+PMC5019395	T1	Application_Mention	46	50	SPSS
+PMC5068799	T1	Application_Mention	57	72	SPSS Statistics
+PMC5068799	T2	Application_Mention	25	30	Mplus
+PMC5112978	T1	Application_Mention	50	54	SPSS
+PMC5115662	T1	Application_Mention	53	58	Excel
+PMC5115662	T2	Application_Mention	118	133	SPSS Statistics
+PMC5130232	T1	Application_Mention	47	52	Stata
+PMC5145233	T1	Application_Mention	43	47	SPSS
+PMC5158042	T1	Application_Mention	12	15	SAS
+PMC5179078	T1	Application_Mention	14	19	Mplus
+PMC5179078	T2	Application_Mention	0	4	SPSS
+PMC5231401	T1	Application_Mention	73	82	Sigmaplot
+PMC5240969	T1	Application_Mention	105	110	Excel
+PMC5295691	T1	Application_Mention	42	85	Statistical Package for the Social Sciences
+PMC5295691	T2	Application_Mention	87	91	SPSS
+PMC5302808	T1	Application_Mention	164	167	SAS
+PMC5302808	T2	Application_Mention	176	181	STATA
+PMC5325527	T1	Application_Mention	37	42	Stata

@@ -1,0 +1,2 @@
+
+Epidermal growth factor receptor mutation status and histologic subtype were analyzed statistically using the χ 2 -test, and Fisher's exact test was used when the sample size was lower than five. Log rank tests and Cox regression analyses were also employed. DFS and PFS were estimated using the Kaplan-Meier method. Statistical analyses were performed using SPSS version 20 (IBM Corp., Armonk, NY, USA).

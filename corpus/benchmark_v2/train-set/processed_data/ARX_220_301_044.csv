@@ -1,0 +1,2 @@
+tokens,labels
+"['We', 'present', 'SelfKG', 'with', 'efficient', 'strategies', 'to', 'optimize', 'this', 'objective', 'for', 'aligning', 'entities', 'without', 'label', 'supervision.']","['O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

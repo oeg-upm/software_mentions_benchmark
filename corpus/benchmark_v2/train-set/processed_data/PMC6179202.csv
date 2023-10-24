@@ -1,0 +1,2 @@
+tokens,labels
+"['Structural', 'Equation', 'Modeling', '(SEM)', 'was', 'conducted', 'using', 'Stata', '15.0', 'to', 'assess', 'the', 'interrelationship', 'between', 'variables', 'associated', 'with', 'lifetime', 'physical', 'IPV.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

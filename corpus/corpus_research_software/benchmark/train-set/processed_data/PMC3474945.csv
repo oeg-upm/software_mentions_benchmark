@@ -1,0 +1,2 @@
+tokens,labels
+"['Statistical', 'analysis', 'for', 'the', 'LTT', 'validation', 'results', 'was', 'performed', 'by', 'using', 'the', 'Chi-square', 'test', '(Prism', '5,', 'GraphPad', 'software,', 'La', 'Jolla,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"

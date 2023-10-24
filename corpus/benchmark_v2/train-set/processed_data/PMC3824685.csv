@@ -1,0 +1,10 @@
+tokens,labels
+"['Statistical', 'analysis.']","['O', 'O']"
+"['All', 'data', 'were', 'analyzed', 'for', 'statistical', 'significance', 'usingSPSS', '13.0', 'software', '(SPSS,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'chi-square', 'test', 'was', 'applied', 'to', 'the', 'examination', 'of', 'relationship', 'between', 'PDCD4', 'expression', 'levels', 'and', 'clinicopathological', 'characteristics.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Survival', 'analysis', 'was', 'performed', 'using', 'KaplanMeier', 'method.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Multivariate', 'Cox', 'proportional', 'hazards', 'method', 'was', 'used', 'for', 'analyzing', 'the', 'relationship', 'between', 'the', 'variables', 'and', ""patient's"", 'survival', 'time.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'relationship', 'between', 'PDCD4', 'and', 'miR-184', 'expression', 'was', 'explored', 'by', 'Pearson', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Two-tailed', ""Student's"", 't', 'test', 'was', 'used', 'for', 'comparisons', 'of', 'two', 'independent', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['One-way', 'ANOVA', 'was', 'used', 'to', 'determine', 'the', 'differences', 'between', 'groups', 'for', 'all', 'in', 'vitro', 'analyses.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'P-value', 'of', 'o0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

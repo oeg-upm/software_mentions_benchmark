@@ -1,0 +1,2 @@
+tokens,labels
+"['Mediation', 'analysis', 'was', 'carried', 'out', 'with', 'the', 'commands', '“binary_mediation', '“and', '“bootstrap”', 'in', 'Stata', '13', '[52].']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"

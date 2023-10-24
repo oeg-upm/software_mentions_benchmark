@@ -1,0 +1,4 @@
+tokens,labels
+"['Differences', 'among', 'the', 'mean', 'values', 'of', 'the', 'different', 'groups', 'were', 'analyzed,', 'and', 'the', 'values', 'were', 'expressed', 'as', 'mean±SD.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'analyses', 'were', 'performed', 'by', ""Student's"", 't-test', 'by', 'GraphPad', 'Prism', 'version', '4', '(GraphPad', 'Software,', 'San', 'Diego,', 'CA,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Values', 'of', 'p＜0.05', 'were', 'considered', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O']"

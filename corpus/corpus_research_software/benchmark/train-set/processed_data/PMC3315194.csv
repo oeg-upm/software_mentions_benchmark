@@ -1,0 +1,5 @@
+tokens,labels
+"['Data', 'were', 'collected', 'from', 'repeated', 'experiments', 'and', 'are', 'presented', 'as', 'mean±SEM.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Independent', 'T-test', 'was', 'used', 'to', 'compare', 'the', 'significant', 'difference', 'of', 'gene', 'expression', 'in', 'each', 'group.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'P', 'value', 'less', 'than', '0.05', 'denoted', 'significant', 'differences.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'analyses', 'were', 'performed', 'using', 'the', 'Statistical', 'Package', 'for', 'the', 'Social', 'Sciences', '(SPSS)', 'ver.16', 'software', '(IBM,', 'New', 'York,', 'NY,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+
+Statistical analysis -All statistical analyses were performed using Prism 5.0 GraphPad Software Inc (USA). All sample comparisons were made using ANOVA and Tukey tests to compare percentage fluorescence. Values of p < 0.05 were considered significant.

@@ -1,0 +1,6 @@
+tokens,labels
+"['All', 'statistical', 'analyses', 'were', 'performed', 'with', 'the', 'PASW', 'Statistics', 'ver.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O']"
+"['18', 'for', 'Windows', 'software', '(SPSS', 'Inc.,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['To', 'decide', 'which', 'factors', 'are', 'associated', 'with', 'compliance', 'among', 'patient', 'characteristics,', 'chi-square', 'tests', 'and', 'univariate', 'logistic', 'regression', 'analyses', 'were', 'used', 'for', 'categorical', 'variables', 'and', 'continuous', 'variables,', 'respectively.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['In', 'multiple', 'logistic', 'regression', 'analysis,', 'variables', 'showing', 'p<0.2', 'in', 'the', 'univariate', 'analysis', 'were', 'included.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['For', 'multiple', 'analysis,', 'the', 'stepwise', 'forward', 'procedure', 'was', 'used', 'for', 'variable', 'entry.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

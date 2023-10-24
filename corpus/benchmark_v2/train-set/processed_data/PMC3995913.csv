@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'MCMC', 'simulation', 'was', 'conducted', 'using', 'the', 'package', 'rjags', 'under', 'R', '3.0.3', 'and', 'JAGS', 'v', '3.3.0', '(further', 'technical', 'details', 'are', 'provided', 'in', 'the', 'Supporting', 'Information).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

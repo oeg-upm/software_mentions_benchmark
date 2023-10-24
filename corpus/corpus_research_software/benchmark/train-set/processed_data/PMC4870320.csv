@@ -1,0 +1,4 @@
+tokens,labels
+"['All', 'statistical', 'analyses', 'were', 'performed', 'using', 'the', 'IBM', 'SPSS', 'ver.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+"['20', '(IBM', 'Co.,', 'Armonk,', 'NY,', 'USA)', 'with', 'a', '95%', 'confidence', 'level.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['We', 'used', 'the', 'independent', 't-test', 'to', 'compare', 'data', 'from', 'the', 'groups', 'and', 'a', 'p-value', 'of', 'less', 'than', '0.05', 'was', 'considered', 'to', 'indicate', 'significance.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

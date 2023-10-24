@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'identity', 'of', 'the', 'amplicons', 'was', 'confirmed', 'by', 'comparing', 'each', 'sequence', 'using', 'BLAST', '(Basic', 'Local', 'Alignment', 'Search', 'Tool']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention']"

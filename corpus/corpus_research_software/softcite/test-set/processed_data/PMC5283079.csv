@@ -1,0 +1,2 @@
+tokens,labels
+"['Perforation', 'of', 'the', 'cornea,', 'phthisis', 'bulbi', '(shrinkage', 'of', 'the', 'globe', 'after', 'inflammatory', 'disease),', 'or', 'both', 'surement', 'of', 'infections', 'was', 'quantified', 'using', 'Argus', '5.0', 'software', '(Hamamatsu).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+tokens,labels
+"['Analyses', 'were', 'conducted', 'with', 'SAS', 'software', 'Version', '9.2', '[30],', 'and', 'SUDAAN', 'software', 'Release', '10.0', '[31],', 'and', 'incorporated', 'weighting', 'to', 'account', 'for', 'sampling', 'design.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

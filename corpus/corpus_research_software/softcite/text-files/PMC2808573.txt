@@ -1,0 +1,2 @@
+
+Statistical analysis were done using SAS � version 6.12 for Windows, in which t-tests and the general linear model were used for univariate and multivariate analysis, respectively. A probability value of less than 0.05 was considered to be statistically significant.

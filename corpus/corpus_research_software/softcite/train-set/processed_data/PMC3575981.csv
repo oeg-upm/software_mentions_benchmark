@@ -1,0 +1,9 @@
+tokens,labels
+"['The', 'chi-square', 'test', 'was', 'used', 'to', 'compare', 'categorical', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['To', 'exclude', 'the', 'outliers,', 'the', 'Wilcoxon', 'rank-sum', 'test', 'was', 'used', 'to', 'identify', 'significant', 'median', 'differences', 'among', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['pvalues', '<0.05', 'were', 'considered', 'significant.']","['O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analyses', 'were', 'conducted', 'using', 'STATA', '®', 'software', 'version', '11.0', '(StataCorp', 'LP,', 'Lakeway,', 'TX,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['17', 'Fig.', '1', 'presents', 'the', 'flow', 'chart', 'for', 'enrolling', 'the', 'subjects.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['In', 'total,', '638', 'males', 'with', 'HA,', 'including', '37', 'patients', 'with', 'highresponding', 'inhibitors,', 'were', 'enrolled', 'in', 'the', 'study.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'median', 'ages', 'of', 'patients', 'with', 'and', 'without', 'high-responding', 'inhibitors', 'were', '31.8', 'and', '26.7', 'years,', 'respectively,', 'and', 'the', 'median', 'patient-months', 'followed', 'for', 'the', 'same', 'groups', 'were', '48', 'and', '48', 'years,', 'respectively', 'Table', '1).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'differences', 'in', 'median', 'age', 'and', 'other', 'age', 'categories', 'were', 'not', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

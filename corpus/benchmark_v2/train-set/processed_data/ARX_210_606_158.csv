@@ -1,0 +1,2 @@
+tokens,labels
+"['This', 'paper', 'introduces', 'PyGAD', 'an', 'open-source', 'easyto-use', 'Python', 'library', 'for', 'building', 'the', 'genetic', 'algorithm.']","['O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

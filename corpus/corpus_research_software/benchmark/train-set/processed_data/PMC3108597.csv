@@ -1,0 +1,2 @@
+tokens,labels
+"['A', 'BLAST', 'search', '[40]', 'confirmed', 'the', 'absence', 'of', 'contamination', 'with', 'exogenous', 'DNA.']","['O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+
+The OFT was performed in all the 29 animals as described by Blokland et al 39 with modifications, in order to assess the general locomotor activity. 40 The apparatus consists of a large black arena (90 cm ×90 cm ×60 cm), divided by strips into 25 equal small squares illuminated by white light. The automated Open Control software 41 was modified to detect the number and time spent in the central zones, with the aid of a USB camera used to record the whole sessions. Other parameters of OFT like rearing and grooming activity were recorded manually during each session.

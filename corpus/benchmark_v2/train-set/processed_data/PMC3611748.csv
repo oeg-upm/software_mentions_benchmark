@@ -1,0 +1,7 @@
+tokens,labels
+"['The', 'distribution', 'of', 'continuous', 'variables', 'was', 'determined', 'by', 'the', 'Kolmogorov-Smirnov', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'paired-sample', 't', 'test', 'was', 'performed', 'to', 'analyze', 'initial', 'and', 'final', 'values', 'with', 'a', 'normal', 'distribution.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'Wilcoxon', 'signed', 'rank', 'test', 'was', 'used', 'to', 'analyze', 'data', 'with', 'a', 'skewed', 'distribution.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"[""Pearson's"", 'and', ""Spearman's"", 'analyses', 'were', 'used', 'to', 'identify', 'correlations', 'between', 'study', 'parameters.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['For', 'all', 'statistics,', 'a', 'two-sided', 'pvalue', ',0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'analyses', 'were', 'performed', 'with', 'SPSS', '15.0', 'for', 'Windows.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"

@@ -1,0 +1,5 @@
+tokens,labels
+"['A', 'relevant', 'size', 'discrepancy', 'was', 'defined', 'as', 'a', 'size', 'difference', 'of', '>1', 'cm', 'between', 'CESM', 'measurements', 'and', 'histopathological', 'results,', 'in', 'line', 'with', 'previous', 'publications', '[12,', '13]', 'and', 'concordant', 'with', 'margins', 'used', 'by', 'our', 'surgeons.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', '2x2', 'contingency', 'table', 'was', 'created', 'for', 'both', 'imaging', 'modalities', 'and', 'their', 'corresponding', 'size', 'estimations.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analyses', 'were', 'performed', 'using', 'SPSS', 'Statistics', '(version', '20.0,IBM,', 'Armonk,', 'NY,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'p-values', '<0.05', 'were', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"

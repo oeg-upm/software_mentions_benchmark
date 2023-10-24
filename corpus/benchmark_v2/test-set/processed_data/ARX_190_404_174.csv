@@ -1,0 +1,2 @@
+tokens,labels
+"['SYCL-DNN', 'is', 'a', 'new', 'open-source', 'library', 'dedicated', 'to', 'providing', 'accelerated', 'routines', 'for', 'neural', 'network', 'operations', 'which', 'are', 'hardware', 'and', 'vendor', 'agnostic.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

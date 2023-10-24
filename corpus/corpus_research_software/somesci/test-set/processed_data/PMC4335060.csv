@@ -1,0 +1,2 @@
+tokens,labels
+"['Analyses', 'were', 'performed', 'using', 'SPSS', '14.0.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

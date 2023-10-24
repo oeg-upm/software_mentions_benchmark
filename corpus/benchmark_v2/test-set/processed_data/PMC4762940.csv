@@ -1,0 +1,2 @@
+tokens,labels
+"['Receipt', 'of', 'QAC', 'data', 'was', 'acknowledged,', 'entered', 'into', 'a', 'password-protected', 'Microsoft', 'Access', 'database,', 'and', 'cross-checked', 'through', 'Microsoft', 'Excel']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention']"

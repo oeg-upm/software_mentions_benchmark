@@ -1,0 +1,8 @@
+tokens,labels
+"['Statistical', 'analysis.']","['O', 'O']"
+"['Statistical', 'analysis', 'was', 'performed', 'using', 'JMP', 'statistical', 'software.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O']"
+"['Data', 'are', 'represented', 'as', 'mean', '±', 'SD.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Two-tailed', ""Student's"", 't', 'test', 'was', 'applied', 'for', 'comparisons', 'of', 'two', 'groups', 'and', ""Welch's"", 'correction', 'was', 'applied', 'for', 'unequal', 'variance.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['One-way', 'analysis', 'of', 'variance', 'followed', 'by', 'the', 'Tukey', 'HSD', '(honestly', 'significant', 'difference)', 'was', 'applied', 'for', 'multiple', 'comparisons.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Survival', 'was', 'evaluated', 'by', 'the', 'Kaplan-Meier', 'log-rank', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['For', 'all', 'tests,', 'P', '<', '0.05', 'was', 'considered', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

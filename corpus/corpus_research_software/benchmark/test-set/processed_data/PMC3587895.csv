@@ -1,0 +1,7 @@
+tokens,labels
+"['Data', 'analysis', 'was', 'done', 'using', 'the', 'SPSS', 'v.18.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+"['Two', 'way', 'random-consistency', 'model', 'of', 'ICC', '(2,1)', 'was', 'used', 'for', 'assessment', 'of', 'testretest', 'reliability.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Table', '2', 'demonstrated', 'the', 'suggested', 'interpretation', 'of', 'statistical', 'value', 'for', 'reliability', 'testing', '(8).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Table', '3', 'is', 'shown', 'the', 'characteristics', 'of', 'all', '20', 'participants', 'and', 'descriptive', 'statistics', 'shown', 'in', 'Table', '4.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Two-way', 'randomconsistency', 'model', 'of', 'ICC', 'was', 'used', 'for', 'assessment', 'of', 'test-retest', 'reliability.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['As', 'Table', '5', 'is', 'indicated,', 'all', 'scores', 'of', 'Motricity', 'Index', 'in', 'lower', 'limbs', 'of', '20', 'patients', 'on', 'two', 'sessions', 'assessments', 'were', 'strongly', '(8).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

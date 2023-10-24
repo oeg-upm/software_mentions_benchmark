@@ -1,0 +1,516 @@
+filename	mark	label	off0	off1	span
+PMC4257079	T1	Application_Mention	1947	1962	Kaluza analysis
+PMC4257079	T2	Developer	1973	1988	Beckman Coulter
+PMC4257079	T3	Application_Mention	3530	3554	Kaluza analysis software
+PMC4257079	T4	Application_Mention	3590	3604	GraphPad Prism
+PMC4257079	T5	Version	3605	3606	5
+PMC4257079	T6	Developer	3608	3625	GraphPad Software
+PMC4257079	T7	Application_Mention	3749	3763	GraphPad Prism
+PMC4257079	T8	Version	3764	3765	5
+PMC3524521	T1	Application_Mention	96	115	COMSOL Multiphysics
+PMC3524521	T2	Version	116	127	4.1 and 4.2
+PMC3524521	T3	Application_Mention	129	148	COMSOL Multiphysics
+PMC3524521	T4	Application_Mention	220	226	COMSOL
+PMC4736865	T1	Application_Mention	41	45	SPSS
+PMC4736865	T2	Version	46	48	22
+PMC4736865	T3	Developer	59	67	SPSS Inc
+PMC3532996	T1	Application_Mention	460	463	SAS
+PMC3532996	T2	Version	466	471	9.1.3
+PMC3532996	T3	Developer	473	486	SAS Institute
+PMC3065992	T1	Application_Mention	184	194	AxioVision
+PMC3065992	T2	Version	198	205	4.7.2.0
+PMC3065992	T3	Developer	207	245	Carl Zeiss Image Solutions, Carl Zeiss
+PMC3065992	T4	Application_Mention	1023	1027	PAUP
+PMC3065992	T5	Application_Mention	1152	1156	PAUP
+PMC3065992	T6	Application_Mention	2110	2117	MrBayes
+PMC3065992	T7	Version	2121	2126	3.1.2
+PMC3065992	T8	Application_Mention	2295	2306	MrModeltest
+PMC3065992	T9	Version	2310	2311	2
+PMC3065992	T10	Application_Mention	2803	2807	PAUP
+PMC3065992	T11	Application_Mention	2867	2876	Modeltest
+PMC3065992	T12	Version	2880	2883	3.7
+PMC4368859	T1	Application_Mention	411	420	WinNonlin
+PMC4793049	T1	Application_Mention	246	256	Statistica
+PMC4793049	T2	Version	271	273	10
+PMC3230829	T1	Application_Mention	38	39	R
+PMC3230829	T2	Version	40	44	2.11
+PMC3230829	T3	Application_Mention	162	167	Stata
+PMC3230829	T4	Version	170	172	11
+PMC4793000	T1	Application_Mention	2407	2417	Sigma Stat
+PMC4793000	T2	Version	2444	2447	3.2
+PMC2248739	T1	Application_Mention	166	176	ImageQuant
+PMC5076548	T1	Application_Mention	47	55	StatView
+PMC5076548	T2	Developer	68	85	SAS Institute Inc
+PMC5076548	T3	Application_Mention	150	164	GraphPad Prism
+PMC5076548	T4	Developer	168	190	GraphPad Software, Inc
+PMC3049466	T1	Application_Mention	9	18	OriginPro
+PMC3049466	T2	Version	19	20	8
+PMC3049466	T3	Developer	22	31	OriginLab
+PMC5009042	T1	Application_Mention	684	688	SPSS
+PMC5009042	T2	Version	693	697	14.0
+PMC5009042	T3	Developer	699	707	SPSS Inc
+PMC3351187	T1	Application_Mention	1702	1716	GraphPad PRISM
+PMC3351187	T2	Version	1717	1718	5
+PMC3351187	T3	Developer	1720	1738	Graph Pad software
+PMC3198078	T1	Application_Mention	890	904	Image-Pro Plus
+PMC3198078	T2	Version	914	917	5.0
+PMC3198078	T3	Developer	919	936	Media Cybernatics
+PMC3198078	T4	Application_Mention	1228	1242	Image-Pro Plus
+PMC3198078	T5	Version	1252	1255	5.0
+PMC3198078	T6	Application_Mention	5155	5159	SPSS
+PMC3198078	T7	Version	5160	5164	16.0
+PMC3198078	T8	Developer	5166	5170	SPSS
+PMC4918545	T1	Application_Mention	480	487	Image J
+PMC4918545	T2	Developer	498	527	National Institutes of Health
+PMC4918545	T3	Application_Mention	549	556	PDQuest
+PMC4918545	T4	Version	559	562	8.0
+PMC4918545	T5	Developer	564	589	Bio-Rad Laboratories, Inc
+PMC4918545	T6	Application_Mention	2124	2136	GPS Explorer
+PMC4918545	T7	Version	2139	2142	3.5
+PMC4918545	T8	Developer	2173	2202	Thermo Fisher Scientific, Inc
+PMC4918545	T9	Application_Mention	2224	2230	Mascot
+PMC4918545	T10	Version	2240	2245	2.1.0
+PMC4918545	T11	Developer	2247	2265	Matrix Science Ltd
+PMC4918545	T12	Application_Mention	2511	2517	Mascot
+PMC4918545	T13	Application_Mention	2770	2774	SPSS
+PMC4918545	T14	Version	2792	2796	22.0
+PMC4918545	T15	Developer	2825	2833	SPSS Inc
+PMC4531765	T1	Application_Mention	66	93	Micro-Probe staining system
+PMC4531765	T2	Developer	95	112	Fisher Scientific
+PMC4357732	T1	Application_Mention	666	672	Mascot
+PMC4354499	T1	Application_Mention	722	736	oligo analyzer
+PMC4354499	T2	Application_Mention	1092	1099	cloneDB
+PMC4583706	T1	Application_Mention	33	38	minfi
+PMC4583706	T2	Application_Mention	48	59	shinyMethyl
+PMC4583706	T3	Application_Mention	92	104	Bioconductor
+PMC4583706	T4	Application_Mention	532	542	missMethyl
+PMC4360915	T1	Application_Mention	843	854	Scion Image
+PMC4360915	T2	Developer	865	870	Scion
+PMC4360915	T3	Application_Mention	957	964	G*Power
+PMC4360915	T4	Version	974	981	3.1.9.2
+PMC4360915	T5	Application_Mention	1337	1352	PASW Statistics
+PMC4360915	T6	Version	1353	1357	17.0
+PMC4360915	T7	Developer	1368	1372	SPSS
+PMC4574835	T1	Application_Mention	170	176	NONMEM
+PMC4574835	T2	Version	195	208	VII Level 1.2
+PMC4574835	T3	Application_Mention	1271	1277	NONMEM
+PMC5265988	T1	Application_Mention	208	222	Sequenom Typer
+PMC5265988	T2	Version	223	226	4.0
+PMC5265988	T3	Developer	237	257	Agena Bioscience Inc
+PMC5265988	T4	Developer	266	275	Microsoft
+PMC5265988	T5	Application_Mention	276	281	Excel
+PMC5265988	T6	Application_Mention	286	290	SPSS
+PMC5265988	T7	Version	291	295	16.0
+PMC5265988	T8	Developer	297	301	SPSS
+PMC5265988	T9	Application_Mention	988	994	SHEsis
+PMC5265988	T10	Application_Mention	1022	1031	Haploview
+PMC5265988	T11	Version	1057	1060	4.2
+PMC5265988	T12	Developer	1063	1078	Broad Institute
+PMC4849203	T1	Application_Mention	5	20	SPSS Statistics
+PMC4849203	T2	Version	30	32	22
+PMC4849203	T3	Developer	34	42	IBM Corp
+PMC4849203	T4	Application_Mention	211	216	Mplus
+PMC4849203	T5	Version	217	220	7.2
+PMC4849203	T6	Developer	222	239	Muth en & Muth en
+PMC3785600	T1	Application_Mention	54	61	MedCalc
+PMC3785600	T2	Version	76	83	9.6.2.0
+PMC3259236	T1	Application_Mention	42	46	SPSS
+PMC3259236	T2	Version	52	56	14.0
+PMC3259236	T3	Developer	58	66	SPSS Inc
+PMC4366701	T1	Application_Mention	825	828	SAS
+PMC4366701	T2	Version	834	837	9.3
+PMC4366701	T3	Developer	839	856	SAS Institute Inc
+PMC2963841	T1	Application_Mention	136	140	SPSS
+PMC2963841	T2	Version	146	149	6.0
+PMC5292639	T1	Application_Mention	833	837	SPSS
+PMC5292639	T2	Version	859	863	23.0
+PMC5292639	T3	Developer	865	869	SPSS
+PMC3027082	T1	Application_Mention	39	45	MATLAB
+PMC3027082	T2	Developer	59	72	The MathWorks
+PMC3027082	T3	Developer	92	97	OMLAB
+PMC3027082	T4	Application_Mention	108	115	OMtools
+PMC3027082	T5	URL	135	156	http://www.om lab.org
+PMC3027082	T6	Application_Mention	985	992	OMtools
+PMC3027082	T7	URL	1108	1165	http://www.omlab.org/ OMLAB_page/Teaching/Using_NAFX.html
+PMC4273078	T1	Application_Mention	47	50	SAS
+PMC4273078	T2	Version	68	71	9.1
+PMC4551318	T1	Application_Mention	1221	1225	iTEM
+PMC4551318	T2	Developer	1236	1264	Olympus Soft Imaging Systems
+PMC4551318	T3	Application_Mention	1304	1310	ImageJ
+PMC4551318	T4	Developer	1312	1341	National Institutes of Health
+PMC4551318	T5	Developer	1361	1366	Adobe
+PMC4551318	T6	Application_Mention	1367	1378	Illustrator
+PMC4551318	T7	Application_Mention	1380	1384	Fiji
+PMC4551318	T8	Application_Mention	1637	1643	ImageJ
+PMC4551318	T9	Application_Mention	1874	1880	ImageJ
+PMC4551318	T10	Application_Mention	2007	2011	Fiji
+PMC4740966	T1	Application_Mention	392	395	SAS
+PMC4740966	T2	Version	414	417	9.3
+PMC4740966	T3	Developer	419	437	SAS Institute, Inc
+PMC4740966	T4	Application_Mention	458	478	Joinpoint Regression
+PMC4740966	T5	Version	496	501	4.0.1
+PMC4473108	T1	Application_Mention	842	852	SeqMan Pro
+PMC4473108	T2	Developer	854	861	DNASTAR
+PMC4473108	T3	Application_Mention	959	967	MegAlign
+PMC4473108	T4	Developer	969	976	DNASTAR
+PMC4355434	T1	Application_Mention	398	413	SPSS Statistics
+PMC4355434	T2	Version	419	423	20.0
+PMC4355434	T3	Developer	425	431	IBM Co
+PMC4468934	T1	Application_Mention	471	477	FlowJo
+PMC4553351	T1	Application_Mention	413	428	GraphPad InStat
+PMC4553351	T2	Version	429	430	3
+PMC4553351	T3	Developer	432	453	GraphPad Software Inc
+PMC4553351	T4	Application_Mention	479	483	SPSS
+PMC4553351	T5	Version	489	491	13
+PMC4553351	T6	Developer	493	501	SPSS Inc
+PMC4989302	T1	Application_Mention	523	529	UCHIME
+PMC4989302	T2	Developer	531	538	USEARCH
+PMC4989302	T3	Version	541	542	6
+PMC4989302	T4	Application_Mention	688	694	UCLUST
+PMC4989302	T5	Version	703	704	6
+PMC4989302	T6	Application_Mention	970	976	BLASTn
+PMC4989302	T7	Version	985	992	2.2.25+
+PMC4989302	T8	Application_Mention	1283	1288	CANGS
+PMC4280397	T1	Application_Mention	374	389	SPSS Statistics
+PMC4280397	T2	Version	399	403	20.0
+PMC4280397	T3	Developer	404	407	IBM
+PMC4615379	T1	Application_Mention	638	645	IntaRNA
+PMC4615379	T2	Application_Mention	1577	1582	Limma
+PMC4615379	T3	Application_Mention	1587	1588	R
+PMC4615379	T4	Developer	2281	2288	Bio-Rad
+PMC4615379	T5	Application_Mention	2350	2361	CFX Manager
+PMC4615379	T6	Application_Mention	3048	3063	1D-Quantity One
+PMC4615379	T7	Developer	3074	3081	Bio-Rad
+PMC4240489	T1	Application_Mention	230	240	Statistica
+PMC4240489	T2	Version	246	249	8.0
+PMC4240489	T3	Developer	251	259	StatSoft
+PMC5133663	T1	Application_Mention	468	472	SPSS
+PMC5133663	T2	Version	481	483	21
+PMC5133663	T3	Developer	494	509	IBM Corporation
+PMC4515454	T1	Application_Mention	307	311	SPSS
+PMC4515454	T2	Version	317	321	15.0
+PMC4515454	T3	Developer	323	331	SPSS Inc
+PMC3646185	T1	Developer	1910	1919	Microsoft
+PMC3646185	T2	Application_Mention	1920	1925	Excel
+PMC3646185	T3	Version	1926	1930	2007
+PMC3646185	T4	Application_Mention	1935	1938	SAS
+PMC3646185	T5	Version	1941	1944	9.2
+PMC3646185	T6	Developer	1946	1959	SAS Institute
+PMC3932086	T1	Application_Mention	127	138	BrainSuite2
+PMC3932086	T2	URL	140	166	http://brainsuite. usc.edu
+PMC4668168	T1	Application_Mention	1	47	Statistical Package for Social Sciences (SPSS)
+PMC4668168	T2	Version	60	64	19.0
+PMC4668168	T3	Developer	83	86	IBM
+PMC3249287	T1	Application_Mention	91	101	MAC Viewer
+PMC3977211	T1	Application_Mention	2451	2464	LMSchartmaker
+PMC3977211	T2	Application_Mention	2469	2473	SPSS
+PMC3977211	T3	Version	2474	2478	11.5
+PMC4857864	T1	Application_Mention	1418	1446	ProComp Infiniti TM software
+PMC4857864	T2	Application_Mention	2106	2121	PASW Statistics
+PMC4857864	T3	Version	2127	2131	18.0
+PMC4857864	T4	Developer	2133	2139	IBM Co
+PMC4857864	T5	Application_Mention	2613	2628	PASW Statistics
+PMC4857864	T6	Version	2634	2638	18.0
+PMC4054524	T1	Application_Mention	26	30	SPSS
+PMC4054524	T2	Version	31	35	13.0
+PMC1851647	T1	Developer	210	215	Leica
+PMC1851647	T2	Application_Mention	518	524	FW4000
+PMC1851647	T3	Application_Mention	684	690	FW4000
+PMC1851647	T4	Application_Mention	820	847	Universal Imaging Metamorph
+PMC1851647	T5	Developer	1018	1027	Microsoft
+PMC1851647	T6	Application_Mention	1028	1033	Excel
+PMC5367605	T1	Application_Mention	263	272	ITK- Snap
+PMC5367605	T2	Version	273	278	2.0.0
+PMC4930282	T1	Application_Mention	1139	1154	Total-Lab TL120
+PMC4930282	T2	Developer	1165	1183	Nonlinear Dynamics
+PMC4797302	T1	Application_Mention	313	322	HiC- Norm
+PMC4797302	T2	Application_Mention	475	482	HiCNorm
+PMC4797302	T3	URL	515	565	http://www.people.fas.harvard.edu/∼junliu/HiCNorm/
+PMC4797302	T4	Application_Mention	947	957	fastq-dump
+PMC4797302	T5	Version	967	972	2.3.4
+PMC4797302	T6	Application_Mention	1003	1015	SRA) Toolkit
+PMC4797302	T7	Application_Mention	1097	1105	Bowtie 2
+PMC4797302	T8	Version	1119	1124	2.2.1
+PMC4797302	T9	Application_Mention	1255	1263	SAMtools
+PMC4797302	T10	Version	1276	1290	0.1.19-44428cd
+PMC4797302	T11	Application_Mention	1336	1357	R package 'ShortRead'
+PMC4797302	T12	Version	1371	1377	1.20.0
+PMC4797302	T13	Application_Mention	1676	1685	ShortRead
+PMC4797302	T14	Application_Mention	2025	2040	R package 'spp'
+PMC4797302	T15	Version	2054	2058	1.11
+PMC4797302	T16	Application_Mention	2116	2119	spp
+PMC4797302	T17	URL	2141	2194	http://compbio.med. harvard.edu/Supplements/ChIP-seq/
+PMC4797302	T18	Application_Mention	2527	2540	SuperSmoother
+PMC4797302	T19	Application_Mention	2583	2584	R
+PMC4797302	T20	Version	2594	2599	3.0.2
+PMC4797302	T21	Application_Mention	2610	2615	stats
+PMC4797302	T22	Application_Mention	3527	3537	MacPy- MOL
+PMC4797302	T23	Version	3538	3541	1.3
+PMC4797302	T24	Application_Mention	3734	3738	PRIM
+PMC4797302	T25	Application_Mention	3749	3765	R package 'prim'
+PMC4797302	T26	Application_Mention	5443	5458	R package 'FNN'
+PMC4797302	T27	Application_Mention	6020	6027	HiCNorm
+PMC3289778	T1	Application_Mention	117	122	BLAST
+PMC2881388	T1	Application_Mention	862	876	Python library
+PMC2881388	T2	Application_Mention	1064	1072	NetworkX
+PMC5406603	T1	Application_Mention	546	552	ImageJ
+PMC5406603	T2	Version	553	557	1.44
+PMC5406603	T3	URL	581	605	http://rsbweb.nih.gov/ij
+PMC5406603	T4	Application_Mention	1021	1027	FlowJo
+PMC5406603	T5	Developer	1038	1047	Tree Star
+PMC4567233	T1	Application_Mention	51	90	statistical program for social sciences
+PMC4567233	T2	Developer	92	100	SPSS Inc
+PMC3664701	T1	Application_Mention	146	158	Visual Basic
+PMC3664701	T2	Developer	160	174	Microsoft Corp
+PMC3664701	T3	Application_Mention	326	332	Origin
+PMC3664701	T4	Version	333	336	6.1
+PMC3664701	T5	Developer	338	347	OriginLab
+PMC3664701	T6	Application_Mention	1126	1132	Origin
+PMC3664701	T7	Version	1133	1136	6.1
+PMC4665705	T1	Application_Mention	63	67	SPSS
+PMC4665705	T2	Version	86	90	18.0
+PMC4665705	T3	Developer	92	100	SPSS Inc
+PMC4376262	T1	Application_Mention	627	633	ImageJ
+PMC4376262	T2	Version	667	671	1.48
+PMC3575798	T1	Application_Mention	857	864	HKL2000
+PMC3575798	T2	Application_Mention	959	965	MOLREP
+PMC3575798	T3	Application_Mention	1113	1119	REFMAC
+PMC3575798	T4	Application_Mention	1294	1298	COOT
+PMC3575798	T5	Application_Mention	1455	1461	PHENIX
+PMC3575798	T6	Application_Mention	1585	1591	CURVES
+PMC3575798	T7	Application_Mention	1644	1656	UCSF Chimera
+PMC5359137	T1	Application_Mention	65	108	Statistical Package for the Social Sciences
+PMC5359137	T2	Version	118	120	20
+PMC5359137	T3	Developer	122	137	IBM Corporation
+PMC5359137	T4	Application_Mention	184	189	Stata
+PMC5359137	T5	Version	198	200	13
+PMC4851261	T1	Application_Mention	454	468	Anymaze system
+PMC4851261	T2	Developer	470	479	Stoelting
+PMC4851261	T3	Application_Mention	1727	1741	Image-Pro Plus
+PMC4851261	T4	Version	1750	1753	6.0
+PMC4851261	T5	Developer	1764	1781	Media Cybernetics
+PMC4851261	T6	Application_Mention	1942	1946	SPSS
+PMC4851261	T7	Version	1947	1949	17
+PMC4851261	T8	Application_Mention	2043	2057	Graphpad Prism
+PMC4851261	T9	Version	2066	2067	5
+PMC3276104	T1	Application_Mention	49	52	JMP
+PMC3276104	T2	Version	53	56	5.1
+PMC3276104	T3	Developer	90	103	SAS Institute
+PMC3408515	T1	Application_Mention	54	58	SPSS
+PMC3408515	T2	Version	67	71	12.0
+PMC4375646	T1	Application_Mention	45	53	ScanEdit
+PMC4375646	T2	Version	55	58	4.4
+PMC4375646	T3	Developer	60	81	Compumedics NeuroScan
+PMC4375646	T4	Application_Mention	1305	1336	FEAT [FMRI Expert Analysis Tool
+PMC4375646	T5	Version	1346	1350	6.00
+PMC4375646	T6	Application_Mention	1360	1389	FSL (FMRIB3s Software Library
+PMC4375646	T7	URL	1390	1419	http://www.fmrib.ox.ac.uk/fsl
+PMC4375646	T8	Application_Mention	1489	1555	MCFLIRT [Motion Correction: FMRIB3s Linear Image Registration Tool
+PMC4375646	T9	Application_Mention	1683	1704	Brain Extraction Tool
+PMC4375646	T10	Application_Mention	1989	2034	FLIRT [FMRIB3s Linear Image Registration Tool
+PMC4375646	T11	Application_Mention	2230	2296	MCFLIRT [Motion Correction: FMRIB3s Linear Image Registration Tool
+PMC4375646	T12	Application_Mention	2773	2809	FILM (FMRIB3s Improved Linear Model)
+PMC4375646	T13	Application_Mention	3002	3049	FLAME (FMRIB3s Local Analysis of Mixed Effects)
+PMC4375646	T14	Application_Mention	3277	3285	AlphaSim
+PMC4375646	T15	Application_Mention	3293	3297	AFNI
+PMC4375646	T16	URL	3314	3378	http://afni.nimh.nih.gov/pub/dist/doc/program_help/AlphaSim.html
+PMC4375646	T17	Application_Mention	3620	3628	AlphaSim
+PMC3429821	T1	Application_Mention	56	60	MASS
+PMC3429821	T2	Developer	79	84	Medis
+PMC3429821	T3	Application_Mention	3454	3458	SPSS
+PMC3429821	T4	Version	3459	3463	12.0
+PMC4225645	T1	Application_Mention	52	55	SAS
+PMC4225645	T2	Version	74	77	9.1
+PMC4225645	T3	Developer	79	92	SAS Institute
+PMC3758215	T1	Application_Mention	43	47	SPSS
+PMC3758215	T2	Version	50	54	17.0
+PMC3758215	T3	Developer	55	63	SPSS Inc
+PMC4723022	T1	Application_Mention	630	634	SPSS
+PMC4723022	T2	Version	647	650	8.0
+PMC4723022	T3	Developer	653	661	SPSS Inc
+PMC3569118	T1	Application_Mention	47	55	Dr. View
+PMC3569118	T2	Version	66	69	5.2
+PMC3569118	T3	Developer	116	123	AJS Inc
+PMC5098051	T1	Application_Mention	955	959	SPSS
+PMC5098051	T2	Version	960	962	19
+PMC4870320	T1	Application_Mention	55	59	SPSS
+PMC4870320	T2	Version	65	67	20
+PMC4870320	T3	Developer	69	75	IBM Co
+PMC5338961	T1	Application_Mention	477	486	Stat view
+PMC5338961	T2	Version	510	513	5.0
+PMC5338961	T3	Developer	515	532	SAS Institute Inc
+PMC5112610	T1	Application_Mention	338	353	DNAStar EditSeq
+PMC5112610	T2	Developer	447	451	NCBI
+PMC5112610	T3	Application_Mention	452	465	protein blast
+PMC5112610	T4	URL	467	497	http://blast.ncbi.nlm.nih.gov/
+PMC5112610	T5	Application_Mention	591	600	ProtParam
+PMC5112610	T6	Application_Mention	605	614	ProtScale
+PMC5112610	T7	URL	616	658	http://www.expasy.ch/tools/ protscale.html
+PMC5112610	T8	Application_Mention	760	775	DNAStar Protean
+PMC5112610	T9	Application_Mention	792	797	CFSSP
+PMC5112610	T10	URL	799	838	http://www.biogem. org/tool/chou-fasman
+PMC5112610	T11	Application_Mention	963	977	DisPort search
+PMC5112610	T12	URL	979	1013	http://www.disport.org/ search.php
+PMC5112610	T13	Application_Mention	1246	1261	DNAStar EditSeq
+PMC5112610	T14	Application_Mention	1531	1540	ProtParam
+PMC5112610	T15	Application_Mention	1545	1554	ProtScale
+PMC5112610	T16	Application_Mention	2365	2379	DisProt search
+PMC5112610	T17	Developer	2818	2822	NCBI
+PMC5112610	T18	Application_Mention	2823	2836	protein blast
+PMC5112610	T19	Application_Mention	3036	3045	ProtParam
+PMC5112610	T20	Application_Mention	3050	3059	ProtScale
+PMC5112610	T21	Application_Mention	3292	3306	DisProt search
+PMC3805007	T1	Application_Mention	29	33	SPSS
+PMC5091065	T1	Application_Mention	428	431	SAS
+PMC5091065	T2	Version	432	435	9.2
+PMC5091065	T3	Developer	437	454	SAS Institute Inc
+PMC2963829	T1	Application_Mention	667	673	ImageJ
+PMC2963829	T2	URL	676	704	http://www.rsbweb.nih.gov/ij
+PMC2963829	T3	Application_Mention	735	741	MATLAB
+PMC2963829	T4	Developer	744	758	Th e MathWorks
+PMC2963829	T5	Application_Mention	2445	2454	MetaFluor
+PMC2963829	T6	Developer	2457	2474	Molecular Devices
+PMC2963829	T7	Application_Mention	3574	3584	iQ iCycler
+PMC2963829	T8	Developer	3597	3604	Bio-Rad
+PMC3611748	T1	Application_Mention	486	490	SPSS
+PMC3611748	T2	Version	491	495	15.0
+PMC5271394	T1	Application_Mention	42	47	Excel
+PMC5271394	T2	Application_Mention	99	108	MS Access
+PMC5271394	T3	Application_Mention	259	304	Dell Statistica data analysis software system
+PMC5271394	T4	Version	314	316	13
+PMC5271394	T5	Developer	318	327	Dell, Inc
+PMC4764960	T1	Application_Mention	1287	1293	MATLAB
+PMC4764960	T2	Developer	1295	1308	The MathWorks
+PMC4764960	T3	Application_Mention	1326	1337	Sound Forge
+PMC4764960	T4	Version	1350	1352	10
+PMC4764960	T5	Developer	1355	1368	Sonic Foundry
+PMC4764960	T6	Application_Mention	1529	1579	Statistical Package for the Social Sciences (SPSS)
+PMC4764960	T7	Version	1589	1591	16
+PMC3521687	T1	Application_Mention	761	768	Image J
+PMC3521687	T2	Application_Mention	779	793	GraphPad Prism
+PMC5320029	T1	Application_Mention	531	543	RAPID Reader
+PMC5320029	T2	Developer	1132	1145	Given Imaging
+PMC5320029	T3	Application_Mention	1148	1160	RAPID Reader
+PMC5320029	T4	Developer	2519	2532	Given Imaging
+PMC5320029	T5	Application_Mention	2535	2547	RAPID Reader
+PMC4784605	T1	Developer	1700	1709	Microsoft
+PMC4784605	T2	Application_Mention	1710	1715	Excel
+PMC4784605	T3	Version	1716	1720	2003
+PMC4784605	T4	Application_Mention	1724	1728	SPSS
+PMC4784605	T5	Version	1730	1732	12
+PMC3741479	T1	Application_Mention	627	636	Photoshop
+PMC3741479	T2	Version	637	641	CSII
+PMC3741479	T3	Developer	652	665	Adobe Systems
+PMC3741479	T4	Application_Mention	2300	2313	Leica Chantal
+PMC2708934	T1	Application_Mention	668	674	Origin
+PMC2708934	T2	Version	675	676	7
+PMC2708934	T3	Developer	687	695	MicroCal
+PMC2708934	T4	Application_Mention	1187	1196	Chrompass
+PMC2830412	T1	Application_Mention	51	54	SAS
+PMC2830412	T2	Developer	56	69	SAS Institute
+PMC2830412	T3	Application_Mention	216	219	SAS
+PMC2830412	T4	Developer	229	242	SAS Institute
+PMC5407229	T1	Application_Mention	30	46	SPSS© Statistics
+PMC5407229	T2	Version	55	57	21
+PMC5407229	T3	Developer	59	68	IBM© Corp
+PMC4265209	T1	Application_Mention	480	487	G*POWER
+PMC4265209	T2	Version	489	493	3.12
+PMC4265209	T3	Application_Mention	876	880	SPSS
+PMC4265209	T4	Version	882	884	20
+PMC4265209	T5	Application_Mention	1060	1068	GRAPHPAD
+PMC4265209	T6	Developer	1079	1096	GraphPad Software
+PMC3698303	T1	Application_Mention	62	71	GeneXpert
+PMC3698303	T2	Developer	80	87	Cepheid
+PMC3698303	T3	Application_Mention	397	406	GeneXpert
+PMC3698303	T4	Application_Mention	450	459	GeneXpert
+PMC3698303	T5	Developer	470	477	Cepheid
+PMC4789845	T1	Application_Mention	1111	1131	Scion Image Software
+PMC4789845	T2	Version	1155	1164	Beta 4.03
+PMC4789845	T3	Developer	1166	1183	Scion Corporation
+PMC4789845	T4	Application_Mention	1256	1260	SPSS
+PMC4789845	T5	Version	1261	1265	19.0
+PMC4789845	T6	Developer	1276	1284	SPSS Inc
+PMC4789845	T7	Application_Mention	1778	1788	TargetScan
+PMC4789845	T8	Application_Mention	1793	1800	miRanda
+PMC3500846	T1	Application_Mention	1	9	Experion
+PMC3500846	T2	Developer	75	81	BioRad
+PMC3028337	T1	Application_Mention	3563	3570	Image-J
+PMC3028337	T2	Developer	3624	3629	Scion
+PMC4586752	T1	Application_Mention	369	383	AxioVision Rel
+PMC4586752	T2	Version	384	387	4.7
+PMC4586752	T3	Developer	389	399	Carl Zeiss
+PMC4586752	T4	Application_Mention	1003	1012	Viia7 RUO
+PMC4586752	T5	Developer	1046	1064	Applied Biosystems
+PMC3212666	T1	Application_Mention	475	489	Seegene viewer
+PMC5451875	T1	Application_Mention	1073	1077	NCSS
+PMC5451875	T2	Developer	1088	1123	Number Cruncher Statistical Systems
+PMC3448398	T1	Application_Mention	84	88	SPSS
+PMC3448398	T2	Version	89	91	18
+PMC3448398	T3	Developer	93	101	SPSS Inc
+PMC3020640	T1	Application_Mention	341	350	Photoshop
+PMC3020640	T2	Version	351	354	CS4
+PMC2768238	T1	Application_Mention	55	64	CLUSTAL W
+PMC2768238	T2	Developer	66	99	European Bioinformatics Institute
+PMC2768238	T3	Application_Mention	484	488	MEGA
+PMC2768238	T4	Version	489	492	3.1
+PMC2768238	T5	Developer	513	580	Center for Evolutionary Functional Geromics The Biodesign Institute
+PMC3531733	T1	Application_Mention	686	694	Xcaliber
+PMC3531733	T2	Version	704	707	1.2
+PMC3531733	T3	Application_Mention	1298	1306	FACSDiva
+PMC3531733	T4	Developer	1317	1330	BD Bioscience
+PMC3531733	T5	Application_Mention	1346	1352	FlowJo
+PMC3531733	T6	Developer	1363	1371	TreeStar
+PMC4989431	T1	Application_Mention	1203	1212	Meta-Disc
+PMC4989431	T2	Version	1231	1235	14.0
+PMC4989431	T3	Developer	1237	1272	Unit of Clinical Biostatistics team
+PMC3794438	T1	Application_Mention	505	515	Statistica
+PMC3794438	T2	Version	516	518	10
+PMC3794438	T3	Developer	529	537	StatSoft
+PMC3589787	T1	Application_Mention	1066	1072	Q-bank
+PMC3589787	T2	URL	1074	1088	www.q-bank. eu
+PMC3589787	T3	Application_Mention	2979	2987	TreeBASE
+PMC3589787	T4	URL	2989	3005	www.treebase.org
+PMC3589787	T5	Application_Mention	3035	3043	MycoBank
+PMC3589787	T6	URL	3045	3061	www.MycoBank.org
+PMC3589787	T7	Application_Mention	3154	3159	MAFFT
+PMC3589787	T8	Version	3163	3164	6
+PMC3589787	T9	URL	3166	3215	http://mafft.cbrc.jp/alignment/server/index. html
+PMC3589787	T10	Application_Mention	3275	3282	BioEdit
+PMC3589787	T11	Version	3286	3293	7.0.5.2
+PMC3589787	T12	Application_Mention	3441	3448	MrBayes
+PMC3589787	T13	Version	3452	3457	3.2.1
+PMC3589787	T14	Application_Mention	3636	3647	MrModeltest
+PMC3589787	T15	Application_Mention	4204	4210	Q-bank
+PMC3589787	T16	Application_Mention	4704	4710	Q-bank
+PMC5036010	T1	Application_Mention	360	365	Stata
+PMC5036010	T2	Version	366	368	13
+PMC5376127	T1	Application_Mention	322	328	EC-Lab
+PMC3600908	T1	Application_Mention	37	42	VISTA
+PMC3479176	T1	Application_Mention	1100	1108	Bandview
+PMC3479176	T2	Developer	1119	1143	Applied Spectral Imaging
+PMC2703206	T1	Application_Mention	726	741	GelPro analyzer
+PMC2703206	T2	Developer	752	768	MediaCybernetics
+PMC2703206	T3	Application_Mention	1753	1769	Phosphor Analyst
+PMC2703206	T4	Developer	1771	1791	Bio-Rad Laboratories
+PMC3058730	T1	Application_Mention	914	933	AIDA image analyser
+PMC3058730	T2	Version	934	938	4.06
+PMC3058730	T3	Developer	949	956	Raytest
+PMC3058730	T4	Application_Mention	1117	1131	GraphPad PRISM
+PMC3058730	T5	Version	1141	1144	4.0
+PMC3058730	T6	Developer	1146	1163	GraphPad Software
+PMC2386104	T1	Application_Mention	286	304	LSM Image Examiner
+PMC2386104	T2	Developer	315	330	Carl Zeiss, Inc
+PMC3518495	T1	Application_Mention	405	419	GraphPad Prism
+PMC3518495	T2	Version	420	423	5.0
+PMC3518495	T3	Developer	425	442	GraphPad Software
+PMC5400067	T1	Application_Mention	70	76	MAXQDA
+PMC5400067	T2	Version	77	78	2
+PMC5099213	T1	Application_Mention	73	80	Dedoose
+PMC4976915	T1	Application_Mention	1	4	SAS
+PMC4976915	T2	Version	13	16	9.4
+PMC4976915	T3	Developer	18	35	SAS Institute Inc
+PMC5111481	T1	Application_Mention	1	9	CareLink
+PMC5111481	T2	Application_Mention	185	193	CareLink
+PMC5111481	T3	Application_Mention	919	927	CareLink
+PMC5111481	T4	Application_Mention	2548	2556	CareLink
+PMC5111481	T5	Application_Mention	2982	2990	CareLink

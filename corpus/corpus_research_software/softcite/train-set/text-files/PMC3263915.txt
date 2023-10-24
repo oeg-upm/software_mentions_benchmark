@@ -1,0 +1,2 @@
+
+The original primary analysis excluded unscheduled postbaseline observations for unexpected early discontinuations; therefore, a modified analysis was completed, including all postbaseline observations. This modified MMRM analysis was performed after database lock when it was determined that the original analysis excluded patients who discontinued before week 8. All statistical analyses were performed using SAS Version 9.1 (SAS In- stitute, Cary, NC).

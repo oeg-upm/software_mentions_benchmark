@@ -1,0 +1,6 @@
+tokens,labels
+"['The', 'differences', 'in', 'MAP,', 'HR,', 'and', 'BIS', 'at', 'T', '0', 'were', 'compared', 'with', 'the', 'x', '2', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'same', 'analysis', 'was', 'performed', 'in', 'age,', 'sex,', 'and', 'weight.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Multiple', 'comparison', 'was', 'adopted', 'to', 'calculate', 'the', 'differences', 'in', 'MAP,', 'HR,', 'and', 'BIS', 'between', 'group', 'at', 'T', '1', ',', 'T', '2', ',', 'T', '3', ',', 'and', 'T', '4', '.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['P', '<', '.05', 'indicates', 'significant', 'differences.']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'analysis', 'was', 'conducted', 'in', 'the', 'SPSS', '18.0', 'software.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"

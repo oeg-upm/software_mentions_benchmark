@@ -1,0 +1,2 @@
+tokens,labels
+"['Figures', 'were', 'prepared', 'from', 'the', 'PDB', 'data', 'set', '1YLS,', 'chains', 'A', 'and', 'B,', 'by', 'using', 'PyMOL', '(26).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

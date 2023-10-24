@@ -1,0 +1,3 @@
+tokens,labels
+"['Thus,', 'the', 'basic', 'implementation', 'of', 'PAL', '(Algorithm', '1)', 'performs', 'already', 'well', 'and', 'is', 'always', 'found', 'in', 'the', 'upper', 'quartile', 'considering', 'the', 'performance', 'of', 'all', 'analyzed', 'hyperparameter', 'configurations', 'in', 'our', 'experiments.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['PyTorch', 'and', 'Tensorflow', '1.5', 'implementations', 'are', 'provided', 'at', 'https://github.com/cogsys-tuebingen/PAL.']","['B-Application_Mention', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"

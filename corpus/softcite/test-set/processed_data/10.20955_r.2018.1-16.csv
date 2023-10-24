@@ -1,0 +1,9 @@
+tokens,labels
+"['To', 'use', 'the', 'Bitcoin', 'system,', 'an', 'agent', 'downloads', 'a', 'Bitcoin', 'wallet']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention']"
+"['A', 'Bitcoin', 'wallet', 'is', 'software', 'that', 'allows', 'the', 'receiving,', 'storing,', 'and', 'sending', 'of', '(fractions', 'of)', 'Bitcoin', 'units.']","['O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['3', 'The', 'next', 'step', 'is', 'to', 'exchange', 'fiat', 'currencies,', 'such', 'as', 'the', 'U.S.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['dollar,', 'for', 'Bitcoin', 'units.']","['O', 'O', 'O', 'O']"
+"['The', 'most', 'common', 'way', 'is', 'to', 'open', 'an', 'account', 'at', 'one', 'of', 'the', 'many', 'Bitcoin', 'exchanges', 'and', 'to', 'transfer', 'fiat', 'currency', 'to', 'it.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'account', 'holder', 'can', 'then', 'use', 'these', 'funds', 'to', 'buy', 'Bitcoin', 'units', 'or', 'one', 'of', 'the', 'many', 'other', 'cryptoassets', 'on', 'the', 'exchange.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Due', 'to', 'the', 'widespread', 'adoption', 'of', 'Bitcoin,', 'the', 'pricing', 'on', 'large', 'exchanges', 'is', 'very', 'competitive', 'with', 'relatively', 'small', 'bid-ask', 'spreads.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Most', 'exchanges', 'provide', 'order', 'books', 'and', 'many', 'other', 'financial', 'tools', 'that', 'make', 'the', 'trading', 'process', 'transparent.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,3 @@
+tokens,labels
+"['On', 'average,', 'the', 'online', 'survey', 'took', 'approximately', '10–15', 'minutes', 'to', 'complete', 'and', 'data', 'collected', 'was', 'downloaded', 'from', 'Questionpro', 'in', 'SPSS', 'data', 'file', 'format.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'B-Application_Mention', 'O', 'O', 'O']"
+"['All', 'data', 'analyses', 'were', 'conducted', 'using', 'SAS', '9.3.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

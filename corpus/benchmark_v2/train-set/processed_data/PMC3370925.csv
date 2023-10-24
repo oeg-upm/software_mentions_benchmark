@@ -1,0 +1,8 @@
+tokens,labels
+"['Image', 'capture', 'and', 'processing.']","['O', 'O', 'O', 'O']"
+"['All', 'FISH', 'stained', 'samples', 'were', 'analyzed', 'under', 'an', 'Axio', 'Observer', 'Z1', 'fluorescence', 'microscope', '(Zeiss).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['LSPP', 'methodology', 'included', 'first,', 'area', 'localization', 'by', 'MosaiX', 'module', 'and', 'subsequent', 'focus', 'correction', 'for', 'each', 'determined', 'quadrant', 'with', 'a', '10%', 'of', 'image', 'overlapping.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['For', 'each', 'quadrant,', 'the', 'number', 'of', 'depth', 'slices', 'was', 'defined', 'using', 'Zstacking', 'module.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'quadrants', 'were', 'then', 'joined', 'with', 'Stitching', 'overlapping', 'algorithm.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Finally,', 'obtained', 'frames', 'were', 'consecutively', 'organized', 'in', 'one', 'single', 'picture', 'with', 'the', 'Extended', 'Focus', 'module.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'modules', 'used', 'are', 'contained', 'in', 'Zeiss', 'AxioVision', 'v4.8.2', 'software.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"

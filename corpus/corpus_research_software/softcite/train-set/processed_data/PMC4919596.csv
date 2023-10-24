@@ -1,0 +1,8 @@
+tokens,labels
+"['In', 'the', 'majority', 'of', 'cases,', 'individual', 'env', ""variant's"", 'IC', '50', 's', 'was', 'a', 'mean', 'of', '3', 'independent', 'assays.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Comparisons', 'within', 'an', 'individual', 'were', 'done', 'using', 'Wilcoxon', 'rank', 'sum', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['For', 'comparisons', 'across', 'multiple', 'individuals,', 'the', 'median', 'IC', '50', 'for', 'strains', 'with', 'specific', 'co-receptor', 'usage', 'was', 'determined', 'for', 'each', 'subject.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Inter-subject', 'comparison', 'were', 'done', 'using', 'Kruskal', 'Wallis', 'test,', 'and', 'pair-wise', 'inter-subject', 'comparisons', 'were', 'done', 'using', 'the', 'Wilcoxon', 'rank', 'sum', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'matched', 'pairs', 'Wilcoxon', 'rank', 'sum', 'test', 'was', 'used', 'when', 'all', 'individuals', 'had', 'variants', 'with', 'the', 'coreceptor', 'usage', 'being', 'compared.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analysis', 'were', 'done', 'using', 'Stata', 'version', '8.0', '(Stata', 'Corporation).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"
+"['All', 'p-values', 'are', 'based', 'on', 'two', 'sided', 'tests.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

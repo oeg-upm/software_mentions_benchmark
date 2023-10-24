@@ -1,0 +1,2 @@
+tokens,labels
+"['A', 'PCA', 'analysis', 'was', 'conducted', 'using', 'XLSTAT', '2015', 'for', 'Excel']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention']"

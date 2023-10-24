@@ -1,0 +1,8 @@
+tokens,labels
+"['For', 'continuous', 'data,', 'including', 'time', 'course,', 'a', 'reference', 'range', 'approach', 'was', 'used', 'to', 'identify', 'phenotypic', 'variants', 'as', 'detailed', 'in', 'Figures', 'S3A', 'and', 'S3B.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"[""Fisher's"", 'exact', 'test', 'was', 'used', 'to', 'assess', 'categorical', 'data', 'Figure', 'S3C).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['These', 'automated', 'calls', 'were', 'complemented', 'by', 'a', 'manual', 'assessment', 'made', 'by', 'biological', 'experts.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['An', 'example', 'of', 'the', 'establishment', 'of', 'the', 'reference', 'range', 'is', 'given', 'in', 'Figure', 'S2B.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Downstream', 'data', 'analysis', 'was', 'performed', 'using', 'SPSS', '(version', '17.0.2),', 'R', 'and', 'SIMCA-P', '(V-12.0,', 'Umetrics).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'B-Application_Mention', 'O', 'B-Application_Mention', 'O', 'O']"
+"['The', 'data', 'structure', 'and', 'biological', 'question', 'determined', 'the', 'statistical', 'test', 'used;', 'details', 'are', 'in', 'Table', 'S3.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Principal', 'components', 'analysis', 'was', 'performed', 'in', 'SIMCA-P', '(http://www.umetrics.com).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

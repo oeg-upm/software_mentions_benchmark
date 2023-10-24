@@ -1,0 +1,1 @@
+In this paper we introduce the reservoir model space, an unsupervised approach based on RC to learn vectorial representations of MTS.

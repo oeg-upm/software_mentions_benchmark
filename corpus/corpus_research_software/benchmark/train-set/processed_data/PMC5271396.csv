@@ -1,0 +1,7 @@
+tokens,labels
+"['In', 'order', 'to', 'test', 'the', 'heterogeneity', 'of', 'pooled', 'HR,', ""Cochran's"", 'Q-test', 'and', 'Higgins', 'I', '2', 'statistics', 'were', 'performed.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['P\ue02c0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O']"
+"['Random-effects', 'model', 'was', 'used', 'to', 'calculate', 'pooled', 'HR', 'when', 'between-study', 'heterogeneity', 'was', 'revealed', '(P\ue02c0.05),', 'and', 'fixed-effects', 'model', 'was', 'conducted', 'when', 'between-study', 'heterogeneity', 'did', 'not', 'reach', 'the', 'statistical', 'significance', '(P\ue02e0.05).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Subgroup', 'analysis,', 'sensitive', 'analysis,', 'and', 'meta-regression', 'were', 'used', 'to', 'investigate', 'the', 'sources', 'of', 'heterogeneity.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Publication', 'bias', 'was', 'assessed', 'by', 'using', ""Begg's"", 'test', 'and', ""Egger's"", 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['32,33', 'STATA', 'version', '12.0', '(Stata', 'Corporation,', 'College', 'Station,', 'TX,', 'USA)', 'was', 'used', 'to', 'perform', 'all', 'the', 'analyses.']","['O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

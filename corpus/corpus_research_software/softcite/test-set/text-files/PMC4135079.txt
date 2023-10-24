@@ -1,0 +1,2 @@
+
+For the interested reader we have made the following resources available: the full control datasets to which distributions were fitted, with the corresponding MatLab script; the Bayesian sampling code; the action potential modelling software; and the scripts for generating the figures presented in this article. These can be downloaded as a 'bolt-on project' for the open-source cardiac simulation software Chaste (written to work with v3.1) from http://www.cs.ox.ac.uk/chaste/download.

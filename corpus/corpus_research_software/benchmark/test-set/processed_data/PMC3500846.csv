@@ -1,0 +1,4 @@
+tokens,labels
+"['Experion', 'automated', 'electrophoresis', 'analysis.']","['B-Application_Mention', 'O', 'O', 'O']"
+"['Samples', 'for', 'Experion', 'Pro260', '(BioRad)', 'analysis', 'were', 'prepared', 'by', 'mixing', '2', 'ml', 'of', 'sample', 'buffer', 'with', '4', 'ml', 'samples', 'of', 'protein', 'extracts', 'then', 'loaded', 'onto', 'chips', 'as', 'recommended', 'by', 'the', 'manufacturer.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Electrophoresis', 'runs', 'were', 'analyzed', 'using', 'the', 'Experion', 'software', '(BioRad)', 'as', 'summarised', 'in', 'Supporting', 'Information', '(Supplementary', 'Methods).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

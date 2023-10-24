@@ -1,0 +1,2 @@
+
+The analysis of the collected data was with IBM SPSS statistics package ver. 20.0 (IBM, Armonk, NY, USA). It was used for the descriptive statistics including the means, ratios and their confidence intervals, and also the diagrams and tables. Statistical tests included the independent t-test, one-way analysis of variance, chi-square, univariate and multivariate binary logistic regression analysis. The significance level was set at 0.05 for all the statistical tests.

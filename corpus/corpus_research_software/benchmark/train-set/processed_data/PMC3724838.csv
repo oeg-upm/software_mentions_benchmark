@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'user-written', 'ice', 'commands', '[35]–[41]', 'in', 'Stata', 'v11.2', '(Stata', 'Corp,', 'TX,', 'USA)', 'were', 'used', 'to', 'complete', 'five', 'imputations', 'with', 'ten', 'cycles', 'in', 'each', 'imputation.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

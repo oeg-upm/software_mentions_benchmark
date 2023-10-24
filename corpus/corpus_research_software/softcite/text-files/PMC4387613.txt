@@ -1,0 +1,3 @@
+
+Data were stored in a database developed with the Research Electronic Data Capture (REDCap) system 21, which is hosted on the server of our institution. This software, developed at Vanderbilt University (Tennessee, USA), is fully web-based and enables electronic data collection and management and also study process management, while meeting the criteria set by the international policies on data privacy and security in the health sector 22. The use of this tool also allowed the validation, auditing, and electronic data export. Figure 1 illustrates the software functionalities.
+Data were exported to Microsoft Excel spreadsheets and analyzed using SAS (Statistical Analysis System), SPSS (Statistical Package for Social Sciences), and R Studio softwares.

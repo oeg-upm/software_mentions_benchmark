@@ -1,0 +1,2 @@
+
+Student's t test was used to compare unpaired variables and P<0.05 (2-sided) was considered statistically significant. Synergism for combination therapies was defined using Calcusyn software (Biosoft, Ferguson, MO) and applied to MTS assays. The fraction of cells affected (Fa) was determined and combination indices (CI) were produced by the software that utilizes the methodology applied by Chou and Talalay [14].

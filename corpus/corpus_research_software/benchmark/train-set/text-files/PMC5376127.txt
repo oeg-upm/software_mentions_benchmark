@@ -1,0 +1,2 @@
+
+Chronoamperometry and chronopotentiometry were carried out at a constant potential of −0.1 V versus RHE and a constant current density of −10 mA/cm 2 , respectively. Mott-Schottky plots were attained at a frequency of 7.8 Hz, from −0.6 to 0 V versus RHE. The impedance spectroscopy results were analyzed and fitted using EC-Lab software. All the measurements were carried out under dark conditions and mild magnetic stirring (200 rpm, unless otherwise specified).

@@ -1,0 +1,4 @@
+tokens,labels
+"['of', 'confidence', 'assigned', 'to', 'the', 'particular', 'nodes', 'in', 'the', 'tree.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'tree', 'was', 'visualized', 'with', 'the', 'help', 'of', 'Treeviewer', '1.6.6', '(http://taxonomy.', 'zoology.gla.ac.uk/rod/treeview.html)', 'and', 'rooted', 'using', 'ClustalW', '(http://www.bioinformatics.nl/tools/clustalw.html).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+"['Alignments', 'were', 'coloured', 'using', 'Boxshade', '(http://www.ch.embnet.org).']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

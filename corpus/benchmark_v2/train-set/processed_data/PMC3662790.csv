@@ -1,0 +1,2 @@
+tokens,labels
+"['Multilevel', 'mixed', 'effects', 'logistic', 'regression', '(xtmelogit)', 'on', 'the', '3', 'sexual', 'risk', 'behaviour', 'indicators', 'were', 'analysed', 'using', 'STATA', '11.1', '(StataCorp,', '2009).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"

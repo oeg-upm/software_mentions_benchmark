@@ -1,0 +1,9 @@
+tokens,labels
+"['The', 'Wilcoxon', 'rank', 'sum', 'test', 'was', 'performed', 'to', 'determine', 'statistical', 'significance', 'between', 'the', 'study', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'area', 'under', 'receiver', 'operating', 'characteristic', 'curve', '(AROC)', 'was', 'calculated', 'for', 'the', 'diagnostic', 'accuracy.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Pearson', 'correlation', 'was', 'used', 'to', 'determine', 'correlations', 'between', 'RSCV,', 'axial', 'length,', 'NFLT,', 'and', 'visual', 'field', 'test', 'MD.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'coefficient', 'of', 'variance', '(CV)', 'was', 'applied', 'to', 'evaluate', 'reproducibility.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Two', 'reproducibility', 'tests', 'were', 'performed.']","['O', 'O', 'O', 'O', 'O']"
+"['The', 'first', 'one', 'compares', 'RSCV', 'value', 'at', 'R', '¼', '2.8', 'mm', 'and', 'R', '¼', '3.0', 'mm.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'second', 'test', 'compares', 'results', 'graded', 'independently', 'by', 'two', 'of', 'the', 'authors', '(OT', 'and', 'LL).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'image', 'processes', 'and', 'statistical', 'analyses', 'were', 'done', 'usingMatlab', '(Mathworks,', 'Natick,', 'MA,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"

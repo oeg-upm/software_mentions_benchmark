@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'SAS', 'syntax', 'suggested', 'by', 'van', 'Houwelingen,', 'Arends,', 'and', 'Stijnen', '[77]', 'was', 'used.']","['O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

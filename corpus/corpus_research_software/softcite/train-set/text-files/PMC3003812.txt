@@ -1,0 +1,2 @@
+
+Regression coefficients and bivariate correlations were calculated with the 11.0 Sigma Plot software package (SPSS, Chicago, IL, USA). A set of simple ANOVAs were performed to compare different treatments. Differences between means were revealed by Duncan analyses (P<0.05) performed with the SPSS 17.0 software package.

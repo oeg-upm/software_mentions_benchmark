@@ -1,0 +1,8 @@
+tokens,labels
+"['Statistical', 'analyses', 'were', 'performed', 'with', 'the', 'aid', 'ofSAS', 'software', '(version', '9.1;', 'SAS', 'Institute,', 'Cary,', 'NC,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'data', 'are', 'expressed', 'as', 'mean', 'AE', 'standard', 'deviation', '(SD).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'normality', 'of', 'data', 'distribution', 'was', 'checked.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Variables', 'with', 'skewed', 'distributions', 'were', 'logtransformed', 'prior', 'to', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'significance', 'of', 'observed', 'between-group', 'differences', 'was', 'assessed', 'using', 'the', 'unpaired', 'Student', 't', 'test', 'and', 'the', 'significance', 'of', 'among-group', 'differences', 'was', 'analyzed', 'using', 'one-way', 'analysis', 'of', 'variance', '(ANOVA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['If', 'a', 'statistically', 'significant', 'effect', 'was', 'noted,', ""Duncan's"", 'post-hoc', 'test', 'was', 'applied', 'to', 'identify', 'a', 'between-group', 'difference', 'with', 'a', 'significance', 'level', 'of', 'p', '<', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Pearson', 'correlation', 'coefficients', 'were', 'calculated', 'to', 'measure', 'the', 'extent', 'of', 'correlation', 'between', 'pairs', 'of', 'variables.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

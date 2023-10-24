@@ -1,0 +1,3 @@
+tokens,labels
+"['How', 'often', 'did', 'you', 'understand', 'what', 'your', 'family', 'members', 'said', 'when', 'they', 'were', 'talking', 'to', 'each', 'other', '(not', 'directly', 'to', 'you)', 'such', 'as', 'at', 'the', 'dinner', 'table', 'or', 'in', 'the', 'living', 'room?']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['”Analyses', 'were', 'performed', 'in', 'SPSS', 'v23.0.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

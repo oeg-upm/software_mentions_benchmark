@@ -1,0 +1,6 @@
+tokens,labels
+"['All', 'statistical', 'analyses', 'were', 'conducted', 'using', 'SAS', 'version', '9.4', '(SAS', 'In-', 'stitute', 'Inc.', 'Cary,', 'NC:', '2014).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Frequencies', 'were', 'calculated', 'using', 'PROC', 'SURVEYFREQ.']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'descriptive', 'analyses', 'of', 'energy', 'and', 'food', 'group', 'consumption', 'for', 'the', 'entire', 'day,', 'for', 'the', 'SBP', 'and', 'NSLP', 'meals,', 'and', 'the', 'percent', 'of', 'energy', 'and', 'food', 'groups', 'contributed', 'by', 'school', 'meals', 'were', 'calculated', 'using', 'PROC', 'SURVEYMEAN.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'the', 'results', 'were', 'weighted', 'by', 'the', 'estimated', 'sample', 'weights', 'to', 'account', 'for', 'the', 'complex', 'sample', 'design', 'of', 'NHANES,', 'and', 'to', 'enable', 'inferences', 'to', 'the', 'total', 'U.S.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+['population.'],['O']

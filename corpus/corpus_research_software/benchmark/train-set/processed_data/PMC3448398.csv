@@ -1,0 +1,7 @@
+tokens,labels
+"['All', 'the', 'tests', 'were', 'conducted', 'automatically', 'by', 'Hitachi', '911.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Data', 'was', 'analyzed', 'using', 'SPSS', '18', '(SPSS', 'Inc.,', 'Chicago,', 'IL,', 'US).']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', ""Fisher's"", 'exact', 'test', 'was', 'used', 'to', 'analyze', 'qualitative', 'data', 'and', ""student's"", 't-test', 'for', 'quantitative', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Weight', 'changes', 'were', 'analyzed', 'by', 'chi-square', 'test', 'while', ""Pearson's"", 'correlation', 'test', 'was', 'used', 'to', 'assess', 'correlations.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Moreover,', 'paired', 't-test', 'was', 'used', 'for', 'comparing', 'blood', 'pressure', 'changes', 'before', 'and', 'after', 'the', 'intervention', 'in', 'both', 'groups', 'and', 'independent', 't-test', 'was', 'used', 'for', 'comparing', 'mean', 'concentration', 'changes', 'between', 'the', 'two', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['To', 'detect', 'the', 'correlations', 'between', 'variables,', ""Pearson's"", 'regression', 'analysis', 'was', 'used.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,4 @@
+tokens,labels
+"['The', 'data', 'were', 'analysed', 'using', 'Kruskall', 'Wallis', 'tests', 'for', 'non', 'parametric', 'data', 'to', 'test', 'the', 'dose', 'effect.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['When', 'global', 'analysis', 'was', 'significant', '(P', '<', '0.05),', 'the', 'Kolmogorov', 'Smirnov', 'test', 'was', 'used', 'to', 'compare', 'the', 'different', 'treated', 'groups', 'to', 'the', 'control', 'group.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'tests', 'were', 'carried', 'out', 'on', 'SAS', '®', 'software', 'version', '8.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"

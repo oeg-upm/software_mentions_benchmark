@@ -1,0 +1,1 @@
+To the best of our knowledge, TRacer is the first intelligent transaction tracing tool in account-based blockchains that can handle complex transaction actions in decentralized finance (DeFi). Experimental results and theoretical analysis prove that TRacer can complete the transaction tracing task effectively at a low cost. All codes of TRacer are available at GitHub 1

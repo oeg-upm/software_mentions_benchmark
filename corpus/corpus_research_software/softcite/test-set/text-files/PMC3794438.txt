@@ -1,0 +1,2 @@
+
+The groups were compared with unpaired t-test (continuous normally distributed data), Mann-Whitney test (continuous data not normally distributed) or χ 2 test (categorical variables). The effect of type of suture on SSI was evaluated with the χ 2 test and reported with risk ratio (RR) with 95% confidence interval (CI). The temporal distribution of the primary endpoint was compared with the log-rank test, including 5 patients who were lost at the last follow-up. All calculations were performed on theStatistica 10 software (StatSoft, Tulsa, OK, USA).

@@ -1,0 +1,6 @@
+tokens,labels
+"['Histological', 'analysis.']","['O', 'O']"
+"['Muscle', 'cryosections', '(8', 'µm', 'thickness)', 'were', 'stained', 'with', 'Hematoxylin-Eosin', 'by', 'standard', 'method.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Light', 'microscopy', 'was', 'performed', 'using', 'an', 'upright', 'microscope', '(DMR,', 'Leica,', 'Nanterre,', 'France).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Images', 'were', 'captured', 'using', 'a', 'monochrome', 'camera', '(DS-Ri1;', 'Nikon)', 'and', 'NIS-Elements', 'BR', '3.2', 'software', '(Nikon).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O']"
+"['The', 'area', 'of', 'fibres', 'with', 'internal', 'nuclei', 'was', 'measured', 'using', 'the', 'NIS-Elements', 'BR', 'software', 'and', 'divided', 'by', 'the', 'total', 'area', 'of', 'the', 'muscle', 'section', '(n', '=', '3', 'cryosections', 'for', 'each', 'condition).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

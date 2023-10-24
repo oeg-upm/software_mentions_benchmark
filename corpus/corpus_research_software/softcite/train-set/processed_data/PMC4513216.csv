@@ -1,0 +1,4 @@
+tokens,labels
+"['In', 'addition', 'to', 'the', 'compliance,', 'for', 'each', 'medication', 'we', 'calculated', 'the', 'proportion', 'that', 'was', 'actually', 'taken', 'according', 'to', 'the', 'dosage', 'and', 'duration', 'prescribed.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['We', 'also', 'counted', 'the', 'number', 'of', 'mothers', 'who', 'had', 'one', 'or', 'more', 'prescriptions', 'for', 'each', 'medication', 'group', 'and', 'subgroup.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['We', 'used', 'PASW', 'Statistics', '22', 'and', 'Microsoft', 'Ò', 'Excel', '2007', 'for', 'the', 'calculations.']","['O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"

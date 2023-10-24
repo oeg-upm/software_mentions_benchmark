@@ -1,0 +1,2 @@
+tokens,labels
+"['Typed', 'responses', 'were', 'imported', 'into', 'an', 'Excel', '2016', 'spreadsheet', 'where', 'each', 'individual', 'response', 'was', 'associated', 'with', 'participant', 'diagnosis,', 'memory', 'specificity,', 'and', 'rated', 'valence.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

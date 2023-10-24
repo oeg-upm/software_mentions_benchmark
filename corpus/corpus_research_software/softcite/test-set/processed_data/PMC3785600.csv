@@ -1,0 +1,7 @@
+tokens,labels
+"['Statistical', 'analysis', 'of', 'the', 'results', 'was', 'performed', 'by', 'MedCalc', 'software', 'ver.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"
+"['9.6.2.0', '(Mariakerke,', 'Belgium).']","['O', 'O', 'O']"
+"['The', 'results', 'are', 'expressed', 'as', 'mean+standard', 'deviation.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"[""Wilcoxon's"", 'rank', 'sum', 'test', 'was', 'used', 'for', 'comparisons', 'of', 'same-group', 'paired', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'value', 'of', 'P', '<', '0.05', 'was', 'considered', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['With', 'small', 'sample', 'sizes', 'in', 'groups,', 'only', 'very', 'strong', 'differences', 'between', 'groups', 'can', 'be', 'detected.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

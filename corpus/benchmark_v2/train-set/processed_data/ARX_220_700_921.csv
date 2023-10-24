@@ -1,0 +1,5 @@
+tokens,labels
+"['The', 'specification', 'for', 'Taylor_Sin_P', 'has', 'two', 'additional', 'inequalities,', 'bounding', 'the', 'output', 'value', 'R', 'to', 'allow', 'us', 'to', 'derive', 'tight', 'bounds', 'for', 'R', 'when', 'proving', 'VCs', 'involving', 'calls', 'of', 'this', 'procedure.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Verifying', 'this', 'procedure', 'in', 'GNATprove', 'gives', 'one', 'NVC', 'for', 'our', 'proving', 'process,', 'corresponding', 'to', 'the', 'final', 'post-condition.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['This', 'NVC', 'is', 'referred', 'to', 'as', 'and', 'Taylor_Sin_P', 'in', 'Table', '4.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'exact', 'NVC', 'is', 'in', 'folder', 'examples/taylor_sine', 'in', '[3].']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+
+The randomization procedure was designed as follows. First, among the semifinalists, all those with business plan total scores below 30 were dropped, to maintain a minimum standard. This reduced the pool from 1,920 to 1,841 firms. Then a two-step stratified randomization was conducted by the author in STATA to choose the ordinary winners:

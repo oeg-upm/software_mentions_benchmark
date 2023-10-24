@@ -1,0 +1,4 @@
+tokens,labels
+"['Raw', 'data', 'from', 'Affymetrix', '(.CEL', 'format)', 'were', 'analyzed', 'with', 'Affymetrix', 'TAS', '(tiling', 'analysis)', 'version', '1.1', 'software', 'and', 'visualized', 'with', 'Affymetrix', 'IGB', '(integrated', 'genome', 'browser).']","['O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O']"
+"['The', 'data', 'were', 'normalized', 'using', 'quantile', 'normalization', 'plus', 'scaling', 'and', 'run', 'with', 'a', 'bandwidth', 'of', '20.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['p', 'values', 'were', 'calculated', 'using', 'hypergeometric', 'probability', 'distribution', 'in', 'R', 'version', '2.12.0.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"

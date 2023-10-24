@@ -1,0 +1,3 @@
+tokens,labels
+"['Statistical', 'analysis', 'was', 'performed', 'by', 'use', 'of', ""Student's"", 't-test', 'or', ""Welch's"", 't-test', 'or', ""Fisher's"", 'exact', 'test', 'with', 'the', 'JSTAT', '-Java', 'Virtual', 'Machine', 'Statistics', 'Monitoring', 'Tool', '(Sun', 'Microsystems,', 'Inc.,', 'Santa', 'Clara,', 'CA,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'significance', 'was', 'set', 'at', 'p-value＜0.05.']","['O', 'O', 'O', 'O', 'O', 'O']"

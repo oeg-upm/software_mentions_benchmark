@@ -1,0 +1,2 @@
+tokens,labels
+"['SPSS', 'version', '22.0', '(SPSS,', 'Inc.),', 'R', '[42]', 'and', 'EpiTools', '[43]', 'programs', 'were', 'used', 'to', 'explore', 'our', 'datasets.']","['B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

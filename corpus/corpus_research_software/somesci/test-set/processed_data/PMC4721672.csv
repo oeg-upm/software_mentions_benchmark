@@ -1,0 +1,2 @@
+tokens,labels
+"['TST)', 'were', 'determined', 'via', 'mouse', 'observation', '(climbing)', 'or', 'SPSS', 'and', 'these', 'values', 'were', 'removed', 'and', 'the', 'N', 'for', 'the', 'group', 'was', 'adjusted', 'to', 'reflect', 'this.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

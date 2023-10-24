@@ -1,0 +1,2 @@
+tokens,labels
+"['We', 'analyzed', 'data', 'using', 'JMP', 'v.8.0', '(SAS', 'Institute', 'Inc.,', 'Cary,', 'NC),', 'comparing', 'males', 'and', 'females', 'for', 'all', 'variables', 'using', 'a', 't-test', 'and', 'considered', 'results', 'significant', 'if', 'α≤0.05', '[47].']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+tokens,labels
+"['Data', 'were', 'analyzed', 'using', 'Statistical', 'Parametric', 'Mapping', '5', '(SPM', 'Wellcome', 'Department', 'of', 'Cognitive', 'Neurology,', 'London,', 'UK)', 'software', 'implemented', 'in', 'Matlab', '7.8', '(Mathworks,', 'Sherborn,', 'MA,', 'USA).']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

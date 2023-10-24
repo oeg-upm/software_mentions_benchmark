@@ -1,0 +1,7 @@
+tokens,labels
+"['We', 'used', 'w', '2', 'test', 'or', ""Fisher's"", 'exact', 'test', 'to', 'determine', 'the', 'correlation', 'between', 'mesothelin', 'and', 'clinicopathological', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Survival', 'curves', 'of', 'patients', 'were', 'drawn', 'by', 'the', 'Kaplan-Meier', 'method.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Differences', 'in', 'survival', 'curves', 'were', 'analysed', 'by', 'the', 'log-rank', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Prognostic', 'implications', 'of', 'mesothelin', 'expression', 'and', 'clinicopathological', 'parameters', 'were', 'analysed', 'by', 'Cox', 'univariate', 'and', 'multivariate', 'proportional', 'hazards', 'models.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'differences', 'were', 'considered', 'significant', 'at', 'a', 'P-value', 'of', 'o0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analyses', 'were', 'performed', 'using', 'Statview', '5.0', 'software', '(SAS', 'Institute', 'Inc.,', 'Cary,', 'NC,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,1 @@
+If not otherwise noted, we use the same architecture for all experiments, sometimes including the latent probabilistic model (SOM-VAE_prob) and sometimes excluding it (SOM-VAE). For model implementation details, we refer to the appendix (Sec. B)1

@@ -1,0 +1,4 @@
+tokens,labels
+"['Statistical', 'analysis', 'data', 'were', 'presented', 'as', 'means,', 'and', 'SD.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Comparisons', 'between', 'groups', 'were', 'performed', 'by', 'using', 'T-test,', 'fisher', 'exact', 'test', 'on', 'a', 'statistical', 'software', 'package', '(SPSS']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention']"
+"['Differences', 'between', 'the', 'groups', 'considered', 'significant,', 'when', 'pvalue', 'was', 'less', 'than', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

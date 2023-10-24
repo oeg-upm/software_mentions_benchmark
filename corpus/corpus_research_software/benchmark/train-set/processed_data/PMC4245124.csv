@@ -1,0 +1,2 @@
+tokens,labels
+"['Due', 'to', 'unequal', 'sample', 'sizes', 'for', 'deviant/non-deviant', 'burials,', 'as', 'well', 'as', 'non-normal', 'data', 'distributions,', 'non-parametric', 'statistical', 'tests', '(including', 'Mann-Whitney', 'U', 'and', 'Kruskal', 'Wallis)', 'were', 'conducted', 'using', 'SAS', '9.3.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

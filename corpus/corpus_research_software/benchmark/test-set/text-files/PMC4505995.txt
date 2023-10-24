@@ -1,0 +1,2 @@
+
+Statistical analyses were performed using SPSS 16.0 statistical software. Kolmogorov-Smirnov test revealed continuous variables to be normal, so parametric tests were used. An ANOVA was performed followed by Scheffé's method to compare 3 groups (NNS, pre-feeding oral stimulation and control group) for the gestational age at different stage of oral feeding. Repeated measures ANOVA were performed to analyze intra-group changes. A MANOVA was performed to compare the weight gains from birth through weeks between three groups. Statistical significance was considered at α = 0.05.

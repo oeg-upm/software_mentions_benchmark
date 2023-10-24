@@ -1,0 +1,2 @@
+
+Cells were analyzed for EGFP and BFP expression by flow cytometry using a LSRFortessa Call Analyzer (BD Biosciences). Data acquisition and analysis were performed using FACSDiva (Becton Dickinson) and FlowLogic software (Inivai). Gating was performed on live cells based on forward and side scatter analysis.

@@ -1,0 +1,2 @@
+tokens,labels
+"['In', 'this', 'section,', 'we', 'are', 'interested', 'in', 'evaluating', 'the', 'effectiveness', 'of', 'both', 'MWM', 'and', 'MWMS', 'clustering', 'algorithms', 'by', 'considering', 'different', 'synthetic', 'data', 'generating', 'processes.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

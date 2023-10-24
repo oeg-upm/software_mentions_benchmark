@@ -1,0 +1,2 @@
+tokens,labels
+"['We', 'conducted', 'analyses', 'using', 'the', 'complex', 'survey', 'functions', 'of', 'Stata', '(version', '14)', 'to', 'incorporate', 'weighting,', 'clustering,', 'and', 'stratification', 'of', 'the', 'Natsal-3', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+
+Raw data from Affymetrix (.CEL format) were analyzed with Affymetrix TAS (tiling analysis) version 1.1 software and visualized with Affymetrix IGB (integrated genome browser). The data were normalized using quantile normalization plus scaling and run with a bandwidth of 20. p values were calculated using hypergeometric probability distribution in R version 2.12.0.

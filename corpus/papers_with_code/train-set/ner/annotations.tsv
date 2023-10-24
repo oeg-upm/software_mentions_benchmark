@@ -1,0 +1,38 @@
+filename	mark	label	off0	off1	span
+ARX_220_105_757	T1	Application_Mention	30	36	TRacer
+ARX_220_712_783	T1	Application_Mention	77	81	EIGV
+ARX_180_402_747	T1	Application_Mention	26	29	FIT
+ARX_180_402_747	T2	Application_Mention	191	194	FIT
+ARX_211_115_150	T1	Application_Mention	30	39	AirObject
+ARX_210_412_087	T1	Application_Mention	4	13	Edge-LBAM
+ARX_210_412_087	T2	Application_Mention	215	224	Edge-LBAM
+ARX_210_204_010	T1	Application_Mention	20	26	SR-STE
+ARX_210_204_010	T2	Application_Mention	86	92	SR-STE
+ARX_211_014_341	T1	Application_Mention	104	116	Active-LATHE
+ARX_211_014_341	T2	Application_Mention	161	173	Active-LATHE
+ARX_220_700_921	T1	Application_Mention	217	226	GNATprove
+ARX_211_000_428	T1	Application_Mention	156	160	PSVL
+ARX_191_212_055	T1	Application_Mention	150	157	nnAudio
+ARX_221_112_494	T1	Application_Mention	79	83	GZSL
+ARX_190_310_583	T1	Application_Mention	245	291	Burrows-Wheeler similarity distribution (BWSD)
+ARX_210_606_158	T1	Application_Mention	22	27	PyGAD
+ARX_170_603_883	T1	Application_Mention	75	78	MWM
+ARX_170_603_883	T2	Application_Mention	83	87	MWMS
+ARX_180_307_268	T1	Application_Mention	67	75	MemTrack
+ARX_210_207_359	T1	Application_Mention	45	104	Multi-Agent Spatio-Temporal Reinforcement Learning (Master)
+ARX_190_105_674	T1	Application_Mention	187	196	Chameleon
+ARX_200_910_248	T1	Application_Mention	37	42	LP2PB
+ARX_201_014_510	T1	Application_Mention	152	217	Universal Neural-network Interface for Quantum Observable Readout
+ARX_201_014_510	T2	Application_Mention	256	263	UNIQORN
+ARX_200_713_505	T1	Application_Mention	20	26	DeepRC
+ARX_220_301_044	T1	Application_Mention	11	17	SelfKG
+ARX_190_713_316	T1	Application_Mention	22	60	AtomREM (Atomistic Rare Event Manager)
+ARX_220_808_888	T1	Application_Mention	32	42	POCS-based
+ARX_220_808_888	T2	Application_Mention	175	185	POCS-based
+ARX_211_001_446	T1	Application_Mention	23	58	Optimal Transport Propagation (OTP)
+ARX_200_303_033	T1	Application_Mention	1	11	ShrinkBench
+ARX_210_213_173	T1	Application_Mention	1	29	Ambient assisted living (AAL)
+ARX_200_414_191	T1	Application_Mention	151	155	bcov
+ARX_190_301_899	T1	Application_Mention	26	77	SMAD (SMart Aggregation of Anti-patterns Detectors)
+ARX_210_311_405	T1	Application_Mention	114	118	CNAT
+ARX_201_105_013	T1	Application_Mention	128	132	MPNN

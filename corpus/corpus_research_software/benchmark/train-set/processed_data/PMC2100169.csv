@@ -1,0 +1,2 @@
+tokens,labels
+"['Automated', 'model', 'building', 'procedures', '(forward,', 'backward', 'or', 'stepwise', 'regression)', 'are', 'not', 'supported', 'by', 'the', 'survey', 'analysis', 'command', 'in', 'Stata', '8.0', 'and', 'are', 'therefore', 'not', 'used', 'in', 'any', 'of', 'the', 'analyses.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

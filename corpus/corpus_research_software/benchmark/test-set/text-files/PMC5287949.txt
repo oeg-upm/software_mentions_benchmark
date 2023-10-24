@@ -1,0 +1,2 @@
+
+Categorical variables were compared using the x 2 test or Fisher exact test, the level of significance was set at P = 0.05 (2-tailed). Analyses were performed using STATA 10.1.

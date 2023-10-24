@@ -1,0 +1,7 @@
+tokens,labels
+"['The', 'data', 'were', 'analyzed', 'using', 'RevMan', '5.2', 'software.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"
+"['We', 'analyzed', 'dichotomous', 'variables', 'using', 'odds', 'ratios', '(ORs)', 'or', 'risk', 'differences', 'along', 'with', '95%', 'confidence', 'intervals', '(CIs),', 'and', 'analyzed', 'continuous', 'data', 'using', 'mean', 'differences', '(MDs)', 'along', 'with', '95%', 'CIs.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'I', '2', 'and', 'P-value', 'were', 'used', 'for', 'evaluation', 'of', 'heterogeneity.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'fixed-effects', 'model', 'was', 'used', 'when', 'the', 'heterogeneity', 'test', 'showed', 'better', 'homogeneity', '(P.0.1).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['10,11', 'Otherwise,', 'a', 'random-effects', 'model', 'was', 'used.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['With', 'regard', 'to', 'outcomes', 'when', 'significant', 'heterogeneity', 'existed', 'across', 'studies,', 'sensitivity', 'analysis', 'was', 'conducted', 'by', 'respectively', 'omitting', 'each', 'study', 'to', 'explore', 'the', 'influence', 'of', 'each', 'individual', 'study', 'on', 'the', 'merged', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

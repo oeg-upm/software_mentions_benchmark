@@ -1,0 +1,5 @@
+tokens,labels
+"['Influence', 'of', 'lipid', 'concentration', 'on', 'LPHNS', 'properties', 'are', 'statistically', 'expressed', 'in', 'terms', 'of', 'means', 'and', 'standard', 'deviation.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Analysis', 'of', 'variance', 'was', 'used', 'for', 'analysis', 'of', 'quantitative', 'values,', 'and', 'the', 'Bonferroni', 'post', 'hoc', 'test', 'was', 'used', 'for', 'comparisons', 'among', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Differences', 'were', 'considered', 'significant', 'at', 'P,0.05.']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'Prism', 'software', 'package', '(version', '5.02;', 'GraphPad', 'Software', 'Inc,', 'La', 'Jolla,', 'CA,', 'USA)', 'was', 'used', 'to', 'perform', 'the', 'statistical', 'tests.']","['O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

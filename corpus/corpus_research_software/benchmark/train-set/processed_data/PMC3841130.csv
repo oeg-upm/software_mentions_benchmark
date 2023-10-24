@@ -1,0 +1,2 @@
+tokens,labels
+"['Interviews', 'were', 'transcribed', 'and', 'then', 'manually', 'coded', 'using', 'Microsoft', 'Word', 'and', 'Excel']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'B-Application_Mention']"

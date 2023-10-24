@@ -1,0 +1,3 @@
+tokens,labels
+"['We', 'used', 'SAS', 'V.9.2', '(SAS', 'Institute,', 'Cary,', 'North', 'Carolina,', 'USA)', 'for', 'our', 'statistical', 'analyses.']","['O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Permission', 'from', 'the', 'Danish', 'Data', 'Protection', 'Board', 'was', 'granted.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

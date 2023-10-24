@@ -1,0 +1,1 @@
+Thus, the basic implementation of PAL (Algorithm 1) performs already well and is always found in the upper quartile considering the performance of all analyzed hyperparameter configurations in our experiments. PyTorch and Tensorflow 1.5 implementations are provided at https://github.com/cogsys-tuebingen/PAL.

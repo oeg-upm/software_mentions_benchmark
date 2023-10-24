@@ -1,0 +1,2 @@
+
+Results and discussion of the paper are based on the analysis of secondary sources and selected data of questionnaire survey, which are involved on measuring the performance of Czech companies. To process the results of the questionnaire survey were used both of basic types of descriptive statistics and factor analyze on the selected data set. The data were processed by using the statistical program IBM SPSS Statistics 20.

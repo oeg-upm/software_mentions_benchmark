@@ -1,0 +1,7 @@
+tokens,labels
+"['The', 'graphical', 'representation', 'of', 'genes', '(n', '=', '27)', 'displaying', 'the', 'most', 'significant', 'changes', 'in', 'expression', 'patterns', 'in', 'response', 'to', 'TGFβ', 'stimulation', 'with', 'their', 'FC', 'values', 'based', 'on', 'microarray', 'analyses', 'were', 'shown', '(A).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Only', 'TGFβ1', 'and', 'TGFβ2', 'treatments', 'were', 'represented', 'in', '(A)', 'due', 'to', 'their', 'statistically', 'significant', 'p-values', 'detected', 'by', 'dChip']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention']"
+"['(B,C)']",['O']
+"['Gene', 'expression', 'profiles', 'of', 'all', '27', 'genes', 'were', 'independently', 'validated', 'using', 'qPCR', 'and', 'data', 'was', 'analyzed', 'using', 'REST', '2009', '(Pfaffl', 'et', 'al.,', '2002).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O']"
+"['Expression', 'variation', 'for', 'each', 'gene', 'was', 'visualized', 'in', 'a', 'whisker-box', 'plot.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Transcripts', 'were', 'sorted', 'alphabetically.']","['O', 'O', 'O', 'O']"

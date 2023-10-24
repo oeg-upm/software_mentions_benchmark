@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'code,', 'pretrained', 'models,', 'docker', 'container,', 'and', 'Google', 'Colab', 'project', 'along', 'with', 'a', 'sample', 'dataset', 'are', 'available', 'on', 'our', 'DoseRTX', 'GitHub', '(https://github.com/nadeemlab/DoseRTX).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"

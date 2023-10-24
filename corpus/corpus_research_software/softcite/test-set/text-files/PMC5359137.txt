@@ -1,0 +1,2 @@
+
+Data management and descriptive statistics were conducted using Statistical Package for the Social Sciences, version 20 (IBM Corporation, Armonk, NY, USA). 19 All other analyses used Stata version 13. 20

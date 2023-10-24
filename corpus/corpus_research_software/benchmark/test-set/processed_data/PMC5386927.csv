@@ -1,0 +1,5 @@
+tokens,labels
+"['Results', 'were', 'expressed', 'as', 'the', 'mean±standard', 'deviation.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Differences', 'between', 'all', 'other', 'parameters', 'for', 'the', 'three', 'groups', 'were', 'evaluated', 'by', 'ANOVA', 'followed', 'by', 'multiple-group', 'comparisons.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['An', 'unpaired', 'two-tailed', 't', 'test', 'and', 'Mann-Whitney', 'test', 'were', 'used,', 'and', 'a', 'P-value', 'of', '<0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['SPSS', 'version', '14.0', 'for', 'windows', '(SPSS', 'Inc.,', 'Chicago,', 'IL,', 'USA)', 'was', 'used', 'for', 'all', 'statistical', 'analyses.']","['B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

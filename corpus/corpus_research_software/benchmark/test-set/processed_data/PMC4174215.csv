@@ -1,0 +1,7 @@
+tokens,labels
+"['Patient', 'health', 'history', 'and', 'demographic', 'information', 'was', 'obtained', 'through', 'interview', 'and', 'through', 'the', 'review', 'of', 'electronic', 'medical', 'records.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Table', '2', 'summarizes', 'the', 'patient', 'demographic', 'characteristics.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['IBM', 'SPSS', 'version', '20', 'predictive', 'analytics', 'software', 'was', 'used', 'in', 'the', 'analysis', 'of', 'all', 'the', 'statistical', 'tests.']","['O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Because', 'multiple', 'raters', '(plastic', 'surgeon,', 'breast', 'oncologic', 'surgeon,', 'and', 'research', 'assistant)', 'independently', 'assessed', 'all', 'patients,', 'agreement', 'in', 'the', 'observational', 'ratings', 'was', 'tested', 'via', 'interrater', 'reliability', '(IRR).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Specifically,', 'IRR', 'was', 'interpreted', 'by', 'calculating', 'intraclass', 'correlation', '(ICC)', 'for', 'interval', 'variables', 'in', 'a', '2-way,', 'mixed-effect', 'model.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"[""Student's"", 't', 'test', 'with']","['O', 'O', 'O', 'O']"

@@ -1,0 +1,5 @@
+tokens,labels
+"['Statistical', 'analysis.']","['O', 'O']"
+"['Data', 'are', 'presented', 'as', 'the', 'mean', '±', 'standard', 'deviation', 'and', 'were', 'analyzed', 'using', 'the', 'SPSS', 'version', '20.0', 'statistical', 'software', 'package', '(IBM', 'SPSS,', 'Armonk,', 'NY,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['One-way', 'analysis', 'of', 'variance', 'or', 'paired', ""Student's"", 't-tests', 'were', 'used', 'for', 'comparisons', 'between', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['P<0.05', 'was', 'considered', 'to', 'indicate', 'a', 'statistically', 'significant', 'difference.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+
+Statistics. The means for groups of isolates were compared by analysis of variance (ANOVA) and t tests, and medians were compared using Kruskal-Wallis rank sum tests and Mann-Whitney U tests. The chi-square and Fisher's exact tests were used to evaluate the frequencies of categorical variables. Tukey adjustments were made to correct for multiple comparisons. The Mantel-Cox log rank test was used to compare survival data. All analyses were performed with SAS (SAS Institute Inc., Cary, NC).

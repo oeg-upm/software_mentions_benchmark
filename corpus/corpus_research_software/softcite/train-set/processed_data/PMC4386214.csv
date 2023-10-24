@@ -1,0 +1,10 @@
+tokens,labels
+"['Data', 'were', 'analysed', 'using', 'PASW', 'V.18.0', '(SPSS', 'Inc.).']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"
+"['Descriptive', 'statistics', 'were', 'used', 'for', 'demographic', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Continuous', 'values', 'reported', 'were', 'medians', 'and', 'ranges', 'due', 'to', 'the', 'large', 'spread', 'of', 'the', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Categorical', 'variables', 'were', 'reported', 'as', 'counts', 'and', 'percentages.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Non-parametric', 'Mann-Whitney', 'or', 'Cross', 'tabulation', 'and', ""Pearson's"", 'χ', '2', 'were', 'performed', 'to', 'compare', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'probability', 'of', 'remaining', 'ventilated', 'between', 'groups', 'was', 'analysed', 'using', 'survival', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Adherence', 'to', 'guidelines', 'was', 'reported', 'in', 'counts', 'and', 'percentages.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'influence', 'of', 'diagnostic', 'group', 'on', 'guideline', 'adherence', 'was', 'analysed', 'using', ""Pearson's"", 'correlation', 'and', 'comparison', 'of', 'means', 'using', 'Student', 't', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Survey', 'responses', 'were', 'reported', 'in', 'counts', 'and', 'percentages', 'as', 'well', 'as', 'significant', 'themes', 'derived', 'from', 'qualitative', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

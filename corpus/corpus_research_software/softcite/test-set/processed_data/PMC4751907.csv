@@ -1,0 +1,7 @@
+tokens,labels
+"['Statistical', 'analysis', 'was', 'performed', 'using', 'SPSS', '(Version', '19.0).']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"
+"['The', ""Fisher's"", 'exact', 'test', 'was', 'applied', 'for', 'every', 'matching', 'criterion', 'and', 'nonmatching', 'parameters.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'survival', 'curves', '(time', 'to', 'BM', 'and', 'OS)', 'were', 'compared', 'by', 'Kaplan-Meier', 'method', 'and', 'log', 'rank', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'incidences', 'of', 'BM', 'within', '2', 'years', 'and', 'the', '2-year', 'survival', 'rates', 'were', 'calculated', 'from', 'the', 'survival', 'curves.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Factors', 'that', 'are', 'associated', 'with', 'the', 'survival', 'outcomes', 'were', 'explored', 'by', 'univariate', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'subsequent', 'multivariate', 'survival', 'analysis', 'was', 'also', 'conducted', 'by', 'Cox', 'regression', 'model']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

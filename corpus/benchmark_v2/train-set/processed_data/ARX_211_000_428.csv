@@ -1,0 +1,2 @@
+tokens,labels
+"['We', 'call', 'this', 'framework', 'of', 'training', 'an', 'NLVL', 'model', 'with', 'the', 'temporal', 'region', 'proposals', 'and', 'pseudo-query', 'generation,', 'as', 'Pseudo-Supervised', 'Video', 'Localization', 'or', 'PSVL', '(Sec.', '4.1).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"

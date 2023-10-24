@@ -1,0 +1,3 @@
+tokens,labels
+"['Differences', 'in', 'carriage', 'rates', 'and', 'serotypes', 'between', 'the', 'vaccinated', 'group', 'and', 'control', 'group', 'were', 'assessed', 'using', ""Fisher's"", 'exact', 'test', 'or', 'chi-squared', 'test,', 'as', 'appropriate', 'by', 'SPSS', 'for', 'Windows', '(version', '11.5', 'software', 'package;', 'SPSS,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['These', 'tests', 'were', 'also', 'used', 'to', 'determine', 'the', 'differences', 'in', 'antibiotic', 'resistance.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

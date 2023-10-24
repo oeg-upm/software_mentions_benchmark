@@ -1,0 +1,5 @@
+tokens,labels
+"['Predefined', 'interactions', '(sex9preexisting', 'chronic', 'kidney', 'disease', '[pre-CKD],', 'pre-CKD9uNGAL,', 'and', 'pre-CKD9uAGT)', 'between', 'predictors', 'and', 'potential', 'nonlinear', 'association', 'of', 'included', 'biomarkers', 'were', 'also', 'examined', 'at', 'the', '5%', 'significance', 'level.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Sensitivity', 'analysis', 'was', 'conducted', 'to', 'assess', 'the', 'influence', 'of', 'the', '2', 'incomplete', 'measures', 'by', 'leaving', 'the', 'corresponding', '2', 'cases', 'out.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'analyses', 'were', 'done', 'with', 'SAS', '(SAS', 'Institute', 'Inc,', 'Cary,', 'NC,', 'version', '9.4).']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', '2-sided', 'P<0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"

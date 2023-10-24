@@ -1,0 +1,8 @@
+tokens,labels
+"['A', 'case-control', 'study', 'was', 'conducted.']","['O', 'O', 'O', 'O', 'O']"
+"['Variables', 'with', 'normal', 'distribution', 'were', 'compared', 'using', 'rank', 'sum', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Quantitative', 'data', 'were', 'expressed', 'as', 'means', '±', 'standard', 'deviation', '(SD).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Where', 'appropriate,', 'comparisons', 'were', 'performed', 'using', 'a', 'paired', 't', 'test', 'or', 'a', 'Mann-Whitney', 'U', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Qualitative', 'data', 'were', 'presented', 'as', 'rate', 'and', 'compared', 'with', 'Chi-square', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'value', 'of', 'P', '<', '0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'analysis', 'was', 'done', 'with', 'SPSS', 'version', '13.0', 'for', 'Windows.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"

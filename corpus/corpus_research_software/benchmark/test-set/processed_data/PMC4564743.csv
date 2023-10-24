@@ -1,0 +1,5 @@
+tokens,labels
+"['Statistical', 'analyses', 'were', 'performed', 'using', 'the', 'SPSS', '21.0', 'statistical', 'software', '(SPSS', 'Inc.,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'radiological', 'and', 'clinical', 'values', 'were', 'expressed', 'as', 'means±standard', 'deviations.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'data', 'were', 'analyzed', 'using', 'the', 'Mann-Whitney', 'U', 'test', 'for', 'the', 'quantitative', 'data', 'and', 'the', 'chi-squared', 'test', 'for', 'the', 'qualitative', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'p-value<0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O']"

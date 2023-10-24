@@ -1,0 +1,2 @@
+tokens,labels
+"['We', 'fit', 'the', 'conditional', 'likelihood', 'methods', 'and', 'estimated', 'model', 'parameters', 'using', 'maximum', 'likelihood', 'methods', 'and', 'routines', 'in', 'Stata', '11.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

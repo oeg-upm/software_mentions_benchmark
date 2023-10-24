@@ -1,0 +1,10 @@
+tokens,labels
+"['The', 'total', 'volume', 'of', 'drained', 'blood', 'and', 'the', 'decrease', 'in', 'hemoglobin', 'at', '6', 'hours,', '24', 'hours,', '48', 'hours', 'and', '5', 'days', 'postoperatively', 'were', 'recorded.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Blood', 'transfusions', 'were', 'recorded', 'as', 'the', 'number', 'of', 'units', 'of', 'packed', 'erythrocytes.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'patients', 'were', 'discharged', 'from', 'the', 'hospital', 'after', 'two', 'weeks', 'of', 'surgery.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'quantitative', 'data', 'were', 'expressed', 'as', 'mean±standard', 'deviation.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'significance', 'of', 'differences', 'in', 'the', 'mean', 'values', 'of', 'continuous', 'variables', 'such', 'as', 'age,', 'preoperative', 'hemoglobin,', 'total', 'volume', 'of', 'drained', 'blood,', 'and', 'postoperative', 'decrease', 'in', 'hemoglobin', 'level', 'were', 'determined', 'using', 'Student', 't-test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Chi-square', 'test', 'was', 'used', 'for', 'categorical', 'data', 'including', 'the', 'need', 'for', 'blood', 'transfusion.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['SPSS', 'ver.14.0', '(SPSS', 'Inc.,', 'Chicago,', 'IL,', 'USA)', 'was', 'used', 'for', 'statistical', 'analyses.']","['B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'p-value', 'less', 'than', '0.05', 'was', 'considered', 'to', 'indicate', 'statistical', 'significance.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'aspects', 'of', 'the', 'statistical', 'analysis', 'were', 'reviewed', 'by', 'a', 'statistician.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

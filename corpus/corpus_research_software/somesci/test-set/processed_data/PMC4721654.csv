@@ -1,0 +1,2 @@
+tokens,labels
+"['Lesion', 'and', 'whole', 'brain', 'areas', 'for', 'each', 'slice', 'were', 'brought', 'into', 'Excel', 'for', 'final', 'volume', 'calculations.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"

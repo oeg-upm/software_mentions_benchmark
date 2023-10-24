@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'resampling', 'procedures', 'were', 'conducted', 'in', 'Microsoft', 'Excel', '2010', 'using', 'VBA', 'code', 'written', 'by', 'FAC', '(Appendix', 'S2).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

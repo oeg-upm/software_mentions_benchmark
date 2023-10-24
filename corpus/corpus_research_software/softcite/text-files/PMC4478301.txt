@@ -1,0 +1,2 @@
+
+Numeric results were summarized as median and range. The Kruskal-Wallis test followed by the Mann-Whitney U test was applied to compare experimental laboratory markers and Fisher's exact test for categorical data. Binary logistic regression examined the relationship between numbers of CD34+/KDR+ cells and recurrence. p values <0.05 (two-sided) were regarded as significant. Statistical analysis was performed using SPSS version 17.

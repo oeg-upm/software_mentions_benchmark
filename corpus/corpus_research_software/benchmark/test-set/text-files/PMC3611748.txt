@@ -1,0 +1,2 @@
+
+The distribution of continuous variables was determined by the Kolmogorov-Smirnov test. A paired-sample t test was performed to analyze initial and final values with a normal distribution. A Wilcoxon signed rank test was used to analyze data with a skewed distribution. Pearson's and Spearman's analyses were used to identify correlations between study parameters. For all statistics, a two-sided pvalue ,0.05 was considered statistically significant. All analyses were performed with SPSS 15.0 for Windows.

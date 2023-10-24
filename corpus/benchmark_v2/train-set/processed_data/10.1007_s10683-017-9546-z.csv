@@ -1,0 +1,6 @@
+tokens,labels
+"['Our', 'econometric', 'methodology', 'is', 'to', 'fit,', 'for', 'each', 'of', 'RREU,', 'RRRD,', 'AREU', 'and', 'ARRD,', 'the', 'models', 'to', 'the', 'decisions', 'of', 'the', 'subjects,', 'for', 'each', 'of', 'the', 'four', 'elicitation', 'methods,', 'and', 'hence', 'obtain', 'estimates', 'of', 'the', 'risk', 'aversion', 'index', '(and', 'also', 'the', 'other', 'parameters).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['We', 'do', 'this', 'by', 'Maximum', 'Likelihood,', 'using', 'Matlab', '(the', 'program', 'is', 'available', 'in', 'https://www.york.ac.uk/economics/exec/research/zhouandhey1/).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['To', 'do', 'this', 'we', 'need', 'to', 'make', 'assumptions', 'about', 'the', 'stochastic', 'nature', 'of', 'the', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['This', 'arises', 'from', 'errors', 'made', 'by', 'the', 'subjects.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['We', 'largely', 'follow', 'convention.']","['O', 'O', 'O', 'O']"

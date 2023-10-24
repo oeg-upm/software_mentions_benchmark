@@ -1,0 +1,5 @@
+tokens,labels
+"['Statistical', 'analysis', 'was', 'performed', 'with', 'SPSS', '11.0', 'J', 'for', 'Windows', 'software', '(SPSS', 'Inc.,', 'Chicago,', 'IL,', 'USA)', '.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'correlation', 'between', 'the', 'standing', 'up', 'frequency', 'and', 'VO', '2', 'of', 'the', 'STSE', 'was', 'analyzed', 'using', ""Pearson's"", 'product-moment', 'correlation', 'coefficient.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Simple', 'linear', 'regression', 'analysis', 'was', 'used', 'to', 'determine', 'the', 'relationship', 'of', 'the', 'standing', 'up', 'frequency', 'to', 'VO', '2', '.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Significance', 'was', 'accepted', 'for', 'values', 'of', 'p<0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"

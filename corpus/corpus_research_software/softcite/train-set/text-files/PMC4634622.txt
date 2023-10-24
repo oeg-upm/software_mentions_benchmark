@@ -1,0 +1,2 @@
+
+Statistical analyses were conducted using one-way ANOVA with Bonferroni post-test via the SPSS for Windows software package (ver.17, SPSS Inc., Chicago, IL, USA). Unpaired two-tailed Student's t test was used to compare means between different groups. A value of p b 0.05 was taken to indicate statistical significance. Results are expressed as mean ± SD. All figures were rendered using the Prism 5 software package (GraphPad Software, CA, USA).

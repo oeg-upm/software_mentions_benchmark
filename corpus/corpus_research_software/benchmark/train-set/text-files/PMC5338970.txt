@@ -1,0 +1,2 @@
+
+In order to investigate the likelihood that effect sizes were subjected to publication bias, the trim and fill procedure of Duval and Tweedie 24 and the visual inspection of the funnel plot were used. The meta-analysis was performed using the Comprehensive Meta-analysis software, version 2.00.

@@ -1,0 +1,6 @@
+tokens,labels
+"['Data', 'was', 'analyzed', 'using', 'SPSS', '16.0', 'software', '(IBM,', 'America).']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"
+"['The', 'descriptive', 'statistics', 'are', 'shown', 'as', 'Mean', '±', 'Standard', 'Deviation,', 'median', '(minimum-maximum', 'value)', 'and', 'percentage', 'distribution.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'analysis', 'was', 'performed', 'using', 'a', 'chi-square', 'test', 'and', 't-test', 'for', 'independent', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Kruskal-Wallis', 'test', 'and', 'post-hoc', 'Bonferroni', 'modified', 'Mann-Whitney', 'U', 'test', 'were', 'used', 'for', 'AnxA2', 'analysis', 'based', 'on', 'stages.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['As', 'a', 'result', 'of', 'the', 'analyses,', 'P', '<', '0.05', 'considered', 'as', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

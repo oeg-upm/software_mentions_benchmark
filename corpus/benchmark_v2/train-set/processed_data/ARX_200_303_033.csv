@@ -1,0 +1,2 @@
+tokens,labels
+"['ShrinkBench,', 'an', 'open-source', 'library', 'for', 'evaluating', 'neural', 'network', 'pruning', 'methods', 'available', 'at', 'https://github.com/jjgo/shrinkbench.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

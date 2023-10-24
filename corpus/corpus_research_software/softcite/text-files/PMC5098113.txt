@@ -1,0 +1,4 @@
+
+During later off-line analysis, raw data was first visually checked in Megawin 2.4 to select one of three repetitions of each task with minimal noise and best signal accuracy. The selected file was saved as a binary file in MATLAB for further analysis.
+Data was analyzed using the statistical software package SPSS (version 14). To compare variables with normal distribution parametric tests and to compare variables with non-normal distribution, non-parametric test of Wilcoxon signed rank test was used with statistical significance set as 0.05.
+The advantages of the present study are subject population that is all professional athletes. The other strong point is the precise signal processing, evaluation of several functional parameters and electromyographic data analysis in MATLAB software.

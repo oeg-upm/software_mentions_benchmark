@@ -1,0 +1,2489 @@
+filename	mark	label	off0	off1	span
+PMC4766201	T1	Application_Mention	473	516	Statistical Package for the Social Sciences
+PMC3337072	T1	Application_Mention	1241	1251	BeadStudio
+PMC3337072	T2	Application_Mention	1540	1541	R
+PMC3337072	T4	Application_Mention	1950	1964	R/affy package
+PMC3337072	T5	Application_Mention	2171	2172	R
+PMC3337072	T6	Application_Mention	2239	2249	BeadStudio
+PMC3337072	T7	Application_Mention	2260	2271	R/beadarray
+PMC3337072	T8	Application_Mention	2363	2387	R/preprocessCore package
+PMC3337072	T9	Application_Mention	2723	2740	R/maanova package
+PMC3337072	T10	Application_Mention	4443	4457	Primer Express
+PMC3337072	T13	Application_Mention	5924	5928	SPSS
+PMC3773590	T1	Application_Mention	1086	1090	SPSS
+PMC4345719	T1	Application_Mention	63	67	SPSS
+PMC4921791	T1	Application_Mention	843	850	JMP Pro
+PMC4921791	T3	Application_Mention	1015	1022	JMP Pro
+PMC4921791	T5	Application_Mention	1260	1265	excel
+PMC5435264	T2	Application_Mention	339	344	Excel
+PMC4050386	T1	Application_Mention	762	766	SPSS
+PMC5147225	T1	Application_Mention	268	277	3D Slicer
+PMC5147225	T3	Application_Mention	348	376	MakerBot desktop application
+PMC2881384	T1	Application_Mention	194	199	HMMER
+PMC2881384	T2	Application_Mention	228	231	SAM
+PMC2881384	T3	Application_Mention	1009	1014	HMMER
+PMC2881384	T4	Application_Mention	1019	1022	SAM
+PMC2881384	T5	Application_Mention	1149	1154	HMMER
+PMC2881384	T6	Application_Mention	1168	1173	HMMER
+PMC2881384	T7	Application_Mention	1613	1619	MUSCLE
+PMC2881384	T9	Application_Mention	1873	1879	MUSCLE
+PMC2881384	T10	Application_Mention	1936	1942	MUSCLE
+PMC2881384	T11	Application_Mention	1979	1984	HMMER
+PMC2881384	T13	Application_Mention	2060	2073	SmurfPreparse
+PMC2881384	T14	Application_Mention	2457	2460	SAM
+PMC2881384	T15	Application_Mention	2490	2495	HMMER
+PMC2881384	T16	Application_Mention	2514	2517	SAM
+PMC2881384	T17	Application_Mention	2576	2581	HMMER
+PMC2881384	T18	Application_Mention	2668	2673	HMMER
+PMC2881384	T20	Application_Mention	2847	2855	hmmbuild
+PMC2881384	T21	Application_Mention	2884	2889	HMMER
+PMC2881384	T22	Application_Mention	3520	3525	HMMER
+PMC2881384	T23	Application_Mention	3639	3644	HMMER
+PMC2881384	T24	Application_Mention	4005	4010	HMMER
+PMC2881384	T25	Application_Mention	4973	4978	HMMER
+PMC2881384	T26	Application_Mention	5167	5172	HMMER
+PMC2881384	T27	Application_Mention	5476	5479	SAM
+PMC2881384	T28	Application_Mention	6041	6046	HMMER
+PMC2881384	T29	Application_Mention	6228	6233	HMMER
+PMC4531739	T1	Application_Mention	406	452	Statistical Packages for Social Science (SPSS)
+PMC5096434	T1	Application_Mention	2524	2562	homeostatic model assessment 2 (HOMA2)
+PMC5096434	T3	Application_Mention	4958	4963	Stata
+PMC5089661	T1	Application_Mention	566	573	MNScore
+PMC5089661	T3	Application_Mention	1770	1827	Image Data Exploration and Analysis Software (IDEAS V R )
+PMC5089661	T4	Application_Mention	2238	2243	IDEAS
+PMC5089661	T5	Application_Mention	3324	3329	IDEAS
+PMC5089661	T7	Application_Mention	4035	4040	IDEAS
+PMC5089661	T8	Application_Mention	4218	4223	IDEAS
+PMC5089661	T10	Application_Mention	4437	4442	IDEAS
+PMC5089661	T11	Application_Mention	4722	4727	IDEAS
+PMC5089661	T12	Application_Mention	5928	5933	IDEAS
+PMC5089661	T13	Application_Mention	6319	6325	Matlab
+PMC5089661	T14	Application_Mention	7239	7244	CABAS
+PMC5089661	T16	Application_Mention	7249	7282	Chromosome Aberration Calculation
+PMC5089661	T17	Application_Mention	8596	8601	IDEAS
+PMC5089661	T18	Application_Mention	10773	10778	IDEAS
+PMC5089661	T19	Application_Mention	10830	10835	IDEAS
+PMC5089661	T20	Application_Mention	11081	11086	IDEAS
+PMC5089661	T21	Application_Mention	11422	11427	IDEAS
+PMC5089661	T22	Application_Mention	12533	12538	IDEAS
+PMC5089661	T23	Application_Mention	13072	13077	IDEAS
+PMC5089661	T24	Application_Mention	14328	14333	IDEAS
+PMC5089661	T25	Application_Mention	14599	14604	IDEAS
+PMC4985394	T1	Application_Mention	42	45	SAS
+PMC3580823	T1	Application_Mention	1033	1044	LC solution
+PMC3580823	T3	Application_Mention	1963	1967	SPSS
+PMC4922354	T1	Application_Mention	665	677	CRON-O-Meter
+PMC4922354	T3	Application_Mention	1386	1401	PASW Statistics
+PMC4922354	T5	Application_Mention	1419	1426	MedCalc
+PMC3710919	T1	Application_Mention	33	37	SPSS
+PMC3595621	T2	Application_Mention	995	1000	Excel
+PMC3595621	T3	Application_Mention	1019	1062	Statistical Package for the Social Sciences
+PMC3263915	T1	Application_Mention	412	415	SAS
+PMC4925014	T1	Application_Mention	71	77	FlowJo
+PMC4925014	T3	Application_Mention	185	190	Prism
+PMC3112533	T1	Application_Mention	457	465	Clocklab
+PMC3112533	T3	Application_Mention	502	508	MatLab
+PMC3112533	T5	Application_Mention	2007	2058	Biological Rhythms Analysis Software System (BRASS)
+PMC3112533	T6	Application_Mention	2267	2272	BRASS
+PMC3529531	T1	Application_Mention	436	442	ImageJ
+PMC3529531	T3	Application_Mention	1469	1475	ImageJ
+PMC3529531	T5	Application_Mention	1924	1929	Excel
+PMC3529531	T8	Application_Mention	1974	1979	Prism
+PMC5304233	T1	Application_Mention	285	294	Qualtrics
+PMC3563119	T1	Application_Mention	30	31	R
+PMC3446116	T1	Application_Mention	352	356	SPSS
+PMC3691566	T1	Application_Mention	666	681	Zeiss LSM Image
+PMC3691566	T2	Application_Mention	1630	1666	Bio MAS (molecule annotation system)
+PMC3691566	T5	Application_Mention	2258	2261	MAS
+PMC3691566	T7	Application_Mention	2439	2510	DAVID (Database for Annotation, Visualization and Integrated Discovery)
+PMC3691566	T8	Application_Mention	3431	3436	iQTM5
+PMC3691566	T9	Application_Mention	3675	3681	Primer
+PMC3200513	T1	Application_Mention	5	9	SPSS
+PMC4250666	T1	Application_Mention	318	322	SPSS
+PMC2789947	T1	Application_Mention	46	50	SPSS
+PMC4958647	T1	Application_Mention	3	10	Can-pro
+PMC4958647	T4	Application_Mention	244	271	Statistical Analysis System
+PMC3241662	T1	Application_Mention	312	321	ESEfinder
+PMC3241662	T2	Application_Mention	402	411	ESEfinder
+PMC4600182	T1	Application_Mention	32	37	Stata
+PMC4622454	T1	Application_Mention	1022	1026	SPSS
+PMC3371588	T1	Application_Mention	525	565	General Structure Analysis System (GSAS)
+PMC4602909	T1	Application_Mention	556	560	SPSS
+PMC5407455	T1	Application_Mention	1184	1188	SPSS
+PMC4068285	T1	Application_Mention	101	109	GraphPad
+PMC2927939	T1	Application_Mention	3032	3054	SAS Enter- prise Guide
+PMC5235341	T1	Application_Mention	1158	1162	Halo
+PMC5235341	T3	Application_Mention	1348	1360	NIS-Elements
+PMC5235341	T5	Application_Mention	2096	2102	ImageJ
+PMC5235341	T7	Application_Mention	2185	2200	Graph Pad Prism
+PMC4313447	T1	Application_Mention	39	44	STATA
+PMC3661168	T1	Application_Mention	1572	1575	SAS
+PMC3661168	T3	Application_Mention	1647	1661	GraphPad Prism
+PMC2585846	T1	Application_Mention	681	685	MAS5
+PMC2585846	T2	Application_Mention	1378	1393	Custom software
+PMC2585846	T3	Application_Mention	1409	1439	Interactive Data Language (IDL
+PMC3595153	T1	Application_Mention	919	922	SAS
+PMC4513598	T1	Application_Mention	1	8	MedCalc
+PMC3994435	T1	Application_Mention	1063	1068	Stata
+PMC3590666	T2	Application_Mention	70	84	SPSS Statistic
+PMC3771852	T1	Application_Mention	51	58	SPARTAN
+PMC3771852	T4	Application_Mention	900	907	SYBYL-X
+PMC3829989	T1	Application_Mention	217	222	Omega
+PMC3829989	T3	Application_Mention	301	304	MOE
+PMC4809187	T1	Application_Mention	804	807	SAS
+PMC5389568	T1	Application_Mention	689	692	XDS
+PMC5389568	T2	Application_Mention	752	758	PHENIX
+PMC5389568	T3	Application_Mention	838	844	PHENIX
+PMC5389568	T4	Application_Mention	1585	1599	GraphPad Prism
+PMC5389568	T6	Application_Mention	1684	1693	Cufflinks
+PMC5389568	T7	Application_Mention	1900	1914	GraphPad Prism
+PMC3507205	T1	Application_Mention	318	332	GraphPad Prism
+PMC4266938	T1	Application_Mention	1022	1027	STATA
+PMC5089945	T1	Application_Mention	795	805	GeneGenius
+PMC2626662	T1	Application_Mention	236	242	MOLREP
+PMC2626662	T2	Application_Mention	415	419	COOT
+PMC2626662	T3	Application_Mention	489	495	REFMAC
+PMC2626662	T5	Application_Mention	851	858	HKL2000
+PMC2626662	T6	Application_Mention	1100	1106	PHASER
+PMC2626662	T7	Application_Mention	1286	1290	COOT
+PMC2626662	T8	Application_Mention	1360	1366	REFMAC
+PMC2626662	T10	Application_Mention	1606	1612	REFMAC
+PMC2626662	T12	Application_Mention	1732	1740	PROCHECK
+PMC2626662	T13	Application_Mention	1752	1764	MOL- BROBITY
+PMC2626662	T14	Application_Mention	1824	1834	MOLPROBITY
+PMC2626662	T15	Application_Mention	2338	2343	PyMOL
+PMC2626662	T16	Application_Mention	2359	2372	BIAevaluation
+PMC2626662	T19	Application_Mention	3970	3976	MOSFLM
+PMC2626662	T20	Application_Mention	3987	3994	HKL2000
+PMC2626662	T21	Application_Mention	4033	4038	SCALA
+PMC2626662	T22	Application_Mention	4064	4074	CCP4 suite
+PMC2626662	T23	Application_Mention	4085	4094	scalepack
+PMC2626662	T24	Application_Mention	4309	4315	MOLREP
+PMC2626662	T25	Application_Mention	4484	4488	COOT
+PMC2626662	T26	Application_Mention	4558	4564	REFMAC
+PMC2626662	T28	Application_Mention	4856	4862	REFMAC
+PMC3915115	T1	Application_Mention	516	521	STATA
+PMC3915115	T3	Application_Mention	963	967	6CIT
+PMC4700408	T1	Application_Mention	45	54	SigmaStat
+PMC4501418	T1	Application_Mention	69	74	Prism
+PMC3641311	T1	Application_Mention	112	116	SPSS
+PMC2936008	T1	Application_Mention	54	58	SPSS
+PMC2626671	T1	Application_Mention	3106	3112	FlowJo
+PMC4919596	T1	Application_Mention	621	626	Stata
+PMC3819448	T1	Application_Mention	103	150	Molecular Evolutionary Genetics Analysis (MEGA)
+PMC2646063	T1	Application_Mention	1583	1599	Northern Eclipse
+PMC2646063	T3	Application_Mention	4263	4268	PRISM
+PMC2646063	T5	Application_Mention	4374	4379	Prism
+PMC2646063	T6	Application_Mention	4639	4644	PRISM
+PMC3194040	T1	Application_Mention	799	807	MODELLER
+PMC3194040	T3	Application_Mention	1045	1050	PyMOL
+PMC3194040	T5	Application_Mention	2307	2310	TGI
+PMC4666316	T1	Application_Mention	608	614	e-care
+PMC3880993	T1	Application_Mention	374	386	NIS-Elements
+PMC3880993	T3	Application_Mention	1762	1780	Mi- croarray Suite
+PMC3880993	T5	Application_Mention	1797	1824	GeneChip Operating Software
+PMC3880993	T7	Application_Mention	2349	2353	SPSS
+PMC2808573	T1	Application_Mention	38	41	SAS
+PMC5339929	T1	Application_Mention	42	46	SPSS
+PMC4102165	T1	Application_Mention	1027	1035	DataView
+PMC3474945	T1	Application_Mention	97	102	Prism
+PMC4049090	T1	Application_Mention	456	471	BRB-Array Tools
+PMC4049090	T2	Application_Mention	494	499	Excel
+PMC4049090	T3	Application_Mention	513	527	R BioConductor
+PMC3809360	T1	Application_Mention	529	550	Axiovision microscope
+PMC3809360	T4	Application_Mention	639	648	SigmaPlot
+PMC3245093	T1	Application_Mention	420	429	WikiTrust
+PMC3245093	T2	Application_Mention	462	469	Firefox
+PMC3641357	T1	Application_Mention	340	346	Tophat
+PMC3641357	T2	Application_Mention	411	420	Cufflinks
+PMC3641357	T3	Application_Mention	1392	1401	MetaMorph
+PMC3627965	T1	Application_Mention	197	208	Quantum GIS
+PMC4182815	T1	Application_Mention	653	662	Windows 7
+PMC4182815	T2	Application_Mention	674	681	LabVIEW
+PMC4182815	T3	Application_Mention	1917	1929	AcqKnowledge
+PMC4182815	T5	Application_Mention	2089	2101	AcqKnowledge
+PMC4929210	T1	Application_Mention	37	41	SPSS
+PMC3796294	T1	Application_Mention	917	921	SPSS
+PMC5238813	T1	Application_Mention	108	114	Cubist
+PMC5238813	T2	Application_Mention	136	148	randomForest
+PMC5238813	T3	Application_Mention	188	194	monmlp
+PMC5238813	T4	Application_Mention	220	223	rgp
+PMC5238813	T5	Application_Mention	226	232	Cubist
+PMC5238813	T6	Application_Mention	412	418	Cubist
+PMC5238813	T7	Application_Mention	1324	1336	randomForest
+PMC5238813	T8	Application_Mention	1509	1515	Monmlp
+PMC5238813	T9	Application_Mention	1548	1549	R
+PMC5238813	T10	Application_Mention	1560	1566	monmlp
+PMC5238813	T11	Application_Mention	1888	1894	Monmlp
+PMC5238813	T12	Application_Mention	2007	2013	monmlp
+PMC5238813	T13	Application_Mention	2418	2424	monmlp
+PMC5238813	T14	Application_Mention	2955	2958	rgp
+PMC5238813	T15	Application_Mention	3001	3002	R
+PMC5238813	T16	Application_Mention	3027	3030	rgp
+PMC5238813	T17	Application_Mention	3128	3131	rgp
+PMC5238813	T18	Application_Mention	4443	4450	fscaret
+PMC5238813	T19	Application_Mention	4463	4470	fscaret
+PMC5238813	T20	Application_Mention	4557	4558	R
+PMC5238813	T21	Application_Mention	4560	4567	Fscaret
+PMC5238813	T22	Application_Mention	4879	4886	fscaret
+PMC5238813	T23	Application_Mention	5918	5921	rgp
+PMC5238813	T24	Application_Mention	7018	7025	fscaret
+PMC5238813	T25	Application_Mention	7181	7187	Cubist
+PMC5238813	T26	Application_Mention	8294	8300	cubist
+PMC3898763	T1	Application_Mention	1149	1164	SPSS Statistics
+PMC3898763	T4	Application_Mention	1851	1855	SPSS
+PMC3898763	T6	Application_Mention	1890	1895	Stata
+PMC5364865	T1	Application_Mention	272	286	GraphPad Prism
+PMC4888764	T1	Application_Mention	200	214	GraphPad Prism
+PMC3998155	T1	Application_Mention	14	19	STATA
+PMC5078571	T1	Application_Mention	301	308	Maestro
+PMC5078571	T3	Application_Mention	1831	1840	ChromaTOF
+PMC5078571	T6	Application_Mention	2059	2068	ChromaTOF
+PMC5078571	T7	Application_Mention	2169	2178	ChromaTOF
+PMC5078571	T8	Application_Mention	2248	2254	Guineu
+PMC5078571	T9	Application_Mention	3956	3962	MATLAB
+PMC5078571	T12	Application_Mention	4050	4061	PLS Toolbox
+PMC5078571	T15	Application_Mention	4120	4121	R
+PMC4832390	T1	Application_Mention	1040	1046	ImageJ
+PMC4832390	T2	Application_Mention	1753	1770	Zen Black edition
+PMC4895162	T1	Application_Mention	649	676	Integrative Genomics Viewer
+PMC4895162	T2	Application_Mention	972	978	COSMIC
+PMC4895162	T4	Application_Mention	3129	3152	Genome Analysis Toolkit
+PMC4895162	T5	Application_Mention	3157	3163	MuTect
+PMC4895162	T6	Application_Mention	3171	3178	Strelka
+PMC4895162	T7	Application_Mention	5033	5039	COSMIC
+PMC5008171	T1	Application_Mention	250	257	UNet SM
+PMC4410849	T1	Application_Mention	221	243	PerkinElmer Quantum FX
+PMC4410849	T2	Application_Mention	272	279	Analyze
+PMC5084670	T1	Application_Mention	747	764	Phoenix WinNonlin
+PMC4686099	T1	Application_Mention	1159	1163	SPSS
+PMC5329793	T1	Application_Mention	1	9	STATA/SE
+PMC5419080	T1	Application_Mention	807	828	Protein Deconvolution
+PMC5419080	T4	Application_Mention	873	883	BioAnalyst
+PMC5419080	T7	Application_Mention	2380	2401	Protein Deconvolution
+PMC2570388	T1	Application_Mention	1628	1636	Statview
+PMC2034468	T1	Application_Mention	84	97	RosettaDesign
+PMC2034468	T2	Application_Mention	414	419	PyMOL
+PMC2034468	T4	Application_Mention	967	980	RosettaDesign
+PMC4093164	T1	Application_Mention	414	417	SAS
+PMC4508259	T1	Application_Mention	761	803	System for Automatic Verification, or SAVE
+PMC4508259	T2	Application_Mention	943	947	SAVE
+PMC4453596	T1	Application_Mention	58	62	Perl
+PMC4453596	T4	Application_Mention	146	156	SQL Server
+PMC4453596	T7	Application_Mention	300	303	SAS
+PMC3177208	T1	Application_Mention	355	361	FlowJo
+PMC3177208	T3	Application_Mention	1374	1384	ImageQuant
+PMC3177208	T5	Application_Mention	2458	2468	ImageQuant
+PMC3619103	T1	Application_Mention	442	446	SPSS
+PMC4012704	T1	Application_Mention	104	108	SPSS
+PMC3598124	T1	Application_Mention	39	49	Statistica
+PMC3598124	T4	Application_Mention	1203	1216	MultiScanBase
+PMC4272508	T1	Application_Mention	496	539	Statistical Package for the Social Sciences
+PMC2556094	T1	Application_Mention	668	674	MOSFLM
+PMC2556094	T2	Application_Mention	697	701	CCP4
+PMC2556094	T3	Application_Mention	1148	1152	COOT
+PMC2556094	T4	Application_Mention	1204	1210	PHENIX
+PMC2887951	T1	Application_Mention	77	86	Nanoscope
+PMC2887951	T2	Application_Mention	380	389	Nanoscope
+PMC2887951	T3	Application_Mention	2076	2086	Windows XP
+PMC2887951	T4	Application_Mention	2107	2121	Image-Pro Plus
+PMC4264456	T1	Application_Mention	60	63	SAS
+PMC4264456	T4	Application_Mention	112	120	Stata/SE
+PMC4935458	T1	Application_Mention	865	875	MultiGauge
+PMC4718351	T1	Application_Mention	55	60	GIPSE
+PMC4718351	T2	Application_Mention	592	597	GIPSE
+PMC4718351	T3	Application_Mention	894	899	Excel
+PMC4718351	T4	Application_Mention	1663	1667	SPSS
+PMC3644108	T1	Application_Mention	205	210	GEANT
+PMC3628511	T1	Application_Mention	1159	1167	SPCImage
+PMC3628511	T3	Application_Mention	1678	1684	ImageJ
+PMC3628511	T4	Application_Mention	1690	1695	JACoP
+PMC3628511	T5	Application_Mention	1700	1709	RatioPlus
+PMC4914536	T1	Application_Mention	86	90	SPSS
+PMC3780496	T1	Application_Mention	1636	1644	Winsteps
+PMC3780496	T2	Application_Mention	1668	1673	STATA
+PMC5244966	T1	Application_Mention	535	549	Primer Premier
+PMC5244966	T4	Application_Mention	1153	1157	SPSS
+PMC5109890	T1	Application_Mention	2050	2054	SPSS
+PMC4623144	T1	Application_Mention	163	167	SPSS
+PMC4559775	T1	Application_Mention	65	69	SPSS
+PMC4559775	T4	Application_Mention	117	120	SAS
+PMC3071219	T1	Application_Mention	1186	1192	FlowJo
+PMC3071219	T4	Application_Mention	1631	1637	FlowJo
+PMC2921509	T1	Application_Mention	175	189	GraphPad prism
+PMC4998785	T1	Application_Mention	1913	1918	STATA
+PMC4998785	T4	Application_Mention	2398	2412	nQuery Advisor
+PMC4399784	T1	Application_Mention	48	91	Statistical Package for the Social Sciences
+PMC2677890	T1	Application_Mention	96	104	Profiler
+PMC2677890	T2	Application_Mention	2305	2312	LabView
+PMC2677890	T4	Application_Mention	3024	3032	DNA Star
+PMC4122291	T1	Application_Mention	726	732	Matlab
+PMC4966572	T1	Application_Mention	43	46	SAS
+PMC3955898	T1	Application_Mention	544	548	SPSS
+PMC3245946	T1	Application_Mention	842	854	Quantity One
+PMC3245946	T3	Application_Mention	1858	1870	Quantity One
+PMC3245946	T4	Application_Mention	2051	2060	SigmaPlot
+PMC3245946	T7	Application_Mention	3313	3323	Sigma Plot
+PMC3245946	T9	Application_Mention	4860	4896	Molecular Operating Environment (MOE
+PMC3245946	T12	Application_Mention	5055	5058	MOE
+PMC3245946	T13	Application_Mention	5501	5508	Chimera
+PMC3245946	T16	Application_Mention	5678	5681	MOE
+PMC3245946	T17	Application_Mention	5821	5824	MOE
+PMC3245946	T18	Application_Mention	6049	6056	Chimera
+PMC3245946	T19	Application_Mention	6127	6141	Pipeline Pilot
+PMC3384331	T1	Application_Mention	252	263	gsAssembler
+PMC3384331	T3	Application_Mention	1400	1409	DNAMaster
+PMC3384331	T6	Application_Mention	1459	1466	pDRAW32
+PMC3384331	T7	Application_Mention	1471	1499	GeneMark.hmm for Prokaryotes
+PMC3384331	T9	Application_Mention	1583	1589	BLASTN
+PMC3384331	T10	Application_Mention	1594	1600	BLASTP
+PMC3384331	T12	Application_Mention	1741	1753	GeneMark.hmm
+PMC3384331	T13	Application_Mention	2105	2118	Compute pI/MW
+PMC3384331	T14	Application_Mention	2194	2202	Signal P
+PMC3384331	T16	Application_Mention	2225	2240	TatFind Servers
+PMC3384331	T17	Application_Mention	2307	2319	InterProScan
+PMC3384331	T18	Application_Mention	2429	2434	TMHMM
+PMC3384331	T19	Application_Mention	2449	2455	TMPred
+PMC3384331	T20	Application_Mention	2574	2582	T-Coffee
+PMC3384331	T21	Application_Mention	2589	2595	Muscle
+PMC3384331	T22	Application_Mention	2605	2612	Praline
+PMC3384331	T23	Application_Mention	2673	2681	T-Coffee
+PMC3384331	T24	Application_Mention	2704	2711	WebLogo
+PMC3384331	T25	Application_Mention	2834	2847	EMBOSS Needle
+PMC3384331	T27	Application_Mention	2902	2910	T-Coffee
+PMC3384331	T28	Application_Mention	2991	2998	Gblocks
+PMC3384331	T29	Application_Mention	3072	3077	phyml
+PMC3384331	T30	Application_Mention	3128	3140	Phylodendron
+PMC3384331	T32	Application_Mention	4036	4044	Signal P
+PMC3384331	T33	Application_Mention	4048	4056	Tat find
+PMC3315194	T1	Application_Mention	274	324	Statistical Package for the Social Sciences (SPSS)
+PMC5478307	T1	Application_Mention	151	199	Short Oligonucleotide Analysis Package (SOAPsnp)
+PMC5478307	T2	Application_Mention	204	231	the Genome Analysis Toolkit
+PMC5478307	T3	Application_Mention	376	383	ANNOVAR
+PMC5478307	T4	Application_Mention	952	956	SIFT
+PMC5478307	T5	Application_Mention	958	967	PolyPhen2
+PMC5478307	T6	Application_Mention	969	975	GERP++
+PMC5478307	T7	Application_Mention	981	995	MutationTaster
+PMC5478307	T8	Application_Mention	1117	1123	Primer
+PMC3632766	T1	Application_Mention	383	406	Windows XP Professional
+PMC3632766	T3	Application_Mention	495	508	Photoshop CS3
+PMC2677872	T1	Application_Mention	1316	1320	AIDA
+PMC4410084	T1	Application_Mention	1377	1383	FlowJo
+PMC4410084	T3	Application_Mention	1568	1582	GraphPad Prism
+PMC5321584	T1	Application_Mention	45	60	SPSS Statistics
+PMC3718976	T1	Application_Mention	663	666	ZEN
+PMC3718976	T2	Application_Mention	670	686	AimImage Browser
+PMC3085624	T1	Application_Mention	113	167	JSTAT -Java Virtual Machine Statistics Monitoring Tool
+PMC4039861	T1	Application_Mention	560	564	Word
+PMC4039861	T3	Application_Mention	1808	1818	PostgreSQL
+PMC4386214	T1	Application_Mention	26	30	PASW
+PMC3223056	T1	Application_Mention	1475	1481	AlignX
+PMC3223056	T2	Application_Mention	1496	1523	Vector NTI software package
+PMC3223056	T4	Application_Mention	1854	1860	BLAST2
+PMC3223056	T6	Application_Mention	1908	1918	FGE- NESH+
+PMC3223056	T7	Application_Mention	1924	1933	FGENESH_C
+PMC3223056	T9	Application_Mention	2125	2131	BLASTX
+PMC3223056	T10	Application_Mention	3199	3208	VectorNTI
+PMC3223056	T13	Application_Mention	3256	3274	CLC main workbench
+PMC3223056	T16	Application_Mention	3351	3358	BioEdit
+PMC3223056	T18	Application_Mention	3461	3464	HAP
+PMC3223056	T20	Application_Mention	5112	5121	STRUCTURE
+PMC3223056	T23	Application_Mention	5491	5494	SAS
+PMC3223056	T25	Application_Mention	5619	5628	STRUCTURE
+PMC3223056	T27	Application_Mention	5828	5834	TASSEL
+PMC3223056	T29	Application_Mention	6382	6388	TASSEL
+PMC3223056	T31	Application_Mention	6430	6439	STRUCTURE
+PMC3223056	T33	Application_Mention	7235	7238	SAS
+PMC3223056	T36	Application_Mention	10625	10631	TASSEL
+PMC3223056	T38	Application_Mention	11293	11296	HAP
+PMC3223056	T40	Application_Mention	14250	14255	COILS
+PMC3717207	T1	Application_Mention	433	437	SPSS
+PMC3717207	T3	Application_Mention	456	457	R
+PMC3717207	T4	Application_Mention	463	470	SIMCA-P
+PMC3717207	T7	Application_Mention	644	651	SIMCA-P
+PMC4927739	T1	Application_Mention	39	45	ccEBSD
+PMC5328613	T1	Application_Mention	39	43	QLAB
+PMC5328613	T4	Application_Mention	1019	1060	Statistical Product and Service Solutions
+PMC3589687	T1	Application_Mention	1	8	Hangman
+PMC3589687	T2	Application_Mention	321	328	Mediman
+PMC3589687	T3	Application_Mention	479	486	Mediman
+PMC3589687	T4	Application_Mention	494	499	MySQL
+PMC3589687	T6	Application_Mention	1660	1665	Excel
+PMC3589687	T7	Application_Mention	2271	2276	CASUS
+PMC3589687	T9	Application_Mention	4043	4046	iOS
+PMC3589687	T10	Application_Mention	4048	4055	Android
+PMC3589687	T11	Application_Mention	4350	4357	Mediman
+PMC3589687	T12	Application_Mention	4620	4633	jQuery mobile
+PMC3589687	T13	Application_Mention	5034	5042	Phonegap
+PMC3589687	T15	Application_Mention	5187	5194	Mediman
+PMC3589687	T16	Application_Mention	5623	5630	Hangman
+PMC3589687	T17	Application_Mention	6259	6266	Mediman
+PMC3589687	T18	Application_Mention	6954	6961	Mediman
+PMC2806324	T1	Application_Mention	604	613	MetaMorph
+PMC2806324	T3	Application_Mention	1445	1456	Mathematica
+PMC2806324	T4	Application_Mention	1633	1639	ImageJ
+PMC2806324	T5	Application_Mention	1839	1845	ImageJ
+PMC2806324	T6	Application_Mention	1913	1917	Voxx
+PMC2806324	T8	Application_Mention	2162	2168	ImageJ
+PMC2806324	T9	Application_Mention	2172	2185	Photoshop CS3
+PMC2806324	T11	Application_Mention	3336	3342	ImageJ
+PMC2806324	T12	Application_Mention	3536	3547	Mathematica
+PMC2806324	T14	Application_Mention	4292	4303	Mathematica
+PMC2806324	T15	Application_Mention	5808	5819	Mathematica
+PMC3994306	T1	Application_Mention	1	4	SAS
+PMC3589639	T1	Application_Mention	166	215	Affymetrix Cytogenetics Whole Genome 2.7 Mb Array
+PMC4662707	T1	Application_Mention	517	550	Comprehensive Meta-Analysis (CMA)
+PMC5050532	T1	Application_Mention	596	601	OASIS
+PMC5050532	T2	Application_Mention	1126	1131	OASIS
+PMC5050532	T3	Application_Mention	2995	3000	OASIS
+PMC4554393	T1	Application_Mention	534	539	Amira
+PMC3386500	T1	Application_Mention	80	84	SPSS
+PMC4826955	T1	Application_Mention	312	318	Mimics
+PMC4826955	T3	Application_Mention	1230	1236	MATLAB
+PMC3956627	T1	Application_Mention	1733	1739	ImageJ
+PMC3956627	T3	Application_Mention	1967	1970	SAS
+PMC4317475	T1	Application_Mention	1576	1584	Xcalibur
+PMC4317475	T4	Application_Mention	2204	2230	Agilent Feature Extraction
+PMC4317475	T7	Application_Mention	2483	2495	GeneSpringGX
+PMC3289039	T1	Application_Mention	800	844	AQUACOSMOS/RATIO calcium-ion analysis system
+PMC4919585	T1	Application_Mention	207	214	Image J
+PMC4919585	T3	Application_Mention	519	524	Prism
+PMC4919585	T5	Application_Mention	855	864	SigmaStat
+PMC4919585	T8	Application_Mention	1533	1537	IOX2
+PMC3589720	T1	Application_Mention	2241	2259	NIA Array Analysis
+PMC3589720	T2	Application_Mention	2949	2967	NIA Array Analysis
+PMC3589720	T3	Application_Mention	3746	3750	TMEV
+PMC4269546	T1	Application_Mention	892	898	Eprime
+PMC4269546	T4	Application_Mention	1744	1750	MATLAB
+PMC4269546	T5	Application_Mention	2301	2310	MaxFilter
+PMC4269546	T8	Application_Mention	2995	3001	EEGLab
+PMC4269546	T9	Application_Mention	3427	3430	SPM
+PMC4269546	T12	Application_Mention	4291	4294	SPM
+PMC4269546	T14	Application_Mention	6172	6177	Caret
+PMC3902349	T1	Application_Mention	860	874	GraphPad Prism
+PMC3902349	T3	Application_Mention	915	918	SAS
+PMC4153088	T1	Application_Mention	304	307	SAS
+PMC4153088	T4	Application_Mention	345	350	Stata
+PMC3768479	T1	Application_Mention	140	144	SPSS
+PMC4791326	T1	Application_Mention	60	65	PRISM
+PMC4720847	T1	Application_Mention	34	38	SPSS
+PMC4128792	T1	Application_Mention	1209	1228	Proteome Discoverer
+PMC4128792	T3	Application_Mention	1237	1243	Mascot
+PMC4128792	T5	Application_Mention	1677	1685	GraphPad
+PMC4621840	T1	Application_Mention	976	988	NIS-Elements
+PMC4621840	T2	Application_Mention	1262	1268	ImageJ
+PMC5210605	T1	Application_Mention	110	119	RNALocate
+PMC5210605	T3	Application_Mention	335	344	RNALocate
+PMC5210605	T4	Application_Mention	697	706	RNALocate
+PMC5210605	T5	Application_Mention	1097	1106	RNALocate
+PMC5210605	T6	Application_Mention	1215	1224	RNALocate
+PMC5210605	T7	Application_Mention	1391	1399	Ensemble
+PMC5210605	T9	Application_Mention	1531	1539	Ensemble
+PMC5210605	T10	Application_Mention	2097	2106	RNALocate
+PMC5210605	T11	Application_Mention	2165	2177	MySQL server
+PMC5210605	T12	Application_Mention	2289	2302	Google Chrome
+PMC5210605	T13	Application_Mention	2304	2311	Firefox
+PMC5210605	T14	Application_Mention	2316	2333	Internet Explorer
+PMC5210605	T15	Application_Mention	2495	2504	RNALocate
+PMC5210605	T16	Application_Mention	3119	3128	RNALocate
+PMC5210605	T18	Application_Mention	3478	3483	Excel
+PMC5210605	T19	Application_Mention	3593	3602	RNALocate
+PMC5210605	T20	Application_Mention	3625	3634	RNALocate
+PMC5210605	T21	Application_Mention	3812	3821	RNALocate
+PMC5210605	T22	Application_Mention	3846	3855	RNALocate
+PMC5210605	T23	Application_Mention	4407	4416	RNALocate
+PMC3837047	T1	Application_Mention	133	136	SAS
+PMC3638180	T1	Application_Mention	81	87	MS-SQL
+PMC3638180	T2	Application_Mention	126	138	Visual Basic
+PMC3638180	T3	Application_Mention	1442	1447	NVivo
+PMC3013778	T1	Application_Mention	276	286	PostgreSQL
+PMC3013778	T2	Application_Mention	1149	1155	BLASTP
+PMC3013778	T3	Application_Mention	1521	1535	RASTA-Bacteria
+PMC3013778	T4	Application_Mention	1595	1610	RASTA- Bacteria
+PMC3013778	T5	Application_Mention	1630	1638	RPSBLAST
+PMC3013778	T6	Application_Mention	1777	1791	RASTA-Bacteria
+PMC3013778	T7	Application_Mention	2801	2815	RASTA-Bacteria
+PMC3013778	T8	Application_Mention	3823	3833	PostgreSQL
+PMC3013778	T9	Application_Mention	4215	4220	Linux
+PMC3013778	T10	Application_Mention	4239	4245	Apache
+PMC3013778	T11	Application_Mention	4474	4481	Gbrowse
+PMC3013778	T12	Application_Mention	4528	4534	CGview
+PMC3013778	T13	Application_Mention	4599	4605	MUSCLE
+PMC3013778	T14	Application_Mention	4615	4622	Jalview
+PMC3013778	T15	Application_Mention	4653	4664	Primer3Plus
+PMC3013778	T16	Application_Mention	4675	4687	IslandViewer
+PMC3013778	T17	Application_Mention	6012	6026	RASTA-Bacteria
+PMC3013778	T18	Application_Mention	6151	6158	Gbrowse
+PMC3013778	T19	Application_Mention	8361	8369	WU-BLAST
+PMC3013778	T22	Application_Mention	8480	8488	RPSBLAST
+PMC3013778	T23	Application_Mention	8951	8956	Blast
+PMC3013778	T24	Application_Mention	9077	9084	Gbrowse
+PMC3013778	T25	Application_Mention	10725	10733	RPSBLAST
+PMC3694184	T1	Application_Mention	485	489	SPSS
+PMC4754077	T1	Application_Mention	173	183	FreeSurfer
+PMC3093010	T1	Application_Mention	165	174	Stat View
+PMC4618831	T1	Application_Mention	43	48	Prism
+PMC4147369	T1	Application_Mention	302	308	ImageJ
+PMC4147369	T2	Application_Mention	1109	1117	Clampfit
+PMC4147369	T4	Application_Mention	1142	1163	Mini Analysis Progrom
+PMC4800296	T1	Application_Mention	512	521	qBasePLUS
+PMC4800296	T4	Application_Mention	718	724	geNorm
+PMC4800296	T5	Application_Mention	939	953	GraphPad Prism
+PMC3894438	T1	Application_Mention	51	54	SAS
+PMC2759333	T1	Application_Mention	1121	1126	NVIVO
+PMC5293301	T1	Application_Mention	170	174	LDPI
+PMC5293301	T4	Application_Mention	647	696	Statistical Package for the Social Sciences (SPSS
+PMC4503903	T1	Application_Mention	9	24	SPSS Statistics
+PMC4822213	T1	Application_Mention	2127	2138	CFX Manager
+PMC4822213	T4	Application_Mention	2729	2732	JMP
+PMC3366639	T1	Application_Mention	1208	1215	Forcite
+PMC3406768	T1	Application_Mention	235	249	Image-Pro PLUS
+PMC3406768	T4	Application_Mention	915	920	Excel
+PMC3406768	T6	Application_Mention	959	971	Excel Toukei
+PMC4947724	T1	Application_Mention	125	132	moorVMS
+PMC4947724	T4	Application_Mention	1421	1431	Kubios HRV
+PMC4947724	T6	Application_Mention	2073	2117	Statistical Packages for the Social Sciences
+PMC2529246	T1	Application_Mention	903	910	MSQuant
+PMC4015203	T1	Application_Mention	609	623	Review Manager
+PMC4015203	T3	Application_Mention	639	645	RevMan
+PMC4589655	T1	Application_Mention	707	710	SAS
+PMC4589655	T3	Application_Mention	745	746	R
+PMC4848362	T1	Application_Mention	46	50	SPSS
+PMC4453845	T1	Application_Mention	316	335	Definiens Developer
+PMC4120377	T2	Application_Mention	45	51	Access
+PMC4120377	T4	Application_Mention	113	117	SPSS
+PMC5214516	T1	Application_Mention	655	662	Dedoose
+PMC4213703	T1	Application_Mention	107	147	System Analysis and Statistical Genetics
+PMC2447781	T1	Application_Mention	204	212	pFlexAna
+PMC2447781	T2	Application_Mention	344	383	pFlexAna (protein flexibility analyzer)
+PMC2447781	T3	Application_Mention	651	659	pFlexAna
+PMC2447781	T4	Application_Mention	945	953	pFlexAna
+PMC2447781	T5	Application_Mention	1247	1255	pFlexAna
+PMC2447781	T6	Application_Mention	1641	1649	pFlexAna
+PMC2447781	T7	Application_Mention	2570	2576	FATCAT
+PMC2447781	T8	Application_Mention	3120	3126	FATCAT
+PMC2447781	T9	Application_Mention	3131	3139	pFlexAna
+PMC2447781	T10	Application_Mention	3153	3161	pFlexAna
+PMC2447781	T11	Application_Mention	3348	3356	pFlexAna
+PMC2447781	T12	Application_Mention	3834	3842	pFlexAna
+PMC2447781	T13	Application_Mention	4286	4294	pFlexAna
+PMC2447781	T14	Application_Mention	4877	4885	pFlexAna
+PMC2447781	T15	Application_Mention	5054	5058	Jmol
+PMC2447781	T16	Application_Mention	5478	5486	pFlexAna
+PMC2447781	T17	Application_Mention	5759	5767	pFlexAna
+PMC2447781	T18	Application_Mention	6173	6181	pFlexAna
+PMC2447781	T19	Application_Mention	8514	8522	pFlexAna
+PMC2447781	T20	Application_Mention	9697	9702	PyMol
+PMC2447781	T21	Application_Mention	9770	9774	Jmol
+PMC2447781	T22	Application_Mention	9810	9818	pFlexAna
+PMC2447781	T23	Application_Mention	10007	10015	pFlexAna
+PMC2447781	T24	Application_Mention	10668	10676	pFlexAna
+PMC2447781	T25	Application_Mention	10925	10933	pFlexAna
+PMC2447781	T26	Application_Mention	11337	11345	pFlexAna
+PMC2447781	T27	Application_Mention	12245	12253	pFlexAna
+PMC2447781	T28	Application_Mention	12434	12442	pFlexAna
+PMC2447781	T29	Application_Mention	12626	12634	pFlexAna
+PMC2447781	T30	Application_Mention	12924	12932	pFlexAna
+PMC2447781	T31	Application_Mention	12995	13003	pFlexAna
+PMC2447781	T32	Application_Mention	13422	13430	pFlexAna
+PMC2447781	T33	Application_Mention	13616	13624	pFlexAna
+PMC2447781	T34	Application_Mention	13748	13756	pFlexAna
+PMC2447781	T35	Application_Mention	13868	13876	pFlexAna
+PMC3025493	T1	Application_Mention	291	297	Origin
+PMC3025493	T5	Application_Mention	508	513	Excel
+PMC3025493	T6	Application_Mention	517	522	Prism
+PMC3025493	T7	Application_Mention	582	589	Image J
+PMC4871932	T1	Application_Mention	1697	1701	SPSS
+PMC5081317	T1	Application_Mention	49	72	SPSS statistics package
+PMC4303280	T1	Application_Mention	199	203	SPSS
+PMC4150201	T1	Application_Mention	229	233	SPSS
+PMC4436784	T1	Application_Mention	429	438	MetaMorph
+PMC4280887	T1	Application_Mention	39	43	Tint
+PMC4280887	T3	Application_Mention	567	571	Tint
+PMC4280887	T5	Application_Mention	763	767	Tint
+PMC4236336	T1	Application_Mention	65	71	MATLAB
+PMC4236336	T2	Application_Mention	89	111	Neural Network Toolbox
+PMC4236336	T4	Application_Mention	773	777	SPSS
+PMC4236336	T7	Application_Mention	811	818	MedCalc
+PMC2890158	T1	Application_Mention	32	39	DNASTAR
+PMC2890158	T4	Application_Mention	281	288	MrBayes
+PMC3447890	T1	Application_Mention	5183	5186	SAS
+PMC5013111	T1	Application_Mention	819	823	SPSS
+PMC2850939	T1	Application_Mention	436	445	Mass-Lynx
+PMC4579483	T1	Application_Mention	271	276	Excel
+PMC4579483	T2	Application_Mention	281	290	R-package
+PMC5210339	T1	Application_Mention	394	397	SAS
+PMC4776054	T1	Application_Mention	43	78	Statistical Analysis Software (SAS)
+PMC5132031	T1	Application_Mention	368	371	JMP
+PMC3939454	T1	Application_Mention	1055	1060	MCODE
+PMC3939454	T2	Application_Mention	1065	1072	CFinder
+PMC3939454	T3	Application_Mention	1110	1121	Cluster-ONE
+PMC3939454	T4	Application_Mention	1759	1764	COACH
+PMC3939454	T5	Application_Mention	1772	1778	CACHET
+PMC3939454	T6	Application_Mention	4434	4440	CACHET
+PMC3939454	T7	Application_Mention	5856	5862	CACHET
+PMC3939454	T8	Application_Mention	6280	6286	CACHET
+PMC3939454	T9	Application_Mention	6392	6398	CACHET
+PMC3939454	T10	Application_Mention	6695	6701	CACHET
+PMC3939454	T11	Application_Mention	6915	6921	CACHET
+PMC3939454	T12	Application_Mention	7242	7248	CACHET
+PMC3939454	T13	Application_Mention	7757	7763	CACHET
+PMC3939454	T14	Application_Mention	8985	8991	CACHET
+PMC3939454	T15	Application_Mention	9149	9150	R
+PMC3939454	T17	Application_Mention	9629	9634	iRefR
+PMC3939454	T19	Application_Mention	9651	9657	igraph
+PMC3939454	T21	Application_Mention	9674	9687	org.Sc.sgd.db
+PMC3939454	T23	Application_Mention	10043	10051	linkcomm
+PMC3939454	T24	Application_Mention	10054	10055	R
+PMC3939454	T25	Application_Mention	10068	10074	CACHET
+PMC3939454	T26	Application_Mention	10107	10113	CACHET
+PMC3939454	T27	Application_Mention	10745	10751	CACHET
+PMC3939454	T28	Application_Mention	10756	10757	R
+PMC3939454	T30	Application_Mention	11178	11183	iRefR
+PMC3939454	T31	Application_Mention	11192	11198	igraph
+PMC3702283	T1	Application_Mention	909	915	Origin
+PMC3702283	T3	Application_Mention	2074	2081	Clampex
+PMC3702283	T6	Application_Mention	2150	2158	Clampfit
+PMC4497354	T1	Application_Mention	368	372	SPSS
+PMC5098543	T1	Application_Mention	236	254	Mass Center system
+PMC4401356	T1	Application_Mention	211	215	SPSS
+PMC2781407	T1	Application_Mention	63	68	PRISM
+PMC4401865	T1	Application_Mention	437	455	e1071-package of R
+PMC5098113	T1	Application_Mention	72	79	Megawin
+PMC5098113	T3	Application_Mention	225	231	MATLAB
+PMC5098113	T4	Application_Mention	311	315	SPSS
+PMC5098113	T6	Application_Mention	783	789	MATLAB
+PMC3389425	T1	Application_Mention	528	536	Statview
+PMC3283851	T1	Application_Mention	133	137	SPSS
+PMC4454910	T1	Application_Mention	9	48	Statistical Package for Social Sciences
+PMC4387613	T1	Application_Mention	51	92	Research Electronic Data Capture (REDCap)
+PMC4387613	T4	Application_Mention	616	621	Excel
+PMC4387613	T5	Application_Mention	654	687	SAS (Statistical Analysis System)
+PMC4387613	T6	Application_Mention	689	735	SPSS (Statistical Package for Social Sciences)
+PMC4387613	T7	Application_Mention	741	749	R Studio
+PMC4963544	T1	Application_Mention	1511	1522	Data Spread
+PMC5045956	T1	Application_Mention	109	113	SPSS
+PMC4717961	T1	Application_Mention	2167	2172	Stata
+PMC4717961	T4	Application_Mention	2321	2335	GraphPad Prism
+PMC4843533	T1	Application_Mention	1376	1382	NRecon
+PMC4843533	T3	Application_Mention	1464	1472	MeVisLab
+PMC4843533	T5	Application_Mention	2420	2425	Prism
+PMC3251324	T1	Application_Mention	163	170	MrBayes
+PMC3251324	T3	Application_Mention	238	282	PAUP (Phylogenetic Analysis Using Parsimony)
+PMC3836143	T1	Application_Mention	1848	1852	SPSS
+PMC5271396	T1	Application_Mention	581	586	STATA
+PMC5063056	T1	Application_Mention	294	300	ImageJ
+PMC5063056	T4	Application_Mention	1417	1427	CC Metrics
+PMC5063056	T6	Application_Mention	2971	2978	RStudio
+PMC5063056	T8	Application_Mention	3070	3084	R package pROC
+PMC5063056	T9	Application_Mention	3638	3652	R package Boot
+PMC3256755	T1	Application_Mention	453	471	R software package
+PMC3863651	T1	Application_Mention	9	13	PACS
+PMC5010096	T1	Application_Mention	35	39	SPSS
+PMC5010096	T4	Application_Mention	62	65	SAS
+PMC5010096	T7	Application_Mention	98	99	R
+PMC4494636	T2	Application_Mention	43	48	Excel
+PMC4494636	T3	Application_Mention	99	103	SPSS
+PMC3983507	T1	Application_Mention	152	156	SPSS
+PMC3193002	T1	Application_Mention	93	106	GeneSpring GX
+PMC3193002	T4	Application_Mention	487	500	GeneSpring GX
+PMC3193002	T6	Application_Mention	868	878	GeneSpring
+PMC4852604	T1	Application_Mention	1812	1816	SPSS
+PMC4397380	T1	Application_Mention	590	595	BLAST
+PMC4397380	T3	Application_Mention	802	810	MultAlin
+PMC4397380	T4	Application_Mention	895	899	MEGA
+PMC4397380	T5	Application_Mention	1198	1207	SigmaPlot
+PMC4397380	T7	Application_Mention	1638	1643	BLAST
+PMC4397380	T8	Application_Mention	1659	1675	MultAlin program
+PMC4397380	T9	Application_Mention	3307	3312	BLAST
+PMC5137495	T1	Application_Mention	115	128	StatLight2000
+PMC5032163	T1	Application_Mention	74	78	SPSS
+PMC4575381	T1	Application_Mention	333	338	Stata
+PMC3404480	T1	Application_Mention	46	51	Stata
+PMC5221592	T1	Application_Mention	118	127	Lab- View
+PMC5221592	T3	Application_Mention	266	273	LabView
+PMC5221592	T4	Application_Mention	1500	1507	LabView
+PMC5221592	T5	Application_Mention	1805	1813	Lab View
+PMC5016904	T1	Application_Mention	827	831	SPSS
+PMC4956186	T1	Application_Mention	46	52	COMSOL
+PMC4717942	T1	Application_Mention	831	834	SAS
+PMC2532740	T1	Application_Mention	143	155	Perl program
+PMC3293421	T1	Application_Mention	390	394	SPSS
+PMC3293421	T4	Application_Mention	434	449	PASW Statistics
+PMC4112233	T1	Application_Mention	124	131	FGENESH
+PMC4112233	T3	Application_Mention	296	303	Phobius
+PMC4112233	T5	Application_Mention	424	428	MEGA
+PMC4112233	T7	Application_Mention	872	879	FGENESH
+PMC4112233	T8	Application_Mention	1934	1941	Phobius
+PMC4724760	T1	Application_Mention	2771	2781	NudgerSize
+PMC2999698	T1	Application_Mention	51	96	Statistical Package for Social Sciences (SPSS
+PMC5374131	T1	Application_Mention	344	348	SPSS
+PMC5440747	T1	Application_Mention	244	252	Statview
+PMC3822109	T1	Application_Mention	1631	1682	Work Observation Method by Activity Timing (WOMBAT)
+PMC3822109	T2	Application_Mention	1922	1928	WOMBAT
+PMC3822109	T3	Application_Mention	2860	2863	SAS
+PMC3822109	T5	Application_Mention	2941	2947	WOMBAT
+PMC5005113	T1	Application_Mention	755	808	Nucleotide Basic Local Alignment Search Tool (BLASTN)
+PMC5005113	T2	Application_Mention	920	926	BLASTN
+PMC5005113	T3	Application_Mention	971	1011	Molecular Evolutionary Genetics Analysis
+PMC5005113	T5	Application_Mention	3402	3406	SPSS
+PMC5005113	T8	Application_Mention	4174	4180	BLASTN
+PMC3534176	T1	Application_Mention	178	184	MATLAB
+PMC3534176	T4	Application_Mention	1995	1999	SPSS
+PMC3534176	T7	Application_Mention	3459	3468	MathWorks
+PMC3534176	T8	Application_Mention	5221	5230	MathWorks
+PMC4649725	T1	Application_Mention	1120	1123	SAS
+PMC4374707	T1	Application_Mention	71	77	MATLAB
+PMC4922208	T1	Application_Mention	101	106	Excel
+PMC4853138	T1	Application_Mention	1405	1410	STATA
+PMC4853138	T3	Application_Mention	2003	2004	R
+PMC4853138	T4	Application_Mention	2087	2088	R
+PMC5042035	T1	Application_Mention	169	175	YCOW-S
+PMC4913653	T1	Application_Mention	82	85	SAS
+PMC4176174	T1	Application_Mention	698	705	CTFFIND
+PMC4176174	T3	Application_Mention	824	829	XMIPP
+PMC4176174	T4	Application_Mention	1153	1157	EMAN
+PMC4176174	T5	Application_Mention	1950	1954	ML3D
+PMC4176174	T6	Application_Mention	2031	2035	EMAN
+PMC4176174	T7	Application_Mention	2342	2354	UCSF Chimera
+PMC4176174	T8	Application_Mention	2427	2434	Chimera
+PMC4221951	T1	Application_Mention	50	56	Access
+PMC4221951	T3	Application_Mention	189	196	Minitab
+PMC3464321	T1	Application_Mention	280	284	SPSS
+PMC4523486	T1	Application_Mention	254	260	SUDAAN
+PMC3035800	T1	Application_Mention	971	975	ct3d
+PMC3035800	T2	Application_Mention	1194	1198	ct3d
+PMC3035800	T3	Application_Mention	1245	1249	at3d
+PMC3035800	T4	Application_Mention	2297	2306	Celltrack
+PMC3035800	T5	Application_Mention	2362	2366	ct3d
+PMC3035800	T6	Application_Mention	2428	2432	at3d
+PMC3035800	T7	Application_Mention	3170	3174	ct3d
+PMC3035800	T8	Application_Mention	3280	3288	lp_solve
+PMC3035800	T10	Application_Mention	3423	3427	ct3d
+PMC3035800	T11	Application_Mention	3499	3503	at3d
+PMC3035800	T12	Application_Mention	3682	3686	at3d
+PMC3035800	T13	Application_Mention	3717	3719	qt
+PMC3035800	T14	Application_Mention	3871	3874	v3d
+PMC3035800	T15	Application_Mention	4156	4160	ct3d
+PMC3035800	T16	Application_Mention	5474	5478	ct3d
+PMC3035800	T17	Application_Mention	5724	5728	at3d
+PMC3035800	T18	Application_Mention	5838	5842	ct3d
+PMC3035800	T19	Application_Mention	5956	5960	ct3d
+PMC3035800	T20	Application_Mention	6736	6740	ct3d
+PMC3035800	T21	Application_Mention	7137	7141	ct3d
+PMC3035800	T22	Application_Mention	8019	8023	ct3d
+PMC3035800	T23	Application_Mention	8631	8635	ct3d
+PMC3035800	T24	Application_Mention	8810	8814	Ct3d
+PMC3035800	T25	Application_Mention	8847	8851	at3d
+PMC3035800	T26	Application_Mention	9025	9034	Celltrack
+PMC3035800	T27	Application_Mention	9068	9072	at3d
+PMC3035800	T28	Application_Mention	9229	9233	at3d
+PMC3035800	T29	Application_Mention	9773	9777	at3d
+PMC3035800	T30	Application_Mention	9903	9907	ct3d
+PMC3035800	T31	Application_Mention	9955	9959	ct3d
+PMC3035800	T32	Application_Mention	10153	10156	v3d
+PMC3035800	T33	Application_Mention	10209	10213	ct3d
+PMC3035800	T34	Application_Mention	10910	10914	at3d
+PMC3035800	T35	Application_Mention	11072	11076	ct3d
+PMC3035800	T36	Application_Mention	11080	11084	at3d
+PMC3035800	T37	Application_Mention	12403	12407	ct3d
+PMC3035800	T38	Application_Mention	12479	12483	ct3d
+PMC3035800	T39	Application_Mention	13016	13020	ct3d
+PMC3035800	T40	Application_Mention	13319	13323	ct3d
+PMC4286759	T1	Application_Mention	326	330	SPSS
+PMC5314818	T1	Application_Mention	1227	1230	SAS
+PMC4189225	T1	Application_Mention	195	200	STATA
+PMC3501353	T1	Application_Mention	707	715	Volocity
+PMC3501353	T3	Application_Mention	1646	1656	AxioVision
+PMC3501353	T5	Application_Mention	1858	1864	ImageJ
+PMC3501353	T7	Application_Mention	4568	4578	AxioVision
+PMC3351152	T1	Application_Mention	1957	1967	ImageQuant
+PMC3351152	T3	Application_Mention	3077	3087	ImageQuant
+PMC4630182	T1	Application_Mention	593	597	SPSS
+PMC3280433	T1	Application_Mention	685	702	ChemBioDraw Ultra
+PMC5419227	T1	Application_Mention	50	56	AMSTAR
+PMC5419227	T2	Application_Mention	184	226	Critical Appraisal Skills Programme (CASP)
+PMC5419227	T3	Application_Mention	280	285	STATA
+PMC4388098	T1	Application_Mention	287	291	SPSS
+PMC2831195	T2	Application_Mention	128	142	Web of Science
+PMC2831195	T4	Application_Mention	155	161	Scopus
+PMC2831195	T5	Application_Mention	166	180	Google Scholar
+PMC2831195	T6	Application_Mention	293	300	Eur-lex
+PMC3593214	T1	Application_Mention	1811	1822	FlexImaging
+PMC3593214	T2	Application_Mention	1950	1961	FlexImaging
+PMC4898329	T1	Application_Mention	39	43	SPSS
+PMC2782970	T1	Application_Mention	859	868	MetaDieta
+PMC2782970	T3	Application_Mention	1765	1819	Statistical Package for Social Sciences software (SPSS
+PMC4004741	T1	Application_Mention	76	81	QIIME
+PMC3630328	T1	Application_Mention	364	370	Matlab
+PMC3001089	T1	Application_Mention	162	174	Quantity One
+PMC3001089	T3	Application_Mention	1262	1272	ImageQuant
+PMC3001089	T6	Application_Mention	2089	2119	7000 System Sequence Detection
+PMC3001089	T9	Application_Mention	2969	2999	7000 System Sequence Detection
+PMC5462700	T1	Application_Mention	1933	1937	SPSS
+PMC3088464	T1	Application_Mention	799	803	SPSS
+PMC3891859	T1	Application_Mention	486	497	PiView STAR
+PMC3891859	T3	Application_Mention	573	577	SPSS
+PMC5414882	T1	Application_Mention	878	884	FlowJo
+PMC5414882	T3	Application_Mention	1162	1172	GraphPrism
+PMC4632900	T2	Application_Mention	705	710	Prism
+PMC4027710	T1	Application_Mention	1	5	SPSS
+PMC3526355	T1	Application_Mention	720	728	FACSDiva
+PMC3526355	T3	Application_Mention	778	784	FlowJo
+PMC3526355	T5	Application_Mention	1978	1981	ZEN
+PMC3526355	T8	Application_Mention	2013	2020	DRAW X4
+PMC2638544	T1	Application_Mention	933	936	SAS
+PMC4968915	T1	Application_Mention	654	660	Matlab
+PMC4584013	T1	Application_Mention	305	323	Genechip Operating
+PMC4584013	T2	Application_Mention	831	857	Ingenuity Pathway Analysis
+PMC3650246	T1	Application_Mention	271	281	ImageScope
+PMC3650246	T3	Application_Mention	330	345	Adobe Photoshop
+PMC3049292	T1	Application_Mention	425	429	SPSS
+PMC3604266	T1	Application_Mention	161	214	Digital Imaging and Communication in Medicine (DICOM)
+PMC3604266	T2	Application_Mention	534	543	3D-DOCTOR
+PMC3604266	T4	Application_Mention	715	724	3D-DOCTOR
+PMC3604266	T5	Application_Mention	2225	2229	SPSS
+PMC4960374	T1	Application_Mention	1129	1136	Image J
+PMC4960374	T3	Application_Mention	1240	1244	SPSS
+PMC4475901	T2	Application_Mention	740	746	ImageJ
+PMC4475901	T3	Application_Mention	867	893	image Master 2D Platinum 7
+PMC4475901	T5	Application_Mention	1901	1907	MASCOT
+PMC4475901	T7	Application_Mention	1978	1984	MASCOT
+PMC4614601	T1	Application_Mention	51	55	SPSS
+PMC1802622	T1	Application_Mention	101	123	Intelligent Quantifier
+PMC1802622	T3	Application_Mention	777	783	Origin
+PMC4874631	T1	Application_Mention	178	188	MevisPULMO
+PMC4874631	T4	Application_Mention	588	592	SPSS
+PMC4017532	T1	Application_Mention	208	215	XWINNMR
+PMC4017532	T2	Application_Mention	1341	1348	XWINNMR
+PMC3902401	T1	Application_Mention	33	38	Stata
+PMC3197029	T1	Application_Mention	815	820	Scion
+PMC3197029	T2	Application_Mention	824	835	NIH imaging
+PMC3197029	T3	Application_Mention	1590	1595	Scion
+PMC3197029	T4	Application_Mention	1599	1610	NIH imaging
+PMC3522449	T1	Application_Mention	687	695	SNPAlyse
+PMC3522449	T2	Application_Mention	794	802	SNPAlyse
+PMC3522449	T3	Application_Mention	2643	2647	SPSS
+PMC4215594	T1	Application_Mention	219	237	Experiment Builder
+PMC4215594	T4	Application_Mention	799	805	Matlab
+PMC5266113	T1	Application_Mention	46	50	SPSS
+PMC3890939	T1	Application_Mention	397	403	CONUSS
+PMC3890939	T2	Application_Mention	1478	1483	FIT2D
+PMC3890939	T3	Application_Mention	1556	1560	GSAS
+PMC3988440	T1	Application_Mention	1	5	PASW
+PMC1933234	T1	Application_Mention	1521	1528	REPfind
+PMC1933234	T3	Application_Mention	1596	1603	REPuter
+PMC1933234	T4	Application_Mention	1624	1630	BLASTN
+PMC1933234	T5	Application_Mention	2047	2050	CRT
+PMC1933234	T7	Application_Mention	2084	2092	PILER-CR
+PMC1933234	T8	Application_Mention	2167	2170	CRT
+PMC1933234	T9	Application_Mention	2364	2372	PILER-CR
+PMC1933234	T10	Application_Mention	2533	2539	Vmatch
+PMC1933234	T12	Application_Mention	2580	2587	REPuter
+PMC1933234	T13	Application_Mention	2597	2603	Vmatch
+PMC3321481	T1	Application_Mention	59	76	FieldTrip toolbox
+PMC3321481	T2	Application_Mention	127	133	Matlab
+PMC3105518	T1	Application_Mention	715	723	DeepView
+PMC3105518	T3	Application_Mention	950	958	DeepView
+PMC3105518	T4	Application_Mention	1067	1072	PYMOL
+PMC3105518	T6	Application_Mention	2190	2196	pClamp
+PMC3722356	T2	Application_Mention	339	347	Premiere
+PMC3722356	T3	Application_Mention	898	902	SPM5
+PMC3722356	T5	Application_Mention	1607	1622	Anatomy ToolBox
+PMC3722356	T7	Application_Mention	1671	1684	WFU Pickatlas
+PMC3722356	T8	Application_Mention	1745	1760	Anatomy ToolBox
+PMC3722356	T9	Application_Mention	1935	1950	Anatomy ToolBox
+PMC3722356	T10	Application_Mention	2002	2017	Anatomy ToolBox
+PMC3722356	T11	Application_Mention	2828	2835	Marsbar
+PMC4513216	T1	Application_Mention	274	289	PASW Statistics
+PMC4513216	T4	Application_Mention	309	314	Excel
+PMC2971576	T1	Application_Mention	56	64	FastPval
+PMC2971576	T2	Application_Mention	114	119	linux
+PMC2971576	T4	Application_Mention	181	186	linux
+PMC2971576	T6	Application_Mention	273	281	FastPval
+PMC2971576	T7	Application_Mention	372	380	FastPval
+PMC2971576	T8	Application_Mention	856	857	R
+PMC2971576	T9	Application_Mention	1030	1038	FastPval
+PMC2971576	T10	Application_Mention	1099	1107	FastPval
+PMC2971576	T11	Application_Mention	1158	1166	FastPval
+PMC2971576	T12	Application_Mention	1207	1215	FastPval
+PMC2971576	T13	Application_Mention	1361	1369	FastPval
+PMC2971576	T14	Application_Mention	1427	1435	FastPval
+PMC2971576	T15	Application_Mention	1530	1538	FastPval
+PMC2971576	T16	Application_Mention	1813	1821	FastPval
+PMC2971576	T17	Application_Mention	1923	1931	FastPval
+PMC2971576	T18	Application_Mention	2152	2160	FastPval
+PMC2971576	T19	Application_Mention	2523	2531	FastPval
+PMC2971576	T20	Application_Mention	2637	2645	FastPval
+PMC2971576	T21	Application_Mention	2737	2745	FastPval
+PMC2971576	T22	Application_Mention	2857	2865	FastPval
+PMC5016906	T1	Application_Mention	2091	2109	Mdesk Orthopaedics
+PMC5016906	T4	Application_Mention	2431	2435	SPSS
+PMC3768955	T1	Application_Mention	275	279	SPSS
+PMC3768955	T3	Application_Mention	695	708	Design Expert
+PMC2890364	T1	Application_Mention	29	33	SPSS
+PMC4951474	T2	Application_Mention	621	627	Access
+PMC4951474	T4	Application_Mention	711	714	SAS
+PMC4951474	T5	Application_Mention	775	778	SAS
+PMC4004907	T1	Application_Mention	1079	1088	NIH Image
+PMC3430911	T1	Application_Mention	29	33	SPSS
+PMC4221315	T1	Application_Mention	263	271	GraphPad
+PMC2238715	T1	Application_Mention	365	372	XwinNMR
+PMC2238715	T4	Application_Mention	523	529	MATLAB
+PMC2238715	T5	Application_Mention	819	861	Micromass MarkerLynxt applications manager
+PMC2238715	T8	Application_Mention	1124	1134	MarkerLynx
+PMC2238715	T9	Application_Mention	1217	1227	ApexTrack2
+PMC2238715	T10	Application_Mention	1577	1584	SIMCA-P
+PMC4775480	T1	Application_Mention	1734	1738	SPSS
+PMC5293859	T1	Application_Mention	45	48	SAS
+PMC2935919	T1	Application_Mention	522	528	ArcGIS
+PMC2935919	T2	Application_Mention	1855	1862	SaTScan
+PMC2935919	T3	Application_Mention	3253	3259	ArcGIS
+PMC4878562	T1	Application_Mention	537	551	Image Pro Plus
+PMC4878562	T4	Application_Mention	919	933	Image Pro Plus
+PMC4878562	T5	Application_Mention	1787	1791	SPSS
+PMC2920066	T2	Application_Mention	1704	1722	Feature Extraction
+PMC2920066	T5	Application_Mention	3271	3289	Feature Extraction
+PMC3730412	T1	Application_Mention	2048	2055	Image J
+PMC3730412	T3	Application_Mention	3491	3503	Quantity-one
+PMC3730412	T4	Application_Mention	4274	4278	iTEM
+PMC3730412	T6	Application_Mention	4426	4440	GraphPad prism
+PMC3370925	T2	Application_Mention	590	600	AxioVision
+PMC5476471	T1	Application_Mention	298	301	WOS
+PMC5476471	T2	Application_Mention	379	384	Prism
+PMC3655304	T1	Application_Mention	701	705	SAGE
+PMC3655304	T3	Application_Mention	1642	1685	Statistical Package for the Social Sciences
+PMC4251217	T1	Application_Mention	27	28	R
+PMC4251217	T4	Application_Mention	75	80	Excel
+PMC5020575	T1	Application_Mention	223	227	SPSS
+PMC4283627	T1	Application_Mention	1215	1224	STRUCTURE
+PMC4283627	T2	Application_Mention	1731	1740	STRUCTURE
+PMC4283627	T3	Application_Mention	1921	1930	STRUCTURE
+PMC4234332	T1	Application_Mention	120	128	Statview
+PMC4540966	T1	Application_Mention	829	869	Multiple Em for Motif Elicitation (MEME)
+PMC4540966	T2	Application_Mention	4035	4076	Basic Local Alignment Search Tool (BLAST)
+PMC4540966	T3	Application_Mention	4537	4542	BLAST
+PMC4540966	T4	Application_Mention	4634	4644	SeqMan Pro
+PMC4540966	T7	Application_Mention	6139	6145	mVISTA
+PMC4540966	T8	Application_Mention	6333	6341	ClustalX
+PMC4540966	T10	Application_Mention	6441	6445	MEME
+PMC4540966	T14	Application_Mention	6571	6578	WebLogo
+PMC4540966	T16	Application_Mention	6821	6843	customized Perl script
+PMC4540966	T17	Application_Mention	7208	7217	SigmaStat
+PMC5381479	T1	Application_Mention	926	932	Cosmos
+PMC5381479	T3	Application_Mention	1659	1665	Cosmos
+PMC5225149	T1	Application_Mention	297	309	RT2 Profiler
+PMC5225149	T4	Application_Mention	975	989	GraphPad Prism
+PMC4093267	T1	Application_Mention	445	448	SAS
+PMC5360361	T1	Application_Mention	562	568	ImageJ
+PMC5360361	T3	Application_Mention	2201	2213	Quantity One
+PMC4431423	T1	Application_Mention	205	209	SPSS
+PMC3198080	T1	Application_Mention	263	269	ImageJ
+PMC3198080	T2	Application_Mention	2106	2111	Lucia
+PMC3198080	T4	Application_Mention	2920	2925	Prism
+PMC3510025	T2	Application_Mention	56	81	7300 Real-Time PCR System
+PMC3510025	T3	Application_Mention	1155	1162	Openlab
+PMC3510025	T5	Application_Mention	1238	1244	ImageJ
+PMC3365791	T1	Application_Mention	2560	2571	HealthSpace
+PMC2815316	T1	Application_Mention	78	85	Windows
+PMC2815316	T3	Application_Mention	223	230	ActiveX
+PMC2815316	T4	Application_Mention	271	278	ActiveX
+PMC2815316	T5	Application_Mention	1405	1414	NutriEval
+PMC2815316	T6	Application_Mention	1439	1448	NutriEval
+PMC4164721	T1	Application_Mention	781	785	SPSS
+PMC2453617	T1	Application_Mention	1463	1469	ImageJ
+PMC2453617	T3	Application_Mention	3198	3207	CellQuest
+PMC4707405	T1	Application_Mention	57	96	Statistical Package for Social Sciences
+PMC4812504	T1	Application_Mention	657	664	Image J
+PMC4812504	T4	Application_Mention	1049	1050	R
+PMC4812504	T7	Application_Mention	1595	1612	R lawstat package
+PMC4069613	T1	Application_Mention	254	262	DAVID GO
+PMC4069613	T2	Application_Mention	1526	1534	samtools
+PMC4069613	T4	Application_Mention	2075	2083	DAVID GO
+PMC4069613	T6	Application_Mention	2541	2546	DAVID
+PMC2853139	T1	Application_Mention	496	508	Image Reader
+PMC2853139	T2	Application_Mention	513	526	Image Process
+PMC2853139	T3	Application_Mention	882	892	AxioVision
+PMC2853139	T6	Application_Mention	950	960	BlobFinder
+PMC2853139	T8	Application_Mention	1043	1058	Adobe Photoshop
+PMC4431426	T1	Application_Mention	108	112	SPSS
+PMC4542943	T1	Application_Mention	223	239	MiSeq controller
+PMC4542943	T2	Application_Mention	473	484	Trimmomatic
+PMC5012598	T1	Application_Mention	5	9	SPSS
+PMC4846046	T1	Application_Mention	30	73	Statistical Package for the Social Sciences
+PMC4492754	T1	Application_Mention	478	484	Mascot
+PMC4027884	T1	Application_Mention	622	628	ImageJ
+PMC4027884	T6	Application_Mention	2677	2682	Excel
+PMC4027884	T8	Application_Mention	2694	2699	JSTAT
+PMC4027884	T12	Application_Mention	2820	2825	Excel
+PMC4027884	T14	Application_Mention	3349	3352	JMP
+PMC3018578	T1	Application_Mention	63	75	Primer-BLAST
+PMC3018578	T3	Application_Mention	1161	1174	ImageQuant300
+PMC3018578	T5	Application_Mention	2573	2586	Clone Manager
+PMC3018578	T8	Application_Mention	3540	3553	Clone Manager
+PMC3505860	T1	Application_Mention	717	722	DAVID
+PMC4799566	T1	Application_Mention	1	5	SPSS
+PMC5019152	T1	Application_Mention	573	576	SAS
+PMC3158666	T1	Application_Mention	370	376	Formic
+PMC3158666	T2	Application_Mention	1125	1130	Stata
+PMC4687766	T1	Application_Mention	67	75	ATLAS.ti
+PMC2895706	T1	Application_Mention	256	259	SAS
+PMC2895706	T4	Application_Mention	309	315	SUDAAN
+PMC4495456	T1	Application_Mention	98	104	Vitrea
+PMC4495456	T4	Application_Mention	649	653	SPSS
+PMC4819553	T1	Application_Mention	54	55	R
+PMC4819553	T3	Application_Mention	76	83	RStudio
+PMC4819553	T5	Application_Mention	306	310	SPSS
+PMC4357677	T1	Application_Mention	34	38	SPSS
+PMC4357677	T4	Application_Mention	100	106	Instat
+PMC5338970	T1	Application_Mention	244	271	Comprehensive Meta-analysis
+PMC4793029	T1	Application_Mention	1267	1271	SPSS
+PMC4875560	T1	Application_Mention	119	120	R
+PMC4875560	T3	Application_Mention	617	620	rms
+PMC4875560	T4	Application_Mention	625	630	Hmisc
+PMC4934460	T1	Application_Mention	783	788	STATA
+PMC4309330	T1	Application_Mention	850	854	SPSS
+PMC3091210	T1	Application_Mention	1171	1177	WinWCP
+PMC3091210	T4	Application_Mention	2599	2607	DigiData
+PMC3091210	T7	Application_Mention	2654	2660	WinEDR
+PMC3129971	T1	Application_Mention	808	818	Sequencher
+PMC3030791	T1	Application_Mention	306	311	excel
+PMC5128353	T1	Application_Mention	888	896	STATA SE
+PMC4592051	T1	Application_Mention	635	640	STATA
+PMC3575981	T1	Application_Mention	266	271	STATA
+PMC3984197	T1	Application_Mention	76	83	Image J
+PMC3984197	T4	Application_Mention	1660	1673	Kontron KS300
+PMC5054108	T1	Application_Mention	71	76	big-π
+PMC5054108	T3	Application_Mention	180	184	DGPI
+PMC5054108	T6	Application_Mention	293	300	GPI-SOM
+PMC5054108	T8	Application_Mention	1061	1066	big-π
+PMC5054108	T9	Application_Mention	1519	1524	big-π
+PMC5054108	T10	Application_Mention	1526	1530	DGPI
+PMC5054108	T11	Application_Mention	1536	1543	GPI-SOM
+PMC5054108	T12	Application_Mention	1865	1875	FragAnchor
+PMC5054108	T13	Application_Mention	2439	2449	FragAnchor
+PMC5054108	T14	Application_Mention	2977	2987	FragAnchor
+PMC5054108	T15	Application_Mention	3124	3129	big-π
+PMC5054108	T16	Application_Mention	3140	3148	GPI- SOM
+PMC5054108	T17	Application_Mention	3184	3194	FragAnchor
+PMC5054108	T18	Application_Mention	3200	3204	DGPI
+PMC5054108	T19	Application_Mention	3283	3288	big-π
+PMC5054108	T20	Application_Mention	3293	3300	GPI-SOM
+PMC5054108	T21	Application_Mention	3320	3327	SignalP
+PMC5054108	T22	Application_Mention	3408	3418	FragAnchor
+PMC5054108	T23	Application_Mention	3433	3440	SignalP
+PMC5054108	T24	Application_Mention	3493	3500	SignalP
+PMC5054108	T25	Application_Mention	3530	3540	FragAnchor
+PMC5054108	T26	Application_Mention	3556	3561	big-π
+PMC5054108	T27	Application_Mention	3563	3573	FragAnchor
+PMC5054108	T28	Application_Mention	3769	3779	FragAnchor
+PMC5054108	T29	Application_Mention	3845	3850	big-π
+PMC5054108	T30	Application_Mention	4076	4086	FragAnchor
+PMC5054108	T31	Application_Mention	4229	4239	FragAnchor
+PMC5054108	T32	Application_Mention	4284	4289	big-π
+PMC5054108	T33	Application_Mention	4344	4354	FragAnchor
+PMC5054108	T34	Application_Mention	4519	4529	FragAnchor
+PMC5054108	T35	Application_Mention	4612	4617	big-π
+PMC5054108	T36	Application_Mention	4673	4678	big-π
+PMC5054108	T37	Application_Mention	4827	4837	FragAnchor
+PMC5054108	T38	Application_Mention	4860	4868	GPI- SOM
+PMC5054108	T39	Application_Mention	4873	4878	big-π
+PMC5054108	T40	Application_Mention	5096	5106	FragAnchor
+PMC5054108	T41	Application_Mention	5318	5325	GPI-SOM
+PMC5054108	T42	Application_Mention	5327	5337	FragAnchor
+PMC5054108	T43	Application_Mention	5356	5363	GPI-SOM
+PMC5054108	T44	Application_Mention	5506	5516	FragAnchor
+PMC5054108	T45	Application_Mention	5694	5704	FragAnchor
+PMC5054108	T46	Application_Mention	5719	5726	SignalP
+PMC5054108	T47	Application_Mention	5739	5749	FragAnchor
+PMC5054108	T48	Application_Mention	5776	5783	GPI-SOM
+PMC5054108	T49	Application_Mention	6193	6200	GPI-SOM
+PMC5054108	T50	Application_Mention	6279	6289	FragAnchor
+PMC5054108	T51	Application_Mention	6483	6490	SignalP
+PMC5054108	T52	Application_Mention	6767	6777	FragAnchor
+PMC5054108	T53	Application_Mention	6974	6984	FragAnchor
+PMC5054108	T54	Application_Mention	7382	7392	FragAnchor
+PMC5054108	T55	Application_Mention	7398	7403	big-π
+PMC5054108	T56	Application_Mention	7408	7416	GPI- SOM
+PMC5054108	T57	Application_Mention	7428	7438	FragAnchor
+PMC5054108	T58	Application_Mention	7902	7912	FragAnchor
+PMC5054108	T59	Application_Mention	8758	8765	javaNNS
+PMC5402591	T1	Application_Mention	675	679	SPSS
+PMC4505989	T2	Application_Mention	63	68	STATA
+PMC3448160	T1	Application_Mention	459	462	SAS
+PMC3123123	T1	Application_Mention	15	25	Affymetrix
+PMC3123123	T2	Application_Mention	59	73	Affymetrix TAS
+PMC3123123	T4	Application_Mention	133	147	Affymetrix IGB
+PMC3123123	T5	Application_Mention	350	351	R
+PMC3569919	T1	Application_Mention	871	878	LabVIEW
+PMC3619072	T1	Application_Mention	1120	1134	EasyQ Director
+PMC3619072	T2	Application_Mention	1212	1215	JMP
+PMC4230620	T1	Application_Mention	449	453	Fiji
+PMC4230620	T2	Application_Mention	464	476	Gel Analyzer
+PMC4230620	T3	Application_Mention	1197	1217	Fluctuation Analyzer
+PMC4230620	T5	Application_Mention	1526	1541	AutofocusScreen
+PMC4230620	T6	Application_Mention	1838	1844	FlowJo
+PMC4230620	T9	Application_Mention	2433	2446	CellCognition
+PMC4230620	T10	Application_Mention	2926	2930	Fiji
+PMC5113931	T1	Application_Mention	44	58	Review Manager
+PMC4758284	T1	Application_Mention	742	746	SPSS
+PMC4950899	T1	Application_Mention	103	107	SPSS
+PMC3349042	T1	Application_Mention	821	829	SigmaGel
+PMC3349042	T3	Application_Mention	1794	1802	SigmaGel
+PMC3349042	T4	Application_Mention	1960	1964	SPSS
+PMC3349042	T7	Application_Mention	2512	2520	SigmaGel
+PMC3494016	T1	Application_Mention	401	405	GSEA
+PMC3494016	T2	Application_Mention	1255	1266	QuantityOne
+PMC3494016	T4	Application_Mention	2349	2352	SAM
+PMC3494016	T5	Application_Mention	2400	2428	Multiexperiment Viewer (MeV)
+PMC3494016	T6	Application_Mention	3066	3102	DAVID Functional Annotation web tool
+PMC3494016	T7	Application_Mention	3231	3266	Gene Set Enrichment Analysis (GSEA)
+PMC3494016	T8	Application_Mention	3285	3320	Gene Set Enrichment Analysis (GSEA)
+PMC4930280	T1	Application_Mention	125	129	SPSS
+PMC3481138	T1	Application_Mention	631	641	TargetScan
+PMC3481138	T3	Application_Mention	667	673	Pictar
+PMC3481138	T5	Application_Mention	4083	4089	Summit
+PMC3001088	T1	Application_Mention	389	399	ImageQuant
+PMC3001088	T4	Application_Mention	837	842	Prism
+PMC5373906	T1	Application_Mention	1891	1910	ProgRes Capture Pro
+PMC5373906	T3	Application_Mention	2438	2444	Origin
+PMC5138571	T1	Application_Mention	62	66	SPSS
+PMC5215597	T1	Application_Mention	247	253	MATLAB
+PMC5215597	T5	Application_Mention	306	311	Excel
+PMC5181807	T1	Application_Mention	1232	1235	SAS
+PMC5466216	T1	Application_Mention	811	815	SPSS
+PMC5216448	T1	Application_Mention	89	101	LSM software
+PMC5216448	T2	Application_Mention	145	151	ImageJ
+PMC5216448	T5	Application_Mention	309	318	Photoshop
+PMC3691378	T1	Application_Mention	356	362	OsiriX
+PMC4832946	T1	Application_Mention	1028	1032	SPSS
+PMC4832946	T3	Application_Mention	1085	1086	R
+PMC4713128	T1	Application_Mention	1111	1120	Photoshop
+PMC4713128	T4	Application_Mention	1480	1486	MATLAB
+PMC4713128	T6	Application_Mention	1521	1528	PRTools
+PMC4713128	T7	Application_Mention	1533	1541	DIPImage
+PMC4377530	T1	Application_Mention	91	95	SPSS
+PMC2804221	T1	Application_Mention	692	697	Prism
+PMC2804221	T4	Application_Mention	1779	1784	Prism
+PMC3769723	T2	Application_Mention	86	91	Excel
+PMC3769723	T4	Application_Mention	945	953	BioEstat
+PMC5041470	T2	Application_Mention	615	621	Imaris
+PMC5041470	T3	Application_Mention	885	893	IMACULAT
+PMC5041470	T4	Application_Mention	1780	1786	ImageJ
+PMC5041470	T5	Application_Mention	3844	3850	Imaris
+PMC5041470	T6	Application_Mention	4491	4497	Imaris
+PMC3507266	T1	Application_Mention	580	583	COP
+PMC5210341	T1	Application_Mention	34	39	Stata
+PMC4478705	T1	Application_Mention	248	252	JCVI
+PMC4478705	T2	Application_Mention	458	462	JCVI
+PMC4478705	T4	Application_Mention	2669	2670	R
+PMC4478705	T7	Application_Mention	2722	2731	seriation
+PMC4654549	T1	Application_Mention	310	322	Open Control
+PMC5084721	T1	Application_Mention	38	43	Stata
+PMC3608489	T1	Application_Mention	1940	1951	Volocity 4D
+PMC3608489	T3	Application_Mention	2089	2098	Photoshop
+PMC3608489	T6	Application_Mention	2168	2185	Adobe Illustrator
+PMC3608489	T8	Application_Mention	2239	2247	Volocity
+PMC3608489	T9	Application_Mention	2435	2443	Volocity
+PMC3608489	T10	Application_Mention	4184	4199	Adobe Lightroom
+PMC3608489	T11	Application_Mention	4507	4524	Adobe Illustrator
+PMC4010924	T1	Application_Mention	7	14	TALE-NT
+PMC4010924	T3	Application_Mention	1933	1940	TALE-NT
+PMC4010924	T5	Application_Mention	3045	3052	TALE-NT
+PMC4010924	T7	Application_Mention	3105	3112	TALE-NT
+PMC1874646	T1	Application_Mention	131	141	ImageQuant
+PMC1874646	T2	Application_Mention	934	959	Proteinlynx Global Server
+PMC1874646	T5	Application_Mention	991	997	MASCOT
+PMC1874646	T7	Application_Mention	2895	2905	ImageQuant
+PMC3388559	T1	Application_Mention	1359	1362	JMP
+PMC3674238	T1	Application_Mention	1272	1281	Metamorph
+PMC3674238	T3	Application_Mention	1378	1383	Prism
+PMC3692048	T1	Application_Mention	5	17	DIANA-microT
+PMC3692048	T3	Application_Mention	650	662	DIANA-microT
+PMC3692048	T5	Application_Mention	774	790	DIANA-microT-CDS
+PMC3692048	T6	Application_Mention	1149	1156	Ensembl
+PMC3692048	T8	Application_Mention	1246	1251	DIANA
+PMC3692048	T9	Application_Mention	1335	1340	DIANA
+PMC3692048	T10	Application_Mention	1499	1511	DIANA-microT
+PMC3692048	T11	Application_Mention	1682	1687	DIANA
+PMC3692048	T12	Application_Mention	1735	1769	Taverna Workflow Management System
+PMC3692048	T13	Application_Mention	1811	1832	DIANA-Taverna Plug-in
+PMC3692048	T14	Application_Mention	2077	2089	DIANA-microT
+PMC3692048	T15	Application_Mention	2133	2140	Ensembl
+PMC3692048	T17	Application_Mention	3291	3296	DIANA
+PMC3692048	T18	Application_Mention	3501	3513	DIANA-microT
+PMC3692048	T19	Application_Mention	3674	3686	DIANA-microT
+PMC3692048	T21	Application_Mention	4054	4066	DIANA-microT
+PMC3692048	T22	Application_Mention	4856	4869	DIANA-miRPath
+PMC3692048	T24	Application_Mention	4889	4901	DIANA-microT
+PMC3692048	T25	Application_Mention	5077	5088	Taverna WMS
+PMC3692048	T26	Application_Mention	5091	5103	DIANA-microT
+PMC3692048	T28	Application_Mention	5268	5280	DIANA-microT
+PMC3692048	T29	Application_Mention	5453	5466	DIANA- microT
+PMC3692048	T31	Application_Mention	5524	5535	Taverna WMS
+PMC3692048	T32	Application_Mention	5566	5587	DIANA-Taverna Plug-in
+PMC3692048	T33	Application_Mention	5589	5610	DIANA-Taverna Plug-in
+PMC3692048	T34	Application_Mention	5719	5726	Taverna
+PMC3692048	T35	Application_Mention	5896	5901	DIANA
+PMC3692048	T36	Application_Mention	6028	6041	DIANA-miRPath
+PMC3692048	T38	Application_Mention	6618	6630	DIANA-microT
+PMC3692048	T39	Application_Mention	6965	6972	Ensembl
+PMC3692048	T41	Application_Mention	7002	7017	Taverna Plug-in
+PMC3692048	T42	Application_Mention	7388	7404	DIANA-microT-CDS
+PMC3692048	T43	Application_Mention	7938	7951	DIANA-miRPath
+PMC5459276	T1	Application_Mention	24	28	SPSS
+PMC3797259	T1	Application_Mention	42	46	SPSS
+PMC5029575	T1	Application_Mention	529	556	Statistical Analysis System
+PMC5029575	T4	Application_Mention	594	601	SAS JMP
+PMC4201231	T1	Application_Mention	898	905	Optimas
+PMC5355527	T1	Application_Mention	399	406	Medcalc
+PMC5355527	T3	Application_Mention	748	752	SPSS
+PMC3044586	T1	Application_Mention	41	91	Statistical Package for the Social Sciences (SPSS)
+PMC4027805	T1	Application_Mention	1400	1407	YouTube
+PMC4947609	T1	Application_Mention	48	87	Statistical Package for Social Sciences
+PMC3318936	T1	Application_Mention	658	666	AnalySIS
+PMC3318936	T4	Application_Mention	900	904	SPSS
+PMC3514035	T1	Application_Mention	3010	3019	simplePCI
+PMC3514035	T3	Application_Mention	3340	3343	ZEN
+PMC3514035	T6	Application_Mention	3365	3368	LCS
+PMC3514035	T8	Application_Mention	3432	3441	Photoshop
+PMC3514035	T10	Application_Mention	3692	3695	LCS
+PMC3514035	T11	Application_Mention	3901	3904	LCS
+PMC3514035	T12	Application_Mention	5225	5231	ImageJ
+PMC3514035	T14	Application_Mention	5875	5884	SimplePCI
+PMC4292688	T1	Application_Mention	33	155	EVOC (Ensemble de Programmes Permettant L´Analyse des Évocations) (Group of Programs for the Analysis of Evoked Responses)
+PMC5321344	T1	Application_Mention	95	103	Stata SE
+PMC4986689	T1	Application_Mention	349	350	R
+PMC4986689	T4	Application_Mention	434	441	WinBUGS
+PMC3817086	T1	Application_Mention	917	928	Axionvision
+PMC3817086	T3	Application_Mention	1841	1845	SPSS
+PMC5440634	T1	Application_Mention	296	301	Excel
+PMC4819867	T1	Application_Mention	48	54	Matlab
+PMC4819867	T4	Application_Mention	1461	1466	Stata
+PMC2661600	T1	Application_Mention	2720	2734	Graphpad Prism
+PMC4181735	T1	Application_Mention	1389	1403	GraphPad Prism
+PMC4588797	T1	Application_Mention	64	110	SPSS (Statistical Package for Social Sciences)
+PMC2768165	T1	Application_Mention	2087	2092	Prism
+PMC4408226	T1	Application_Mention	510	531	ChemAxon Standardizer
+PMC4408226	T5	Application_Mention	1176	1192	ISIDA Duplicates
+PMC4408226	T6	Application_Mention	1219	1227	HiT QSAR
+PMC4408226	T7	Application_Mention	2464	2477	ISIDA/Cluster
+PMC4408226	T9	Application_Mention	3246	3259	ISIDA/Cluster
+PMC4408226	T10	Application_Mention	3330	3336	Dragon
+PMC4408226	T13	Application_Mention	4224	4232	HiT QSAR
+PMC4408226	T14	Application_Mention	5402	5410	HiT QSAR
+PMC4408226	T15	Application_Mention	5607	5609	CF
+PMC4408226	T17	Application_Mention	7060	7067	DERMWIN
+PMC4408226	T18	Application_Mention	7163	7170	DERMWIN
+PMC4408226	T20	Application_Mention	7451	7458	DERMWIN
+PMC4408226	T21	Application_Mention	7809	7816	DERMWIN
+PMC4408226	T22	Application_Mention	7863	7870	DERMWIN
+PMC4408226	T23	Application_Mention	8408	8415	DERMWIN
+PMC4408226	T24	Application_Mention	8474	8481	DERMWIN
+PMC4408226	T25	Application_Mention	8650	8657	DERMWIN
+PMC3419515	T1	Application_Mention	107	110	MAQ
+PMC3419515	T2	Application_Mention	344	347	MAQ
+PMC3419515	T3	Application_Mention	368	386	custom Perl script
+PMC3419515	T4	Application_Mention	1686	1692	MUSCLE
+PMC3419515	T6	Application_Mention	2529	2535	MUSCLE
+PMC3419515	T8	Application_Mention	2976	2983	tBLASTn
+PMC3419515	T10	Application_Mention	3031	3050	custom Perl scripts
+PMC3419515	T11	Application_Mention	3061	3076	BioPerl modules
+PMC4468621	T1	Application_Mention	176	180	SPSS
+PMC4646224	T1	Application_Mention	27	35	MS-Excel
+PMC4646224	T2	Application_Mention	68	73	stata
+PMC5383462	T1	Application_Mention	162	166	SPSS
+PMC5023377	T1	Application_Mention	810	824	Image-Pro Plus
+PMC5023377	T2	Application_Mention	2464	2470	FlowJo
+PMC5023377	T4	Application_Mention	2569	2583	GraphPad Prism
+PMC4597507	T1	Application_Mention	1710	1714	SPPS
+PMC3909089	T1	Application_Mention	1295	1316	Fujifilm Image Reader
+PMC3909089	T2	Application_Mention	1377	1388	Image Gauge
+PMC4331978	T1	Application_Mention	81	84	SAS
+PMC5078595	T1	Application_Mention	687	693	MATLAB
+PMC4551074	T1	Application_Mention	42	54	Gene- Spring
+PMC4551074	T4	Application_Mention	1004	1013	Cytoscape
+PMC3031013	T1	Application_Mention	410	414	PASW
+PMC4628493	T1	Application_Mention	58	68	Rhinoceros
+PMC4628493	T4	Application_Mention	954	964	Rhinoceros
+PMC3405507	T1	Application_Mention	782	792	FAC- SDiva
+PMC3405507	T4	Application_Mention	812	818	FlowJo
+PMC3405507	T7	Application_Mention	1859	1864	Prism
+PMC5011596	T1	Application_Mention	732	736	SPSS
+PMC4634381	T1	Application_Mention	280	291	LAS AF lite
+PMC4634381	T3	Application_Mention	1484	1490	ImageJ
+PMC4634381	T4	Application_Mention	2481	2485	iTEM
+PMC4634381	T6	Application_Mention	2560	2564	iTEM
+PMC4752095	T1	Application_Mention	61	100	Statistical Package for Social Sciences
+PMC5226643	T1	Application_Mention	1769	1775	pMELTS
+PMC5226643	T2	Application_Mention	2814	2824	U-Pb_Redux
+PMC4027853	T1	Application_Mention	52	75	Review Manager (RevMan)
+PMC4027853	T4	Application_Mention	134	139	Stata
+PMC3328383	T1	Application_Mention	260	265	IPLab
+PMC3328383	T3	Application_Mention	308	317	Photoshop
+PMC3328383	T5	Application_Mention	380	391	Illustrator
+PMC3639448	T1	Application_Mention	26	39	PERL pipeline
+PMC4651396	T1	Application_Mention	892	906	AW workstation
+PMC4651396	T4	Application_Mention	1714	1718	SPSS
+PMC4898854	T1	Application_Mention	226	234	Atlas.ti
+PMC4853038	T1	Application_Mention	914	922	Scaffold
+PMC4853038	T3	Application_Mention	1056	1107	Argot2 (Annotation Retrieval of Gene Ontology Terms
+PMC4853038	T5	Application_Mention	1252	1289	DAVID (DAVID Bioinformatics Resources
+PMC4853038	T8	Application_Mention	1525	1534	Cytoscape
+PMC4521673	T1	Application_Mention	648	656	ATLAS.ti
+PMC3309253	T1	Application_Mention	27	31	SPSS
+PMC3033187	T1	Application_Mention	701	711	CpG viewer
+PMC4615111	T1	Application_Mention	42	48	ImageJ
+PMC4443294	T1	Application_Mention	560	567	Image J
+PMC4443294	T3	Application_Mention	1784	1791	Image J
+PMC4443294	T5	Application_Mention	2231	2238	Image J
+PMC4443294	T7	Application_Mention	2358	2372	GraphPad Prism
+PMC4443294	T9	Application_Mention	3642	3645	SAS
+PMC3031000	T1	Application_Mention	171	175	SPSS
+PMC3467590	T1	Application_Mention	594	597	SAS
+PMC3467590	T2	Application_Mention	1310	1313	SAS
+PMC4589266	T1	Application_Mention	118	122	TBSS
+PMC4589266	T2	Application_Mention	139	142	FSL
+PMC4589266	T5	Application_Mention	384	387	FSL
+PMC4589266	T6	Application_Mention	388	400	eddy_correct
+PMC4589266	T7	Application_Mention	402	405	bet
+PMC4589266	T8	Application_Mention	411	417	dtifit
+PMC4589266	T9	Application_Mention	452	456	TBSS
+PMC4589266	T12	Application_Mention	826	829	FSL
+PMC4589266	T13	Application_Mention	1335	1339	TBSS
+PMC4589266	T14	Application_Mention	1487	1490	FSL
+PMC4589266	T17	Application_Mention	1526	1530	AFNI
+PMC4589266	T20	Application_Mention	1800	1803	FSL
+PMC4589266	T21	Application_Mention	1804	1816	eddy_correct
+PMC4589266	T22	Application_Mention	1818	1821	bet
+PMC4589266	T23	Application_Mention	1827	1833	dtifit
+PMC4589266	T24	Application_Mention	1883	1886	FSL
+PMC4589266	T25	Application_Mention	1892	1897	fnirt
+PMC4589266	T26	Application_Mention	2893	2908	AFNI 3dROIstats
+PMC3865143	T1	Application_Mention	246	289	Statistical Package for the Social Sciences
+PMC5436526	T1	Application_Mention	314	319	STATA
+PMC5436526	T3	Application_Mention	461	465	SPSS
+PMC3329738	T1	Application_Mention	60	63	PDB
+PMC3329738	T2	Application_Mention	124	134	GNU-Octave
+PMC3329738	T3	Application_Mention	156	162	MATLAB
+PMC3329738	T4	Application_Mention	1335	1341	BPFind
+PMC3329738	T5	Application_Mention	1376	1382	BPFind
+PMC3329738	T6	Application_Mention	2083	2089	EMBOSS
+PMC3329738	T7	Application_Mention	3702	3708	BPFind
+PMC2808580	T1	Application_Mention	416	420	SPSS
+PMC4683424	T1	Application_Mention	142	172	FFMRIB Diffusion Toolbox (FDT)
+PMC4683424	T2	Application_Mention	185	235	Functional MRI of the Brain Software Library (FSL)
+PMC4683424	T4	Application_Mention	2443	2451	JMP® Pro
+PMC4025442	T1	Application_Mention	78	89	ChoiceMaker
+PMC4025442	T2	Application_Mention	2029	2032	SAS
+PMC4025442	T4	Application_Mention	2046	2051	Stata
+PMC4025442	T6	Application_Mention	2067	2068	R
+PMC3724279	T1	Application_Mention	1645	1648	SAS
+PMC5414856	T1	Application_Mention	1181	1189	PROarray
+PMC5414856	T3	Application_Mention	1480	1489	Provantis
+PMC5066857	T2	Application_Mention	71	77	ACCESS
+PMC4093824	T1	Application_Mention	1	6	GEMMA
+PMC4093824	T2	Application_Mention	564	581	R package GenABEL
+PMC4093824	T3	Application_Mention	891	896	GEMMA
+PMC3281721	T1	Application_Mention	476	485	MetaMorph
+PMC3281721	T3	Application_Mention	856	925	Conformational Analyzer with Molecular Dynamics and Sampling (CAMDAS)
+PMC3281721	T5	Application_Mention	2251	2260	SUPERPOSE
+PMC3281721	T6	Application_Mention	2508	2514	CAMDAS
+PMC3281721	T7	Application_Mention	3320	3325	SYBYL
+PMC3281721	T10	Application_Mention	3673	3678	SYBYL
+PMC3281721	T11	Application_Mention	3853	3858	AMBER
+PMC3281721	T13	Application_Mention	4214	4219	SYBYL
+PMC3281721	T14	Application_Mention	4331	4336	AMBER
+PMC3281721	T16	Application_Mention	6406	6415	MetaMorph
+PMC3281721	T18	Application_Mention	6713	6722	SUPERPOSE
+PMC5372024	T1	Application_Mention	888	907	EpiData EntryClient
+PMC5080194	T2	Application_Mention	3050	3065	SPSS Statistics
+PMC5080194	T5	Application_Mention	4844	4859	SPSS Statistics
+PMC4504747	T1	Application_Mention	99	104	PLINK
+PMC4504747	T3	Application_Mention	157	162	PLINK
+PMC5473125	T1	Application_Mention	42	46	SPSS
+PMC3734831	T1	Application_Mention	1213	1246	Ingenuity Pathways Analysis (IPA)
+PMC3734831	T2	Application_Mention	1582	1653	Database for Annotation, Visualization and Integrated Discovery (DAVID)
+PMC3734831	T3	Application_Mention	2196	2199	IPA
+PMC3734831	T4	Application_Mention	5829	5832	SDS
+PMC3734831	T8	Application_Mention	7125	7130	limma
+PMC3734831	T9	Application_Mention	9850	9853	IPA
+PMC3734831	T12	Application_Mention	10173	10176	IPA
+PMC3734831	T13	Application_Mention	10676	10699	Connectivity Map (Cmap)
+PMC3734831	T16	Application_Mention	10737	10741	Cmap
+PMC3734831	T17	Application_Mention	10895	10899	Cmap
+PMC3734831	T18	Application_Mention	11064	11087	NetAffx analysis center
+PMC1636350	T1	Application_Mention	119	127	ClustalW
+PMC1636350	T2	Application_Mention	1039	1047	T-COFFEE
+PMC1636350	T3	Application_Mention	2671	2679	ProbCons
+PMC1636350	T4	Application_Mention	3203	3211	DaliLite
+PMC1636350	T5	Application_Mention	4402	4410	DaliLite
+PMC1636350	T6	Application_Mention	7490	7494	DSSP
+PMC1636350	T7	Application_Mention	7963	7970	NACCESS
+PMC1636350	T8	Application_Mention	8443	8451	DaliLite
+PMC1636350	T9	Application_Mention	9211	9219	DaliLite
+PMC1636350	T10	Application_Mention	9368	9376	ProbCons
+PMC1636350	T11	Application_Mention	9839	9846	MUMMALS
+PMC1636350	T12	Application_Mention	10012	10020	ProbCons
+PMC1636350	T13	Application_Mention	10635	10642	MUMMALS
+PMC1636350	T14	Application_Mention	10890	10894	PCMA
+PMC1636350	T15	Application_Mention	12475	12482	MUMMALS
+PMC1636350	T16	Application_Mention	13128	13133	MAFFT
+PMC1636350	T17	Application_Mention	13375	13385	BLASTCLUST
+PMC1636350	T18	Application_Mention	13939	13947	ProbCons
+PMC1636350	T20	Application_Mention	13968	13973	MAFFT
+PMC1636350	T22	Application_Mention	14017	14023	MUSCLE
+PMC1636350	T24	Application_Mention	14048	14056	ClustalW
+PMC1636350	T26	Application_Mention	14081	14088	MUMMALS
+PMC1636350	T28	Application_Mention	14184	14191	MUMMALS
+PMC1636350	T29	Application_Mention	15370	15378	ProbCons
+PMC1636350	T30	Application_Mention	15385	15390	MAFFT
+PMC1636350	T31	Application_Mention	15417	15423	MUSCLE
+PMC1636350	T32	Application_Mention	15433	15441	ClustalW
+PMC1636350	T33	Application_Mention	15556	15564	ProbCons
+PMC1636350	T34	Application_Mention	15594	15602	ProbCons
+PMC1636350	T35	Application_Mention	15694	15702	ProbCons
+PMC1636350	T36	Application_Mention	16090	16098	ProbCons
+PMC1636350	T37	Application_Mention	16272	16280	ProbCons
+PMC1636350	T38	Application_Mention	16345	16353	ProbCons
+PMC1636350	T39	Application_Mention	16517	16524	MUMMALS
+PMC1636350	T40	Application_Mention	16611	16618	MUMMALS
+PMC1636350	T41	Application_Mention	16667	16675	ProbCons
+PMC1636350	T42	Application_Mention	16682	16687	MAFFT
+PMC1636350	T43	Application_Mention	16694	16700	MUSCLE
+PMC1636350	T44	Application_Mention	16709	16717	ClustalW
+PMC1636350	T45	Application_Mention	16925	16932	MUMMALS
+PMC1636350	T46	Application_Mention	16977	16985	ProbCons
+PMC1636350	T47	Application_Mention	17239	17247	ProbCons
+PMC1636350	T48	Application_Mention	17268	17273	MAFFT
+PMC1636350	T49	Application_Mention	17275	17281	MUSCLE
+PMC1636350	T50	Application_Mention	17286	17294	ClustalW
+PMC1636350	T51	Application_Mention	17297	17302	MAFFT
+PMC1636350	T52	Application_Mention	17395	17400	MAFFT
+PMC1636350	T53	Application_Mention	17686	17690	SOFI
+PMC1636350	T54	Application_Mention	17700	17702	CE
+PMC1636350	T55	Application_Mention	18074	18078	SOFI
+PMC1636350	T56	Application_Mention	18105	18112	MUMMALS
+PMC1636350	T57	Application_Mention	18218	18225	MUMMALS
+PMC1636350	T58	Application_Mention	18344	18352	ProbCons
+PMC1636350	T59	Application_Mention	18389	18394	MAFFT
+PMC1636350	T60	Application_Mention	18413	18420	MUMMALS
+PMC1636350	T61	Application_Mention	18531	18538	MUMMALS
+PMC1636350	T62	Application_Mention	18615	18620	MAFFT
+PMC1636350	T63	Application_Mention	18727	18734	MUMMALS
+PMC1636350	T64	Application_Mention	19207	19214	MUMMALS
+PMC1636350	T65	Application_Mention	19367	19375	ProbCons
+PMC1636350	T66	Application_Mention	19931	19938	MUMMALS
+PMC1636350	T67	Application_Mention	20044	20051	MUMMALS
+PMC1636350	T68	Application_Mention	20146	20153	MUMMALS
+PMC1636350	T69	Application_Mention	20220	20225	MAFFT
+PMC1636350	T70	Application_Mention	20238	20246	ProbCons
+PMC1636350	T71	Application_Mention	20321	20328	MUMMALS
+PMC1636350	T72	Application_Mention	20356	20367	MAFFT-linsi
+PMC1636350	T73	Application_Mention	20420	20431	MAFFT-linsi
+PMC1636350	T74	Application_Mention	20550	20557	MUMMALS
+PMC1636350	T75	Application_Mention	20590	20597	MUMMALS
+PMC1636350	T76	Application_Mention	20645	20656	MAFFT-linsi
+PMC1636350	T77	Application_Mention	20822	20829	MUMMALS
+PMC1636350	T78	Application_Mention	21081	21086	MAFFT
+PMC1636350	T79	Application_Mention	21200	21207	MUMMALS
+PMC1636350	T80	Application_Mention	21655	21662	MUMMALS
+PMC1636350	T81	Application_Mention	21831	21838	MUMMALS
+PMC1636350	T82	Application_Mention	22227	22234	MUMMALS
+PMC1636350	T83	Application_Mention	22855	22863	PSI-PRED
+PMC1636350	T84	Application_Mention	23537	23544	MUMMALS
+PMC1636350	T85	Application_Mention	23715	23722	MUMMALS
+PMC1636350	T86	Application_Mention	24692	24699	MUMMALS
+PMC1636350	T87	Application_Mention	25011	25018	MUMMALS
+PMC1636350	T88	Application_Mention	25526	25533	MUMMALS
+PMC1636350	T89	Application_Mention	25557	25562	MAFFT
+PMC1636350	T90	Application_Mention	25567	25577	Prob- Cons
+PMC1636350	T91	Application_Mention	26386	26393	MUMMALS
+PMC1636350	T92	Application_Mention	26476	26483	MUMMALS
+PMC1636350	T93	Application_Mention	26584	26591	MUMMALS
+PMC1636350	T94	Application_Mention	26650	26657	MUMMALS
+PMC1636350	T95	Application_Mention	26714	26722	ProbCons
+PMC1636350	T96	Application_Mention	26748	26756	ProbCons
+PMC1636350	T97	Application_Mention	26804	26811	MUMMALS
+PMC1636350	T98	Application_Mention	26831	26842	MAFFT-ginsi
+PMC1636350	T99	Application_Mention	27225	27233	ProbCons
+PMC1636350	T100	Application_Mention	27243	27248	MAFFT
+PMC1636350	T101	Application_Mention	27440	27448	ProbCons
+PMC1636350	T102	Application_Mention	27508	27513	MAFFT
+PMC1636350	T103	Application_Mention	27545	27550	MAFFT
+PMC1636350	T104	Application_Mention	27677	27682	MAFFT
+PMC1636350	T105	Application_Mention	27805	27813	ProbCons
+PMC1636350	T106	Application_Mention	27886	27891	MAFFT
+PMC1636350	T107	Application_Mention	27915	27922	MUMMALS
+PMC1636350	T108	Application_Mention	27982	27987	MAFFT
+PMC1636350	T109	Application_Mention	28152	28159	MUMMALS
+PMC1636350	T110	Application_Mention	28191	28199	ProbCons
+PMC1636350	T111	Application_Mention	28268	28276	ProbCons
+PMC1636350	T112	Application_Mention	28478	28486	ProbCons
+PMC1636350	T113	Application_Mention	28804	28812	DaliLite
+PMC1636350	T114	Application_Mention	28905	28913	ProbCons
+PMC1636350	T115	Application_Mention	29079	29087	ProbCons
+PMC1636350	T116	Application_Mention	29236	29244	DaliLite
+PMC1636350	T117	Application_Mention	29367	29375	ProbCons
+PMC1636350	T118	Application_Mention	30385	30392	MUMMALS
+PMC1636350	T119	Application_Mention	30815	30822	MUMMALS
+PMC1636350	T120	Application_Mention	30842	30847	MAFFT
+PMC1636350	T121	Application_Mention	30849	30855	MUSCLE
+PMC1636350	T122	Application_Mention	30860	30868	ClustalW
+PMC1636350	T123	Application_Mention	30931	30938	MUMMALS
+PMC1636350	T124	Application_Mention	31047	31052	MAFFT
+PMC1636350	T126	Application_Mention	31084	31100	Enterprise Linux
+PMC1636350	T128	Application_Mention	31205	31209	PCMA
+PMC1636350	T129	Application_Mention	31237	31244	MUMMALS
+PMC1636350	T130	Application_Mention	31780	31787	MUMMALS
+PMC1636350	T131	Application_Mention	31799	31807	ProbCons
+PMC1636350	T132	Application_Mention	32295	32302	MUMMALS
+PMC1636350	T133	Application_Mention	32777	32785	DaliLite
+PMC1636350	T134	Application_Mention	33087	33095	DaliLite
+PMC1636350	T135	Application_Mention	33572	33580	DaliLite
+PMC1636350	T136	Application_Mention	33729	33737	DaliLite
+PMC1636350	T137	Application_Mention	34550	34557	MUMMALS
+PMC1636350	T138	Application_Mention	34792	34799	MUMMALS
+PMC1636350	T139	Application_Mention	34800	34805	MAFFT
+PMC1636350	T140	Application_Mention	34810	34818	ProbCons
+PMC1636350	T141	Application_Mention	35314	35322	M-COFFEE
+PMC1636350	T142	Application_Mention	35361	35368	MUMMALS
+PMC1636350	T143	Application_Mention	35412	35420	M-COFFEE
+PMC1636350	T144	Application_Mention	35566	35573	MUMMALS
+PMC4003544	T1	Application_Mention	337	341	SPSS
+PMC5324669	T1	Application_Mention	394	398	OPUS
+PMC5088916	T1	Application_Mention	50	54	SPSS
+PMC4183043	T1	Application_Mention	34	42	Statcalc
+PMC4183043	T4	Application_Mention	850	851	R
+PMC2958506	T1	Application_Mention	46	50	SPSS
+PMC3857483	T1	Application_Mention	753	759	Imaris
+PMC3857483	T3	Application_Mention	895	901	Imaris
+PMC3857483	T4	Application_Mention	996	1002	Imaris
+PMC4475471	T1	Application_Mention	191	214	Bioquant image analysis
+PMC4475471	T3	Application_Mention	839	850	GenePattern
+PMC3834693	T1	Application_Mention	119	123	SPSS
+PMC2722173	T1	Application_Mention	1937	1943	FlowJo
+PMC2722173	T3	Application_Mention	2711	2722	SoftMax Pro
+PMC5406524	T2	Application_Mention	370	384	MALDI Biotyper
+PMC5406524	T3	Application_Mention	1724	1733	Metrichor
+PMC5406524	T5	Application_Mention	1795	1804	Poretools
+PMC5406524	T6	Application_Mention	1920	1943	SPAdes Genome Assembler
+PMC5406524	T8	Application_Mention	2554	2563	ClustalX2
+PMC5406524	T9	Application_Mention	2572	2579	FigTree
+PMC5406524	T11	Application_Mention	2750	2756	BLAST+
+PMC5406524	T12	Application_Mention	2761	2769	PfamScan
+PMC5406524	T13	Application_Mention	2878	2890	Alien Hunter
+PMC4188109	T1	Application_Mention	868	871	SAS
+PMC4066774	T1	Application_Mention	1000	1024	HiSeq Sequencing Control
+PMC4066774	T2	Application_Mention	1035	1041	CASAVA
+PMC4066774	T5	Application_Mention	1147	1164	FASTX application
+PMC4066774	T7	Application_Mention	1507	1513	Bowtie
+PMC4066774	T10	Application_Mention	1835	1842	Ensembl
+PMC4066774	T13	Application_Mention	1916	1925	piRNABank
+PMC4066774	T15	Application_Mention	2029	2030	R
+PMC4066774	T17	Application_Mention	2088	2100	Bioconductor
+PMC4066774	T19	Application_Mention	2978	2983	Prism
+PMC2518487	T1	Application_Mention	1602	1612	Cell Quest
+PMC4626665	T1	Application_Mention	80	84	SPSS
+PMC5387955	T1	Application_Mention	9	12	SAS
+PMC4282059	T1	Application_Mention	112	126	Review Manager
+PMC4282059	T2	Application_Mention	155	161	RevMan
+PMC4282059	T5	Application_Mention	924	930	RevMan
+PMC4282059	T7	Application_Mention	1006	1012	RevMan
+PMC5078599	T1	Application_Mention	1003	1017	GraphPad Prism
+PMC3487307	T1	Application_Mention	165	172	Windows
+PMC3487307	T2	Application_Mention	192	197	QMASS
+PMC3749580	T1	Application_Mention	1486	1492	LAS AF
+PMC3749580	T4	Application_Mention	1568	1590	Definiens Developer XD
+PMC3749580	T5	Application_Mention	2397	2412	SPSS Statistics
+PMC3020393	T1	Application_Mention	11	19	DNA Star
+PMC3020393	T2	Application_Mention	543	546	SAS
+PMC5329788	T1	Application_Mention	1270	1282	Quantity One
+PMC5329788	T3	Application_Mention	1729	1733	SPSS
+PMC3965081	T1	Application_Mention	138	151	MyEquivalents
+PMC3965081	T2	Application_Mention	573	586	MyEquivalents
+PMC3965081	T3	Application_Mention	1013	1026	MyEquivalents
+PMC5413540	T1	Application_Mention	43	47	SPSS
+PMC1934993	T1	Application_Mention	1176	1180	CCP4
+PMC1934993	T2	Application_Mention	1490	1505	SHARP/autoSHARP
+PMC1934993	T3	Application_Mention	1653	1658	Linux
+PMC1934993	T4	Application_Mention	1690	1695	X-fit
+PMC1934993	T5	Application_Mention	1726	1734	XtalView
+PMC1934993	T7	Application_Mention	1822	1825	CNS
+PMC1934993	T8	Application_Mention	1835	1841	REFMAC
+PMC1934993	T9	Application_Mention	1951	1959	XtalView
+PMC1934993	T10	Application_Mention	2017	2026	XtralView
+PMC1934993	T11	Application_Mention	2092	2100	PROCHECK
+PMC1934993	T12	Application_Mention	2108	2112	CCP4
+PMC2742187	T1	Application_Mention	1160	1178	Digital Micrograph
+PMC2742187	T3	Application_Mention	1902	1913	NISElements
+PMC2742187	T5	Application_Mention	1965	1974	Photoshop
+PMC3865386	T2	Application_Mention	19	24	Excel
+PMC3865386	T5	Application_Mention	119	125	Access
+PMC3865386	T7	Application_Mention	246	251	Stata
+PMC3021741	T1	Application_Mention	294	298	SPSS
+PMC5132076	T1	Application_Mention	449	455	FastQC
+PMC5132076	T3	Application_Mention	642	653	Trimmomatic
+PMC5132076	T4	Application_Mention	729	732	BWA
+PMC5132076	T5	Application_Mention	740	744	GATK
+PMC5132076	T6	Application_Mention	897	904	ANNOVAR
+PMC5132076	T7	Application_Mention	1523	1530	ANNOVAR
+PMC5132076	T8	Application_Mention	1580	1584	SIFT
+PMC5132076	T9	Application_Mention	1586	1600	PolyPhen2-HDIV
+PMC5132076	T10	Application_Mention	1602	1616	PolyPhen2-HVAR
+PMC5132076	T11	Application_Mention	1618	1621	LRT
+PMC5132076	T12	Application_Mention	1623	1637	MutationTaster
+PMC5132076	T13	Application_Mention	1639	1655	MutationAssessor
+PMC5132076	T14	Application_Mention	1657	1663	FATHMM
+PMC5132076	T15	Application_Mention	1665	1672	MetaSVM
+PMC5132076	T16	Application_Mention	1678	1684	MetaLR
+PMC5132076	T17	Application_Mention	1691	1696	VEST3
+PMC5132076	T18	Application_Mention	1697	1705	CADD-raw
+PMC5132076	T19	Application_Mention	1707	1717	CADD-phred
+PMC5132076	T20	Application_Mention	1719	1725	GERPþþ
+PMC5132076	T21	Application_Mention	1727	1748	phyloP46way-placental
+PMC5132076	T22	Application_Mention	1750	1773	phyloP100way-vertebrate
+PMC5132076	T23	Application_Mention	1778	1798	SiPhy- 29way-logOdds
+PMC5132076	T24	Application_Mention	1960	1967	Ensembl
+PMC3128530	T1	Application_Mention	485	494	WinView32
+PMC3128530	T2	Application_Mention	551	561	AxioVizion
+PMC3128530	T4	Application_Mention	891	897	ImageJ
+PMC3357263	T1	Application_Mention	38	71	Ingenuity Pathways Knowledge Base
+PMC3357263	T4	Application_Mention	2024	2038	GraphPad Prism
+PMC3357263	T7	Application_Mention	2081	2088	Genesis
+PMC4219874	T1	Application_Mention	172	176	SPSS
+PMC2724645	T1	Application_Mention	29	44	Adobe Photoshop
+PMC2724645	T4	Application_Mention	770	785	Adobe PhotoShop
+PMC2724645	T5	Application_Mention	1160	1174	Image Pro Plus
+PMC3781569	T1	Application_Mention	68	75	Hologic
+PMC4280422	T1	Application_Mention	41	45	NCSS
+PMC5144905	T1	Application_Mention	596	603	MedCalc
+PMC3598424	T1	Application_Mention	870	876	ASSESS
+PMC3598424	T3	Application_Mention	1240	1243	SAS
+PMC4216798	T1	Application_Mention	174	182	Calcusyn
+PMC3361050	T1	Application_Mention	35	81	Statistical Package for Social Sciences (SPSS)
+PMC3361050	T3	Application_Mention	238	242	SPSS
+PMC3361050	T4	Application_Mention	300	303	SAS
+PMC3361050	T5	Application_Mention	471	472	R
+PMC3361050	T7	Application_Mention	502	513	haplo.stats
+PMC5220128	T1	Application_Mention	601	626	Extreme Limiting Dilution
+PMC5220128	T3	Application_Mention	895	920	Extreme Limiting Dilution
+PMC5220128	T4	Application_Mention	1366	1391	Extreme Limiting Dilution
+PMC3017597	T1	Application_Mention	129	133	SPSS
+PMC3999808	T1	Application_Mention	54	58	SPSS
+PMC2686520	T2	Application_Mention	349	354	Linux
+PMC2686520	T3	Application_Mention	370	375	MySQL
+PMC2686520	T4	Application_Mention	424	430	Apache
+PMC2686520	T5	Application_Mention	557	566	MediaWiki
+PMC4257079	T1	Application_Mention	1947	1962	Kaluza analysis
+PMC4257079	T3	Application_Mention	3530	3554	Kaluza analysis software
+PMC4257079	T4	Application_Mention	3590	3604	GraphPad Prism
+PMC4257079	T7	Application_Mention	3749	3763	GraphPad Prism
+PMC4736865	T1	Application_Mention	41	45	SPSS
+PMC3065992	T1	Application_Mention	184	194	AxioVision
+PMC3065992	T4	Application_Mention	1023	1027	PAUP
+PMC3065992	T5	Application_Mention	1152	1156	PAUP
+PMC3065992	T6	Application_Mention	2110	2117	MrBayes
+PMC3065992	T8	Application_Mention	2295	2306	MrModeltest
+PMC3065992	T10	Application_Mention	2803	2807	PAUP
+PMC3065992	T11	Application_Mention	2867	2876	Modeltest
+PMC4368859	T1	Application_Mention	411	420	WinNonlin
+PMC4793049	T1	Application_Mention	246	256	Statistica
+PMC3230829	T1	Application_Mention	38	39	R
+PMC3230829	T3	Application_Mention	162	167	Stata
+PMC4793000	T1	Application_Mention	2407	2417	Sigma Stat
+PMC2248739	T1	Application_Mention	166	176	ImageQuant
+PMC5076548	T1	Application_Mention	47	55	StatView
+PMC5076548	T3	Application_Mention	150	164	GraphPad Prism
+PMC5009042	T1	Application_Mention	684	688	SPSS
+PMC3351187	T1	Application_Mention	1702	1716	GraphPad PRISM
+PMC4918545	T1	Application_Mention	480	487	Image J
+PMC4918545	T3	Application_Mention	549	556	PDQuest
+PMC4918545	T6	Application_Mention	2124	2136	GPS Explorer
+PMC4918545	T9	Application_Mention	2224	2230	Mascot
+PMC4918545	T12	Application_Mention	2511	2517	Mascot
+PMC4918545	T13	Application_Mention	2770	2774	SPSS
+PMC4531765	T1	Application_Mention	66	93	Micro-Probe staining system
+PMC4357732	T1	Application_Mention	666	672	Mascot
+PMC4354499	T1	Application_Mention	722	736	oligo analyzer
+PMC4354499	T2	Application_Mention	1092	1099	cloneDB
+PMC4583706	T1	Application_Mention	33	38	minfi
+PMC4583706	T2	Application_Mention	48	59	shinyMethyl
+PMC4583706	T3	Application_Mention	92	104	Bioconductor
+PMC4583706	T4	Application_Mention	532	542	missMethyl
+PMC4360915	T1	Application_Mention	843	854	Scion Image
+PMC4360915	T3	Application_Mention	957	964	G*Power
+PMC4360915	T5	Application_Mention	1337	1352	PASW Statistics
+PMC4574835	T1	Application_Mention	170	176	NONMEM
+PMC4574835	T3	Application_Mention	1271	1277	NONMEM
+PMC5265988	T1	Application_Mention	208	222	Sequenom Typer
+PMC5265988	T5	Application_Mention	276	281	Excel
+PMC5265988	T6	Application_Mention	286	290	SPSS
+PMC5265988	T9	Application_Mention	988	994	SHEsis
+PMC5265988	T10	Application_Mention	1022	1031	Haploview
+PMC3259236	T1	Application_Mention	42	46	SPSS
+PMC4366701	T1	Application_Mention	825	828	SAS
+PMC2963841	T1	Application_Mention	136	140	SPSS
+PMC5292639	T1	Application_Mention	833	837	SPSS
+PMC4273078	T1	Application_Mention	47	50	SAS
+PMC4551318	T1	Application_Mention	1221	1225	iTEM
+PMC4551318	T3	Application_Mention	1304	1310	ImageJ
+PMC4551318	T6	Application_Mention	1367	1378	Illustrator
+PMC4551318	T7	Application_Mention	1380	1384	Fiji
+PMC4551318	T8	Application_Mention	1637	1643	ImageJ
+PMC4551318	T9	Application_Mention	1874	1880	ImageJ
+PMC4551318	T10	Application_Mention	2007	2011	Fiji
+PMC4740966	T1	Application_Mention	392	395	SAS
+PMC4740966	T4	Application_Mention	458	478	Joinpoint Regression
+PMC4473108	T1	Application_Mention	842	852	SeqMan Pro
+PMC4473108	T3	Application_Mention	959	967	MegAlign
+PMC4468934	T1	Application_Mention	471	477	FlowJo
+PMC4553351	T1	Application_Mention	413	428	GraphPad InStat
+PMC4553351	T4	Application_Mention	479	483	SPSS
+PMC4989302	T1	Application_Mention	523	529	UCHIME
+PMC4989302	T4	Application_Mention	688	694	UCLUST
+PMC4989302	T6	Application_Mention	970	976	BLASTn
+PMC4989302	T8	Application_Mention	1283	1288	CANGS
+PMC4280397	T1	Application_Mention	374	389	SPSS Statistics
+PMC4615379	T1	Application_Mention	638	645	IntaRNA
+PMC4615379	T2	Application_Mention	1577	1582	Limma
+PMC4615379	T3	Application_Mention	1587	1588	R
+PMC4615379	T5	Application_Mention	2350	2361	CFX Manager
+PMC4615379	T6	Application_Mention	3048	3063	1D-Quantity One
+PMC4240489	T1	Application_Mention	230	240	Statistica
+PMC5133663	T1	Application_Mention	468	472	SPSS
+PMC4515454	T1	Application_Mention	307	311	SPSS
+PMC3646185	T2	Application_Mention	1920	1925	Excel
+PMC3646185	T4	Application_Mention	1935	1938	SAS
+PMC3932086	T1	Application_Mention	127	138	BrainSuite2
+PMC4668168	T1	Application_Mention	1	47	Statistical Package for Social Sciences (SPSS)
+PMC3249287	T1	Application_Mention	91	101	MAC Viewer
+PMC3977211	T1	Application_Mention	2451	2464	LMSchartmaker
+PMC3977211	T2	Application_Mention	2469	2473	SPSS
+PMC4857864	T1	Application_Mention	1418	1446	ProComp Infiniti TM software
+PMC4857864	T2	Application_Mention	2106	2121	PASW Statistics
+PMC4857864	T5	Application_Mention	2613	2628	PASW Statistics
+PMC4054524	T1	Application_Mention	26	30	SPSS
+PMC1851647	T2	Application_Mention	518	524	FW4000
+PMC1851647	T3	Application_Mention	684	690	FW4000
+PMC1851647	T4	Application_Mention	820	847	Universal Imaging Metamorph
+PMC1851647	T6	Application_Mention	1028	1033	Excel
+PMC5367605	T1	Application_Mention	263	272	ITK- Snap
+PMC4797302	T1	Application_Mention	313	322	HiC- Norm
+PMC4797302	T2	Application_Mention	475	482	HiCNorm
+PMC4797302	T4	Application_Mention	947	957	fastq-dump
+PMC4797302	T6	Application_Mention	1003	1015	SRA) Toolkit
+PMC4797302	T7	Application_Mention	1097	1105	Bowtie 2
+PMC4797302	T9	Application_Mention	1255	1263	SAMtools
+PMC4797302	T11	Application_Mention	1336	1357	R package 'ShortRead'
+PMC4797302	T13	Application_Mention	1676	1685	ShortRead
+PMC4797302	T14	Application_Mention	2025	2040	R package 'spp'
+PMC4797302	T16	Application_Mention	2116	2119	spp
+PMC4797302	T18	Application_Mention	2527	2540	SuperSmoother
+PMC4797302	T19	Application_Mention	2583	2584	R
+PMC4797302	T21	Application_Mention	2610	2615	stats
+PMC4797302	T22	Application_Mention	3527	3537	MacPy- MOL
+PMC4797302	T24	Application_Mention	3734	3738	PRIM
+PMC4797302	T25	Application_Mention	3749	3765	R package 'prim'
+PMC4797302	T26	Application_Mention	5443	5458	R package 'FNN'
+PMC4797302	T27	Application_Mention	6020	6027	HiCNorm
+PMC2881388	T1	Application_Mention	862	876	Python library
+PMC2881388	T2	Application_Mention	1064	1072	NetworkX
+PMC5406603	T1	Application_Mention	546	552	ImageJ
+PMC5406603	T4	Application_Mention	1021	1027	FlowJo
+PMC4567233	T1	Application_Mention	51	90	statistical program for social sciences
+PMC4665705	T1	Application_Mention	63	67	SPSS
+PMC4376262	T1	Application_Mention	627	633	ImageJ
+PMC3575798	T1	Application_Mention	857	864	HKL2000
+PMC3575798	T2	Application_Mention	959	965	MOLREP
+PMC3575798	T3	Application_Mention	1113	1119	REFMAC
+PMC3575798	T4	Application_Mention	1294	1298	COOT
+PMC3575798	T5	Application_Mention	1455	1461	PHENIX
+PMC3575798	T6	Application_Mention	1585	1591	CURVES
+PMC3575798	T7	Application_Mention	1644	1656	UCSF Chimera
+PMC5359137	T1	Application_Mention	65	108	Statistical Package for the Social Sciences
+PMC5359137	T4	Application_Mention	184	189	Stata
+PMC4851261	T1	Application_Mention	454	468	Anymaze system
+PMC4851261	T3	Application_Mention	1727	1741	Image-Pro Plus
+PMC4851261	T6	Application_Mention	1942	1946	SPSS
+PMC4851261	T8	Application_Mention	2043	2057	Graphpad Prism
+PMC3408515	T1	Application_Mention	54	58	SPSS
+PMC4375646	T1	Application_Mention	45	53	ScanEdit
+PMC4375646	T4	Application_Mention	1305	1336	FEAT [FMRI Expert Analysis Tool
+PMC4375646	T6	Application_Mention	1360	1389	FSL (FMRIB3s Software Library
+PMC4375646	T8	Application_Mention	1489	1555	MCFLIRT [Motion Correction: FMRIB3s Linear Image Registration Tool
+PMC4375646	T9	Application_Mention	1683	1704	Brain Extraction Tool
+PMC4375646	T10	Application_Mention	1989	2034	FLIRT [FMRIB3s Linear Image Registration Tool
+PMC4375646	T11	Application_Mention	2230	2296	MCFLIRT [Motion Correction: FMRIB3s Linear Image Registration Tool
+PMC4375646	T12	Application_Mention	2773	2809	FILM (FMRIB3s Improved Linear Model)
+PMC4375646	T13	Application_Mention	3002	3049	FLAME (FMRIB3s Local Analysis of Mixed Effects)
+PMC4375646	T14	Application_Mention	3277	3285	AlphaSim
+PMC4375646	T15	Application_Mention	3293	3297	AFNI
+PMC4375646	T17	Application_Mention	3620	3628	AlphaSim
+PMC3429821	T1	Application_Mention	56	60	MASS
+PMC3429821	T3	Application_Mention	3454	3458	SPSS
+PMC4225645	T1	Application_Mention	52	55	SAS
+PMC3758215	T1	Application_Mention	43	47	SPSS
+PMC4723022	T1	Application_Mention	630	634	SPSS
+PMC3569118	T1	Application_Mention	47	55	Dr. View
+PMC5098051	T1	Application_Mention	955	959	SPSS
+PMC4870320	T1	Application_Mention	55	59	SPSS
+PMC5338961	T1	Application_Mention	477	486	Stat view
+PMC5112610	T1	Application_Mention	338	353	DNAStar EditSeq
+PMC5112610	T3	Application_Mention	452	465	protein blast
+PMC5112610	T5	Application_Mention	591	600	ProtParam
+PMC5112610	T6	Application_Mention	605	614	ProtScale
+PMC5112610	T8	Application_Mention	760	775	DNAStar Protean
+PMC5112610	T9	Application_Mention	792	797	CFSSP
+PMC5112610	T11	Application_Mention	963	977	DisPort search
+PMC5112610	T13	Application_Mention	1246	1261	DNAStar EditSeq
+PMC5112610	T14	Application_Mention	1531	1540	ProtParam
+PMC5112610	T15	Application_Mention	1545	1554	ProtScale
+PMC5112610	T16	Application_Mention	2365	2379	DisProt search
+PMC5112610	T18	Application_Mention	2823	2836	protein blast
+PMC5112610	T19	Application_Mention	3036	3045	ProtParam
+PMC5112610	T20	Application_Mention	3050	3059	ProtScale
+PMC5112610	T21	Application_Mention	3292	3306	DisProt search
+PMC3611748	T1	Application_Mention	486	490	SPSS
+PMC4764960	T1	Application_Mention	1287	1293	MATLAB
+PMC4764960	T3	Application_Mention	1326	1337	Sound Forge
+PMC4764960	T6	Application_Mention	1529	1579	Statistical Package for the Social Sciences (SPSS)
+PMC3521687	T1	Application_Mention	761	768	Image J
+PMC3521687	T2	Application_Mention	779	793	GraphPad Prism
+PMC5320029	T1	Application_Mention	531	543	RAPID Reader
+PMC5320029	T3	Application_Mention	1148	1160	RAPID Reader
+PMC5320029	T5	Application_Mention	2535	2547	RAPID Reader
+PMC4784605	T2	Application_Mention	1710	1715	Excel
+PMC4784605	T4	Application_Mention	1724	1728	SPSS
+PMC2708934	T1	Application_Mention	668	674	Origin
+PMC2708934	T4	Application_Mention	1187	1196	Chrompass
+PMC2830412	T1	Application_Mention	51	54	SAS
+PMC2830412	T3	Application_Mention	216	219	SAS
+PMC5407229	T1	Application_Mention	30	46	SPSS© Statistics
+PMC4265209	T1	Application_Mention	480	487	G*POWER
+PMC4265209	T3	Application_Mention	876	880	SPSS
+PMC4265209	T5	Application_Mention	1060	1068	GRAPHPAD
+PMC3698303	T1	Application_Mention	62	71	GeneXpert
+PMC3698303	T3	Application_Mention	397	406	GeneXpert
+PMC3698303	T4	Application_Mention	450	459	GeneXpert
+PMC4789845	T1	Application_Mention	1111	1131	Scion Image Software
+PMC4789845	T4	Application_Mention	1256	1260	SPSS
+PMC4789845	T7	Application_Mention	1778	1788	TargetScan
+PMC4789845	T8	Application_Mention	1793	1800	miRanda
+PMC3028337	T1	Application_Mention	3563	3570	Image-J
+PMC3212666	T1	Application_Mention	475	489	Seegene viewer
+PMC3448398	T1	Application_Mention	84	88	SPSS
+PMC3020640	T1	Application_Mention	341	350	Photoshop
+PMC2768238	T1	Application_Mention	55	64	CLUSTAL W
+PMC2768238	T3	Application_Mention	484	488	MEGA
+PMC3531733	T1	Application_Mention	686	694	Xcaliber
+PMC3531733	T3	Application_Mention	1298	1306	FACSDiva
+PMC3531733	T5	Application_Mention	1346	1352	FlowJo
+PMC4989431	T1	Application_Mention	1203	1212	Meta-Disc
+PMC3794438	T1	Application_Mention	505	515	Statistica
+PMC3589787	T1	Application_Mention	1066	1072	Q-bank
+PMC3589787	T3	Application_Mention	2979	2987	TreeBASE
+PMC3589787	T5	Application_Mention	3035	3043	MycoBank
+PMC3589787	T7	Application_Mention	3154	3159	MAFFT
+PMC3589787	T10	Application_Mention	3275	3282	BioEdit
+PMC3589787	T12	Application_Mention	3441	3448	MrBayes
+PMC3589787	T14	Application_Mention	3636	3647	MrModeltest
+PMC3589787	T15	Application_Mention	4204	4210	Q-bank
+PMC3589787	T16	Application_Mention	4704	4710	Q-bank
+PMC5376127	T1	Application_Mention	322	328	EC-Lab
+PMC3600908	T1	Application_Mention	37	42	VISTA
+PMC3479176	T1	Application_Mention	1100	1108	Bandview
+PMC2703206	T1	Application_Mention	726	741	GelPro analyzer
+PMC2703206	T3	Application_Mention	1753	1769	Phosphor Analyst
+PMC3058730	T1	Application_Mention	914	933	AIDA image analyser
+PMC3058730	T4	Application_Mention	1117	1131	GraphPad PRISM
+PMC2386104	T1	Application_Mention	286	304	LSM Image Examiner
+PMC3518495	T1	Application_Mention	405	419	GraphPad Prism
+PMC5400067	T1	Application_Mention	70	76	MAXQDA
+PMC5099213	T1	Application_Mention	73	80	Dedoose
+PMC5111481	T1	Application_Mention	1	9	CareLink
+PMC5111481	T2	Application_Mention	185	193	CareLink
+PMC5111481	T3	Application_Mention	919	927	CareLink
+PMC5111481	T4	Application_Mention	2548	2556	CareLink
+PMC5111481	T5	Application_Mention	2982	2990	CareLink
+PMC2773253	T1	Application_Mention	127	144	Biology Workbench
+PMC2773253	T2	Application_Mention	166	170	PISE
+PMC2773253	T3	Application_Mention	189	196	wEMBOSS
+PMC2773253	T4	Application_Mention	224	230	Galaxy
+PMC2773253	T5	Application_Mention	256	267	GenePattern
+PMC2773253	T6	Application_Mention	290	297	MOWServ
+PMC2773253	T7	Application_Mention	332	364	New Generation Biology Workbench
+PMC2773253	T8	Application_Mention	389	399	BioManager
+PMC2773253	T9	Application_Mention	431	441	BioExtract
+PMC2773253	T10	Application_Mention	793	805	GBrowse MOBY
+PMC2773253	T11	Application_Mention	828	835	Seahawk
+PMC2773253	T12	Application_Mention	930	937	BioMOBY
+PMC2773253	T13	Application_Mention	1095	1102	BioMOBY
+PMC2773253	T14	Application_Mention	1148	1155	Taverna
+PMC2773253	T15	Application_Mention	1177	1183	Kepler
+PMC2773253	T16	Application_Mention	1211	1218	BioSide
+PMC2773253	T17	Application_Mention	1526	1532	Remora
+PMC2773253	T18	Application_Mention	1613	1617	PISE
+PMC2773253	T19	Application_Mention	1619	1625	Galaxy
+PMC2773253	T20	Application_Mention	1630	1640	BioExtract
+PMC2773253	T21	Application_Mention	1846	1853	BioMOBY
+PMC2773253	T22	Application_Mention	1858	1865	SoapLab
+PMC2773253	T23	Application_Mention	1895	1902	SoapLab
+PMC2773253	T24	Application_Mention	1989	1996	BioMOBY
+PMC2773253	T25	Application_Mention	2224	2231	BioMOBY
+PMC2773253	T26	Application_Mention	2250	2255	MoSeS
+PMC2773253	T28	Application_Mention	2351	2368	BioMOBY dashboard
+PMC2773253	T30	Application_Mention	2595	2601	EMBOSS
+PMC2773253	T31	Application_Mention	2623	2630	BioMOBY
+PMC2773253	T32	Application_Mention	2662	2668	Mobyle
+PMC2773253	T33	Application_Mention	3150	3156	Mobyle
+PMC2773253	T34	Application_Mention	3512	3516	PISE
+PMC2773253	T35	Application_Mention	3580	3586	Mobyle
+PMC2773253	T36	Application_Mention	3783	3789	Mobyle
+PMC2773253	T37	Application_Mention	3872	3902	PlayMOBY Mobyle companion tool
+PMC2773253	T38	Application_Mention	3939	3946	BioMOBY
+PMC2773253	T39	Application_Mention	4052	4058	Mobyle
+PMC2773253	T40	Application_Mention	4390	4396	Mobyle
+PMC2773253	T41	Application_Mention	4574	4578	PISE
+PMC2773253	T42	Application_Mention	4939	4943	PISE
+PMC2773253	T43	Application_Mention	5136	5142	Mobyle
+PMC2773253	T44	Application_Mention	5325	5329	PISE
+PMC2773253	T45	Application_Mention	5562	5569	BioMoby
+PMC2773253	T46	Application_Mention	5635	5642	BioMoby
+PMC2773253	T47	Application_Mention	5708	5715	BioMoby
+PMC2773253	T48	Application_Mention	5729	5737	PlayMOBY
+PMC2773253	T49	Application_Mention	5813	5819	Mobyle
+PMC2773253	T51	Application_Mention	5971	5977	Mobyle
+PMC2773253	T52	Application_Mention	6070	6076	Mobyle
+PMC2773253	T53	Application_Mention	6126	6132	Mobyle
+PMC2773253	T54	Application_Mention	6296	6303	BioMOBY
+PMC2773253	T55	Application_Mention	6522	6528	Mobyle
+PMC2773253	T56	Application_Mention	7018	7024	Mobyle
+PMC2773253	T57	Application_Mention	7203	7209	Mobyle
+PMC2773253	T58	Application_Mention	7485	7490	SWAMI
+PMC2773253	T59	Application_Mention	7638	7645	BioMOBY
+PMC2773253	T60	Application_Mention	7744	7750	Mobyle
+PMC2773253	T61	Application_Mention	7945	7951	Mobyle
+PMC2773253	T62	Application_Mention	8023	8051	clustalwmultialign interface
+PMC2773253	T63	Application_Mention	8095	8101	Phylip
+PMC2773253	T64	Application_Mention	8147	8153	Phylip
+PMC2773253	T65	Application_Mention	8189	8195	squizz
+PMC2773253	T66	Application_Mention	8873	8879	Mobyle
+PMC2773253	T67	Application_Mention	8884	8891	BioMOBY
+PMC2773253	T68	Application_Mention	8896	8902	Mobyle
+PMC2773253	T69	Application_Mention	9026	9033	BioMOBY
+PMC2773253	T70	Application_Mention	9198	9205	BioMOBY
+PMC2773253	T71	Application_Mention	9342	9348	Mobyle
+PMC2773253	T72	Application_Mention	9354	9360	Mobyle
+PMC2773253	T73	Application_Mention	9528	9534	Mobyle
+PMC2773253	T74	Application_Mention	9608	9614	Mobyle
+PMC2773253	T75	Application_Mention	9732	9738	Mobyle
+PMC2773253	T76	Application_Mention	9837	9844	BioMOBY
+PMC2773253	T77	Application_Mention	9846	9852	Mobyle
+PMC2773253	T78	Application_Mention	9971	9977	Mobyle
+PMC2773253	T79	Application_Mention	10105	10111	Mobyle
+PMC2773253	T80	Application_Mention	10727	10733	Mobyle
+PMC2773253	T81	Application_Mention	10796	10802	Mobyle
+PMC2773253	T82	Application_Mention	11136	11142	Mobyle
+PMC2773253	T83	Application_Mention	11484	11492	clustalw
+PMC2773253	T84	Application_Mention	11614	11620	Mobyle
+PMC2773253	T85	Application_Mention	11741	11747	Mobyle
+PMC2773253	T86	Application_Mention	11821	11829	PlayMOBY
+PMC2773253	T87	Application_Mention	11845	11851	Mobyle
+PMC2773253	T88	Application_Mention	11893	11900	BioMOBY
+PMC2773253	T89	Application_Mention	11931	11937	Mobyle
+PMC2773253	T90	Application_Mention	12048	12054	Mobyle
+PMC2773253	T91	Application_Mention	12097	12105	PlayMOBY
+PMC2773253	T92	Application_Mention	12151	12158	BioMOBY
+PMC2773253	T93	Application_Mention	12187	12195	PlayMOBY
+PMC2773253	T94	Application_Mention	12257	12263	Mobyle
+PMC2773253	T95	Application_Mention	12316	12324	PlayMOBY
+PMC2773253	T96	Application_Mention	12361	12368	BioMOBY
+PMC2773253	T97	Application_Mention	12392	12400	PlayMOBY
+PMC2773253	T98	Application_Mention	12423	12430	BioMOBY
+PMC2773253	T99	Application_Mention	12676	12684	PlayMOBY
+PMC2773253	T100	Application_Mention	12758	12764	Mobyle
+PMC2773253	T101	Application_Mention	12768	12776	PlayMOBY
+PMC2773253	T102	Application_Mention	13268	13276	PlayMOBY
+PMC2773253	T103	Application_Mention	13608	13616	PlayMOBY
+PMC2773253	T104	Application_Mention	13657	13663	Mobyle
+PMC2773253	T105	Application_Mention	13903	13909	Mobyle
+PMC2773253	T106	Application_Mention	14410	14416	Mobyle
+PMC2773253	T107	Application_Mention	14478	14482	PISE
+PMC2773253	T108	Application_Mention	14749	14756	Taverna
+PMC2773253	T109	Application_Mention	14758	14764	Kepler
+PMC2773253	T110	Application_Mention	14928	14934	Mobyle
+PMC2773253	T111	Application_Mention	15141	15147	Mobyle
+PMC2773253	T112	Application_Mention	15557	15564	BioMOBY
+PMC2773253	T113	Application_Mention	15633	15641	PlayMOBY
+PMC2773253	T114	Application_Mention	15696	15703	BioMOBY
+PMC2773253	T115	Application_Mention	15809	15815	Mobyle
+PMC2773253	T116	Application_Mention	15820	15827	BioMOBY
+PMC2773253	T117	Application_Mention	16003	16009	Mobyle
+PMC2773253	T118	Application_Mention	16164	16170	Mobyle
+PMC2773253	T119	Application_Mention	16200	16206	Mobyle
+PMC2773253	T120	Application_Mention	16383	16389	Mobyle
+PMC2773253	T121	Application_Mention	16491	16498	Taverna
+PMC2773253	T122	Application_Mention	16530	16536	Kepler
+PMC2773253	T123	Application_Mention	16847	16853	Mobyle
+PMC2773253	T124	Application_Mention	17381	17389	PlayMOBY
+PMC2773253	T125	Application_Mention	17441	17448	BioMOBY
+PMC2773253	T126	Application_Mention	17468	17474	Mobyle
+PMC2773253	T127	Application_Mention	17603	17610	SoapLab
+PMC2773253	T128	Application_Mention	17688	17694	Mobyle
+PMC2773253	T129	Application_Mention	17943	17949	Mobyle
+PMC2773253	T130	Application_Mention	18377	18383	Mobyle
+PMC3464772	T1	Application_Mention	1306	1323	Phoenix WinNonLin
+PMC3386209	T1	Application_Mention	253	267	Image-Pro Plus
+PMC3386209	T4	Application_Mention	1761	1770	MetaMorph
+PMC3386209	T7	Application_Mention	2195	2206	Meta- Morph
+PMC3386209	T9	Application_Mention	2224	2230	ImageJ
+PMC3386209	T12	Application_Mention	3110	3119	MetaMorph
+PMC4425235	T1	Application_Mention	1191	1196	STATA
+PMC3927753	T1	Application_Mention	562	585	Universal Analysis 2000
+PMC3927753	T3	Application_Mention	864	871	PeakFit
+PMC4733777	T1	Application_Mention	348	357	Qangio XA
+PMC4733777	T4	Application_Mention	818	827	Qangio XA
+PMC4733777	T5	Application_Mention	1909	1912	SAS
+PMC4631805	T1	Application_Mention	210	215	Prism
+PMC4631805	T4	Application_Mention	797	804	BigNPAG
+PMC4631805	T5	Application_Mention	1067	1074	BigNPAG
+PMC5415459	T1	Application_Mention	360	364	SPSS
+PMC4894081	T1	Application_Mention	38	45	G power
+PMC4894081	T3	Application_Mention	604	608	SPSS
+PMC4894081	T5	Application_Mention	673	678	STATA
+PMC5372019	T1	Application_Mention	448	451	SAS
+PMC5372019	T4	Application_Mention	604	607	SAS
+PMC4748904	T1	Application_Mention	925	931	RevMan
+PMC4750770	T1	Application_Mention	332	337	STATA
+PMC4750770	T2	Application_Mention	508	513	STATA
+PMC4750770	T4	Application_Mention	4051	4055	SPSS
+PMC4123385	T1	Application_Mention	238	289	Simple Sequence Repeat Identifi cation Tool (SSRIT)
+PMC4123385	T3	Application_Mention	702	716	Primer Premier
+PMC4123385	T6	Application_Mention	2358	2364	BLASTX
+PMC4123385	T8	Application_Mention	2637	2643	BLASTX
+PMC4123385	T9	Application_Mention	2647	2649	GO
+PMC4987885	T1	Application_Mention	30	41	SuperLooper
+PMC4987885	T2	Application_Mention	133	136	SL2
+PMC4987885	T3	Application_Mention	397	400	NGL
+PMC4987885	T4	Application_Mention	504	509	WebGL
+PMC4987885	T5	Application_Mention	534	537	NGL
+PMC4987885	T6	Application_Mention	908	911	SL2
+PMC4987885	T7	Application_Mention	1297	1300	SL2
+PMC4987885	T8	Application_Mention	2097	2100	SL2
+PMC4987885	T9	Application_Mention	2189	2200	SuperLooper
+PMC4987885	T11	Application_Mention	2966	2969	SL2
+PMC4987885	T12	Application_Mention	3442	3452	NGL viewer
+PMC4987885	T13	Application_Mention	3558	3568	NGL viewer
+PMC4987885	T14	Application_Mention	3738	3748	NGL viewer
+PMC4987885	T15	Application_Mention	3896	3906	NGL viewer
+PMC4987885	T16	Application_Mention	4326	4336	NGL viewer
+PMC4987885	T17	Application_Mention	4378	4388	NGL viewer
+PMC4987885	T18	Application_Mention	4449	4456	Firefox
+PMC4987885	T19	Application_Mention	4458	4471	Google Chrome
+PMC4987885	T20	Application_Mention	4473	4479	Safari
+PMC4987885	T21	Application_Mention	4481	4483	IE
+PMC4987885	T22	Application_Mention	4488	4492	Edge
+PMC4987885	T23	Application_Mention	4634	4639	Flask
+PMC4987885	T25	Application_Mention	4767	4770	SL2
+PMC4987885	T26	Application_Mention	5531	5534	SL2
+PMC4987885	T27	Application_Mention	5870	5873	SL2
+PMC2803435	T1	Application_Mention	552	557	OMEGA
+PMC2803435	T4	Application_Mention	605	610	OMEGA
+PMC2803435	T7	Application_Mention	748	759	LigandScout
+PMC2803435	T8	Application_Mention	901	912	LigandScout
+PMC2803435	T9	Application_Mention	2275	2286	LigandScout
+PMC2803435	T10	Application_Mention	2839	2842	MOE
+PMC2803435	T12	Application_Mention	3038	3049	LigandScout
+PMC2803435	T13	Application_Mention	4760	4771	LigandScout
+PMC2803435	T14	Application_Mention	4884	4895	LigandScout
+PMC3379598	T1	Application_Mention	111	114	SAS
+PMC3379598	T3	Application_Mention	123	129	SUDAAN
+PMC5446083	T1	Application_Mention	928	931	Zen
+PMC5446083	T3	Application_Mention	1874	1880	ImageJ
+PMC5446083	T4	Application_Mention	1972	1986	Graphpad Prism
+PMC4338086	T1	Application_Mention	43	47	PASW
+PMC5436475	T1	Application_Mention	38	42	SPSS
+PMC4644632	T1	Application_Mention	25	29	SPSS
+PMC4820195	T1	Application_Mention	5	9	SPSS
+PMC4276895	T1	Application_Mention	121	139	Feature Extraction
+PMC4276895	T4	Application_Mention	351	364	GeneSpring GX
+PMC4276895	T7	Application_Mention	589	602	GeneSpring GX
+PMC2826650	T1	Application_Mention	171	175	SPSS
+PMC3029787	T1	Application_Mention	279	282	SAS
+PMC4380214	T1	Application_Mention	129	150	Pulse and Patchmaster
+PMC4380214	T3	Application_Mention	502	516	custom scripts
+PMC4380214	T4	Application_Mention	528	536	Igor Pro
+PMC4380214	T7	Application_Mention	660	666	AlignX
+PMC4380214	T8	Application_Mention	674	714	Vector NTI software package (Invitrogen)
+PMC4380214	T9	Application_Mention	773	780	I-TASER
+PMC4787772	T1	Application_Mention	186	204	FusionCapt Advance
+PMC4787772	T3	Application_Mention	530	547	Illumina software
+PMC3202757	T1	Application_Mention	1500	1546	Agilent 2100 bioanalyzer series C and software
+PMC5132146	T1	Application_Mention	77	81	SPSS
+PMC4816035	T1	Application_Mention	664	667	SAS
+PMC4816035	T4	Application_Mention	716	720	SPSS
+PMC5149064	T1	Application_Mention	47	50	SAS
+PMC4299502	T1	Application_Mention	1252	1263	InVivoScope
+PMC4299502	T3	Application_Mention	2397	2403	ImageJ
+PMC4299502	T5	Application_Mention	2623	2637	CellA Analysis
+PMC4299502	T6	Application_Mention	2728	2742	Image Pro-Plus
+PMC4299502	T7	Application_Mention	4372	4395	GenomeStudio Genotyping
+PMC4299502	T9	Application_Mention	4724	4729	Nexus
+PMC4792857	T1	Application_Mention	1539	1550	GeneMapper™
+PMC4478301	T1	Application_Mention	418	422	SPSS
+PMC5384723	T1	Application_Mention	26	40	Review Manager
+PMC3925948	T1	Application_Mention	353	362	MetaMorph
+PMC3925948	T2	Application_Mention	440	451	Reconstruct
+PMC2943325	T1	Application_Mention	81	86	DENZO
+PMC2943325	T2	Application_Mention	95	98	XDS
+PMC2943325	T3	Application_Mention	153	162	SCALEPACK
+PMC2943325	T4	Application_Mention	215	219	CCP4
+PMC2943325	T5	Application_Mention	250	254	CCP4
+PMC2943325	T6	Application_Mention	289	294	CCP4i
+PMC2943325	T7	Application_Mention	467	473	PHASER
+PMC2943325	T8	Application_Mention	492	496	COOT
+PMC2943325	T9	Application_Mention	579	585	REFMAC
+PMC2943325	T10	Application_Mention	767	772	PyMOL
+PMC3138425	T2	Application_Mention	166	180	Genome Browser
+PMC3138425	T3	Application_Mention	1558	1572	Genome Browser
+PMC3138425	T4	Application_Mention	1832	1840	phyloFit
+PMC3138425	T5	Application_Mention	2554	2562	phyloFit
+PMC3138425	T6	Application_Mention	2572	2594	PHAST software package
+PMC3138425	T7	Application_Mention	2658	2666	phyloFit
+PMC3279886	T1	Application_Mention	1693	1697	SPSS
+PMC4540847	T1	Application_Mention	47	51	SPSS
+PMC3575799	T1	Application_Mention	125	146	Matrix Family Library
+PMC3575799	T3	Application_Mention	167	177	Genomatrix
+PMC3575799	T5	Application_Mention	471	514	Universal Probe Library Assay Design Center
+PMC3575799	T7	Application_Mention	3114	3124	Genomatrix
+PMC3727320	T1	Application_Mention	606	618	Living Image
+PMC3727320	T3	Application_Mention	1815	1827	Living Image
+PMC3727320	T5	Application_Mention	2479	2485	ImageJ
+PMC3727320	T8	Application_Mention	3058	3071	Q-Capture Pro
+PMC3727320	T10	Application_Mention	3111	3120	Photoshop
+PMC3130168	T1	Application_Mention	153	161	ClustalW
+PMC3130168	T2	Application_Mention	291	295	MEGA
+PMC3130168	T4	Application_Mention	545	552	PSIPRED
+PMC3130168	T5	Application_Mention	643	651	I-TASSER
+PMC3130168	T6	Application_Mention	787	797	MOD- ELLER
+PMC3130168	T7	Application_Mention	891	899	MODELLER
+PMC3130168	T8	Application_Mention	1021	1029	MODELLER
+PMC3130168	T9	Application_Mention	1472	1480	MODELLER
+PMC3130168	T10	Application_Mention	1570	1575	PROSA
+PMC3130168	T11	Application_Mention	2470	2484	Primer Express
+PMC3130168	T13	Application_Mention	3295	3303	ClustalW
+PMC3130168	T14	Application_Mention	3927	3931	MEGA
+PMC3130168	T16	Application_Mention	4254	4259	BLAST
+PMC3130168	T17	Application_Mention	4509	4517	I-TASSER
+PMC3130168	T18	Application_Mention	4728	4733	PROSA
+PMC3130168	T19	Application_Mention	5268	5274	HBPLUS
+PMC3130168	T20	Application_Mention	6061	6067	PHDsec
+PMC3130168	T22	Application_Mention	6093	6100	PSIPRED
+PMC3130168	T24	Application_Mention	6311	6316	FUGUE
+PMC3130168	T26	Application_Mention	6350	6356	3DPSSM
+PMC3130168	T28	Application_Mention	7423	7426	MAS
+PMC3130168	T29	Application_Mention	8164	8167	MAS
+PMC3130168	T30	Application_Mention	8551	8554	MAS
+PMC4537151	T1	Application_Mention	211	219	GRADEpro
+PMC4255760	T1	Application_Mention	435	449	Image-Pro-Plus
+PMC4255760	T2	Application_Mention	642	646	SPSS
+PMC3285716	T1	Application_Mention	1	5	SPSS
+PMC3345378	T1	Application_Mention	71	80	Mediawiki
+PMC2518490	T1	Application_Mention	5898	5908	Leica Qwin
+PMC2518490	T3	Application_Mention	8583	8593	Leica Qwin
+PMC2518490	T5	Application_Mention	8770	8785	Adobe Photoshop
+PMC2518490	T6	Application_Mention	8932	8947	Adobe Photoshop
+PMC2846736	T1	Application_Mention	1417	1431	Primer Express
+PMC2846736	T3	Application_Mention	2351	2354	SDS
+PMC2846736	T5	Application_Mention	3184	3188	SPSS
+PMC4807949	T1	Application_Mention	182	186	SPSS
+PMC4807949	T4	Application_Mention	231	247	Graph- Pad Prism
+PMC4959023	T1	Application_Mention	1672	1689	Sor- cerer system
+PMC4959023	T2	Application_Mention	4743	4749	ImageJ
+PMC4959023	T3	Application_Mention	4759	4773	GraphPad Prism
+PMC4310406	T1	Application_Mention	434	439	Metek
+PMC4310406	T3	Application_Mention	686	690	SPSS
+PMC4310406	T6	Application_Mention	738	752	GraphPad Prism
+PMC3003812	T2	Application_Mention	82	92	Sigma Plot
+PMC3003812	T4	Application_Mention	294	298	SPSS
+PMC4231936	T1	Application_Mention	420	432	Reify Health
+PMC4231936	T2	Application_Mention	1869	1873	SPSS
+PMC3765960	T1	Application_Mention	43	48	PRISM
+PMC3765960	T3	Application_Mention	860	865	AMIRA
+PMC3765960	T6	Application_Mention	2021	2027	ImageJ
+PMC3765960	T7	Application_Mention	2160	2166	MATLAB
+PMC3368359	T1	Application_Mention	1323	1332	Image Pro
+PMC3368359	T2	Application_Mention	2994	3008	TotalLab Quant
+PMC3225968	T1	Application_Mention	512	543	Spotfire DecisionSite Analytics
+PMC3225968	T3	Application_Mention	1225	1234	SigmaPlot
+PMC3225968	T5	Application_Mention	1606	1614	LOW- ESS
+PMC3225968	T6	Application_Mention	1622	1623	R
+PMC3225968	T8	Application_Mention	1647	1652	LIMMA
+PMC2682500	T1	Application_Mention	93	98	BLAST
+PMC2682500	T2	Application_Mention	127	134	BLAST 2
+PMC2682500	T3	Application_Mention	234	239	BLAST
+PMC2682500	T5	Application_Mention	333	338	BLAST
+PMC2682500	T7	Application_Mention	958	966	ClustalX
+PMC2682500	T8	Application_Mention	1346	1355	TREE VIEW
+PMC2682500	T9	Application_Mention	1739	1746	SignalP
+PMC2682500	T11	Application_Mention	2614	2622	ClustalX
+PMC5019270	T1	Application_Mention	181	185	SPSS
+PMC4675816	T2	Application_Mention	101	106	Excel
+PMC5015294	T1	Application_Mention	42	46	SPSS
+PMC4407761	T1	Application_Mention	583	593	CTL-Europe
+PMC4407761	T2	Application_Mention	1001	1005	SPSS
+PMC4407761	T4	Application_Mention	1022	1036	GraphPad Prism
+PMC4437485	T1	Application_Mention	1597	1609	Cell Counter
+PMC4437485	T2	Application_Mention	1633	1639	ImageJ
+PMC4437485	T3	Application_Mention	3181	3188	Clampex
+PMC4437485	T6	Application_Mention	4332	4340	Clampfit
+PMC4916592	T1	Application_Mention	30	34	SPSS
+PMC4916592	T4	Application_Mention	88	96	GraphPad
+PMC4644610	T1	Application_Mention	26	30	SPSS
+PMC4616395	T1	Application_Mention	1269	1312	Statistical Package for the Social Sciences
+PMC3378868	T1	Application_Mention	239	249	TargetScan
+PMC3881477	T1	Application_Mention	460	464	SPSS
+PMC3010901	T2	Application_Mention	60	63	EPP
+PMC3010901	T3	Application_Mention	1682	1685	EPP
+PMC3010901	T4	Application_Mention	1689	1697	Spectrum
+PMC3010901	T5	Application_Mention	1882	1885	EPP
+PMC3010901	T6	Application_Mention	2518	2526	Spectrum
+PMC3010901	T7	Application_Mention	2534	2537	EPP
+PMC3010901	T8	Application_Mention	2542	2550	Spectrum
+PMC4133065	T1	Application_Mention	29	34	STATA
+PMC4173757	T1	Application_Mention	2092	2098	ImageJ
+PMC4173757	T3	Application_Mention	2408	2414	ImageJ
+PMC4173757	T4	Application_Mention	3336	3339	JMP
+PMC3994298	T1	Application_Mention	276	285	MetaMorph
+PMC3994298	T4	Application_Mention	534	584	Statistical Package for the Social Sciences (SPSS)
+PMC4632117	T1	Application_Mention	253	260	Echopac
+PMC4632117	T2	Application_Mention	2541	2558	CellSens Standard
+PMC4295086	T1	Application_Mention	316	322	ArcGIS
+PMC4295086	T3	Application_Mention	3656	3657	R
+PMC4295086	T4	Application_Mention	5493	5499	ArcGIS
+PMC3284254	T1	Application_Mention	1713	1729	PSQ Assay Design
+PMC3284254	T3	Application_Mention	2160	2170	Pyro Q-CpG
+PMC3284254	T5	Application_Mention	2271	2287	PSQ Assay Design
+PMC4449848	T1	Application_Mention	819	825	PhPWin
+PMC4062317	T1	Application_Mention	27	31	SPSS
+PMC4062317	T4	Application_Mention	79	89	Analyse-It
+PMC4091108	T1	Application_Mention	80	89	TurboMass
+PMC3824685	T1	Application_Mention	80	84	SPSS
+PMC2956241	T1	Application_Mention	734	767	Biomedical data processing (BMDP)
+PMC3537159	T1	Application_Mention	130	137	Blender
+PMC4411514	T1	Application_Mention	956	962	FlowJo
+PMC4411514	T4	Application_Mention	1482	1487	Prism
+PMC5073050	T1	Application_Mention	1667	1708	Nordic Image Control and Evaluation (nICE
+PMC5073050	T3	Application_Mention	1787	1793	MATLAB
+PMC5073050	T5	Application_Mention	2223	2238	GRAPHPAD INSTAT
+PMC4785310	T1	Application_Mention	34	42	Stata/IC
+PMC4951770	T1	Application_Mention	325	329	SPSS
+PMC4396969	T1	Application_Mention	277	285	FACSDiva
+PMC3825938	T1	Application_Mention	50	65	PASW Statistics
+PMC5440001	T1	Application_Mention	574	581	OpenEpi
+PMC2935446	T1	Application_Mention	375	395	GeneSilicoMetaServer
+PMC2935446	T2	Application_Mention	682	702	GeneSilicoMetaServer
+PMC2935446	T3	Application_Mention	1037	1057	GeneSilicoMetaServer
+PMC4832950	T1	Application_Mention	921	933	Leica Q550CW
+PMC4832950	T2	Application_Mention	964	968	Qwin
+PMC4832950	T3	Application_Mention	1959	1978	Cell Quest Research
+PMC4832950	T5	Application_Mention	2472	2476	SPSS
+PMC3905558	T1	Application_Mention	86	90	SPSS
+PMC3488743	T1	Application_Mention	1941	1949	Stata SE
+PMC5306244	T1	Application_Mention	30	36	NONMEM
+PMC5306244	T4	Application_Mention	770	776	NONMEM
+PMC4630049	T1	Application_Mention	776	780	SPSS
+PMC4905837	T1	Application_Mention	221	225	FACS
+PMC4905837	T2	Application_Mention	230	240	Cell Quest
+PMC3708637	T2	Application_Mention	834	857	Random Number Generator
+PMC3708637	T3	Application_Mention	1065	1068	SAS
+PMC3708637	T5	Application_Mention	1074	1078	SPSS
+PMC3708637	T7	Application_Mention	1085	1090	Stata
+PMC3708637	T9	Application_Mention	1096	1103	MedCalc
+PMC3708637	T11	Application_Mention	1111	1117	Systat
+PMC3708637	T13	Application_Mention	1127	1140	R environment
+PMC4785322	T1	Application_Mention	564	597	Statistical Analysis System (SAS)
+PMC4785322	T2	Application_Mention	1048	1051	SAS
+PMC2652046	T1	Application_Mention	85	93	Predotar
+PMC2652046	T2	Application_Mention	116	122	iPSORT
+PMC2652046	T3	Application_Mention	127	134	PSORTII
+PMC2652046	T4	Application_Mention	157	165	MitoPred
+PMC2652046	T5	Application_Mention	191	198	SignalP
+PMC2652046	T6	Application_Mention	1015	1026	CorelDraw12
+PMC2652046	T7	Application_Mention	1283	1288	TMHMM
+PMC2652046	T8	Application_Mention	1293	1299	TMPred
+PMC2652046	T9	Application_Mention	3140	3151	ScanProsite
+PMC3263864	T1	Application_Mention	394	402	SAS/STAT
+PMC5462257	T1	Application_Mention	321	327	ArcMap
+PMC4384862	T1	Application_Mention	61	65	SPSS
+PMC5348138	T1	Application_Mention	918	932	BeatScope Easy
+PMC3935166	T1	Application_Mention	1642	1651	OnlineTED
+PMC3935166	T2	Application_Mention	1877	1886	OnlineTED
+PMC3935166	T3	Application_Mention	2071	2080	OnlineTED
+PMC3935166	T4	Application_Mention	2338	2374	My Structured Query Language (MySQL)
+PMC3935166	T5	Application_Mention	2677	2686	OnlineTED
+PMC3935166	T7	Application_Mention	2784	2793	OnlineTED
+PMC3935166	T8	Application_Mention	4764	4773	OnlineTED
+PMC3935166	T9	Application_Mention	5044	5053	OnlineTED
+PMC3935166	T10	Application_Mention	5800	5810	Online-TED
+PMC3935166	T11	Application_Mention	6147	6163	Google Analytics
+PMC3935166	T13	Application_Mention	6205	6214	OnlineTED
+PMC3935166	T14	Application_Mention	6842	6869	Interwrite Cricket software
+PMC3935166	T15	Application_Mention	6878	6885	Windows
+PMC3935166	T16	Application_Mention	6895	6900	Linux
+PMC3935166	T18	Application_Mention	7120	7129	OnlineTED
+PMC3935166	T19	Application_Mention	7229	7238	OnlineTED
+PMC3935166	T20	Application_Mention	7839	7849	Online-TED
+PMC3935166	T21	Application_Mention	7999	8008	OnlineTED
+PMC3935166	T22	Application_Mention	8215	8224	OnlineTED
+PMC3935166	T23	Application_Mention	9027	9036	OnlineTED
+PMC3935166	T26	Application_Mention	9137	9146	OnlineTED
+PMC3935166	T27	Application_Mention	9332	9341	OnlineTED
+PMC3935166	T28	Application_Mention	9441	9450	OnlineTED
+PMC3935166	T29	Application_Mention	9601	9610	OnlineTED
+PMC3935166	T30	Application_Mention	9945	9954	OnlineTED
+PMC3935166	T31	Application_Mention	10116	10125	OnlineTED
+PMC3935166	T32	Application_Mention	10202	10211	OnlineTED
+PMC3935166	T33	Application_Mention	10883	10892	OnlineTED
+PMC3935166	T34	Application_Mention	10926	10935	OnlineTED
+PMC3935166	T35	Application_Mention	11093	11102	OnlineTED
+PMC3935166	T36	Application_Mention	11385	11394	OnlineTED
+PMC3935166	T37	Application_Mention	11639	11648	OnlineTED
+PMC3935166	T38	Application_Mention	11702	11711	OnlineTED
+PMC3935166	T39	Application_Mention	11832	11841	OnlineTED
+PMC3935166	T40	Application_Mention	12095	12104	OnlineTED
+PMC3935166	T41	Application_Mention	12456	12465	OnlineTED
+PMC3032512	T1	Application_Mention	808	814	ImageJ
+PMC3032512	T2	Application_Mention	3476	3482	ImageJ
+PMC3032512	T3	Application_Mention	5282	5289	Image J
+PMC3032512	T4	Application_Mention	7101	7107	ImageJ
+PMC3032512	T5	Application_Mention	9179	9185	ImageJ
+PMC3032512	T6	Application_Mention	9907	9913	ImageJ
+PMC2741607	T1	Application_Mention	34	38	SPSS
+PMC3037501	T1	Application_Mention	24	28	SPSS
+PMC5056991	T1	Application_Mention	275	290	NIS-Elements BR
+PMC5056991	T4	Application_Mention	376	391	NIS-Elements BR
+PMC5295802	T1	Application_Mention	811	816	STATA
+PMC3627563	T1	Application_Mention	53	61	treedist
+PMC3627563	T2	Application_Mention	96	110	PHYLIP package
+PMC3627563	T4	Application_Mention	715	727	Tree Builder
+PMC3627563	T6	Application_Mention	800	809	co-phylog
+PMC3627563	T7	Application_Mention	1360	1374	Maq simulation
+PMC3627563	T8	Application_Mention	1383	1394	MAQ package
+PMC3627563	T10	Application_Mention	1801	1810	co-phylog
+PMC3627563	T11	Application_Mention	1816	1825	co-phylog
+PMC3627563	T12	Application_Mention	2067	2076	co-phylog
+PMC3627563	T13	Application_Mention	2166	2175	co-phylog
+PMC3627563	T14	Application_Mention	2371	2380	co-phylog
+PMC3627563	T15	Application_Mention	2434	2443	co-phylog
+PMC3627563	T16	Application_Mention	2687	2696	co-phylog
+PMC3627563	T17	Application_Mention	2797	2806	co-phylog
+PMC3627563	T19	Application_Mention	2945	2968	Linux Enterprise Server
+PMC3627563	T21	Application_Mention	3075	3084	co-phylog
+PMC3627563	T22	Application_Mention	3306	3315	co-phylog
+PMC3776217	T1	Application_Mention	453	462	Metamorph
+PMC3776217	T3	Application_Mention	522	528	ImageJ
+PMC3776217	T5	Application_Mention	1110	1116	ImageJ
+PMC3776217	T6	Application_Mention	2543	2549	ImageJ
+PMC3776217	T7	Application_Mention	3146	3152	ImageJ
+PMC3982819	T1	Application_Mention	1242	1247	IPLab
+PMC3982819	T3	Application_Mention	1604	1608	SPSS
+PMC4967653	T1	Application_Mention	59	69	STATISTICA
+PMC4967653	T4	Application_Mention	104	114	SAS System
+PMC5445908	T1	Application_Mention	140	144	SPSS
+PMC3202792	T1	Application_Mention	365	371	BLASTP
+PMC3202792	T2	Application_Mention	716	722	BLASTP
+PMC3202792	T3	Application_Mention	725	733	AutoFACT
+PMC3202792	T4	Application_Mention	735	747	InterProScan
+PMC3202792	T5	Application_Mention	754	759	PRIAM
+PMC3202792	T6	Application_Mention	1111	1117	GS FLX
+PMC4272497	T1	Application_Mention	73	77	SPSS
+PMC4780720	T1	Application_Mention	343	346	DAS
+PMC4780720	T3	Application_Mention	803	806	DAS
+PMC5318538	T1	Application_Mention	42	46	SPSS
+PMC4720104	T1	Application_Mention	617	635	NIH Image Analysis
+PMC4720104	T2	Application_Mention	884	898	GraphPad Prism
+PMC4720104	T5	Application_Mention	1120	1124	SPSS
+PMC5207597	T1	Application_Mention	857	867	Cirrus OCT
+PMC5207597	T3	Application_Mention	2105	2154	Statistical Package for the Social Sciences (SPSS
+PMC5207597	T6	Application_Mention	2236	2240	SPSS
+PMC5207597	T8	Application_Mention	2250	2265	Graph Pad Prism
+PMC3835501	T1	Application_Mention	2244	2259	PASW Statistics
+PMC4801132	T2	Application_Mention	61	74	GeneSpring GX
+PMC4801132	T4	Application_Mention	331	337	Mascot
+PMC4801132	T5	Application_Mention	554	560	Mascot
+PMC4801132	T6	Application_Mention	1042	1047	BiNGO
+PMC4801132	T7	Application_Mention	1051	1060	Cytoscape
+PMC4801132	T9	Application_Mention	1382	1390	Metscape
+PMC4801132	T10	Application_Mention	1485	1491	ClueGO
+PMC4801132	T11	Application_Mention	1495	1504	Cytoscape
+PMC4801132	T12	Application_Mention	1574	1587	MetaboAnalyst
+PMC4801132	T14	Application_Mention	1987	1995	Metscape
+PMC5293311	T1	Application_Mention	245	253	BREAST-Q
+PMC5293311	T2	Application_Mention	452	460	BREAST-Q
+PMC5293311	T3	Application_Mention	1037	1045	BREAST-Q
+PMC5293311	T6	Application_Mention	1513	1521	BREAST-Q
+PMC5293311	T7	Application_Mention	1622	1630	BREAST-Q
+PMC5293311	T8	Application_Mention	2107	2111	RUMM
+PMC5293311	T11	Application_Mention	2361	2369	BREAST-Q
+PMC5293311	T13	Application_Mention	2845	2853	BREAST-Q
+PMC5293311	T14	Application_Mention	2890	2895	Excel
+PMC5293311	T16	Application_Mention	2954	2957	SAS
+PMC3542452	T1	Application_Mention	381	388	G*Power
+PMC3542452	T4	Application_Mention	743	747	SPSS
+PMC5339831	T1	Application_Mention	1192	1200	Volocity
+PMC5339831	T3	Application_Mention	4308	4319	Axio Vision
+PMC5339831	T5	Application_Mention	4511	4517	Mascot
+PMC5339831	T8	Application_Mention	4557	4564	Sequest
+PMC5339831	T10	Application_Mention	4578	4597	Proteome Discoverer
+PMC5339831	T13	Application_Mention	4678	4687	PhosphoRS
+PMC5339831	T14	Application_Mention	4703	4722	Proteome Discoverer
+PMC4160583	T1	Application_Mention	47	51	SPSS
+PMC3078083	T1	Application_Mention	1777	1781	Aida
+PMC3078083	T4	Application_Mention	2310	2321	Scion Image
+PMC4634622	T1	Application_Mention	91	95	SPSS
+PMC4634622	T4	Application_Mention	393	398	Prism
+PMC5452632	T1	Application_Mention	748	752	SPSS
+PMC4135079	T1	Application_Mention	160	166	MatLab
+PMC4135079	T2	Application_Mention	409	415	Chaste
+PMC4812582	T1	Application_Mention	27	31	SPSS
+PMC3072005	T1	Application_Mention	1480	1526	Statistical Package for Social Sciences (SPSS)
+PMC5054038	T1	Application_Mention	459	466	ace.map
+PMC5054038	T2	Application_Mention	560	613	Applied Biosystems Expression Array System Soft- ware
+PMC5054038	T4	Application_Mention	1073	1100	Applied Biosystems Software
+PMC5054038	T6	Application_Mention	1270	1277	ace.map
+PMC5054038	T7	Application_Mention	2294	2300	LOWESS
+PMC5054038	T8	Application_Mention	2328	2334	LOWESS
+PMC5054038	T9	Application_Mention	2798	2804	LOWESS
+PMC5054038	T10	Application_Mention	2858	2864	LOWESS
+PMC5054038	T11	Application_Mention	2899	2906	NeONORM
+PMC5054038	T13	Application_Mention	3076	3083	ace.map
+PMC5054038	T14	Application_Mention	3202	3209	ace.map
+PMC5054038	T15	Application_Mention	3315	3323	gnupplot
+PMC5054038	T17	Application_Mention	3394	3401	ace.map
+PMC3149990	T1	Application_Mention	1300	1308	MassLynx
+PMC5308490	T1	Application_Mention	3900	3906	MATLAB
+PMC2686489	T1	Application_Mention	636	642	BLASTP
+PMC2686489	T2	Application_Mention	1877	1884	EnsEMBL
+PMC2686489	T3	Application_Mention	1942	1949	EnsEMBL
+PMC2686489	T4	Application_Mention	2422	2429	EnsEMBL
+PMC2686489	T5	Application_Mention	2569	2576	EnsEMBL
+PMC2686489	T6	Application_Mention	2740	2747	EnsEMBL
+PMC5428908	T1	Application_Mention	38	53	SPSS Statistics
+PMC4585391	T1	Application_Mention	644	648	SPSS
+PMC3302911	T1	Application_Mention	559	563	SPSS
+PMC5421174	T1	Application_Mention	507	529	BurrowsWheeler Aligner
+PMC5421174	T2	Application_Mention	534	540	Picard
+PMC5421174	T3	Application_Mention	593	597	GATK
+PMC5421174	T6	Application_Mention	970	978	PolyPhen
+PMC5421174	T9	Application_Mention	1030	1045	Mutation Taster
+PMC3064789	T1	Application_Mention	919	925	Grafit
+PMC3064789	T2	Application_Mention	1187	1193	Grafit
+PMC3064789	T4	Application_Mention	1357	1364	DynaFit
+PMC3064789	T6	Application_Mention	1391	1398	DynaFit
+PMC3064789	T7	Application_Mention	2256	2263	DynaFit
+PMC3064789	T8	Application_Mention	2442	2449	DynaFit
+PMC2780877	T1	Application_Mention	1006	1009	SAS
+PMC3549250	T1	Application_Mention	897	902	STATA
+PMC3881473	T1	Application_Mention	733	734	R

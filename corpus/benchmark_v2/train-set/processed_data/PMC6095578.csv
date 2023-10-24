@@ -1,0 +1,2 @@
+tokens,labels
+"['Statistical', 'analyses', 'of', 'quantitative', 'data', 'were', 'performed', 'using', 'Excel', 'and', 'custom', 'shell', 'scripts', '(Unix).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,7 @@
+tokens,labels
+"['Parametric', 'data', 'are', 'presented', 'as', 'mean±SD', 'and', 'nonparametric', 'data', 'as', 'median', '(inter-quartile', 'range).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['χ', '2', 'Test', 'was', 'used', 'to', 'compare', 'categorical', 'data', 'and', 't', 'test', 'or', 'Mann-Whitney', 'test', 'to', 'compare', 'continuous', 'data', 'depending', 'on', 'whether', 'data', 'were', 'parametric', 'or', 'nonparametric.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'Kaplan-Meier', 'survival', 'curve', 'was', 'calculated', 'based', 'on', 'mortality', 'data', 'censored', 'for', 'admission.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Binary', 'logistic', 'regression', 'was', 'used', 'to', 'test', 'significant', 'univariate', 'associations', 'with', 'inhospital', 'mortality.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['p', 'Values', 'of<0.05', 'were', 'considered', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'analyses', 'were', 'performed', 'using', 'SPSS', 'V', '19.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"

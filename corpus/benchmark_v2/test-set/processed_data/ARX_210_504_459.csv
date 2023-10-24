@@ -1,0 +1,2 @@
+tokens,labels
+"['We', 'compare', 'our', 'approach,', 'InverseConsistentNet', '(ICON)', 'against', 'the', 'methods', 'of', '[37],', 'in', 'terms', 'of', '(1)', 'cartilage', 'Dice', 'scores', 'between', 'registered', 'image', 'pairs', '[1]', '(based', 'on', 'manual', 'segmentations)', 'and', '(2)', 'the', 'number', 'of', 'folds.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

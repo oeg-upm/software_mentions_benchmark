@@ -1,0 +1,4 @@
+tokens,labels
+"['The', 'journal', 'is', 'hosted', 'on', 'an', 'open-access,', 'open-review,', 'rapid', 'publication', 'platform', 'called', 'PubPub', 'created', 'by', 'students', 'at', 'the', 'Media', 'Lab.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['PubPub', 'is', 'a', 'collaborative', 'publication', 'environment', 'with', 'rich', 'commenting', 'features,', 'and', 'powerful,', 'intuitive', 'authoring', 'tools.']","['B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['JoDS', 'articles', 'are', 'authored', 'directly', 'within', 'the', 'PubPub', 'environment,', 'which', 'provides', 'support', 'for', 'multimedia,', 'image', 'integration,', 'and', 'large', 'data', 'sets.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

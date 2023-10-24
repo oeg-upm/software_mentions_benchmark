@@ -1,0 +1,5 @@
+tokens,labels
+"['Linear', 'regression', 'analysis', 'was', 'carried', 'out', 'using', 'STATA', '14', 'to', 'examine', 'associations', 'between', 'wellbeing', 'and']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['i)', 'father’s', 'social', 'class,']","['O', 'O', 'O', 'O']"
+"['ii)', 'adult', 'social', 'class,']","['O', 'O', 'O', 'O']"
+"['iii)', 'father’s', 'and', 'adult', 'social', 'class', 'included', 'together.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

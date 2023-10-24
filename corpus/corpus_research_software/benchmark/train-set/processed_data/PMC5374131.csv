@@ -1,0 +1,5 @@
+tokens,labels
+"['Continuous', 'variables', 'were', 'analyzed', 'using', 'the', 'Mann', 'Whitney', 'U', 'test', 'and', 'categorical', 'variables', 'analyzed', 'using', 'the', 'Pearson', 'χ', '2', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'sensitivity', 'and', 'specificity', 'of', 'various', 'tumor', 'sizes', 'were', 'analyzed', 'using', 'a', 'receiver', 'operating', 'characteristic', '(ROC)', 'curve,', 'and', 'the', 'optimal', 'cutoff', 'value', 'was', 'determined.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analyses', 'were', 'performed', 'using', 'SPSS', 'statistical', 'software', '(SPSS', 'for', 'Windows,', 'version', '13;', 'SPSS', 'Inc.,', 'IL).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'P-value', '<', '0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

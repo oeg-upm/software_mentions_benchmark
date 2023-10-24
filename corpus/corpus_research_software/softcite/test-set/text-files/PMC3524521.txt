@@ -1,0 +1,2 @@
+
+Numerical solution of PDEs. The PDEs were solved with finite element methods as implemented in COMSOL Multiphysics 4.1 and 4.2. COMSOL Multiphysics is a wellestablished software package and several studies confirm that COMSOL provides accurate solutions to reaction-diffusion equations both on constant 99 and growing two-dimensional domains 100-102. Both mesh and the time step were refined until further refinement no longer resulted in noticeable improvements as judged by eye. The simulations were optimised for computational efficiency as described in 103.

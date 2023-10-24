@@ -1,0 +1,7 @@
+tokens,labels
+"['The', 'data', 'collected', 'included', 'age,', 'gender,', 'operating', 'time,', 'length', 'of', 'hospital', 'stay,', 'second', 'port', 'insertion,', 'conversion', 'to', 'open', 'surgery', 'and', 'complications.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'statistical', 'analyses', 'were', 'performed', 'using', 'the', 'SPSS', 'ver.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+"['11.5', '(SPSS', 'Inc.,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'data', 'was', 'expressed', 'as', 'the', 'mean', '±', 'standard', 'deviation.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Mann-Whitney', 'U', 'and', 't-tests', 'were', 'used', 'for', 'the', 'statistical', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['P', '<', '0.05', 'was', 'accepted', 'as', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

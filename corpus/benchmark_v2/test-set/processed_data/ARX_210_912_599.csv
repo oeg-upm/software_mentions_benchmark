@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'evaluation', 'results', 'indicate', 'that', 'DialogueCSE', 'significantly', 'outperforms', 'the', 'baselines', 'on', 'the', 'three', 'datasets', 'in', 'terms', 'of', 'both', 'MAP', 'and', 'Spearman’s', 'correlation', 'metrics,', 'demonstrating', 'its', 'effectiveness.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

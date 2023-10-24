@@ -1,0 +1,4 @@
+tokens,labels
+"['Cells', 'were', 'analyzed', 'for', 'EGFP', 'and', 'BFP', 'expression', 'by', 'flow', 'cytometry', 'using', 'a', 'LSRFortessa', 'Call', 'Analyzer', '(BD', 'Biosciences).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Data', 'acquisition', 'and', 'analysis', 'were', 'performed', 'using', 'FACSDiva', '(Becton', 'Dickinson)', 'and', 'FlowLogic', 'software', '(Inivai).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"
+"['Gating', 'was', 'performed', 'on', 'live', 'cells', 'based', 'on', 'forward', 'and', 'side', 'scatter', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

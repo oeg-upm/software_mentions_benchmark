@@ -1,0 +1,2 @@
+tokens,labels
+"['Data', 'were', 'processed', 'by', 'SPSS', 'version', '18', '(SPSS', 'Inc.,', 'Chicago,', 'Illinois,', 'USA)', 'and', 'statistical', 'analysis', 'was', 'performed', 'using', 'one-way', 'and', 'two-way', 'ANOVA', 'and', 'Scheffe', 'multiple', 'comparisons', 'and', 'p<0.05', 'was', 'considered', 'significant.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'mean', 'values', 'of', 'the', 'parameters', 'were', 'calculated', 'using', 'the', 'Statistical', 'Package', 'for', 'Social', 'Sciences', 'version', '13.0', 'for', 'Windows', '(SPSS', 'Inc.,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

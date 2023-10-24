@@ -1,0 +1,3 @@
+tokens,labels
+"['For', 'metric', 'variables', 'the', 'mean', 'was', 'computed', 'and', 'univariate', 'analysis', 'of', 'covariance', '(oneway', 'ANOVA', 'in', 'SPSS', 'was', 'applied.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"
+"['Calculations', 'were', 'done', 'using', 'SPSS', '20.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

@@ -1,0 +1,7 @@
+tokens,labels
+"['All', 'statistical', 'analyses', 'were', 'performed', 'using', 'the', 'Statistical', 'Package', 'for', 'Social', 'Sciences', '(SPSS', 'version', '11.0', 'for', 'Windows,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Data', 'were', 'expressed', 'as', 'the', 'means', '¡', 'standart', 'error', 'of', 'the', 'mean', '(SEM).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'p-value', ',0.05', 'was', 'accepted', 'as', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'KolmogorovSmirnov', 'test', 'was', 'performed', 'to', 'assess', 'the', 'normality', 'of', 'the', 'variables.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'Wilcoxon', 'signed-rank', 'test', 'was', 'used', 'to', 'compare', 'the', 'FPG', 'and', 'eAG', 'levels,', 'and', 'the', 'Mann-Whitney', 'U', 'test', 'was', 'used', 'to', 'compare', 'the', 'variables', 'between', 'males', 'and', 'females.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'Spearman', 'correlation', 'coefficient', '(r)', 'was', 'used', 'to', 'test', 'the', 'relationship', 'between', 'the', 'FPG', 'and', 'eAG', 'levels.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

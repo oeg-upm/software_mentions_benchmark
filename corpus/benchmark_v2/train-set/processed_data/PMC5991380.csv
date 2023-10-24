@@ -1,0 +1,2 @@
+tokens,labels
+"['All', 'previously', 'published', 'Vg', 'sequences', 'plus', 'Vg', 'sequences', 'obtained', 'by', 'BLAST', 'searches', 'were', 'used', 'to', 'construct', 'an', 'alignment', 'using', 'the', 'web-based', 'Clustal', 'Omega', 'tool', '(https://www.ebi.ac.uk/Tools/msa/clustalo/).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'B-Application_Mention', 'O', 'O']"

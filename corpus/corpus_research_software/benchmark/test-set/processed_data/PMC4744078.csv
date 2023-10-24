@@ -1,0 +1,2 @@
+tokens,labels
+"['Recurring', 'topics', 'were', 'explored', 'more', 'in', 'depth', 'by', 'revisiting', 'the', 'original', 'transcripts', 'and', 'grouping', 'relevant', 'quotes', 'in', 'Microsoft', 'Excel']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention']"

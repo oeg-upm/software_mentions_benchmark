@@ -1,0 +1,2 @@
+
+At indicated time points, mice were scanned for 30 s to 2 min under isoflurane anesthesia using a small animal Quantum FX microCT (PerkinElmer) at 45 υm resolution, 90 kV, with 160 υA current. Images were acquired using PerkinElmer Quantum FX software and processed with Analyze 11.0 (AnalyzeDirect).

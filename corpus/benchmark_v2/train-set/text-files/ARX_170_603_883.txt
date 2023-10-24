@@ -1,0 +1,1 @@
+In this section, we are interested in evaluating the effectiveness of both MWM and MWMS clustering algorithms by considering different synthetic data generating processes.

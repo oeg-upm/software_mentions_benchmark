@@ -1,0 +1,5 @@
+tokens,labels
+"['The', 'SPSS', '21.0', 'statistical', 'software', '(IBM', 'Corporation,', 'Armonk,', 'NY,', 'USA)', 'was', 'used', 'for', 'the', 'statistical', 'analysis.']","['O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'measurement', 'data', 'were', 'shown', 'as', 'mean', '±', 'standard', 'deviation,', 'the', 'mean', 'value', 'of', 'the', 'two', 'samples', 'was', 'compared', 'by', 't-test,', 'and', 'the', 'rate', 'was', 'compared', 'by', 'χ', '2', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Spearman', 'correlation', 'analysis', 'was', 'used', 'to', 'compare', 'the', 'correlation', 'between', 'the', 'severity', 'of', 'fatty', 'liver', 'and', 'the', 'HOMA-IR', 'index.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'tests', 'were', 'two', 'sided', 'and', 'evaluated', 'at', 'the', '0.05', 'alpha', 'level.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

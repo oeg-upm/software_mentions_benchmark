@@ -1,0 +1,9 @@
+tokens,labels
+"['Data', 'were', 'measured', 'as', 'the', 'cycle', 'number', 'at', 'which', 'logarithmic', 'PCR', 'plots', 'cross', 'a', 'calculated', 'threshold', 'line', '(CT)', 'and', 'used', 'to', 'determine', '⌬CT', 'values', '[(⌬CT', 'of', 'the', 'target', 'gene)', 'Ϫ', '(⌬CT', 'of', 'the', 'housekeeping', 'gene).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Data', 'were', 'expressed', 'as', 'arbitrary', 'units', '(AU)', 'using', 'the', 'following', 'transformation:', 'expression', 'ϭ', '10', '5', 'ϫ', '(2', 'Ϫ⌬CT', ')', 'AU.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'analysis.']","['O', 'O']"
+"['Data', 'are', 'presented', 'as', 'means', 'Ϯ', 'SE', 'unless', 'otherwise', 'stated.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Area', 'under', 'the', 'curve', '(AUC)', 'analysis', 'was', 'performed', 'using', 'the', 'trapezoidal', 'method.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['For', 'comparison', 'of', 'single', 'variables,', 't', 'tests', 'have', 'been', 'used', '(or', 'nonparametric', 'equivalents', 'where', 'data', 'were', 'not', 'normally', 'distributed).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Regression', 'analyses', 'were', 'performed', 'using', 'Pearson', 'correlations;', 'where', 'more', 'than', 'one', 'variable', 'was', 'considered,', 'multiple', 'linear', 'regression', 'analysis', 'was', 'used.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'analysis', 'was', 'performed', 'using', 'SigmaStat', '3.1', '(Systat', 'Software,', 'Point', 'Richmond,', 'CA).']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"

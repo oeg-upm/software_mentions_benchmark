@@ -1,0 +1,2 @@
+
+The application architecture consists of a Microsoft asp.NET 3.5 presentation layer (c#), c# 4.0 data model and application layer, and MySQL persistent storage.

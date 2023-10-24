@@ -1,0 +1,2 @@
+
+We evaluated 221 patients and 81 primary care providers from the Stanford Health Care (SHC) system and administered two separate, structured surveys for each group. Patients were interviewed by phone and providers completed an online survey. Survey implementation was performed using Qualtrics software (Qualtrics, Provo UT). All study related processes and materials were approved by the Stanford Institutional Review Board.

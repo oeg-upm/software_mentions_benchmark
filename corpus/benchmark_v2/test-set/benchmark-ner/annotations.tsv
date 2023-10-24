@@ -1,0 +1,435 @@
+filename	mark	label	off0	off1	span
+PMC5969737	T1	Application_Mention	12	51	Statistical Package for Social Sciences
+PMC5969737	T2	Application_Mention	57	61	SPSS
+PMC6023132	T1	Application_Mention	25	30	STATA
+PMC6028088	T1	Application_Mention	56	61	STATA
+PMC6034840	T1	Application_Mention	45	48	SAS
+PMC6042753	T1	Application_Mention	29	44	SPSS Statistics
+PMC6047798	T1	Application_Mention	276	279	SAS
+PMC6047798	T2	Application_Mention	375	378	SAS
+PMC6051569	T1	Application_Mention	53	56	SAS
+PMC6051569	T3	Application_Mention	57	75	University Edition
+PMC6061992	T1	Application_Mention	39	43	SPSS
+PMC6114920	T1	Application_Mention	181	185	SPSS
+PMC6114920	T2	Application_Mention	15	20	excel
+PMC6201949	T1	Application_Mention	93	97	SPSS
+PMC6201949	T2	Application_Mention	210	214	SPSS
+PMC6261591	T1	Application_Mention	0	4	SPSS
+PMC6287834	T1	Application_Mention	34	39	Stata
+PMC6291235	T1	Application_Mention	0	4	SPSS
+PMC6312285	T1	Application_Mention	46	51	Stata
+PMC6328181	T1	Application_Mention	30	34	SPSS
+PMC6328181	T4	Application_Mention	59	74	SPSS Statistics
+PMC6338375	T1	Application_Mention	85	88	SAS
+PMC5381894	T1	Application_Mention	59	63	SPSS
+PMC5384787	T1	Application_Mention	12	16	SPSS
+PMC5388499	T1	Application_Mention	10	14	SPSS
+PMC5391050	T1	Application_Mention	34	39	Prism
+PMC5423609	T1	Application_Mention	28	32	SPSS
+PMC5513423	T1	Application_Mention	135	139	SPSS
+PMC5544237	T1	Application_Mention	121	128	Tableau
+PMC5544237	T2	Application_Mention	133	138	Excel
+PMC5544237	T3	Application_Mention	73	80	Tableau
+PMC5544237	T4	Application_Mention	140	147	Tableau
+PMC5544237	T7	Application_Mention	176	181	Excel
+PMC5567909	T1	Application_Mention	47	52	Excel
+PMC5568325	T1	Application_Mention	65	77	SurveyMonkey
+PMC5568325	T2	Application_Mention	137	142	Excel
+PMC5570331	T1	Application_Mention	39	57	Experiment Builder
+PMC5570331	T4	Application_Mention	335	341	Matlab
+PMC5573293	T1	Application_Mention	0	4	SPSS
+PMC5573293	T2	Application_Mention	19	34	SPSS statistics
+PMC5587279	T1	Application_Mention	33	48	SPSS Statistics
+PMC5589082	T1	Application_Mention	128	132	SPSS
+PMC5597219	T1	Application_Mention	29	34	Ctrax
+PMC5605050	T1	Application_Mention	37	52	SPSS Statistics
+PMC5627900	T1	Application_Mention	82	97	SPSS Statistics
+PMC5648132	T1	Application_Mention	33	37	SPSS
+PMC5656308	T1	Application_Mention	49	54	STATA
+PMC5659643	T1	Application_Mention	86	91	Stata
+PMC5659773	T1	Application_Mention	39	44	Stata
+PMC5706714	T1	Application_Mention	42	45	SAS
+PMC5728572	T2	Application_Mention	34	38	SPSS
+PMC5728572	T3	Application_Mention	70	75	Stata
+PMC5739404	T1	Application_Mention	25	29	SPSS
+PMC5739404	T2	Application_Mention	36	39	SAS
+PMC5755759	T1	Application_Mention	40	44	SPSS
+PMC5755789	T1	Application_Mention	46	51	STATA
+PMC5755789	T2	Application_Mention	165	169	QGIS
+PMC5757912	T1	Application_Mention	30	35	Excel
+PMC5757912	T2	Application_Mention	46	51	Excel
+PMC5771583	T1	Application_Mention	20	25	Stata
+PMC5783378	T1	Application_Mention	132	138	MATLAB
+PMC5794112	T1	Application_Mention	60	63	SAS
+PMC5794112	T2	Application_Mention	80	85	STATA
+PMC5794112	T5	Application_Mention	86	88	IC
+PMC5794112	T6	Application_Mention	89	91	SE
+PMC5819802	T1	Application_Mention	35	40	Stata
+PMC5826529	T1	Application_Mention	133	148	SPSS Statistics
+PMC5826529	T2	Application_Mention	217	227	LatentGold
+PMC5830041	T1	Application_Mention	86	90	SPSS
+PMC5830041	T2	Application_Mention	24	31	EpiData
+PMC5832313	T1	Application_Mention	252	256	SPSS
+PMC5832313	T2	Application_Mention	346	350	SPSS
+PMC5841764	T1	Application_Mention	55	60	Stata
+PMC5865738	T1	Application_Mention	61	64	SAS
+PMC5874058	T1	Application_Mention	34	38	SPSS
+PMC5880390	T1	Application_Mention	8	13	STATA
+PMC5884536	T1	Application_Mention	70	113	Statistical Package for the Social Sciences
+PMC5884536	T3	Application_Mention	128	143	SPSS Statistics
+PMC5905883	T2	Application_Mention	100	120	Techila Technologies
+PMC5905883	T3	Application_Mention	42	54	Google Cloud
+PMC5922558	T1	Application_Mention	73	77	SPSS
+PMC5937783	T1	Application_Mention	74	89	SPSS Statistics
+PMC5967727	T1	Application_Mention	46	61	SPSS Statistics
+PMC5967727	T2	Application_Mention	71	75	AMOS
+PMC2295259	T1	Application_Mention	78	82	SPSS
+PMC2582449	T1	Application_Mention	205	211	RevMan
+PMC2582449	T2	Application_Mention	97	140	Statistical Package for the Social Sciences
+PMC2582449	T4	Application_Mention	34	37	SAS
+PMC2582449	T7	Application_Mention	156	160	SPSS
+PMC2582449	T12	Application_Mention	38	42	STAT
+PMC2924608	T1	Application_Mention	34	39	STATA
+PMC2924608	T4	Application_Mention	40	42	SE
+PMC2942830	T1	Application_Mention	132	136	SPSS
+PMC2942830	T2	Application_Mention	309	313	SPSS
+PMC2989911	T1	Application_Mention	34	42	Statview
+PMC3001856	T1	Application_Mention	4	7	SAS
+PMC3113910	T1	Application_Mention	0	4	SPSS
+PMC3237560	T1	Application_Mention	4	7	SAS
+PMC3254635	T1	Application_Mention	36	41	Stata
+PMC3257264	T1	Application_Mention	56	64	Epi Info
+PMC3257264	T2	Application_Mention	122	127	STATA
+PMC3257264	T3	Application_Mention	241	246	STATA
+PMC3353911	T1	Application_Mention	34	39	Stata
+PMC3353911	T2	Application_Mention	91	96	Excel
+PMC3356250	T1	Application_Mention	60	64	SPSS
+PMC3356291	T1	Application_Mention	41	50	SigmaPlot
+PMC3402400	T1	Application_Mention	28	32	SPSS
+PMC3469536	T1	Application_Mention	55	70	SPSS Statistics
+PMC3490915	T1	Application_Mention	57	62	Prism
+PMC3492364	T1	Application_Mention	47	52	Excel
+PMC3498156	T1	Application_Mention	36	79	Statistical Package for the Social Sciences
+PMC3504100	T1	Application_Mention	33	44	Cogent 2000
+PMC3507871	T1	Application_Mention	24	29	STATA
+PMC3507917	T1	Application_Mention	28	32	SPSS
+PMC3526652	T1	Application_Mention	127	131	SPSS
+PMC3542333	T1	Application_Mention	52	67	PASW Statistics
+PMC3544765	T1	Application_Mention	33	75	Statistical Package for the Social Science
+PMC3544765	T2	Application_Mention	77	81	SPSS
+PMC3559777	T1	Application_Mention	25	29	SPSS
+PMC3559777	T2	Application_Mention	39	44	STATA
+PMC3561195	T1	Application_Mention	29	32	SAS
+PMC3576340	T1	Application_Mention	105	110	Stata
+PMC3576340	T2	Application_Mention	44	51	EpiData
+PMC3577686	T1	Application_Mention	31	36	Stata
+PMC3634734	T1	Application_Mention	200	204	SPSS
+PMC3656929	T1	Application_Mention	25	29	SPSS
+PMC3660607	T1	Application_Mention	29	32	SAS
+PMC3660607	T2	Application_Mention	64	70	SUDAAN
+PMC3661547	T1	Application_Mention	85	90	Stata
+PMC3666983	T1	Application_Mention	6	10	SPSS
+PMC3669127	T1	Application_Mention	47	51	SPSS
+PMC3670922	T1	Application_Mention	34	38	SPSS
+PMC3676365	T1	Application_Mention	33	48	SPSS Statistics
+PMC3739786	T1	Application_Mention	0	4	SPSS
+PMC3743525	T1	Application_Mention	38	43	Stata
+PMC3749220	T1	Application_Mention	150	155	STATA
+PMC3756026	T1	Application_Mention	25	29	SPSS
+PMC3756996	T1	Application_Mention	95	99	SPSS
+PMC3756996	T2	Application_Mention	239	243	SPSS
+PMC3759436	T1	Application_Mention	0	41	Statistical Product and Service Solutions
+PMC3759436	T2	Application_Mention	43	47	SPSS
+PMC3805582	T1	Application_Mention	59	64	STATA
+PMC3808299	T1	Application_Mention	26	31	STATA
+PMC3835884	T1	Application_Mention	17	23	EEGLAB
+PMC3879246	T1	Application_Mention	42	46	SPSS
+PMC3897519	T1	Application_Mention	24	28	SPSS
+PMC3897519	T2	Application_Mention	76	80	NCSS
+PMC3923838	T1	Application_Mention	37	41	SPSS
+PMC3938582	T1	Application_Mention	27	32	Stata
+PMC3938582	T2	Application_Mention	134	139	STATA
+PMC3942421	T1	Application_Mention	34	38	SPSS
+PMC3948370	T1	Application_Mention	24	27	SAS
+PMC3958518	T1	Application_Mention	0	5	STATA
+PMC3963974	T1	Application_Mention	42	57	PASW Statistics
+PMC3981780	T1	Application_Mention	51	56	STATA
+PMC3989186	T1	Application_Mention	9	14	Prism
+PMC4020748	T1	Application_Mention	247	250	SAS
+PMC4076331	T1	Application_Mention	34	49	PASW Statistics
+PMC4094494	T1	Application_Mention	138	142	SPSS
+PMC4100871	T1	Application_Mention	268	271	JMP
+PMC4113245	T1	Application_Mention	212	215	SAS
+PMC4113245	T2	Application_Mention	231	234	SAS
+PMC4117488	T1	Application_Mention	59	67	EPI INFO
+PMC4117488	T2	Application_Mention	121	126	Excel
+PMC4143241	T1	Application_Mention	50	55	Excel
+PMC4152246	T1	Application_Mention	29	34	Excel
+PMC4211701	T1	Application_Mention	31	36	STATA
+PMC4220931	T1	Application_Mention	296	299	SAS
+PMC4335060	T1	Application_Mention	30	34	SPSS
+PMC4366215	T2	Application_Mention	42	46	JAGS
+PMC4390361	T1	Application_Mention	28	33	STATA
+PMC4390361	T3	Application_Mention	34	36	MP
+PMC4414420	T1	Application_Mention	47	62	SPSS Statistics
+PMC4414468	T1	Application_Mention	0	5	Stata
+PMC4418829	T1	Application_Mention	283	288	excel
+PMC4423990	T1	Application_Mention	34	38	SPSS
+PMC4427319	T1	Application_Mention	43	47	SPSS
+PMC4433227	T1	Application_Mention	37	41	SPSS
+PMC4452766	T1	Application_Mention	34	39	Stata
+PMC4452766	T3	Application_Mention	40	42	SE
+PMC4481314	T1	Application_Mention	46	50	SPSS
+PMC4512684	T1	Application_Mention	30	35	Stata
+PMC4546275	T1	Application_Mention	34	38	SPSS
+PMC4546275	T2	Application_Mention	12	16	AMOS
+PMC4558049	T1	Application_Mention	75	78	SPM
+PMC4636431	T1	Application_Mention	56	60	SPSS
+PMC4664486	T1	Application_Mention	45	54	SigmaPlot
+PMC4684369	T1	Application_Mention	77	82	BLAST
+PMC4684369	T2	Application_Mention	84	117	Basic Local Alignment Search Tool
+PMC4692284	T1	Application_Mention	28	43	SPSS Statistics
+PMC4721654	T1	Application_Mention	62	67	Excel
+PMC4721672	T1	Application_Mention	57	61	SPSS
+PMC4723157	T1	Application_Mention	8	51	Statistical Package for the Social Sciences
+PMC4723157	T3	Application_Mention	53	57	SPSS
+PMC4728114	T1	Application_Mention	185	190	Stata
+PMC4731070	T1	Application_Mention	216	219	SAS
+PMC4744078	T1	Application_Mention	126	131	Excel
+PMC4755532	T1	Application_Mention	31	36	Stata
+PMC4762940	T1	Application_Mention	82	88	Access
+PMC4762940	T2	Application_Mention	135	140	Excel
+PMC4784934	T1	Application_Mention	141	160	PABAK-OS calculator
+PMC4784934	T3	Application_Mention	42	45	SAS
+PMC4805189	T1	Application_Mention	85	88	SAS
+PMC4814065	T1	Application_Mention	30	35	Stata
+PMC4825976	T1	Application_Mention	175	179	SPSS
+PMC4830594	T1	Application_Mention	52	56	SPSS
+PMC4833310	T1	Application_Mention	191	196	stata
+PMC4833352	T1	Application_Mention	38	43	STATA
+PMC4849764	T1	Application_Mention	46	49	SAS
+PMC4877066	T1	Application_Mention	65	70	Stata
+PMC4896451	T1	Application_Mention	209	214	Excel
+PMC4911165	T1	Application_Mention	31	34	SAS
+PMC4917221	T1	Application_Mention	79	84	Stata
+PMC4930171	T1	Application_Mention	34	39	STATA
+PMC4938526	T1	Application_Mention	158	162	SPSS
+PMC4970811	T1	Application_Mention	95	99	SPSS
+PMC4970811	T2	Application_Mention	49	54	Mplus
+PMC5001719	T1	Application_Mention	34	39	Stata
+PMC5003337	T1	Application_Mention	86	89	SPM
+PMC5019395	T1	Application_Mention	46	50	SPSS
+PMC5068799	T1	Application_Mention	57	72	SPSS Statistics
+PMC5068799	T2	Application_Mention	25	30	Mplus
+PMC5112978	T1	Application_Mention	50	54	SPSS
+PMC5115662	T1	Application_Mention	53	58	Excel
+PMC5115662	T2	Application_Mention	118	133	SPSS Statistics
+PMC5130232	T1	Application_Mention	47	52	Stata
+PMC5145233	T1	Application_Mention	43	47	SPSS
+PMC5158042	T1	Application_Mention	12	15	SAS
+PMC5179078	T1	Application_Mention	14	19	Mplus
+PMC5179078	T2	Application_Mention	0	4	SPSS
+PMC5231401	T1	Application_Mention	73	82	Sigmaplot
+PMC5240969	T1	Application_Mention	105	110	Excel
+PMC5295691	T1	Application_Mention	42	85	Statistical Package for the Social Sciences
+PMC5295691	T2	Application_Mention	87	91	SPSS
+PMC5302808	T1	Application_Mention	164	167	SAS
+PMC5302808	T2	Application_Mention	176	181	STATA
+PMC5325527	T1	Application_Mention	37	42	Stata
+10.1002_soej.12244	T1	Application_Mention	370	381	ReadyReturn
+10.1002_soej.12244	T2	Application_Mention	510	517	CalFile
+10.1002_soej.12244	T3	Application_Mention	3287	3292	Mturk
+10.1002_soej.12244	T4	Application_Mention	3349	3354	Mturk
+10.1007_s00148-015-0566-8	T1	Application_Mention	70	75	STATA
+10.1007_s00148-015-0566-8	T2	Application_Mention	2833	2838	STATA
+10.1007_s00148-015-0566-8	T3	Application_Mention	3762	3767	STATA
+10.1007_s00148-015-0566-8	T4	Application_Mention	5634	5639	STATA
+10.1007_s00148-015-0566-8	T5	Application_Mention	6909	6914	STATA
+10.1007_s00191-017-0548-y	T1	Application_Mention	6909	6916	NetLogo
+10.1007_s10368-017-0398-y	T1	Application_Mention	571	577	Sspace
+10.1007_s10368-017-0398-y	T2	Application_Mention	593	599	EViews
+10.1007_s10368-017-0398-y	T3	Application_Mention	1899	1905	Eviews
+10.1007_s10368-017-0398-y	T4	Application_Mention	2393	2399	Sspace
+10.1007_s10368-017-0398-y	T5	Application_Mention	2418	2424	Eviews
+10.1007_s10368-017-0398-y	T6	Application_Mention	2684	2690	Sspace
+10.1007_s10368-017-0398-y	T7	Application_Mention	2709	2715	Eviews
+10.1007_s10663-015-9287-1	T1	Application_Mention	122	130	OpenBugs
+10.1007_s10663-015-9287-1	T2	Application_Mention	341	350	OxMetrics
+10.1007_s10824-015-9248-3	T1	Application_Mention	131	147	Google Maps APIs
+10.1007_s10824-015-9248-3	T2	Application_Mention	318	331	ArcGIS ArcMap
+10.1007_s11151-015-9460-5	T1	Application_Mention	1975	1990	Google Maps API
+10.1007_s11151-015-9460-5	T2	Application_Mention	2322	2337	Google Maps API
+10.1007_s11151-015-9460-5	T3	Application_Mention	2682	2697	Google Maps API
+10.1007_s11151-015-9460-5	T4	Application_Mention	2878	2893	Google Maps API
+10.1057_s11369-017-0056-y	T1	Application_Mention	590	596	TAXSIM
+10.1080_17421772.2015.1126966	T1	Application_Mention	626	632	Matlab
+10.1111_1467-8462.12152	T1	Application_Mention	1464	1469	AURIN
+10.1111_1467-8462.12152	T2	Application_Mention	1545	1550	AURIN
+10.1111_1467-8462.12152	T3	Application_Mention	1752	1757	AURIN
+10.1111_1467-8462.12152	T4	Application_Mention	1920	1925	AURIN
+10.1111_1467-8462.12152	T5	Application_Mention	3076	3081	AURIN
+10.1111_1467-8462.12152	T6	Application_Mention	3633	3638	AURIN
+10.1111_1467-8462.12152	T7	Application_Mention	3941	3946	AURIN
+10.1111_1467-8462.12152	T8	Application_Mention	4975	4980	AURIN
+10.1111_1467-8462.12152	T9	Application_Mention	5291	5296	AURIN
+10.1111_1467-8462.12152	T10	Application_Mention	5701	5706	AURIN
+10.1111_1467-8462.12152	T11	Application_Mention	5960	5965	AURIN
+10.1111_1467-8462.12152	T12	Application_Mention	6314	6321	CouchDB
+10.1111_1467-8462.12152	T13	Application_Mention	7016	7021	AURIN
+10.1111_1467-8462.12152	T14	Application_Mention	7307	7312	AURIN
+10.1111_1467-8462.12152	T15	Application_Mention	7694	7699	AURIN
+10.1111_1467-8462.12152	T16	Application_Mention	7978	7983	AURIN
+10.1111_1467-8462.12152	T17	Application_Mention	8540	8545	AURIN
+10.1111_1467-8462.12152	T18	Application_Mention	8872	8877	AURIN
+10.1111_1467-8462.12152	T19	Application_Mention	9777	9782	AURIN
+10.1111_1467-8462.12152	T20	Application_Mention	10559	10564	AURIN
+10.1111_1467-8462.12152	T21	Application_Mention	10816	10821	AURIN
+10.1111_1467-8462.12152	T22	Application_Mention	11773	11778	AURIN
+10.1111_1467-8462.12152	T23	Application_Mention	12167	12172	AURIN
+10.1111_1467-8462.12152	T24	Application_Mention	12314	12319	AURIN
+10.1111_1467-8462.12152	T25	Application_Mention	12748	12753	AURIN
+10.1111_1467-8462.12152	T26	Application_Mention	12882	12888	ArcGIS
+10.1111_1467-8462.12152	T27	Application_Mention	12890	12895	STATA
+10.1111_1467-8462.12152	T28	Application_Mention	12899	12903	SPSS
+10.1111_1467-8462.12152	T29	Application_Mention	12909	12914	AURIN
+10.1111_1467-8462.12152	T30	Application_Mention	13294	13299	AURIN
+10.1111_1467-8462.12152	T31	Application_Mention	13347	13352	AURIN
+10.1111_1467-8462.12152	T32	Application_Mention	13911	13916	AURIN
+10.1111_1467-8462.12152	T33	Application_Mention	14525	14530	AURIN
+10.1111_1467-8462.12152	T34	Application_Mention	14640	14645	AURIN
+10.1111_1467-8462.12152	T35	Application_Mention	14660	14665	AURIN
+10.1111_1467-8462.12152	T36	Application_Mention	15170	15175	AURIN
+10.1111_1467-8462.12152	T37	Application_Mention	15494	15499	AURIN
+10.1111_1467-8462.12152	T38	Application_Mention	15569	15574	AURIN
+10.1111_1467-8462.12152	T39	Application_Mention	15937	15940	iOS
+10.1111_1467-8462.12152	T40	Application_Mention	15945	15952	Android
+10.1111_1467-8462.12152	T41	Application_Mention	16018	16023	AURIN
+10.1111_1467-8462.12152	T42	Application_Mention	16396	16401	AURIN
+10.1111_1467-8462.12246	T1	Application_Mention	541	544	SAS
+10.1111_1467-8462.12246	T2	Application_Mention	641	642	R
+10.1111_1467-8462.12246	T3	Application_Mention	1018	1021	SAS
+10.1111_1467-8462.12246	T4	Application_Mention	1027	1031	SPSS
+10.1111_1467-8462.12246	T5	Application_Mention	1040	1045	Stata
+10.1111_1467-8462.12246	T6	Application_Mention	1712	1732	SAS Enterprise Guide
+10.1111_1467-8462.12246	T7	Application_Mention	1738	1743	Stata
+10.1111_1467-8462.12246	T8	Application_Mention	1748	1752	SPSS
+10.1111_1467-8462.12246	T9	Application_Mention	1776	1780	Word
+10.1111_1467-8462.12246	T10	Application_Mention	1797	1802	Excel
+10.1111_1467-8462.12246	T11	Application_Mention	1809	1818	Ultraedit
+10.1111_1467-8462.12246	T12	Application_Mention	1829	1846	Acrobat Reader DC
+10.1111_1467-8462.12246	T13	Application_Mention	2235	2240	STATA
+10.1111_1756-2171.12020	T1	Application_Mention	2202	2208	TAXSIM
+10.1111_1756-2171.12020	T2	Application_Mention	4949	4955	TAXSIM
+10.1111_1756-2171.12020	T3	Application_Mention	6371	6376	STATA
+10.1111_1756-2171.12020	T4	Application_Mention	6949	6954	STATA
+10.1111_1756-2171.12020	T5	Application_Mention	7041	7047	TAXSIM
+10.1111_coep.12223	T1	Application_Mention	412	418	Google
+10.1111_ecin.12086	T1	Application_Mention	44	49	STATA
+10.1111_ecin.12086	T2	Application_Mention	66	69	SAS
+10.1111_ecin.12279	T1	Application_Mention	1317	1322	Stata
+10.1111_ecin.12279	T2	Application_Mention	1922	1927	Stata
+10.1111_ecin.12477	T1	Application_Mention	484	490	z-tree
+10.1111_ecin.12477	T2	Application_Mention	1637	1695	ORSEE (Online Recruitment System for Economic Experiments)
+10.1111_ecin.12490	T1	Application_Mention	337	345	Stata/MP
+10.1111_ecoj.12284	T1	Application_Mention	1009	1014	zTree
+10.1111_ecoj.12284	T2	Application_Mention	1063	1068	ORSEE
+10.1111_j.1468-0297.2008.02177.x	T1	Application_Mention	1610	1615	EXCEL
+10.1111_j.1468-0351.2009.00346.x	T1	Application_Mention	85	90	STATA
+10.1111_jors.12298	T1	Application_Mention	3434	3439	STATA
+10.1111_obes.12195	T1	Application_Mention	885	894	OxMetrics
+10.1111_obes.12195	T2	Application_Mention	899	905	MATLAB
+10.1111_sjpe.12150	T1	Application_Mention	2887	2892	Stata
+10.1111_twec.12539	T1	Application_Mention	485	490	Stata
+10.1162_08893360052471455	T1	Application_Mention	1261	1267	Matlab
+10.1162_qjec.2005.120.1.345	T1	Application_Mention	177	181	MIDI
+10.1162_qjec.2005.120.1.345	T2	Application_Mention	742	748	PubPub
+10.1162_qjec.2005.120.1.345	T3	Application_Mention	788	794	PubPub
+10.1162_qjec.2005.120.1.345	T4	Application_Mention	957	963	PubPub
+10.1257_000282805774669772	T1	Application_Mention	914	919	EXCEL
+10.1257_000282805774669772	T2	Application_Mention	921	934	Stat/Transfer
+10.1257_000282805774669772	T3	Application_Mention	940	945	STATA
+10.1257_aer.p20161124	T1	Application_Mention	186	231	Person Identification Validation System (PVS)
+10.1257_jep.15.4.129	T1	Application_Mention	355	360	Stata
+10.1257_jep.15.4.129	T2	Application_Mention	1182	1187	Stata
+10.1257_jep.15.4.29	T1	Application_Mention	886	891	Stata
+10.1257_jep.15.4.29	T2	Application_Mention	961	966	Gauss
+10.1257_jep.15.4.29	T3	Application_Mention	1012	1017	Stata
+10.1515_jbnst-2017-1004	T1	Application_Mention	120	138	Merge Toolbox (MTB
+10.1515_jbnst-2017-1004	T2	Application_Mention	422	425	MTB
+10.1515_jbnst-2017-1004	T3	Application_Mention	480	485	Stata
+10.1515_jbnst-2017-1004	T4	Application_Mention	496	499	MTB
+10.1515_jbnst-2017-1004	T5	Application_Mention	612	615	MTB
+10.1515_jbnst-2017-1004	T6	Application_Mention	657	660	MTB
+10.1515_jbnst-2017-1004	T7	Application_Mention	1130	1133	MTB
+10.1515_jbnst-2017-1004	T8	Application_Mention	1148	1149	R
+10.1515_jbnst-2017-1004	T9	Application_Mention	1158	1162	PPRL
+10.1515_jbnst-2017-1004	T10	Application_Mention	1263	1267	PPRL
+10.1515_jbnst-2017-1004	T11	Application_Mention	1339	1343	PPRL
+10.20955_r.2018.1-16	T1	Application_Mention	49	63	Bitcoin wallet
+10.20955_r.2018.1-16	T2	Application_Mention	67	81	Bitcoin wallet
+10.2217_pme.10.75	T1	Application_Mention	112	118	Google
+10.2217_pme.10.75	T2	Application_Mention	1436	1440	Bing
+10.2217_pme.10.75	T3	Application_Mention	2979	2992	Google Search
+10.2217_pme.10.75	T4	Application_Mention	3568	3574	Google
+10.2217_pme.10.75	T5	Application_Mention	3996	4002	Google
+10.2217_pme.10.75	T6	Application_Mention	4607	4613	Google
+10.2217_pme.10.75	T7	Application_Mention	4720	4726	Google
+10.2217_pme.10.75	T8	Application_Mention	4791	4797	Google
+10.2217_pme.10.75	T9	Application_Mention	5384	5398	Search Planner
+10.2217_pme.10.75	T10	Application_Mention	5542	5548	Google
+10.2217_pme.10.75	T11	Application_Mention	5550	5554	Bing
+10.2217_pme.10.75	T12	Application_Mention	5556	5561	Yahoo
+10.2217_pme.10.75	T13	Application_Mention	5563	5566	AOL
+10.2217_pme.10.75	T14	Application_Mention	5572	5575	ASK
+10.2217_pme.10.75	T15	Application_Mention	5597	5611	Search Planner
+10.2217_pme.10.75	T16	Application_Mention	6098	6112	Search Planner
+10.2217_pme.10.75	T17	Application_Mention	6337	6351	Search Planner
+10.2217_pme.10.75	T18	Application_Mention	6409	6415	Google
+10.2217_pme.10.75	T19	Application_Mention	6716	6722	Google
+10.2217_pme.10.75	T20	Application_Mention	6925	6938	Google Search
+10.2217_pme.10.75	T21	Application_Mention	6943	6954	Bing Search
+10.2217_pme.10.75	T22	Application_Mention	8381	8387	Google
+10.2217_pme.10.75	T23	Application_Mention	8392	8396	Bing
+10.2217_pme.10.75	T24	Application_Mention	9458	9464	Google
+10.2217_pme.10.75	T25	Application_Mention	9532	9538	Google
+10.2217_pme.10.75	T26	Application_Mention	10071	10077	Google
+10.2217_pme.10.75	T27	Application_Mention	10545	10549	Bing
+10.2217_pme.10.75	T28	Application_Mention	10694	10698	Bing
+10.2217_pme.10.75	T29	Application_Mention	10786	10792	Google
+10.2217_pme.10.75	T30	Application_Mention	10952	10958	Google
+10.2217_pme.10.75	T31	Application_Mention	11095	11101	Google
+10.2217_pme.10.75	T32	Application_Mention	11682	11686	Bing
+10.2217_pme.10.75	T33	Application_Mention	11781	11795	Search Planner
+10.2217_pme.10.75	T34	Application_Mention	11819	11833	Search Planner
+10.2217_pme.10.75	T35	Application_Mention	12004	12018	Search Planner
+10.2217_pme.10.75	T36	Application_Mention	13416	13420	Bing
+10.2217_pme.10.75	T37	Application_Mention	13646	13650	Bing
+10.2217_pme.10.75	T38	Application_Mention	13663	13669	Google
+10.2217_pme.10.75	T39	Application_Mention	13703	13707	Bing
+10.2217_pme.10.75	T40	Application_Mention	13869	13875	Google
+10.2217_pme.10.75	T41	Application_Mention	13959	13963	Bing
+10.3386_w2589	T1	Application_Mention	1011	1015	RATS
+10.3846_btp.2017.018	T1	Application_Mention	297	301	SPSS
+10.3846_jbem.2010.20	T1	Application_Mention	13	20	E-VOICE
+10.3846_jbem.2010.20	T2	Application_Mention	1301	1309	WebPolis
+10.3846_jbem.2010.20	T3	Application_Mention	1357	1365	WebPolis
+10.3846_jbem.2010.20	T4	Application_Mention	1622	1630	WebPolis
+10.3846_jbem.2010.20	T5	Application_Mention	1795	1803	WebPolis
+ARX_210_912_599	T1	Application_Mention	37	48	DialogueCSE
+ARX_190_311_056	T1	Application_Mention	98	107	RowHammer
+ARX_190_311_056	T2	Application_Mention	298	307	RowHammer
+ARX_221_002_843	T1	Application_Mention	198	205	CIR-Net
+ARX_220_614_504	T1	Application_Mention	211	220	GERNERMED
+ARX_190_311_991	T1	Application_Mention	34	37	PAL
+ARX_190_311_991	T2	Application_Mention	210	217	PyTorch
+ARX_190_311_991	T3	Application_Mention	222	232	Tensorflow
+ARX_180_404_128	T1	Application_Mention	114	125	Text2Colors
+ARX_190_404_174	T1	Application_Mention	1	9	SYCL-DNN
+ARX_180_602_199	T1	Application_Mention	126	138	SOM-VAE_prob
+ARX_180_602_199	T2	Application_Mention	168	175	SOM-VAE
+ARX_210_800_580	T1	Application_Mention	30	39	GraphFPN
+ARX_220_803_118	T1	Application_Mention	28	32	LPCB
+ARX_220_703_414	T1	Application_Mention	121	128	DoseRTX
+ARX_220_600_831	T1	Application_Mention	223	227	TMNN
+ARX_180_307_870	T1	Application_Mention	31	52	reservoir model space
+ARX_210_504_459	T1	Application_Mention	25	52	InverseConsistentNet (ICON)

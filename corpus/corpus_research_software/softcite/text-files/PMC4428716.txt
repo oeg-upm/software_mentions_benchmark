@@ -1,0 +1,2 @@
+
+ImageJ 1.47n software was used to transform images of Western blots into numerical values. Student's t-test was determined the statistical significance of differences. All numerical data represent the mean ± standard deviation (S.D.).

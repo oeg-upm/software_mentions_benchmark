@@ -1,0 +1,2 @@
+tokens,labels
+"['Preprocessing', 'and', 'statistical', 'analysis', 'of', 'the', 'fMRI', 'data', 'was', 'performed', 'with', 'SPM', '(Wellcome', 'Department', 'of', 'Cognitive', 'Neurology,', 'London', 'UK)', 'software', 'for', 'MATLAB', '(Version', 'R2010a,', 'The', 'MathWorks', 'Inc.,', 'Natick,', 'MA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

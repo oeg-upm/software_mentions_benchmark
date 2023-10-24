@@ -1,0 +1,6 @@
+tokens,labels
+"['Statistical', 'analysis', 'was', 'performed', 'using', 'statistical', 'packageSPSS', '21.0.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+"['Descriptive', 'statistics', 'were', 'calculated.']","['O', 'O', 'O', 'O']"
+"['To', 'determine', 'whether', 'there', 'were', 'differences', 'between', 'the', 'transfemoral', 'and', 'transtibial', 'amputee', 'groups', 'in', 'terms', 'of', 'distribution', 'by', 'gender', 'and', 'walking', 'with', 'crutches', 'the', 'Chi-square', 'test', 'or', 'Fisher', 'Exact', 'test', 'were', 'used.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['T-test', 'or', 'Mann-Whitney', 'Rank', 'Sum', 'Test', 'was', 'used', 'for', 'comparison', 'of', 'differences', 'on', 'PCI', 'and', 'CWS', 'between', 'two', 'amputation', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'one', 'way', 'analysis', 'of', 'variance', '(ANOVA)', 'was', 'used', 'for', 'comparison', 'of', 'differences', 'between', 'amputation', 'groups', 'and', 'impact', 'of', 'using', 'crutches', 'on', 'PCI', 'and', 'CWS.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

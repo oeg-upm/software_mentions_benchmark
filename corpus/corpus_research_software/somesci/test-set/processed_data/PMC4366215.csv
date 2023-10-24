@@ -1,0 +1,2 @@
+tokens,labels
+"['Statistical', 'analyses', 'were', 'performed', 'using', 'JAGS', 'Gibbs-sampling', 'environment', '[43]', 'and', 'R', '3.0.3', '[44].']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

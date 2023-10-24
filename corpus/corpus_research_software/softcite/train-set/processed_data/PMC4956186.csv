@@ -1,0 +1,5 @@
+tokens,labels
+"['The', 'numerical', 'simulation', 'was', 'performed', 'using', 'COMSOL', 'v5.0', '(see', 'Fig.', '2,', 'C', 'and', 'D).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'time-dependent', 'transient', '2D', 'model', 'was', 'used', 'to', 'simulate', 'waveforms', 'by', 'applying', 'an', 'AC', 'signal', 'to', 'regions', 'representing', 'the', 'IDT', 'finger', 'pairs', 'on', 'a', 'piezoelectric', 'substrate.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'stiffness,', 'coupling', 'coefficient,', 'and', 'electrical', 'permittivity', 'matrices', 'were', 'rotated', 'to', 'correspond', 'to', 'the', '128°y-cut', 'x-propagating', 'LN', 'crystal', 'used', 'experimentally.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'maximum', 'mesh', 'size', 'dimension', 'was', 'l', 'SAW', '/10.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

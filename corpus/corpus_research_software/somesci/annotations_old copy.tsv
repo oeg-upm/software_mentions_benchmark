@@ -1,0 +1,470 @@
+filename	mark	label	off0	off1	span
+PMC5345811	T1	Application_Usage	114	118	SPSS
+PMC5345811	T2	Application_Usage	66	78	AcqKnowledge
+PMC5345811	T3	Version	128	130	23
+PMC5345811	T4	Developer	132	140	IBM Corp
+PMC5349444	T1	Application_Usage	40	44	SPSS
+PMC5349444	T2	Version	45	49	13.0
+PMC5351992	T1	Application_Usage	26	30	SPSS
+PMC5351992	T2	Version	40	42	23
+PMC5367715	T1	ProgrammingEnvironment_Usage	71	77	MATLAB
+PMC5367715	T2	Application_Usage	123	129	EEGLAB
+PMC5367715	T3	Developer	79	88	MathWorks
+PMC5367715	T4	Citation	142	146	[38]
+PMC5381894	T1	Application_Usage	59	63	SPSS
+PMC5381894	T2	PlugIn_Usage	64	79	Complex samples
+PMC5383158	T1	Application_Usage	49	53	SPSS
+PMC5383158	T2	Version	33	37	17.0
+PMC5383275	T2	Application_Usage	53	59	ArcGIS
+PMC5383275	T3	Application_Usage	78	83	Stata
+PMC5383275	T4	OperatingSystem_Usage	113	120	Windows
+PMC5383275	T1	Version	60	64	10.3
+PMC5383275	T5	Version	104	108	12.1
+PMC5383275	T6	Extension	84	86	SE
+PMC5384787	T1	Application_Usage	12	16	SPSS
+PMC5384787	T2	Developer	8	11	IBM
+PMC5384787	T3	Version	17	21	22.0
+PMC5388499	T1	Application_Usage	10	14	SPSS
+PMC5388499	T2	Version	15	19	18.0
+PMC5388499	T3	Developer	38	41	IBM
+PMC5391050	T1	Application_Usage	34	39	Prism
+PMC5391050	T2	OperatingSystem_Usage	57	63	Mac OS
+PMC5391050	T3	Developer	25	33	GraphPad
+PMC5391050	T4	Version	48	52	6.0f
+PMC5391050	T5	Version	64	65	X
+PMC5391050	T6	Developer	68	85	GraphPad Software
+PMC5391050	T7	URL	112	128	www.graphpad.com
+PMC5407852	T1	Application_Usage	100	103	SAS
+PMC5407852	T2	Version	122	127	9.13.
+PMC5417513	T1	Application_Usage	34	37	SAS
+PMC5417513	T2	Version	41	44	9.3
+PMC5417526	T1	ProgrammingEnvironment_Usage	69	75	MATLAB
+PMC5417526	T2	Developer	77	86	Mathworks
+PMC5423609	T1	Application_Usage	28	32	SPSS
+PMC5423609	T2	Version	41	45	21.0
+PMC5423609	T3	Citation	46	50	[34]
+PMC5451014	T1	Application_Usage	15	20	Stata
+PMC5462373	T2	Application_Usage	114	125	Questionpro
+PMC5462373	T3	Application_Usage	193	196	SAS
+PMC5462373	T1	Version	197	200	9.3
+PMC5462373	T4	Application_Mention	129	133	SPSS
+PMC5462428	T1	Application_Usage	41	44	SAS
+PMC5462428	T2	Version	45	48	9.3
+PMC5462428	T3	Developer	50	63	SAS Institute
+PMC5479529	T1	ProgrammingEnvironment_Usage	35	41	Matlab
+PMC5479529	T2	PlugIn_Usage	42	56	Tensor Toolbox
+PMC5479529	T3	Citation	57	61	[18]
+PMC5507544	T1	Application_Usage	62	66	Word
+PMC5507544	T2	Application_Usage	71	76	Excel
+PMC5507544	T3	Application_Usage	99	104	NVivo
+PMC5507544	T4	Application_Usage	52	60	MSOffice
+PMC5507544	T5	Developer	78	93	Microsoft Corp.
+PMC5507544	T6	Developer	106	123	QSR International
+PMC5513414	T1	Application_Usage	39	44	STATA
+PMC5513414	T2	Version	54	58	12.1
+PMC5513414	T3	Developer	60	70	Stata Corp
+PMC5513423	T1	Application_Usage	135	139	SPSS
+PMC5513423	T2	Version	148	152	20.0
+PMC5513423	T3	Developer	154	162	IBM SPSS
+PMC5513437	T1	Application_Usage	50	55	STATA
+PMC5513437	T2	Application_Usage	71	109	statistical package for social science
+PMC5513437	T3	Version	64	66	13
+PMC5513437	T4	Abbreviation	111	115	SPSS
+PMC5513437	T5	Version	125	127	22
+PMC5519063	T1	Application_Usage	27	32	STATA
+PMC5519063	T2	Version	35	37	14
+PMC5519063	T3	Extension	33	35	IC
+PMC5526523	T1	Application_Usage	67	72	STATA
+PMC5526523	T2	Version	81	83	14
+PMC5526523	T3	Developer	85	98	Stata Corp LP
+PMC5526526	T1	Application_Usage	130	135	Excel
+PMC5526526	T2	Application_Usage	167	172	Stata
+PMC5526526	T3	Version	174	176	14
+PMC5526526	T4	Developer	187	196	StataCorp
+PMC5526526	T5	Release	198	202	2011
+PMC5528884	T1	Application_Usage	45	48	SAS
+PMC5528884	T2	Version	66	69	9.3
+PMC5528884	T3	Developer	71	88	SAS Institute Inc
+PMC5536272	T1	ProgrammingEnvironment_Usage	37	43	Matlab
+PMC5536272	T2	PlugIn_Usage	4	10	Gannet
+PMC5536272	T3	Citation	74	78	[41]
+PMC5544237	T1	Application_Usage	121	128	Tableau
+PMC5544237	T2	Application_Usage	133	138	Excel
+PMC5544237	T3	Application_Usage	73	80	Tableau
+PMC5544237	T4	Application_Usage	140	147	Tableau
+PMC5544237	T5	Version	148	151	9.0
+PMC5544237	T6	Developer	153	174	Tableau Software Inc.
+PMC5544237	T7	Application_Usage	176	181	Excel
+PMC5544237	T8	Version	182	188	14.4.2
+PMC5544237	T9	Developer	190	211	Microsoft Corporation
+PMC5544237	T10	Release	212	216	2010
+PMC5549972	T1	Application_Usage	46	51	STATA
+PMC5549972	T2	Version	60	62	12
+PMC5549972	T3	Developer	64	74	STATA Corp
+PMC5557550	T1	Application_Usage	57	65	EPI info
+PMC5557550	T2	Application_Usage	122	126	SPSS
+PMC5557550	T3	OperatingSystem_Usage	127	134	windows
+PMC5557550	T4	Version	74	79	3.5.3
+PMC5557550	T5	Version	143	145	20
+PMC5567909	T1	Application_Usage	47	52	Excel
+PMC5567909	T2	Developer	44	46	MS
+PMC5568325	T1	Application_Usage	65	77	SurveyMonkey
+PMC5568325	T2	Application_Usage	137	142	Excel
+PMC5568325	T3	Citation	78	82	[49]
+PMC5568325	T4	Developer	127	136	Microsoft
+PMC5568373	T1	Application_Usage	0	4	SPSS
+PMC5568373	T2	Version	5	7	23
+PMC5568373	T3	Developer	9	12	IBM
+PMC5570331	T1	Application_Usage	39	57	Experiment Builder
+PMC5570331	T2	ProgrammingEnvironment_Usage	249	255	Matlab
+PMC5570331	T3	ProgrammingEnvironment_Usage	223	224	R
+PMC5570331	T4	ProgrammingEnvironment_Mention	335	341	Matlab
+PMC5570331	T5	Version	76	85	1.10.1630
+PMC5570331	T6	Developer	87	103	SR Research Ltd.
+PMC5570331	T7	URL	226	243	www.r-project.org
+PMC5570331	T8	Release	257	263	R2011b
+PMC5570331	T9	Developer	265	280	Mathworks, Inc.
+PMC5573293	T1	Application_Usage	0	4	SPSS
+PMC5573293	T2	Application_Usage	19	34	SPSS statistics
+PMC5573293	T3	Developer	15	18	IBM
+PMC5573293	T4	Version	43	45	21
+PMC5573299	T1	ProgrammingEnvironment_Usage	63	69	Matlab
+PMC5587279	T1	Application_Usage	33	48	SPSS Statistics
+PMC5587279	T2	Version	49	51	20
+PMC5587279	T3	Developer	29	32	IBM
+PMC5587279	T4	Developer	53	61	IBM Corp
+PMC5587279	T5	Citation	68	72	[35]
+PMC5587279	T6	Release	62	66	2011
+PMC5589082	T1	Application_Usage	128	132	SPSS
+PMC5589082	T2	Version	141	143	21
+PMC5590823	T1	Application_Usage	92	96	SPSS
+PMC5590823	T2	Citation	97	101	[34]
+PMC5597219	T1	Application_Usage	29	34	Ctrax
+PMC5597219	T2	ProgrammingEnvironment_Usage	63	69	Matlab
+PMC5597219	T3	Citation	35	39	[67]
+PMC5604938	T1	Application_Usage	42	46	SPSS
+PMC5604938	T2	Version	47	49	23
+PMC5604938	T3	Developer	51	60	IBM Corp.
+PMC5604947	T1	Application_Mention	14	18	SPSS
+PMC5604947	T2	Version	27	29	24
+PMC5605050	T1	Application_Usage	37	52	SPSS Statistics
+PMC5605050	T2	Developer	33	36	IBM
+PMC5605050	T3	Version	53	55	22
+PMC5605050	T4	Developer	57	60	IBM
+PMC5614435	T1	Application_Usage	43	48	STATA
+PMC5614435	T2	Version	57	59	14
+PMC5614435	T3	Citation	60	64	[46]
+PMC5619748	T1	Application_Usage	0	4	SPSS
+PMC5619748	T2	Version	14	16	22
+PMC5624630	T1	Application_Usage	45	49	SPSS
+PMC5624630	T2	ProgrammingEnvironment_Usage	68	69	R
+PMC5624630	T3	Version	54	62	20.0.0.2
+PMC5624630	T4	Version	74	79	3.1.3
+PMC5627900	T1	Application_Usage	82	97	SPSS Statistics
+PMC5627900	T2	Developer	78	81	IBM
+PMC5627900	T3	Version	106	108	24
+PMC5627922	T1	ProgrammingEnvironment_Usage	224	230	MATLAB
+PMC5628872	T1	Application_Usage	47	51	AMOS
+PMC5628872	T2	Application_Usage	107	111	SPSS
+PMC5628872	T3	Version	52	54	23
+PMC5628872	T4	Version	112	114	23
+PMC5633173	T1	Application_Usage	73	78	Ctrax
+PMC5633173	T2	PlugIn_Usage	154	163	FixErrors
+PMC5633173	T3	ProgrammingEnvironment_Usage	176	182	MATLAB
+PMC5633173	T4	AlternativeName	89	117	Caltech Multiple Fly Tracker
+PMC5633173	T5	Version	127	133	0.3.12
+PMC5633173	T6	Version	187	193	7.10.0
+PMC5633173	T7	Developer	200	215	MathWorks, Inc.
+PMC5633173	T8	Citation	233	240	[34–35]
+PMC5633173	T9	ProgrammingEnvironment_Usage	242	248	MATLAB
+PMC5633173	T10	Version	252	258	7.10.0
+PMC5633173	T11	Release	194	198	2010
+PMC5634534	T1	Application_Usage	24	29	Excel
+PMC5634534	T2	Developer	21	23	MS
+PMC5634534	T3	Release	30	34	2010
+PMC5638252	T1	ProgrammingEnvironment_Usage	35	41	MATLAB
+PMC5638252	T2	ProgrammingEnvironment_Usage	101	107	MATLAB
+PMC5638252	T3	Application_Usage	278	282	SPSS
+PMC5638252	T4	PlugIn_Usage	88	96	voicebox
+PMC5638252	T5	Release	111	117	R2014a
+PMC5638252	T6	Version	292	294	21
+PMC5638252	T7	Developer	296	305	SPSS Inc.
+PMC5645143	T1	Application_Usage	8	11	SAS
+PMC5645143	T2	Version	12	15	9.4
+PMC5645143	T3	Developer	17	30	SAS Institute
+PMC5646767	T1	Application_Usage	31	37	MAXQDA
+PMC5646767	T2	Version	38	40	11
+PMC5646767	T3	Citation	99	103	[88]
+PMC5648132	T1	Application_Usage	33	37	SPSS
+PMC5648132	T2	Version	56	60	22.2
+PMC5656308	T1	Application_Usage	49	54	STATA
+PMC5656308	T2	Version	55	57	14
+PMC5659643	T1	Application_Usage	86	91	Stata
+PMC5659643	T2	Version	92	94	13
+PMC5659643	T3	Citation	95	99	[30]
+PMC5659773	T1	Application_Usage	39	44	Stata
+PMC5659773	T2	Version	45	49	14.1
+PMC5659773	T3	Developer	51	64	Stata Corp LP
+PMC5663327	T1	ProgrammingEnvironment_Usage	71	77	Matlab
+PMC5663327	T2	Version	78	79	8
+PMC5673183	T1	Application_Usage	33	38	STATA
+PMC5673183	T2	Version	43	45	13
+PMC5673183	T3	Extension	40	42	MP
+PMC5681258	T1	Application_Usage	58	62	SPSS
+PMC5681258	T2	Version	63	65	22
+PMC5685471	T1	Application_Usage	34	39	Stata
+PMC5685471	T2	Version	48	50	14
+PMC5699833	T1	Application_Usage	30	34	SPSS
+PMC5699833	T2	Application_Usage	96	101	Prism
+PMC5699833	T3	Version	39	43	20.0
+PMC5699833	T4	Developer	45	54	IBM Corp.
+PMC5699833	T5	Developer	87	95	GraphPad
+PMC5699833	T6	Version	102	105	7.0
+PMC5699833	T7	Developer	116	139	GraphPad Software, Inc.
+PMC5699833	T8	Release	65	69	2011
+PMC5703533	T1	Application_Usage	46	51	STATA
+PMC5703533	T2	Application_Usage	70	78	R Studio
+PMC5703533	T3	Version	61	65	10.0
+PMC5703533	T4	Version	87	92	3.2.2
+PMC5703533	T5	OperatingSystem_Usage	97	106	Macintosh
+PMC5706714	T1	Application_Usage	42	45	SAS
+PMC5706714	T2	Version	64	67	9.3
+PMC5706714	T3	Developer	142	161	SAS Institute, Inc.
+PMC5708632	T1	Application_Usage	34	38	SPSS
+PMC5708632	T2	OperatingSystem_Usage	43	50	Windows
+PMC5708632	T3	Version	59	61	23
+PMC5708632	T4	Developer	72	85	IBM Japan Ltd
+PMC5716553	T1	Application_Usage	25	28	SAS
+PMC5716553	T2	Version	37	40	9.4
+PMC5716553	T3	Developer	42	55	SAS Institute
+PMC5716576	T1	Application_Usage	40	43	SAS
+PMC5716576	T2	Version	44	47	9.4
+PMC5718419	T1	Application_Usage	122	127	STATA
+PMC5718419	T2	PlugIn_Usage	103	110	punafcc
+PMC5718419	T3	Version	128	130	14
+PMC5728572	T1	ProgrammingEnvironment_Usage	26	29	SQL
+PMC5728572	T2	Application_Usage	34	38	SPSS
+PMC5728572	T3	Application_Usage	70	75	Stata
+PMC5728572	T4	Version	77	79	14
+PMC5730220	T1	Application_Usage	27	32	Stata
+PMC5730220	T2	Version	33	35	12
+PMC5737892	T1	Application_Usage	46	49	SAS
+PMC5737892	T2	Version	50	53	9.3
+PMC5737892	T3	Developer	72	85	SAS Institute
+PMC5737897	T1	Application_Usage	50	54	SPSS
+PMC5737897	T2	Application_Usage	69	84	SPSS Statistics
+PMC5737897	T3	Developer	65	68	IBM
+PMC5737897	T4	Version	85	87	20
+PMC5737897	T5	Developer	89	104	IBM Corporation
+PMC5739395	T1	Application_Usage	37	42	Stata
+PMC5739395	T2	Version	73	75	14
+PMC5739404	T1	Application_Usage	25	29	SPSS
+PMC5739404	T2	Application_Usage	36	39	SAS
+PMC5739404	T3	Version	29	31	20
+PMC5739404	T4	Version	40	43	9.4
+PMC5744945	T1	Application_Usage	4	9	Excel
+PMC5747435	T1	Application_Usage	3	8	excel
+PMC5747435	T2	Application_Usage	296	301	Stata
+PMC5747435	T3	Application_Usage	227	232	Excel
+PMC5747435	T4	Citation	233	237	[20]
+PMC5747435	T5	Developer	217	226	Microsoft
+PMC5747435	T6	Version	310	312	12
+PMC5747435	T7	Citation	313	317	[21]
+PMC5749676	T1	Application_Usage	60	65	Stata
+PMC5749676	T2	Version	75	77	14
+PMC5749804	T1	Application_Usage	66	70	SPSS
+PMC5749804	T2	ProgrammingEnvironment_Usage	101	107	MATLAB
+PMC5749804	T3	ProgrammingEnvironment_Usage	144	145	R
+PMC5749804	T4	ProgrammingEnvironment_Usage	185	191	Python
+PMC5749804	T5	PlugIn_Usage	230	235	NumPy
+PMC5749804	T6	PlugIn_Usage	241	246	SciPy
+PMC5749804	T7	Developer	62	65	IBM
+PMC5749804	T8	Version	71	75	22.0
+PMC5749804	T9	Developer	77	86	IBM Corp.
+PMC5749804	T10	Release	108	114	R2015a
+PMC5749804	T11	Developer	116	129	The MathWorks
+PMC5749804	T12	Version	146	151	3.3.2
+PMC5749804	T13	URL	153	178	http://www.R-project.org/
+PMC5749804	T14	Citation	248	252	[39]
+PMC5754055	T1	Application_Usage	52	56	SPSS
+PMC5755759	T1	Application_Usage	40	44	SPSS
+PMC5755759	T2	OperatingSystem_Usage	49	56	Windows
+PMC5755759	T3	Developer	36	39	IBM
+PMC5755759	T4	Version	65	67	19
+PMC5755789	T1	Application_Usage	46	51	STATA
+PMC5755789	T2	Application_Usage	165	169	QGIS
+PMC5755789	T3	Version	60	62	13
+PMC5755789	T4	Developer	76	85	StataCorp
+PMC5755789	T5	Version	187	193	2.12.3
+PMC5755789	T6	Developer	195	200	OSGeo
+PMC5757912	T1	Application_Usage	30	35	Excel
+PMC5757912	T2	Application_Usage	46	51	Excel
+PMC5757912	T3	Version	60	64	2013
+PMC5757912	T4	Developer	66	75	Microsoft
+PMC5764283	T1	Application_Usage	29	33	SPSS
+PMC5764283	T2	Version	38	42	16.0
+PMC5771574	T1	Application_Usage	35	39	SPSS
+PMC5771574	T2	Version	48	50	23
+PMC5771583	T1	Application_Usage	20	25	Stata
+PMC5771583	T2	Version	34	38	14.0
+PMC5771583	T3	Developer	40	49	StataCorp
+PMC5771614	T1	Application_Usage	41	46	Stata
+PMC5771614	T2	Version	55	59	13.1
+PMC5771614	T3	Developer	61	70	StataCorp
+PMC5777644	T1	Application_Usage	49	64	SPSS Statistics
+PMC5777644	T2	Developer	45	48	IBM
+PMC5777644	T3	Version	65	67	20
+PMC5777644	T4	Developer	69	77	IBM Inc.
+PMC5783378	T1	ProgrammingEnvironment_Mention	132	138	MATLAB
+PMC5783388	T1	Application_Usage	56	60	SPSS
+PMC5783388	T2	Version	78	82	22.0
+PMC5783388	T3	Developer	84	91	IBM Co.
+PMC5784985	T1	Application_Usage	34	39	STATA
+PMC5784985	T2	Version	40	42	14
+PMC5794112	T1	Application_Usage	60	63	SAS
+PMC5794112	T2	Application_Usage	80	85	STATA
+PMC5794112	T3	Version	72	75	9.3
+PMC5794112	T4	Version	92	94	14
+PMC5794112	T5	Extension	86	88	IC
+PMC5794112	T6	Extension	89	91	SE
+PMC5802430	T1	Application_Usage	55	61	SUDAAN
+PMC5802430	T2	Application_Usage	289	295	SUDAAN
+PMC5802430	T3	Application_Usage	243	246	SAS
+PMC5802430	T4	Version	62	66	11.0
+PMC5802430	T5	Developer	68	71	RTI
+PMC5802430	T6	Version	255	258	9.3
+PMC5802430	T7	Developer	260	273	SAS Institute
+PMC5802430	T8	Version	304	310	11.0.1
+PMC5802430	T9	Developer	312	329	RTI International
+PMC5802858	T1	ProgrammingEnvironment_Usage	34	35	R
+PMC5802858	T2	Application_Usage	72	77	STATA
+PMC5802858	T3	Version	44	49	3.2.4
+PMC5802858	T4	Version	86	88	14
+PMC5805321	T1	Application_Usage	46	51	STATA
+PMC5805321	T2	Version	52	56	14.0
+PMC5805334	T1	Application_Usage	31	36	Stata
+PMC5805334	T2	Version	37	41	14.0
+PMC5819792	T1	Application_Usage	47	50	SAS
+PMC5819792	T2	Application_Usage	148	175	Comprehensive Meta-Analysis
+PMC5819792	T3	Version	60	63	9.3
+PMC5819792	T4	Developer	65	83	SAS Institute Inc.
+PMC5819792	T5	Version	184	191	2.2.027
+PMC5819792	T6	Developer	202	209	Biostat
+PMC5819802	T1	Application_Usage	35	40	Stata
+PMC5819802	T2	Version	41	45	15.0
+PMC5819802	T3	Developer	47	56	StataCorp
+PMC5821381	T1	Application_Usage	42	69	Statistical Analysis System
+PMC5821381	T2	Abbreviation	71	74	SAS
+PMC5821381	T3	Version	85	88	9.4
+PMC5821381	T4	Developer	90	108	SAS Institute Inc.
+PMC5823369	T1	Application_Usage	0	5	STATA
+PMC5823369	T2	Version	14	16	13
+PMC5826529	T1	Application_Usage	133	148	SPSS Statistics
+PMC5826529	T2	Application_Usage	217	227	LatentGold
+PMC5826529	T3	Developer	129	132	IBM
+PMC5826529	T4	Version	149	151	18
+PMC5826529	T5	Version	228	229	3
+PMC5830041	T1	Application_Usage	86	90	SPSS
+PMC5830041	T2	Application_Usage	24	31	EpiData
+PMC5830041	T3	Version	32	35	3.0
+PMC5830041	T4	Version	91	96	10.01
+PMC5832313	T1	Application_Usage	252	256	SPSS
+PMC5832313	T2	Application_Usage	346	350	SPSS
+PMC5832313	T3	Version	360	362	22
+PMC5832313	T4	Version	372	380	22.0.0.2
+PMC5832313	T5	Developer	382	391	IBM Corp.
+PMC5841764	T1	Application_Usage	55	60	Stata
+PMC5858786	T1	Application_Usage	4	8	SPSS
+PMC5858786	T2	Version	9	13	22.0
+PMC5865738	T1	Application_Usage	61	64	SAS
+PMC5865738	T2	Version	65	68	9.3
+PMC5865738	T3	Developer	70	83	SAS Institute
+PMC5874058	T1	Application_Usage	34	38	SPSS
+PMC5874058	T2	Version	47	52	24.0J
+PMC5874058	T3	Developer	54	63	IBM Japan
+PMC5874061	T1	Application_Usage	46	51	STATA
+PMC5874061	T2	Version	52	56	13.0
+PMC5875891	T1	Application_Usage	61	76	SPSS Statistics
+PMC5875891	T2	Version	78	82	20.0
+PMC5875891	T3	Developer	57	60	IBM
+PMC5875891	T4	Citation	91	95	[94]
+PMC5880390	T1	Application_Usage	8	13	STATA
+PMC5880390	T2	Version	14	18	13.0
+PMC5884536	T1	Application_Usage	70	113	Statistical Package for the Social Sciences
+PMC5884536	T2	Developer	124	127	IBM
+PMC5884536	T3	Application_Usage	128	143	SPSS Statistics
+PMC5884536	T4	Version	144	146	18
+PMC5884542	T1	Application_Usage	27	31	SPSS
+PMC5884542	T2	Version	41	45	24.0
+PMC5886550	T1	Application_Usage	97	102	Stata
+PMC5886550	T2	PlugIn_Usage	103	106	ICE
+PMC5889056	T1	Application_Usage	35	78	Statistical Package for the Social Sciences
+PMC5889056	T2	Developer	31	34	IBM
+PMC5889056	T3	Abbreviation	80	84	SPSS
+PMC5889056	T4	Version	86	88	18
+PMC5889058	T1	Application_Usage	13	17	SPSS
+PMC5889058	T2	Version	26	28	24
+PMC5895061	T1	Application_Usage	95	101	MaxQDA
+PMC5895061	T2	Version	111	113	12
+PMC5896907	T1	Application_Usage	90	95	STATA
+PMC5896907	T2	Application_Usage	47	52	Excel
+PMC5896907	T3	OperatingSystem_Usage	57	64	Windows
+PMC5896907	T4	Application_Usage	313	318	STATA
+PMC5896907	T5	Developer	37	46	Microsoft
+PMC5896907	T6	Version	104	106	12
+PMC5896907	T7	Developer	108	118	STATA Corp
+PMC5905883	T1	ProgrammingEnvironment_Usage	31	37	Matlab
+PMC5905883	T2	Application_Usage	100	120	Techila Technologies
+PMC5905883	T3	Application_Usage	42	54	Google Cloud
+PMC5905884	T1	Application_Usage	62	70	R Studio
+PMC5905884	T2	PlugIn_Usage	32	36	dlnm
+PMC5905884	T3	Application_Usage	126	129	SAS
+PMC5905884	T4	Version	53	58	2.2.6
+PMC5905884	T5	Version	132	135	9.4
+PMC5905884	T6	Developer	137	155	SAS Institute Inc.
+PMC5908075	T1	Application_Usage	45	49	SPSS
+PMC5908075	T2	Version	58	60	22
+PMC5908080	T1	Application_Usage	43	46	SPM
+PMC5908080	T2	ProgrammingEnvironment_Usage	150	156	MATLAB
+PMC5908080	T3	Version	46	47	8
+PMC5908080	T4	Developer	49	91	Wellcome Department of Cognitive Neurology
+PMC5908080	T5	URL	105	137	http://www.fil.ion.ucl.ac.uk/spm
+PMC5908080	T6	Release	157	162	2007b
+PMC5908080	T7	Developer	164	178	Mathworks Inc.
+PMC5908082	T1	Application_Usage	45	48	SAS
+PMC5908082	T2	OperatingSystem_Usage	64	67	Win
+PMC5908082	T3	Version	52	57	9.1.3
+PMC5908082	T4	Release	70	76	64 bit
+PMC5908082	T5	Version	67	68	7
+PMC5912798	T1	Application_Usage	73	78	BLAST
+PMC5922558	T1	Application_Usage	73	77	SPSS
+PMC5922558	T2	PlugIn_Usage	55	62	PROCESS
+PMC5922558	T3	Citation	78	82	[62]
+PMC5931653	T1	Application_Usage	44	49	Stata
+PMC5931653	T2	Version	50	54	14.1
+PMC5937783	T1	Application_Usage	74	89	SPSS Statistics
+PMC5937783	T2	Developer	70	73	IBM
+PMC5937783	T3	Version	99	101	25
+PMC5937997	T1	Application_Usage	30	34	SPSS
+PMC5937997	T2	ProgrammingEnvironment_Usage	52	53	R
+PMC5937997	T3	Version	43	47	24.0
+PMC5942853	T1	ProgrammingEnvironment_Usage	29	35	Matlab
+PMC5942853	T2	Release	36	41	2015b
+PMC5942853	T3	Developer	43	56	The Mathworks
+PMC5951581	T1	Application_Usage	54	58	SPSS
+PMC5951581	T2	Version	61	63	21
+PMC5957384	T1	Application_Usage	60	65	STATA
+PMC5957384	T2	Version	89	93	14.1
+PMC5957384	T3	Developer	95	106	STATA Corp.
+PMC5963770	T1	Application_Usage	60	65	Stata
+PMC5963770	T2	Version	66	70	13.0
+PMC5963770	T3	Developer	72	80	StatCorp
+PMC5963780	T1	PlugIn_Usage	52	59	PROCESS
+PMC5963780	T2	Application_Usage	64	68	SPSS
+PMC5963780	T3	Application_Usage	115	119	SPSS
+PMC5963780	T4	Citation	69	73	[29]
+PMC5963780	T5	Version	128	130	22
+PMC5967727	T1	Application_Usage	46	61	SPSS Statistics
+PMC5967727	T2	Application_Usage	71	75	AMOS
+PMC5967727	T3	Version	62	66	23.0
+PMC5967727	T4	Version	84	88	23.0

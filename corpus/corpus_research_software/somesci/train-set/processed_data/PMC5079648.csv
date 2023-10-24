@@ -1,0 +1,2 @@
+tokens,labels
+"['Data', 'analysis', 'was', 'performed', 'using', 'STATA', '13;', 'a', 'statistical', 'analysis', 'plan', 'was', 'developed', 'prior', 'to', 'endline', 'data', 'collection', 'and', 'discussed', 'with', 'the', 'funder', 'and', 'program', 'implementers.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

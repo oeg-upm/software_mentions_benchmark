@@ -1,0 +1,3 @@
+tokens,labels
+"['All', 'quantitative', 'data', 'were', 'analyzed', 'using', 'Prism', '6.0', '(GraphPad).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"
+"['Sample', 'groups', 'were', 'subjected', 'to', 'un-paired', 't', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

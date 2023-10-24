@@ -1,0 +1,3 @@
+tokens,labels
+"['Descriptive', 'statistics', 'of', 'the', 'outcome', 'measure,', 'psychological', 'distress,', 'and', 'the', 'percentage', 'distribution', 'of', 'the', 'variables', 'in', 'the', 'sample', 'were', 'calculated', 'using', 'SPSS', 'Complex', 'Samples,', 'weighting', 'for', 'gender,', 'age', 'and', 'city', 'district.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'analyses', 'were', 'performed', 'in', 'SPSS', '19.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

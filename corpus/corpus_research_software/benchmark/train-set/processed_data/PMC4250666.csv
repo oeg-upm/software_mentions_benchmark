@@ -1,0 +1,7 @@
+tokens,labels
+"['All', 'experiments', 'were', 'performed', 'on', 'at', 'least', 'three', 'individuals.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Results', 'are', 'presented', 'as', 'the', 'mean', '±', 'standard', 'deviation', '(SD).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'significance', 'of', 'the', 'differences', 'was', 'determined', 'using', 'the', 'two-tailed', ""Student's"", 't-test', 'and', 'one-way', 'analysis', 'of', 'variance', '(ANOVA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'difference', 'was', 'considered', 'significant', 'if', 'p', '<', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'IBM', 'SPSS', 'ver.']","['O', 'O', 'B-Application_Mention', 'O']"
+"['19.0', 'for', 'Windows', '(IBM', 'Co.,', 'Armonk,', 'NY,', 'USA)', 'was', 'used', 'for', 'statistical', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

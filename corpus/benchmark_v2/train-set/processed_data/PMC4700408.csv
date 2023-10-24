@@ -1,0 +1,4 @@
+tokens,labels
+"['Statistical', 'analyses', 'were', 'carried', 'out', 'using', 'SigmaStat', 'version', '3.1,', 'by', 'one-way', 'analysis', 'of', 'variance', '(ANOVA)', 'or', 'Kruskal-Wallis', 'ANOVA,', 'depending', 'on', 'the', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'significance', 'was', 'further', 'confirmed', 'by', 'the', 'Tukey', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Differences', 'were', 'considered', 'significant', 'when', 'p', 'was', 'less', 'than', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

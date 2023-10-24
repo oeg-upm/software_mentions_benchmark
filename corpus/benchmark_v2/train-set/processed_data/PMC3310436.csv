@@ -1,0 +1,3 @@
+tokens,labels
+"['Data', 'extraction', 'was', 'managed', 'in', 'Microsoft', 'Excel']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention']"
+"['Random', 'effects', 'meta-regressions', 'were', 'also', 'performed', 'in', 'Stata', 'using', 'the', 'package', 'metareg', '[44].']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O']"

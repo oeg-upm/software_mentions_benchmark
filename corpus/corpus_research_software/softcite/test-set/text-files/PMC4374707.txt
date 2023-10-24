@@ -1,0 +1,2 @@
+
+The synthesis framework described in this article is available on the MATLAB file-exchange, at http://www.mathworks. com/matlabcentral/fileexchange/48915-synthetic-bright-fieldmicroscopy-image-generator, as an open-source code package on publication acceptance.

@@ -1,0 +1,7 @@
+tokens,labels
+"['The', 'study', 'data', 'were', 'summarized', 'by', 'the', 'descriptive', 'statistics', '(mean,', 'standard', 'deviation,', 'minimum,', 'median,', 'maximum,', 'frequency,', 'and', 'percentage).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'difference', 'between', 'two', 'independent', 'groups', 'showing', 'a', 'nonnormal', 'distribution', 'was', 'investigated', 'using', 'Mann-Whitney', 'U', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'relation', 'between', 'categorical', 'variables', 'was', 'tested', 'either', 'by', 'the', 'chisquare', 'test', 'or', 'by', 'the', ""Fisher's"", 'exact', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'linear', 'regression', 'analysis', 'was', 'performed', 'to', 'estimate', 'the', 'relation', 'between', 'the', 'cost', 'and', 'duration', 'of', 'a', 'hospitalization.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'level', 'of', 'statistical', 'significance', 'was', 'determined', 'as', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Analyses', 'were', 'performed', 'using', 'the', 'MedCalc', 'statistical', 'software', 'program', '(Version', '12.7.7;', 'MedCalc', 'Software', 'bvba,', 'Ostend,', 'Belgium;http://www.medcalc.org;', '2013).']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

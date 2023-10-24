@@ -1,0 +1,4 @@
+tokens,labels
+"['Statistical', 'analysis', '-All', 'statistical', 'analyses', 'were', 'performed', 'using', 'Prism', '5.0', 'GraphPad', 'Software', 'Inc', '(USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'sample', 'comparisons', 'were', 'made', 'using', 'ANOVA', 'and', 'Tukey', 'tests', 'to', 'compare', 'percentage', 'fluorescence.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Values', 'of', 'p', '<', '0.05', 'were', 'considered', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

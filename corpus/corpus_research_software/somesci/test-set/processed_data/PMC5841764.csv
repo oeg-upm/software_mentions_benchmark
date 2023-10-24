@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'newey-west', 'regression', 'and', 'robust', 'regression', 'in', 'the', 'Stata', 'were', 'used', 'to', 'correct', 'the', 'autocorrelation', 'and', 'heteroskedasticity.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

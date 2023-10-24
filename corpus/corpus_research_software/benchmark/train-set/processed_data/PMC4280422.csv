@@ -1,0 +1,5 @@
+tokens,labels
+"['For', 'statistical', 'evaluation', 'the', 'software', 'NCSS', '8', 'was', 'used.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"
+"['For', 'comparing', 'the', 'quantitative', 'data', 'we', 'used', 'either', 'the', 'two-sided', 't-test', 'or', 'the', 'nonparametric', 'Mann-Whitney,', 'or', 'the', 'Kolmogorov-Smirnov', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['To', 'evaluate', 'the', 'qualitative', 'data', 'we', 'used', 'the', 'c', '2', 'test', 'of', 'independence', 'in', 'a', 'contingency', 'table', 'or', ""Fisher's"", 'exact', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Values', 'of', 'p', 'were', 'obtained', 'with', 'the', 'likelihood-ratio', 'test', 'and', 'considered', 'significance', 'if', '<', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

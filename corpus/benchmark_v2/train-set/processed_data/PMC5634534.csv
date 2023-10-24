@@ -1,0 +1,4 @@
+tokens,labels
+"['The', 'tool', 'is', 'built', 'in', 'MS', 'Excel', '2010', 'and', 'consists', 'of', 'two', 'modules:']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['i)', 'HPV', 'vaccination,', 'and']","['O', 'O', 'O', 'O']"
+"['ii)', 'cervical', 'cancer', 'screening', 'and', 'treatment', '[15].']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"

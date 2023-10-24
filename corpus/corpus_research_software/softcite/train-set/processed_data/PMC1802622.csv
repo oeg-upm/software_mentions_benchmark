@@ -1,0 +1,10 @@
+tokens,labels
+"['All', 'EMSA', 'autoradiographs', 'were', 'scanned', 'and', 'the', 'integrated', 'band', 'intensities', 'were', 'quantified', 'using', 'the', 'Intelligent', 'Quantifier', 'software', '(Bio', 'Image).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O']"
+"['For', 'each', 'lane,', 'the', 'background', 'intensity', 'was', 'also', 'measured', 'and', 'subtracted', 'from', 'the', 'band', 'intensities.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Only', 'the', 'integrated', 'intensities', '(I.I.)', 'from', 'the', 'unbound', 'DNA', 'bands', 'were', 'considered', 'for', 'further', 'analysis', 'because', 'of', 'the', ""'smearing'"", 'effect.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'I.I.']","['O', 'O']"
+"['values', 'where', 'divided', 'by', 'the', 'average', 'of', 'two', 'I.I.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['measurements', 'of', 'free', 'DNA', '(without', 'addition', 'of', 'Ss-LrpB).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['This', 'corresponds', 'to', 'the', 'fraction', 'of', 'unbound', 'DNA.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'fraction', 'of', 'bound', 'DNA', 'in', 'each', 'lane', 'was', 'then', 'calculated', 'to', 'be:', 'fraction', 'bound', 'DNA', '¼', '1', 'À', 'fraction', 'unbound', 'DNA.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['These', 'quantitated', 'data', 'were', 'plotted', 'versus', 'Ss-LrpB', 'concentration', '(binding', 'profile)', 'and', 'fitted', 'using', 'the', 'Hill', 'equation', '(Origin', 'non-linear', 'least', 'squares', 'method):']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"

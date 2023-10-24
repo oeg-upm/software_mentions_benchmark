@@ -1,0 +1,4 @@
+tokens,labels
+"['To', 'the', 'best', 'of', 'our', 'knowledge,', 'TRacer', 'is', 'the', 'first', 'intelligent', 'transaction', 'tracing', 'tool', 'in', 'account-based', 'blockchains', 'that', 'can', 'handle', 'complex', 'transaction', 'actions', 'in', 'decentralized', 'finance', '(DeFi).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Experimental', 'results', 'and', 'theoretical', 'analysis', 'prove', 'that', 'TRacer', 'can', 'complete', 'the', 'transaction', 'tracing', 'task', 'effectively', 'at', 'a', 'low', 'cost.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'codes', 'of', 'TRacer', 'are', 'available', 'at', 'GitHub', '1']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

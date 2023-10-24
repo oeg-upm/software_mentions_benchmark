@@ -1,0 +1,3 @@
+tokens,labels
+"['The', 'data', 'were', 'analyzed', 'using', 'descriptive', 'and', 'inferential', 'statistics', '(t-test,', 'paired', 't-test,', 'ANOVA)', 'through', 'SPSS', 'version', '16.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"
+"['Kolmogorov-Smirnov', 'test', 'was', 'used', 'to', 'check', 'the', 'normality', 'of', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

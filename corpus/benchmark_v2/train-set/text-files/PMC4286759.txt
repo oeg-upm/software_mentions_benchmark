@@ -1,0 +1,2 @@
+
+Statistical analysis. We calculated 95% CI for PFS and OS outcomes to assess the treatment efficacy. Kaplan-Meier method was used to describe PFS and OS. All reported time-to-event comparisons were conducted using the log-rank test analysis respectively. A P value of less than 0.05 was considered statistically significant. SPSS 17.0 software was used for all statistical analysis (IBM, Armonk, NY).

@@ -1,0 +1,2 @@
+tokens,labels
+"['A', 'graph', 'neural', 'network', 'called', 'GraphFPN', 'is', 'constructed', 'on', 'the', 'basis', 'of', 'the', 'graph', 'pyramid.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

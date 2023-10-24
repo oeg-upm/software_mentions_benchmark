@@ -1,0 +1,4 @@
+tokens,labels
+"['Pre-operative', 'planning', 'for', 'tumour', 'resection.']","['O', 'O', 'O', 'O', 'O']"
+"['Pre-operative', 'bone', 'CT', 'and', 'MRI', 'scans', 'are', 'obtained', 'respectively', 'for', 'CT', 'with', '0.5', 'mm', 'spacing', 'between', 'slices', 'and', '1', 'mm', 'slice', 'thickness,', 'and', 'for', 'MRI', 'according', 'to', 'the', 'resolution', 'needed', 'for', 'diagnosis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'open-source', 'software', 'ITK-', 'Snap', '2.0.0', '35', 'is', 'used', 'to', 'manually', 'delineate', 'the', 'tumour', 'on', 'each', 'MRI', 'slice', 'where', 'it', 'is', 'visible.']","['O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

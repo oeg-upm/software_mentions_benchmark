@@ -1,0 +1,2 @@
+tokens,labels
+"['All', 'procedures', 'for', 'immunohistochemical', 'staining', 'were', 'done', 'by', 'the', 'Micro-Probe', 'staining', 'system', '(Fisher', 'Scientific,', 'Pittsburgh,', 'PA)', 'based', 'on', 'capillary', 'action', '2', '0', ')', '.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+tokens,labels
+"['Correlation', 'analyses', 'were', 'based', 'on', 'scores', 'corrected', 'for', 'linear', 'age', 'effects', 'and', 'sex', 'differences', 'and', 'computed', 'with', 'SPSS', '23.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

@@ -1,0 +1,4 @@
+tokens,labels
+"['The', 'average', 'values', 'for', 'the', 'OHIP-14', 'were', 'calculated', 'using', 'non-missing', 'score', 'values', 'and', 'the', 'results', 'were', 'analyzed', 'using', 'ANOVA', 'and', ""Student's"", 'T-test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['SPSS', 'software', '(SPSS,', 'Version', '16.0,', 'SPSS,', 'Chicago,', 'IL,', 'USA)', 'was', 'used', 'to', 'perform', 'the', 'statistical', 'analyses', 'of', 'the', 'data.']","['B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'significant', 'level', 'of', 'P', '<', '0.05', 'was', 'used.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

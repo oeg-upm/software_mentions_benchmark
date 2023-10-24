@@ -1,0 +1,3 @@
+tokens,labels
+"['The', 'sample', 'distribution', 'was', 'determined', 'by', 'the', 'W', 'Shapiro-Wilk', 'test', 'and', 'the', 'statistical', 'significance', 'for', 'dependent', 'samples', 'by', 'the', 't-Student', 'test,', 'while', 'for', 'the', 'nonparametric', 'by', 'the', 'Wilcoxon', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['α', '<', '0.05', 'was', 'considered', 'statistically', 'significant', '(Statistica', 'software', 'ver.', '10).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"

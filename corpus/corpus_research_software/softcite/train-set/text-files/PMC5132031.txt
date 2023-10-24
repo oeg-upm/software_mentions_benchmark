@@ -1,0 +1,2 @@
+
+The main purpose of this study was the comparison of LN retrieval rates using robot-assisted NTTE with conventional TTE. Additional outcomes analyzed in this study included estimated blood loss, operation time, occurrence of procedure-related complications, frequency of postoperative morbidity, length of postoperative hospital stay, and histopathological features. JMP 11.0 (SAS Institute Inc. Cary, NC.) was used for statistical analysis. Wilcoxon's rank-sum test was used for the analysis of group differences and Fisher's exact test was used for the proportional differences.

@@ -1,0 +1,6 @@
+tokens,labels
+"['Birth', 'weight,', 'gestational', 'age', 'and', 'gender', 'in', 'all', 'infants', 'were', 'noted.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Maternal', 'age', 'at', 'delivery', 'and', 'folic', 'acid', 'use', 'were', 'recorded', 'in', 'the', 'questionnaire.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', ""Spearman's"", 'Rho', 'and', 'Chi', '2', 'tests', 'were', 'used', 'to', 'define', 'correlation', 'and', 'association', 'between', 'variables.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Significance', 'level', 'of', 'P>0.05', 'was', 'used', 'in', 'the', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analyses', 'were', 'performed', 'using', 'SPSS', 'software.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

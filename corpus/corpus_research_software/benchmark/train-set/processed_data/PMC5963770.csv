@@ -1,0 +1,2 @@
+tokens,labels
+"['This', 'negative', 'binomial', 'mixed', 'model', 'regression', 'was', 'run', 'using', 'Stata', '13.0', '(StatCorp,', 'College', 'Station,', 'TX).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O']"

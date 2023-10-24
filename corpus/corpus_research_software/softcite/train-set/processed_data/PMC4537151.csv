@@ -1,0 +1,3 @@
+tokens,labels
+"['Clinical', 'policies,', 'guidelines,', 'and', 'the', 'GRADE', 'system*', 'Developing', 'rapid', 'reviews', '32', 'and', 'recommendations', 'to', 'serve', 'policy', 'and', 'practice', 'needs', 'within', 'organized', 'health', 'care', 'settings.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['20', 'Use', 'of', 'the', 'GRADE*', 'system', 'and', 'theGRADEpro', 'software', 'for', 'evidence', 'synthesis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"

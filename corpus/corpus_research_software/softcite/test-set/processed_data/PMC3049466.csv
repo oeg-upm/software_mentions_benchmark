@@ -1,0 +1,4 @@
+tokens,labels
+"['We', 'used', 'OriginPro', '8', '(OriginLab,', 'Northampton,', 'MA,', 'USA)', 'software', 'to', 'create', 'graphs,', 'for', 'curve', 'fitting,', 'and', 'statistical', 'testing.']","['O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['We', 'measured', 'NADH', 'tissue', 'fluorescence', '(%', 'of', 'baseline)', 'as', 'a', 'function', 'of', 'tissue', 'pO', '2', '(mm', 'Hg).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['In', 'Figure', '1D,', 'we', 'show', 'a', 'fit', 'of', 'the', 'sigmoidal', 'Boltzmann', 'function,']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,16 @@
+tokens,labels
+"['To', 'induce', 'systemic', 'AML,', '10', '6', 'C1498', 'cells', 'were', 'injected', 'IV', 'through', 'the', 'lateral', 'tail', 'vein.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['For', 'in', 'vivo', 'CD4', 'C', 'and', 'CD8', 'C', 'T-cell', 'depletion,', 'anti-CD4', '(L3T4)', 'and', 'anti-CD8a', '(2.43)', 'antibodies', '(BioXCell)', 'were', 'administered', 'intra-peritoneal', '(IP)', 'at', 'a', 'dose', 'of', '200', 'mg', 'on', 'day', '¡1,', 'and', '100', 'mg', 'on', 'day', '0,', 'and', 'every', '3', 'd', 'thereafter', 'until', 'day', '14.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['To', 'induce', 'localized', 'tumor', 'growth,', '10', '6', 'C1498', 'cells', 'were', 'inoculated', 'subcutaneously', '(SC)', 'in', 'the', 'lower', 'lateral', 'abdominal', 'wall.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Tumor', 'growth', 'was', 'monitored', '2-3', 'times', 'per', 'week', 'with', 'calipers,', 'and', 'mean', 'tumor', 'diameter', 'was', 'recorded.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+['.'],['O']
+"['Rabbit', 'anti-calreticulin', 'monoclonal', 'antibody', 'and', 'fluorescence-labeled', 'goat-anti-rabbit', 'IgG', 'polyclonal', 'secondary', 'antibody', 'were', 'purchased', 'from', 'Abcam.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Fixable', 'viability', 'dyes', '(Invitrogen)', 'were', 'used', 'to', 'exclude', 'dead', 'cells.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Flow', 'cytometry', 'was', 'performed', 'on', 'LSRII', 'or', 'LSRFortessa', 'cytometers', '(BD', 'Biosciences).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Analysis', 'was', 'performed', 'using', 'FlowJo', 'software', '(Treestar).']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"
+"['Fluorescence-activated', 'cell', 'sorting', '(FACS)', 'was', 'performed', 'using', 'a', 'FACSAria', '(BD', 'Biosciences).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Grouped', 'data', 'were', 'analyzed', 'via', 'two-way', 'ANOVA', 'with', 'Bonferroni', 'post-tests.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Survival', 'differences', 'were', 'analyzed', 'with', 'the', 'Log-rank', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistics', 'were', 'performed', 'using', 'GraphPrism', 'software.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+"['Data', 'are', 'presented', 'as', 'mean', '§', 'SD', 'unless', 'otherwise', 'indicated.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'p', 'value', 'of', '<', '0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

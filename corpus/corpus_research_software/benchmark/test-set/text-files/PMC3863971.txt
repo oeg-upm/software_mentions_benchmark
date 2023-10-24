@@ -1,0 +1,2 @@
+
+Scanning electron microscopy and X-ray dispersive spectroscopy. SEM samples were prepared by breaking a QDSSC anode or cathode in half. The SEM used a Quanta 400 field emission gun made by FEI Company. The 20 kV electron beam was scanned across the cross-section, and then the energy and the count of X-rays were measured. Elemental analysis was conducted using Genesis EDX software.

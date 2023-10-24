@@ -1,0 +1,2 @@
+tokens,labels
+"['Extensive', 'experiments', 'on', 'OTB', 'and', 'VOT', 'demonstrates', 'that', 'our', 'tracker', 'MemTrack', 'performs', 'favorably', 'against', 'state-of-the-art', 'tracking', 'methods', 'while', 'retaining', 'real-time', 'speed', 'of', '50', 'fps']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

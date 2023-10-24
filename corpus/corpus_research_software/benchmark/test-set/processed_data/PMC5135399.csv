@@ -1,0 +1,4 @@
+tokens,labels
+"['Data', 'tabulation', 'and', 'statistical', 'operations', 'were', 'performed', 'withSAS', '9.3', '(SAS', 'Institute,', 'Inc.,', 'Cary,', 'NC,', 'USA)', 'and', 'Microsoft', 'Office', 'Excel', '7.0', '(Microsoft', 'Corporation,', 'Redmond,', 'WA,', 'USA)', 'software.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Unpaired', 't-test', 'was', 'used', 'to', 'compare', 'clinical', 'data', 'and', 'questionnaire', 'outcomes', 'between', 'patients', 'who', 'had', 'met', 'their', 'surgeon', 'on', 'DOS', 'and', 'PDOS.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Chi-square', 'test', 'was', 'used', 'to', 'compare', 'percentages.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"

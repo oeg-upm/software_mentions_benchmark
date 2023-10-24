@@ -1,0 +1,2 @@
+
+We conducted all analyses using Stata V.12.1 (Stata, Inc, College Station, Texas, USA).

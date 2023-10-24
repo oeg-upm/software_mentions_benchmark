@@ -1,0 +1,5 @@
+tokens,labels
+"['Data', 'analysis', 'and', 'statistics.']","['O', 'O', 'O', 'O']"
+"['Flow', 'cytometry', 'data', 'were', 'analyzed', 'using', 'FlowJo', '(Tree', 'Star).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"
+"['A', 'two-tailed,', 'unpaired', 'or', 'paired', ""Student's"", 't', 'test', 'was', 'performed', 'on', 'log-transformed', 'data', 'using', 'Prism', '(GraphPad', 'Software).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"
+"['P-values', 'are', 'represented', 'as', 'follows:', '*,', 'P', '<', '0.05;', '**,', 'P', '<', '0.01;', '***,', 'P', '<', '0.001;', '****,', 'P', '<', '0.0001.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

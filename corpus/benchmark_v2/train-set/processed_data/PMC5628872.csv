@@ -1,0 +1,2 @@
+tokens,labels
+"['Measurement', 'model', 'analysis', 'was', 'conducted', 'using', 'AMOS', '23,', 'whereas', 'the', 'remaining', 'analyses', 'were', 'computed', 'using', 'SPSS', '23.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

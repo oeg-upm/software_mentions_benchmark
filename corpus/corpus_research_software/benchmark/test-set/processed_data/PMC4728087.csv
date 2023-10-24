@@ -1,0 +1,8 @@
+tokens,labels
+"['Statistical', 'analysis', 'was', 'performed', 'using', 'Sigmastat', '3.5', 'andIBM', 'SPSS', 'Statistics', '21.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O']"
+"['Continuous', 'variables', 'are', 'expressed', 'as', 'mean±standard', 'deviation.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Relationships', 'between', 'Bcl-2', 'and', 'p53', 'levels', 'were', 'determined', 'using', 'analysis', 'of', 'variance', '(ANOVA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'variables', 'did', 'not', 'show', 'normal', 'distribution', 'in', 'comparison', 'between', 'Annexin', 'V', 'levels,', 'we', 'used', 'Kruskal-Wallis', 'one-way', 'analysis', 'of', 'variance.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['As', 'multiple', 'comparison', 'test', 'annexin', 'V', 'levels', 'were', 'measured', 'by', ""Tukey's"", 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['We', 'considered', 'a', 'significant', 'nally', 'leading', 'to', 'cell', 'death.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Caspase-3', 'is', 'believed', 'to', 'be', 'the', 'main', 'executioner', 'protease', 'of', 'apoptotic', 'caspase', '36).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

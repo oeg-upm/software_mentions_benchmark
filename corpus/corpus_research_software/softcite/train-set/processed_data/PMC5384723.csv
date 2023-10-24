@@ -1,0 +1,7 @@
+tokens,labels
+"['Data', 'were', 'analyzed', 'using', 'Review', 'Manager', 'version', '5.2', 'provided', 'by', 'Cochrane', 'Collaboration.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['P,0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O']"
+"['Heterogeneity', 'among', 'the', 'studies', 'was', 'assessed', 'to', 'determine', 'the', 'most', 'suitable', 'model.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['40', 'A', 'randomeffects', 'method', 'was', 'applied', 'when', 'heterogeneity', 'existed;', 'otherwise,', 'a', 'fixed-effects', 'method', 'was', 'used.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"[""Cochran's"", 'Q-test', 'was', 'performed', 'in', 'order', 'to', 'evaluate', 'homogeneity', 'among', 'studies,', 'and', 'I', '2', ',50%', 'or', 'P.0.1', 'was', 'considered', 'homogeneous.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Odds', 'ratios', '(ORs)', 'were', 'the', 'principal', 'measurements', 'for', 'therapeutic', 'effects', 'and', 'were', 'presented', 'with', '95%', 'confidence', 'intervals', '(CIs).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

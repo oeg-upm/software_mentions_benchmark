@@ -1,0 +1,2 @@
+tokens,labels
+"['Survey', 'data', 'from', 'both', 'SA', 'and', 'NZ', '(n', '=', '4,842)', 'were', 'downloaded', 'from', 'SurveyMonkey', '[49]', 'and', 'initial', 'data', 'screening', 'was', 'conducted', 'in', 'Microsoft', 'Excel']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention']"

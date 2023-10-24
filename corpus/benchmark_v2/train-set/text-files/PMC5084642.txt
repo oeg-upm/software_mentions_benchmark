@@ -1,0 +1,2 @@
+
+Following initial comparisons, generalized linear models (GLMs) were used, which test whether the adjusted (accounting for covariates) relative counts of the outcomes differ among wellbeing groups. Covariates included demographic and health characteristics defined above. All analyses were carried out using SPSS version 20 (SPSS Inc., Chicago, IL).

@@ -1,0 +1,2 @@
+
+Statistical Package for Social Sciences (SPSS) for Windows 19.0 software package (IBM, New York, USA) was used for statistical analyses of study findings. Study data were analyzed using statistical methods (i.e., median and minimum-maximum) and Wilcoxon signed rank test was used for intragroup comparisons of quantitative parameters that did not follow a normal distribution. The associations between GMFM-88 and WeeFIM scores were analyzed using Spearman correlation analysis. Results were reported with 95% confidence intervals and a p-value <0.05 was considered significant.

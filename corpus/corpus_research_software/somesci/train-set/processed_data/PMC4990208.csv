@@ -1,0 +1,2 @@
+tokens,labels
+"['Information', 'from', 'completed', 'abstraction', 'forms', 'were', 'entered', 'into', 'an', 'Access', 'database', 'and', 'imported', 'into', 'SAS', 'for', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"

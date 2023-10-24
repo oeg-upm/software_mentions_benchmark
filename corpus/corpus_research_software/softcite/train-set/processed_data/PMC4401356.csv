@@ -1,0 +1,5 @@
+tokens,labels
+"['All', 'data', 'are', 'presented', 'as', 'mean', '±', 'standard', 'deviation,', 'where', 'applicable.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Differences', 'in', 'mean', 'IOP', 'at', 'baseline', 'and', 'at', '1', 'and', '3', 'months', 'were', 'analyzed', 'using', 'paired', 't-tests.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Commercially', 'available', 'statistical', 'software', '(SPSS', 'version', '22;', 'SPSS,', 'Inc.,', 'Chicago,', 'IL,', 'USA)', 'was', 'used', 'to', 'perform', 'all', 'statistical', 'analyses.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'significance', 'was', 'defined', 'as', 'P,0.05.']","['O', 'O', 'O', 'O', 'O', 'O']"

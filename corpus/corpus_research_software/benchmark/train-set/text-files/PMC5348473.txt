@@ -1,0 +1,2 @@
+
+Chi-square test was utilized to compare the differences in MAGI1 protein expression between GC tissues and adjacent noncancerous tissues. The association of MAGI1 protein expression with clinicopathological features in GC patients was analyzed by Chi-square test and KruskalWallis test. Other data were analyzed using Student's t-test. All the statistical analyses were carried out using the IBM SPSS Statistics (Version 21.0; IBM corp., New York, USA). All data were represented as ±s. Two-tailed P<0.05 was considered statistically significant.

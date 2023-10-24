@@ -1,0 +1,2 @@
+
+We calculated the sample size required to detect an effect size of 0.6 (i.e., mean change in the outcome variable over time differs by at least 0.6 standard deviations (SDs) between the two groups) and thirty patients were required in each group to obtain an alpha of 0.05 and a beta of 0.80. We sought to enroll 35 participants per group to allow for 10% withdrawal and noncompliance. These calculations were based on the changes found in an earlier study of JLD granule. [18] The statistical analyses were performed using the SPSS

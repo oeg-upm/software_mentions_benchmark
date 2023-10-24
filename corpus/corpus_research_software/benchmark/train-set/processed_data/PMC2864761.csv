@@ -1,0 +1,2 @@
+tokens,labels
+"['Graphs', 'and', 'statistical', 'analysis', 'were', 'conducted', 'by', 'SPSS', '17.0', 'and', 'Excel', '2007.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'B-Application_Mention', 'O']"

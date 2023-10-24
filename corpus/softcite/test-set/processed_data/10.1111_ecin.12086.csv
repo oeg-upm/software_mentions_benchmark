@@ -1,0 +1,6 @@
+tokens,labels
+['19.'],['O']
+"['Power', 'calculations', 'can', 'be', 'performed', 'in', 'STATA', 'using', 'sampsi', 'or', 'SAS', 'using', 'proc', 'power.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"
+"['many', 'participants', 'would', 'clearly', 'be', 'prohibitively', 'expensive.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['20', 'To', 'detect', 'a', 'treatment-control', 'difference', 'of', '0.02,', 'which', 'is', '10%', 'of', 'the', 'control', 'group', 'mean,', 'the', 'sample', 'size', 'would', 'have', 'to', 'be', '6,510', 'observations.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'effect', 'size', 'would', 'have', 'to', 'be', '0.10', '(or', '50%', 'of', 'the', 'control', 'group', 'mean)', 'to', 'be', 'statistically', 'detectable', 'with', 'sample', 'sizes', 'in', 'the', 'range', 'of', 'what', 'is', 'available', 'in', 'this', 'experiment.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

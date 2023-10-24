@@ -1,0 +1,2 @@
+tokens,labels
+"['We', 'therefore', 'used', 'Multiple', 'Imputation', 'with', '5', 'imputations', 'applying', 'a', 'set', 'seed', 'using', 'the', 'ice', 'package', 'in', 'Stata', 'version', '11.2,', 'to', 'ensure', 'that', 'our', 'analysis', 'would', 'provide', 'unbiased', 'estimates.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

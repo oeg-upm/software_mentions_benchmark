@@ -1,0 +1,2 @@
+tokens,labels
+"['Analysis', 'was', 'then', 'done', 'by', 'one', 'researcher', '(SS)', 'using', 'MSOffice', '(Word', 'and', 'Excel', 'Microsoft', 'Corp.)', 'and', 'NVivo', '(QSR', 'International)', 'software', 'for', 'qualitative', 'data', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'B-Application_Mention', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

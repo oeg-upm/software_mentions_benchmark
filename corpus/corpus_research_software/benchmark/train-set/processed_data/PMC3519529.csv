@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'ANOVAs', 'and', 'linear', 'contrasts', 'were', 'performed', 'with', 'SAS', 'version', '8.1', '(SAS', 'Institute', 'Inc.),', 'while', 'the', 'correlation', 'analyses', 'were', 'performed', 'with', 'JMP', '(SAS', 'Institute', 'Inc.).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"

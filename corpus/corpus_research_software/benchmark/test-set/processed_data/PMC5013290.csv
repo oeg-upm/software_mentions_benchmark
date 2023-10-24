@@ -1,0 +1,5 @@
+tokens,labels
+"['All', 'results', 'were', 'presented', 'as', 'mean', '±', 'standard', 'deviation', '(SD)', 'from', 'at', 'least', 'three', 'independent', 'experiments.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'analyses', 'were', 'performed', 'with', 'a', 'two-tailed', ""Student's"", 't', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Significant', 'differences', 'were', 'assigned', 'P', 'values', 'of', '<', '0.05,', '<', '0.01,', 'and', '<', '0.001,', 'which', 'were', 'denoted', 'by', '*,', '**,', 'and', '***,', 'respectively.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'values', 'were', 'calculated', 'with', 'SPSS', '19.0', 'software', '(IBM,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"

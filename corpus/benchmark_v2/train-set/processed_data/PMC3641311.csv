@@ -1,0 +1,6 @@
+tokens,labels
+"['Results', 'for', 'each', 'group', 'were', 'compared', 'by', 'analysis', 'of', 'variance,', 'followed', 'by', ""Dunn's"", 'multiple', 'comparison', 'of', 'means.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['SPSS', 'ver.']","['B-Application_Mention', 'O']"
+"['10.0', '(SPSS', 'Inc.,', 'Chicago,', 'IL,', 'USA)', 'was', 'used', 'for', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'P', 'value', 'of', '<0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'results', 'are', 'given', 'as', 'mean±standard', 'error', 'of', 'the', 'mean.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

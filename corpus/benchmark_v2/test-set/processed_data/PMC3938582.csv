@@ -1,0 +1,3 @@
+tokens,labels
+"['This', 'assumption,', 'tested', 'by', 'Stata', 'gologit2', 'command', 'and', 'its', 'autofit', 'option,', 'was', 'confirmed', 'in', 'all', 'cases.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Analyses', 'were', 'conducted', 'using', 'STATA', 'Version', '13', 'for', 'Windows', '(College', 'Station,', 'TX,', 'USA).']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

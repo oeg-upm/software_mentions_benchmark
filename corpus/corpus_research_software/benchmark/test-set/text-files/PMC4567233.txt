@@ -1,0 +1,2 @@
+
+All statistical analyses were performed using the statistical program for social sciences (SPSS Inc., Chicago, IL, USA). Categorical variables were analyzed using chi-squared test and Fisher's exact test when appropriate. Continues variables were analyzed using Student's t-test. Binary logistic regression analysis was performed to identify the independent predictors of HBV reactivation. A P-value of ,0.05 was considered statically significant.

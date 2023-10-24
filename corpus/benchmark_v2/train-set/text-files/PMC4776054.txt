@@ -1,0 +1,2 @@
+
+Statistical analyses were conducted using Statistical Analysis Software (SAS), version 9.3 (SAS Institute Inc., Cary, NC). The distribution of continuous variables was explored to guide categorization. Frequencies and distributions of sociodemographic and clinical characteristics were computed.

@@ -1,0 +1,2 @@
+
+In the external validation sample, Spearman's correlation coefficients between GAS score and HAQ score, physician VAS, and PASS were estimated. Analyses were performed using Stata software package (release 11) and R Statistical Software.

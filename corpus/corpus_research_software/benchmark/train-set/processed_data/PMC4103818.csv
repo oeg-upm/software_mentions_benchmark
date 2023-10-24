@@ -1,0 +1,2 @@
+tokens,labels
+"['To', 'create', 'a', 'set', 'of', 'control', 'stimuli', 'that', 'retained', 'acoustic', 'correspondence,', 'we', 'synthesized', 'nonvocal', 'sounds', 'by', 'using', 'Praat', '[44]', 'and', 'MATLAB', '(The', 'MathWorks,', 'Inc.,', 'Natick,', 'MA,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

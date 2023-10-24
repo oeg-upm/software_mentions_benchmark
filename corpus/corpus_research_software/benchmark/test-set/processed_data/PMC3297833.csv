@@ -1,0 +1,5 @@
+tokens,labels
+"['Data', 'are', 'expressed', 'as', 'mean', '±', 'SEM', 'of', '(N)', 'individual', 'samples', 'per', 'group.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'analysis', 'was', 'performed', 'using', 'ANOVA', 'combined', 'with', ""Dunnet's"", 'or', 'two-tailed', ""Student's"", 't', '-tests', 'for', 'comparison', 'within', 'the', 'same', 'group', 'or', 'two', 'groups,', 'respectively.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Differences', 'were', 'considered', 'significant', 'at', 'P', '<', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'maximal', 'inhibitory', 'activity', 'values', 'were', 'calculated', 'and', 'confirmed', 'by', 'nonlinear', 'regression', 'analysis', 'using', 'a', 'Prism', '4.0', 'software', '(GraphPad', 'Software).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"

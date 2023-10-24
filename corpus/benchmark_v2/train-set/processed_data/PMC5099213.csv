@@ -1,0 +1,9 @@
+tokens,labels
+"['Audio', 'recordings', 'were', 'professionally', 'transcribed.']","['O', 'O', 'O', 'O', 'O']"
+"['Data', 'were', 'coded', 'using', 'Dedoose', 'software.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+"['Researchers', 'McDonald', 'and', 'Popova', 'independently', 'blind-coded', 'a', 'subset', 'of', 'transcripts,', 'which', 'were', 'then', 'compared', 'to', 'develop', 'coding', 'guidelines.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Researchers', 'created', 'code', 'definitions', 'and', 'developed', 'a', 'consistent', 'coding', 'scheme', 'to', 'ensure', 'that', 'codes', 'were', 'applied', 'consistently.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'larger', 'set', 'of', 'transcripts', 'was', 'divided', 'and', 'coded', 'independently.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Themes', 'were', 'generated', 'iteratively', 'during', 'review', 'of', 'coded', 'transcripts.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Memos', 'summarising', 'each', 'theme', 'with', 'illustrative', 'quotes', 'were', 'reviewed', 'by', 'authors', 'and', 'discussed', 'iteratively', 'to', 'reach', 'consensus', 'and', 'theme', 'saturation.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Pseudonyms', 'are', 'used', 'for', 'all', 'participants', 'quoted', 'in', 'this', 'article', 'and', 'no', 'real', 'names', 'have', 'been', 'used.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

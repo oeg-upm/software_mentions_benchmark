@@ -1,0 +1,4 @@
+tokens,labels
+"['Continuous', 'variables', 'were', 'introduced', 'as', 'such', 'in', 'the', 'different', 'models;', 'for', 'categorical', 'variables,', 'we', 'created', 'indicator', 'variables.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['We', 'performed', 'all', 'statistical', 'analyses', 'with', 'SPSS', 'version', '17.0', '(SPSS,', 'Chicago,', 'IL).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O']"
+"['P', 'values', 'were', 'based', 'on', 'two-sided', 'tests', 'with', 'a', 'cutoff', 'level', 'for', 'statistical', 'significance', 'of', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

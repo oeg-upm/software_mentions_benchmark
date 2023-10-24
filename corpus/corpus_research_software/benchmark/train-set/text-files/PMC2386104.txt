@@ -1,0 +1,2 @@
+
+The ratio of Msi1-containing granules to total marker-containing granules was determined in Fig. 4 B . The percent colocalization (Fig. 4 B; 1) was estimated as described previously ( Barbee et al., 2006 ). The weighted colocalization coeffi cients (Fig. 4 B; 2) were calculated using LSM Image Examiner software (Carl Zeiss, Inc.).

@@ -1,0 +1,2 @@
+tokens,labels
+"['One-way', 'ANOVAs', 'were', 'used', 'to', 'test', 'combined', 'drug', 'treatment', 'and', 'prenatal', 'exposure', 'effects', 'on', 'oxygen', 'consumption', 'and', 'CO2', 'production', '(GraphPad', 'Prism', '5.0', 'd).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"

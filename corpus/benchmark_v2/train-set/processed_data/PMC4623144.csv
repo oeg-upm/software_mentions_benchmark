@@ -1,0 +1,4 @@
+tokens,labels
+"['The', 'data', 'are', 'presented', 'as', 'the', 'means', '±', 'SD', 'from', 'three', 'replicate', 'experiments.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Differences', 'were', 'evaluated', 'using', 'the', ""Student's"", 't', 'test', 'following', 'one-way', 'ANOVA', 'with', 'the', 'SPSS', '16.0', 'software', '(SPSS,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['P', '<', '0.05', 'was', 'regarded', 'as', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

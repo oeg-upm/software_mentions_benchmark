@@ -1,0 +1,3 @@
+tokens,labels
+"['Data', 'analyses', 'were', 'performed', 'using', 'SPSS', 'software', 'version', '19.0.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"
+"['Tests', 'of', 'gender', 'interactions', 'with', 'psychosocial', 'work', 'factors', 'were', 'performed', 'using', 'SAS', 'software.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

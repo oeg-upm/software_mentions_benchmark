@@ -1,0 +1,2 @@
+tokens,labels
+"['Then,', 'the', 'hypotheses', 'were', 'tested', 'with', 'OLS', 'Ordinary', 'Least', 'Square', 'through', 'the', 'PROCESS', 'macro', 'for', 'SPSS', 'which', 'assesses', 'the', 'conditional', 'indirect', 'effects', '[38].']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

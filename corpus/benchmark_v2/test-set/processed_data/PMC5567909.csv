@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'research', 'study', 'details', 'were', 'recorded', 'in', 'MS', 'Excel', 'in', 'the', 'apriori', 'descriptive', 'mapping', 'categories', 'of', 'geographic', 'focus,', 'aims', 'of', 'the', 'study,', 'peer', 'review', 'status,', 'type', 'of', 'report,', 'key', 'findings,', 'methods', 'and', 'sample', 'size.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

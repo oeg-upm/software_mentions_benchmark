@@ -1,0 +1,19 @@
+tokens,labels
+['Patients.'],['O']
+"['The', 'design', 'of', 'the', 'clinical', 'trial', 'has', 'been', 'previously', 'described.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['49', 'Briefly,', 'our', 'single-arm', 'trial', 'used', 'induction', 'gemcitabine', '(1', 'g/m', '2', ')', 'on', 'day', '1', 'and', 'day', '8', 'and', 'carboplatin', '(AUC', '=', '5)', 'on', 'day', '1', 'given', 'at', '4-week', 'intervals', 'for', 'two', 'cycles.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['This', 'was', 'followed', 'by', 'weekly', 'carboplatin', '(AUC', '=', '2)', 'and', 'paclitaxel', '(50', 'mg/m', '2', ')', 'with', 'concurrent', 'conformal', 'radiation', '(dose', '=', '74', 'Gy', '±', '5%)', 'administered', 'over', '40', 'daily', 'fractions.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Plasma', 'was', 'collected', 'at', 'baseline', '(Time', '0),', 'after', 'induction', 'at', 'week', '9', '(Time', '1),', 'and', 'afterindividual', 'mean', 'concentrations', 'were', 'recorded.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'intraassay', 'and', 'day-to-day', 'analytic', 'coefficients', 'of', 'variation', 'were', 'less', 'than', '5%', 'for', 'each', 'analyte', '(Table', 'S1).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+['Statistics.'],['O']
+"['The', 'plasma', 'concentrations', 'of', 'Kyn', 'and', 'Trp,', 'as', 'well', 'as', 'Kyn/Trp', 'ratios', 'approximated', 'a', 'parametric', 'distribution.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Therefore,', 'data', 'were', 'presented', 'as', 'means', '±', 'SD.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Due', 'to', 'the', 'small', 'sample', 'size,', 'the', 'associations', 'between', 'serum', 'biomarker', 'levels', 'and', 'clinicopathologic', 'variables', 'were', 'evaluated', 'with', 'Wilcoxon', 'ranksum', 'and', 'Kruskal-Wallis', 'tests.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Wilcoxon', 'signed', 'rank', 'was', 'used', 'to', 'compare', 'between', 'time', 'points.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Correlation', 'was', 'estimated', 'using', ""Spearman's"", 'rho.']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['Survival', 'curves', 'were', 'calculated', 'according', 'to', 'the', 'Kaplan-Meier', 'method.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['To', 'address', 'the', 'experimental', 'hypothesis,', 'the', 'statistical', 'population', 'was', 'equally', 'divided', 'into', '""hig""', 'and', '""low""', 'patients', 'using', 'the', 'median', 'Kyn/Trp', 'value', 'as', 'pre-specified', 'cut-point.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'effects', 'of', 'biomarkers', 'on', 'PFS', 'and', 'OS', 'were', 'evaluated', 'using', 'log-rank', '(Mantel-Cox)', 'test', 'and', 'Cox', 'proportionalhazards', 'regression', 'models.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'tests', 'performed', 'were', 'two-tailed.']","['O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'analysis', 'was', 'performed', 'using', 'the', 'SAS', 'software', '(version8.0).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"
+"['Figures', 'and', 'survival', 'plots', 'were', 'generated', 'using', 'GraphPad', 'Prism', '®', '(version', '5.04).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O']"

@@ -1,0 +1,3 @@
+tokens,labels
+"['The', 'number', 'of', 'open', 'dentinal', 'tubules', 'per', 'area', 'unit', 'was', 'quantified', 'using', 'image', 'Pro', 'Plus', '4.5', 'software', '(Media', 'Cybernetics,', 'Silver', 'Spring,', 'MD,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'number', 'of', 'dentinal', 'tubules', 'free', 'of', 'filling', 'materials', 'per', 'mm2', 'was', 'statistically', 'evaluated', 'by', 'Kruskall-Wallis', 'test', '(p<0.05).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

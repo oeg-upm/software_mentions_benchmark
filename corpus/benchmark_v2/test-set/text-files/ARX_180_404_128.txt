@@ -1,0 +1,1 @@
+For this task, we introduce our manually curated dataset called Palette-and-Text (PAT). Our proposed model called Text2Colors consists of two conditional generative adversarial networks: the text-topalette generation networks and the palette-based colorization networks.

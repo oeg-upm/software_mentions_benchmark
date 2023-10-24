@@ -1,0 +1,2 @@
+
+The Open Medicine wiki utilized the open-source platform developed by Mediawiki (the same software application used by Wikipedia) to create a viewing and navigating experience that would likely be familiar to users of the site (Fig. 1). The wiki was hosted and administered by the Centre for Global eHealth Innovation, a joint research initiative of the University of Toronto and the University Health Network in Toronto. It was branded with the Open Medicine logo and linked to the Open Medicine website.

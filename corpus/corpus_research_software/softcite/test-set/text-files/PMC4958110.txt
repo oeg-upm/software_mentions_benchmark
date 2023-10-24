@@ -1,0 +1,2 @@
+
+Standard statistical Student's t tests were used to evaluate the mean outcome of continuous variables between groups, and chisquare tests were used to evaluate categorical variables. Dedicated statistical software (SPSS 22; SPSS Inc., Chicago, IL) was used to perform the data analysis. The two groups were compared on the basis of length of hospital stay; amount of narcotic pain medication used over the first 24, 48, and 72 hours; and the distance walked on postoperative days 1, 2, and 3. Statistically significant difference was considered at P .05 between groups.

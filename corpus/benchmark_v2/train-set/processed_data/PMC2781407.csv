@@ -1,0 +1,2 @@
+tokens,labels
+"['Statistical', 'Analysis-Statistical', 'analyses', 'were', 'performed', 'with', 'PRISM', 'software', '(Graph-Pad', 'Software,', 'San', 'Diego.', 'CA)', 'by', 'using', 'the', 'unpaired', ""Student's"", 't', 'test', 'for', 'pairwise', 'comparisons.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

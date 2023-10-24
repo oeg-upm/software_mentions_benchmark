@@ -1,0 +1,19 @@
+filename	mark	label	off0	off1	span
+ARX_210_912_599	T1	Application_Mention	37	48	DialogueCSE
+ARX_190_311_056	T1	Application_Mention	98	107	RowHammer
+ARX_190_311_056	T2	Application_Mention	298	307	RowHammer
+ARX_221_002_843	T1	Application_Mention	198	205	CIR-Net
+ARX_220_614_504	T1	Application_Mention	211	220	GERNERMED
+ARX_190_311_991	T1	Application_Mention	34	37	PAL
+ARX_190_311_991	T2	Application_Mention	210	217	PyTorch
+ARX_190_311_991	T3	Application_Mention	222	232	Tensorflow
+ARX_180_404_128	T1	Application_Mention	114	125	Text2Colors
+ARX_190_404_174	T1	Application_Mention	1	9	SYCL-DNN
+ARX_180_602_199	T1	Application_Mention	126	138	SOM-VAE_prob
+ARX_180_602_199	T2	Application_Mention	168	175	SOM-VAE
+ARX_210_800_580	T1	Application_Mention	30	39	GraphFPN
+ARX_220_803_118	T1	Application_Mention	28	32	LPCB
+ARX_220_703_414	T1	Application_Mention	121	128	DoseRTX
+ARX_220_600_831	T1	Application_Mention	223	227	TMNN
+ARX_180_307_870	T1	Application_Mention	31	52	reservoir model space
+ARX_210_504_459	T1	Application_Mention	25	52	InverseConsistentNet (ICON)

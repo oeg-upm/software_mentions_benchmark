@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'IBM', 'Statistical', 'Package', 'for', 'the', 'Social', 'Sciences', '(SPSS', 'software', 'was', 'used', 'to', 'analyze', 'the', 'quantitative', 'data.']","['O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

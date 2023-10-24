@@ -1,0 +1,5 @@
+tokens,labels
+"['Meta-analysis', 'was', 'performed', 'using', 'the', 'STATA', 'statistical', 'package', 'version', '11.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"
+"['First,', 'we', 'assessed', 'the', 'heterogeneity', 'between', 'the', 'studies', 'by', 'Chi-squared', 'test', '(P<0.1', 'as', 'meaningful).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['We', 'used', 'random', 'or', 'fixed', 'model', 'for', 'pooling', 'the', 'percentage', 'of', 'improvement', 'and', '95%', 'confidence', 'intervals', 'in', 'case', 'of', 'heterogeneous', 'and', 'homogenous', 'cases,', 'respectively.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['In', 'addition,', 'p-values', 'less', 'than', '0.05', 'were', 'regarded', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

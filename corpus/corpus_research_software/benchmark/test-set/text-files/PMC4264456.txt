@@ -1,0 +1,2 @@
+
+Statistical tests were two sided and were implemented with SAS (version 9.1, SAS Institute, Cary, NC, USA) and Stata/SE (version 13.1, StataCorp, College Station, TX, USA). The study followed the REMARK guidelines (McShane et al, 2005).

@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'details', 'of', 'the', 'designed', 'LPCB', 'are', 'given', 'in', 'our', 'GitHub', 'project5', 'and', 'some', 'LPCBs', 'are', 'also', 'presented', 'in', 'Appendix', 'C']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,10 @@
+tokens,labels
+"['Continuous', 'variables', 'are', 'presented', 'as', 'median', 'and', 'interquartile', 'range.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'Wilcoxon', 'rank-sum', 'test', 'was', 'employed', 'to', 'compare', 'these', 'variables', 'between', 'healthy', 'control', 'subjects', 'and', 'patients', 'or', 'the', 'responsive', 'and', 'non-responsive', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Categorical', 'variables', 'were', 'presented', 'as', 'frequencies', 'and', 'proportions,', 'and', 'tested', 'with', ""Fisher's"", 'exact', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Median', 'regression', 'was', 'employed', 'to', 'compare', 'non-normally', 'distributed', 'continuous', 'variables', 'adjusting', 'for', 'other', 'variables.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'Wilcoxon', 'signedrank', 'test', 'was', 'used', 'to', 'compare', 'the', 'cytokine', 'values', 'of', 'pre-and', 'post-antidepressant', 'treatment.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Relationships', 'between', 'two', 'continuous', 'variables', 'were', 'tested', 'by', ""Spearman's"", 'correlation', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['p-values', 'were', 'corrected', 'by', ""Bonferroni's"", 'correction', 'for', 'the', 'multiple', 'association', 'tests', 'of', 'cytokines', 'and', 'noted', 'as', 'corrected', 'p.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'differences', 'were', 'considered', 'to', 'be', 'significant', 'at', 'p<0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'analysis', 'was', 'undertaken', 'using', 'STATA', 'SE', '10.0', 'for', 'Windows', '(College', 'Station,', 'TX,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

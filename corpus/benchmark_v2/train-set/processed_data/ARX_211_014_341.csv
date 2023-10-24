@@ -1,0 +1,6 @@
+tokens,labels
+"['The', 'slopes', 'of', 'the', 'error', 'curves', 'correspond', 'to', 'the', 'error', 'exponents.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'improvements', 'to', 'the', 'slopes', 'of', 'the', 'Active-LATHE', 'algorithm', '(the', 'slopes', 'are', 'more', 'negative', 'for', 'Active-LATHE', 'compared', 'to', 'the', 'passive', 'algorithm)', 'are', 'especially', 'pronounced', 'when', 'ρ', 'is', 'large.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'large', 'reductions', 'of', 'the', 'error', 'probability', '(the', 'error', 'exponent', 'increases', 'by', 'at', 'least', '40%)', 'shown', 'in', 'Figs.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['3(a)', 'to', '5(a)', 'greatly', 'mitigate', 'the', 'inherent', 'deficiencies', 'of', 'the', 'passive', 'learning', 'for', 'large', 'ρ', 'as', 'discussed', 'in', 'Section', '3.1.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'code', 'to', 'reproduce', 'the', 'figures', 'is', 'available', 'at', 'this', 'GitHub', 'link.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

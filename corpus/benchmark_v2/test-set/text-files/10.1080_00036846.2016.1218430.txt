@@ -1,0 +1,2 @@
+
+The software package AMOS (Analysis of Moment Structures) by Arbuckle (2006) was used to analyse the data. Initially, a test of multivariate normality was conducted and, as a result, six observations were removed. These observations had Mahalanobis distance values that deviated significantly from the other observations 3 -their removal resulted in a sample size of 504.

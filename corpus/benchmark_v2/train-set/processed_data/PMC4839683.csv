@@ -1,0 +1,2 @@
+tokens,labels
+"['For', 'each', 'participant,', 'mean', 'amplitudes', 'of', 'the', 'components', 'of', 'interest', '(see', 'above)', 'were', 'exported', 'and', 'read', 'into', 'SPSS', '(version', '21,', 'IBM).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"

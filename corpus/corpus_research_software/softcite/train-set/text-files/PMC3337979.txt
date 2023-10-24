@@ -1,0 +1,3 @@
+
+Statistics. Data were analysed using the GraphPad Prism 4. Student's t-test (two-tailed) was used for comparison of difference between two distributions. Multiple groups were compared using one-way or two-way analysis of variance with the Bonferroni post hoc test.
+Data acquisition and analysis. Data were acquired and analysed using the pClamp software (version 8.0; Axon Instruments). Currents were recorded from small cells ( < 25 µm) using an Axopatch (200 series) patch clamp amplifier, filtered at 5 kHz and sampled at 20 kHz. The series resistance was compensated (60-75%).

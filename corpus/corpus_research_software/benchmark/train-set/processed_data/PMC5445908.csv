@@ -1,0 +1,5 @@
+tokens,labels
+"['Paraffin', 'sections', 'was', 'made,', 'routinely', 'dewaxed', 'in', 'water,', 'and', 'soaked', 'in', '3%', 'H', '2', 'O', '2', 'for', '10', 'min', 'and', 'washed', 'with', 'PBS', '3', 'timesStatistical', 'analysisSPSS', '19.0', 'software', 'was', 'used', 'to', 'analyze', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'data', 'are', 'expressed', 'as', 'mean', '±SD.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Variance', 'analysis', 'was', 'used', 'to', 'comparethe', 'data', 'between', '2', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['P', 'values', 'less', 'than', '0.05', 'were', 'considered', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

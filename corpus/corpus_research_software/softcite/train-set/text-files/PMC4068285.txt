@@ -1,0 +1,2 @@
+
+For statistical analysis, the Student's t test was applied. P 0.05 was considered significant using GraphPad for graphic presentation.

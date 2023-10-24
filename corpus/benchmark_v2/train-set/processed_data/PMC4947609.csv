@@ -1,0 +1,9 @@
+tokens,labels
+"['Statistical', 'analyses', 'were', 'carried', 'out', 'using', 'theStatistical', 'Package', 'for', 'Social', 'Sciences', 'Windows', 'version', '15.0', '(SPSS,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Descriptive', 'statistics', 'for', 'each', 'variable', 'were', 'determined.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Results', 'for', 'continuous', 'variables', 'without', 'normal', 'distribution', 'were', 'presented', 'as', 'median', '(interquartile', 'range', '(IQR)).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistically', 'significant', 'differences', 'between', 'the', 'groups', 'were', 'determined', 'by', 'the', 'c', '2', 'test', 'for', 'categorical', 'variables', 'and', 'the', 'Mann-Whitney', 'U', 'test', 'for', 'continuous', 'variables', 'without', 'normal', 'distribution.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Kruskal-Wallis', 'analysis', 'was', 'used', 'to', 'compare', 'means', 'of', 'several', 'groups', 'without', 'normal', 'distribution.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Associations', 'between', 'the', 'variables', 'were', 'explored', 'using', ""Spearman's"", 'rho', '(for', 'data', 'that', 'are', 'not', 'normally', 'distributed).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Binary', 'logistic', 'regression', 'analysis', 'was', 'also', 'performed', 'to', 'define', 'variables', 'associated', 'with', '25(OH)D.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'p-value', 'less', 'than', '0.05', 'was', 'considered', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

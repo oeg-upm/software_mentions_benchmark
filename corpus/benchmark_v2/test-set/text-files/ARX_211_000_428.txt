@@ -1,0 +1,1 @@
+We call this framework of training an NLVL model with the temporal region proposals and pseudo-query generation, as Pseudo-Supervised Video Localization or PSVL (Sec. 4.1).

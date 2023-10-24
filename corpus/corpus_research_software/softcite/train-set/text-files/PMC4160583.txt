@@ -1,0 +1,2 @@
+
+Statistical analyses were performed using the SPSS version21.0 (IBM Co., Armonk, NY, USA). One-way analysis of variance was used to compare the clinical characteristics among the four groups followed by the Bonferroni post hoc test for continuous variables. The chi-square test was used to compare the categorical parameters. Normal distribution of variables was checked by Kolmogorov-Smirnov test.

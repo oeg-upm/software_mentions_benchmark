@@ -1,0 +1,2 @@
+tokens,labels
+"['These', 'integrated', 'peak', 'areas', 'were', 'calculated', 'in', 'Excel', 'using', 'the', 'same', 'spreadsheet', 'of', 'binned,', 'edited,', 'and', 'normalized', 'spectra', 'described', 'above.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

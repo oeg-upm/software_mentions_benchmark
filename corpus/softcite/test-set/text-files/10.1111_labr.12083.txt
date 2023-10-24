@@ -1,0 +1,2 @@
+
+In our empirical application we use the STATA ado file 'RIFREG' written by Firpo et al. (2009), downloaded from: http://faculty.arts.ubc.ca/nfortin/datahead.html.

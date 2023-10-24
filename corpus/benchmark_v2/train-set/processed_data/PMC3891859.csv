@@ -1,0 +1,10 @@
+tokens,labels
+"['premolars', 'and', 'the', 'first', 'and', 'second', 'molars', 'of', 'each', 'arch', 'in', 'this', 'root', 'shape', 'analysis', 'study.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Tooth', 'mortality', 'was', 'defined', 'as', 'the', 'value', 'obtained', 'by', 'adding', 'the', 'numbers', 'of', 'hopeless', 'and', 'missing', 'teeth.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'evaluation', 'criterion', 'for', 'the', 'hopeless', 'category', 'was', 'an', 'insufficient', 'attachment', 'level', 'to', 'maintain', 'health,', 'convenience,', 'and', 'function', '[14,15].']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Following', 'the', 'clinical', 'examination,', 'full-mouth', 'periapical', 'radiographs', 'were', 'taken', 'and', 'analyzed', 'for', 'bone', 'level,', 'root', 'deformity,', 'or', 'missing', 'teeth', 'using', 'PiView', 'STAR', 'software', '(Infinitt', 'Co.,', 'Seoul,', 'Korea).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O']"
+"['Data', 'management', 'procedures', 'employed', 'SPSS', 'ver.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+['14.0.'],['O']
+"['(SPSS', 'Inc.,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O']"
+"['The', 'tooth', 'mortality', 'and', 'root', 'form', 'distribution', 'were', 'analyzed', 'using', 'the', 'chi-square', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Periodontal', 'probing', 'depth', 'and', 'clinical', 'attachment', 'loss', 'by', 'root', 'form', 'was', 'analyzed', 'using', 'one-way', 'analysis', 'of', 'variance', 'with', 'Tukey', 'or', 'Dunnett', 'T3', 'post', 'hoc', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

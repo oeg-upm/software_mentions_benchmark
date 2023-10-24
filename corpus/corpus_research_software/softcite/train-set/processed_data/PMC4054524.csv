@@ -1,0 +1,10 @@
+tokens,labels
+"['Data', 'were', 'analyzed', 'using', 'SPSS', '13.0', 'statistic', 'software.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"
+"['The', 'results', 'for', 'several', 'of', 'the', 'hormone', 'measurements', 'were', 'not', 'normally', 'distributed,', 'so', 'both', 'paired', 't-tests', 'and', ""Wilcoxon's"", 'signed', 'ranked', 'test', '(for', 'matched', 'data)', 'were', 'used', 'in', 'the', 'univariate', 'analyses.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Univariate', 'analyses', 'included:']","['O', 'O', 'O']"
+"['a)', 'assessment', 'of', 'the', 'before', 'versus', 'after', 'changes', 'in', 'the', 'measures', 'of', 'reproductive', 'hormones', 'in', 'the', 'amenorrhea', 'group', 'and,', 'separately,', 'in', 'the', 'control', 'group;']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['b)', 'comparison', 'of', 'baseline', 'values', 'between', 'cases', 'and', 'controls;']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['c)', 'comparison', 'of', 'post-treatment', 'values', 'for', 'cases', 'and', 'controls;', 'and']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['d)', 'comparison', 'of', 'the', 'magnitude', 'of', 'the', 'before', 'versus', 'after', 'change', 'in', 'values', 'in', 'cases', 'versus', 'controls.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Multivariate', 'conditional', 'logistic', 'regression', 'was', 'used', 'to', 'determine', 'whether', 'or', 'not', 'any', 'of', 'the', 'pre-treatment', 'measures', 'of', 'reproductive', 'hormones', 'was', 'associated', 'with', 'the', 'occurrence', 'of', 'amenorrhea', 'during', 'treatment.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'two-tailed', 'level', 'of', 'significance', 'was', 'set', 'at', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

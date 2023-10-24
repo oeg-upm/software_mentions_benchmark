@@ -1,0 +1,4 @@
+tokens,labels
+"['The', 'variables', 'are', 'statistically', 'measured.']","['O', 'O', 'O', 'O', 'O']"
+"['-A', 'correlation', 'analysis', 'is', 'used', 'as', 'a', 'statistical', 'method', 'to', 'define', 'the', 'relationship.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Calculations', 'were', 'made', 'using', 'MS', 'Excel', 'and', 'are', 'presented', 'in', 'Appendix', '1.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+
+To analyze any policy which affects multiple counties, we need a sense of the relative importance of driving in the counties. We weight all summary statistics using vehicle miles traveled (VMT) in each county, as estimated by the EPA for their Motor Vehicle Emission Simulator (MOVES).

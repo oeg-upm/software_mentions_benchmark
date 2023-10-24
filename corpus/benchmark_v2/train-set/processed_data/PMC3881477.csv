@@ -1,0 +1,7 @@
+tokens,labels
+"['To', 'determine', 'whether', 'there', 'were', 'differences', 'between', 'the', 'NJF', 'group', 'and', 'the', 'control', 'group,', 'the', 'independent', 'ttest', 'was', 'performed', 'on', 'subject', 'characteristics.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Two-way', 'ANOVA', 'and', 'multiple', 'comparisons', '(Bonferroni', 'test)', 'were', 'used', 'to', 'test', 'for', 'statistically', 'significant', 'differences,', 'and', 'the', 'factors', 'were', 'intervention', 'and', 'group.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['If', 'a', 'significant', 'interaction', 'was', 'found,', 'the', 'paired', 't-test', 'was', 'performed', 'to', 'compare', 'before', 'and', 'after', 'the', 'intervention.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Data', 'were', 'analyzed', 'using', 'SPSS', 'Ver.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+"['17.0', 'for', 'Windows.']","['O', 'O', 'O']"
+"['The', 'level', 'of', 'statistical', 'significance', 'was', 'chosen', 'as', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

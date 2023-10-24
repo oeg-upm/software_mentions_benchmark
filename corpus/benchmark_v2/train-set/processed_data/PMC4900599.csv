@@ -1,0 +1,2 @@
+tokens,labels
+"['Analyses', 'were', 'conducted', 'using', 'STATA', '13/SE', 'sample', 'weights', 'were', 'used', 'to', 'account', 'for', 'the', 'MCS', 'complex', 'survey', 'design', 'and', 'cohort', 'attrition', 'over', 'time.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

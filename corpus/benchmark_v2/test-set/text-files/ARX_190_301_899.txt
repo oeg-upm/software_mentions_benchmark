@@ -1,0 +1,1 @@
+In this paper, we present SMAD (SMart Aggregation of Anti-patterns Detectors), a machine-learning based ensemble method to aggregate various anti-patterns detection approaches on the basis of their internal detection rules.

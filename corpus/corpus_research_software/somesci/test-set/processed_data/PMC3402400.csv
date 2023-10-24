@@ -1,0 +1,2 @@
+tokens,labels
+"['Results', 'were', 'computed', 'using', 'SPSS', 'ver.15', '(SPSS', 'Inc,', 'Illinois,', 'USA),', 'employing', 'the', '‘Complex', 'Samples’', 'procedure', 'required', 'when', 'using', 'probability', 'weights.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

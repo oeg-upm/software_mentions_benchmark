@@ -1,0 +1,14 @@
+tokens,labels
+['analysis.'],['O']
+"['In', 'the', 'present', 'study,', 'the', 'mRNA', 'expression', 'of', 'heme', 'oxygenase-1', '(HO-1),', 'intercellular', 'adhesion', 'molecule-1', '(ICAM-1),', 'inducible', 'nitric', 'oxide', 'synthase', '(iNOS)', 'and', 'endothelial', 'nitric', 'oxide', 'synthase', '(eNOS)', 'was', 'determined', 'using', 'RT-PCR', 'amplification.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Total', 'RNA', 'was', 'extracted', 'using', 'TRIzol', 'reagent', 'TRIzol', '(Invitrogen', 'Life', 'Technologies,', 'Shanghai,', 'China).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['according', 'to', 'the', ""manufacturer's"", 'instructions.']","['O', 'O', 'O', 'O', 'O']"
+"['The', 'first-strand', 'cDNA', 'was', 'synthesized', 'with', 'a', 'random', 'primer', '(Sangon', 'Biotech', 'Co.,', 'Ltd.,', 'Shanghai,', 'China)', 'using', 'the', 'SuperScript', 'III', 'reverse', 'transcriptase', '(Invitrogen', 'Life', 'Technologies,', 'Carlsbad,', 'CA,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['PCR', 'amplification', 'was', 'performed', 'using', 'the', 'primers', 'and', 'amplification', 'conditions', 'listed', 'in', 'Table', 'I.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['GAPDH', 'was', 'amplified', 'under', 'the', 'same', 'reaction', 'conditions,', 'accordingly,', 'to', 'serve', 'as', 'the', 'internal', 'standard.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Finally,', 'the', 'PCR', 'products', 'were', 'electrophoresed', 'on', '1.5%', 'agarose', 'gels', 'and', 'analyzed', 'using', 'a', 'Gel', 'Documentation', 'E-Gel', '®', 'Imager', 'system', '(Invitrogen', 'Life', 'Technologies).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'analysis.']","['O', 'O']"
+"['The', 'data', 'are', 'presented', 'as', 'the', 'mean', '±', 'standard', 'deviation.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"[""Student's"", 't-test', 'and', 'χ', '2', 'test', 'were', 'performed', 'to', 'carry', 'out', 'inter-group', 'comparisons.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Data', 'analysis', 'was', 'performed', 'using', 'SPSS', '16.0', 'software', '(SPSS,', 'Inc.,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['P<0.05', 'was', 'considered', 'to', 'indicate', 'a', 'statistically', 'significant', 'difference.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

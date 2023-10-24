@@ -1,0 +1,2 @@
+
+Statistical analysis was performed using SPSS (Version 19.0). The Fisher's exact test was applied for every matching criterion and nonmatching parameters. The survival curves (time to BM and OS) were compared by Kaplan-Meier method and log rank test. The incidences of BM within 2 years and the 2-year survival rates were calculated from the survival curves. Factors that are associated with the survival outcomes were explored by univariate analysis. The subsequent multivariate survival analysis was also conducted by Cox regression model

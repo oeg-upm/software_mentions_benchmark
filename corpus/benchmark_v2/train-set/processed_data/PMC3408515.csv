@@ -1,0 +1,6 @@
+tokens,labels
+"['Data', 'was', 'expressed', 'as', 'mean', '±', 'standard', 'deviation,', 'and', 'SPSS', 'version', '12.0', 'was', 'used', 'in', 'the', 'statistical', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 't-test', 'was', 'used', 'in', 'the', 'analysis', 'of', 'parametric', 'data', 'between', 'the', '2', 'groups,', 'and', 'the', 'Mann-Whitney', 'U', 'test', 'was', 'used', 'for', 'non-parametric', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['In', 'the', 'case', 'of', 'categorical', 'data,', 'the', 'chi-square', 'test', 'was', 'used,', 'and', 'the', ""Fisher's"", 'exact', 'test', 'was', 'used', 'when', 'necessary.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"[""Spearman's"", 'correlation', 'was', 'used', 'to', 'analyze', 'the', 'correlation', 'between', ""patient's"", 'pain', 'and', 'emergence', 'agitation.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Findings', 'were', 'con', 'sidered', 'to', 'be', 'statistically', 'significant', 'when', 'the', 'P', 'value', 'was', 'less', 'than', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

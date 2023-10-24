@@ -1,0 +1,5 @@
+tokens,labels
+"['For', 'statistical', 'analysis,', 'the', 'chi-square', 'test', 'and', ""Fisher's"", 'exact', 'test', 'were', 'used', 'to', 'compare', 'categorical', 'variables,', 'and', 'the', 'Mann-Whitney', 'U-test', 'was', 'used', 'to', 'compare', 'continuous', 'variables.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Patient', 'and', 'graft', 'survivals', 'were', 'calculated', 'using', 'the', 'Kaplan-Meier', 'method', 'with', 'the', 'log-rank', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'P', '<', '0.05', 'was', 'considered', 'as', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Analysis', 'was', 'performed', 'using', 'SPSS', '(Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"

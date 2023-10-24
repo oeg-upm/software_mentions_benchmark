@@ -1,0 +1,4 @@
+tokens,labels
+"['Data', 'were', 'entered', 'and', 'stored', 'in', 'a', 'Microsoft', 'Access', 'database', 'and', 'statistical', 'analysis', 'and', 'tests', 'conducted', 'in', 'IBM', 'SPSS', 'Statistics', 'V.20.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"
+"['Numeric', 'data', 'were', 'summarised', 'using', 'median', 'values', 'and', 'IQRs.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Categorical', 'variables', 'were', 'reported', 'as', 'proportions', 'with', 'Clopper-Pearson', '95%', 'CIs', 'calculated', 'for', 'incidence', 'of', 'infection.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

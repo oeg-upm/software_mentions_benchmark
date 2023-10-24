@@ -1,0 +1,9 @@
+tokens,labels
+"['Tumor', 'histology.']","['O', 'O']"
+"['Tissues', 'were', 'fixed', 'in', 'formalin', 'and', 'embedded', 'in', 'paraffin.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Sections', '(4', 'µm)', 'were', 'cut', 'and', 'stained', 'with', 'H&E.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Representative', 'sections', 'of', 'liver,', 'heart,', 'and', 'kidney', 'were', 'scanned', 'with', 'a', 'Scanscope', 'CS', 'slide', 'scanner', '(Aperio', 'Technologies,', 'Vista,', 'CA),', 'visualized', 'with', 'ImageScope', 'software', '(Aperio', 'Technologies),', 'and', 'composed', 'in', 'Adobe', 'Photoshop', '(San', 'Jose,', 'CA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O']"
+"['Images', 'were', 'adjusted', 'in', 'brightness,', 'contrast,', 'and', 'color', 'balance', 'for', 'a', 'more', 'uniform', 'appearance', 'of', 'the', 'H&E', 'stain.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['These', 'adjustments', 'do', 'not', 'obscure,', 'eliminate,', 'or', 'misrepresent', 'any', 'information', 'presented', 'in', 'the', 'original', 'slides.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Original', 'objective', 'lens', 'magnification', 'was', '20×.']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'images', 'were', 'reviewed', 'by', 'a', 'veterinary', 'pathologist.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+tokens,labels
+"['MedCalc', 'for', 'Windows', '(MedCalc', 'Software,', 'Ostend,', 'Belgium)', 'was', 'used', 'for', 'statistical', 'analysis.']","['B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

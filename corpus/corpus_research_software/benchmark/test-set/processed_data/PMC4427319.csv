@@ -1,0 +1,2 @@
+tokens,labels
+"['All', 'datasets', 'were', 'available', 'online,', 'MtF', 'as', 'SPSS', 'datafiles', '[30]', 'and', 'AF', 'as', 'data', 'tables', '[31].']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

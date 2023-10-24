@@ -1,0 +1,2 @@
+tokens,labels
+"['Genetic', 'correlations', 'with', 'antipsychotics', 'dosage,', 'PANSS', 'score,', 'and', 'altruistic', 'tendency', 'were', 'analyzed', 'using', 'the', 'linear-by-linear', 'association', 'test,', 'Mann-Whitney', 'U', 'test', 'and', 'linear', 'regression', 'tests', 'in', 'the', 'SPSS', 'v11.5', 'package', '(SPSS,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,3 @@
+
+For each image, average fluorescence decay profiles were calculated in the region of interest corresponding to the centrosome (4 or 6 pixels). Then, lifetimes were estimated by fitting these results with a mono-exponential function using a non-linear leastsquares estimation procedure with Origin 7.5 software (Origin- Lab, Northampton, MA, U.S.A.) or the profile fitting function of the Hamamatsu FLIM analysis software.
+All statistical analyses were performed using paired Student's t tests and Microsoft Excel or Prism software packages. Image analyses were performed using the Image J imaging software package, as outlined in the Figure legends.

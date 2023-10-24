@@ -1,0 +1,1 @@
+Using our methodology, we study evasion techniques for PDFs and evaluate their effectiveness in bypassing state-of-the-art PDF scanners. To this end, we develop a novel framework, called Chameleon, that enriches existing malicious PDF documents with one or more evasions.

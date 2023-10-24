@@ -1,0 +1,2 @@
+tokens,labels
+"['Statistical', 'analyses', 'were', 'conducted', 'using', 'SAS', 'software,', 'version', '9.3', '(PROC', 'GENMOD,', 'with', 'options', 'REPEATED,', 'CORR', '=', 'IND,', 'DIST', '=', 'BINOMIAL,', 'LINK', '=', 'LOGIT;', 'SAS', 'Institute,', 'Inc.,', 'Cary,', 'NC),', 'and', 'a', 'P', '<', '0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

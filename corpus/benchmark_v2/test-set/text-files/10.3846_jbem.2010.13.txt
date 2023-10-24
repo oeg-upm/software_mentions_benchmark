@@ -1,0 +1,2 @@
+
+There are also disadvantages associated with the RQ estimator. Probably the main problem is that only asymptotic of the estimators are known, which raises the issue of how parameters behave in finite samples. This may not be too problematic in our case since we have a large sample. Though estimating quantile regressions is computationally demanding, this problem was less so because of the availability of powerful computers and software programs such as Stata 9.0 which allow estimates to be performed relatively easily.

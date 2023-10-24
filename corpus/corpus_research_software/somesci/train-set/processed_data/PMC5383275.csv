@@ -1,0 +1,2 @@
+tokens,labels
+"['All', 'analyses', 'were', 'performed', 'using', 'the', 'ESRI™', 'suite', 'of', 'ArcGIS', '10.3', 'software', 'and', 'Stata', 'Software', 'version', '12.1', 'for', 'Windows™.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O']"

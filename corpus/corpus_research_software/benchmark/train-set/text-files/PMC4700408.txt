@@ -1,0 +1,2 @@
+
+Statistical analyses were carried out using SigmaStat, version 3.1, by one-way analysis of variance (ANOVA) or Kruskal-Wallis ANOVA, depending on the data. The significance was further confirmed by the Tukey test. Differences were considered significant when p was less than 0.05.

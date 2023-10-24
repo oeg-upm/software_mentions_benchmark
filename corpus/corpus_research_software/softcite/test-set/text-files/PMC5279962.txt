@@ -1,0 +1,2 @@
+
+Statistical analysis was performed using SPSS software version 16. For nominal variables, chi-square test was used and if needed, Fisher's exact test was performed. Kolmogorov-Simonov was used to determine normality of distribution. For comparative dependent data, paired T-test (parametric) and if non-parametric, Wilcoxon test were used. For comparing the independent data, independent-samples t-test (parametric) was used and if nonparametric, Mann-Whitney U test was used. In all measurements p-value less than 0.05 was considered statistically significant.

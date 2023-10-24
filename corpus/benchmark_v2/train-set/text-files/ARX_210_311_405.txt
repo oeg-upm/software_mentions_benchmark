@@ -1,0 +1,1 @@
+We attribute this accuracy gap to the lack of dependency modeling among decoder inputs. In this paper, we propose CNAT, which learns implicitly categorical codes as latent variables into the non-autoregressive decoding.

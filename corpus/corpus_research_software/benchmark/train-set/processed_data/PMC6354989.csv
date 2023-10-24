@@ -1,0 +1,2 @@
+tokens,labels
+"['Data', 'analysis', 'was', 'conducted', 'using', 'SigmaPlot', 'ver.12.3', '(SYSTAT', 'Software', 'Inc.,', 'San', 'Jose,', 'CA,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

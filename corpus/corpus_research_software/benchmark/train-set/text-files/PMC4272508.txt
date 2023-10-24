@@ -1,0 +1,2 @@
+
+All variables were expressed for categorical data as the means±s.e.m. or medians and interquartile ranges for continuous data with or without a normal distribution, respectively. Normally distributed continuous variables were compared between groups using two-tailed-tests. Nonparametric data was compared between groups using the independent samples Mann-Whitney U-test. P-value <0.05 was considered statistically significant. All statistical analyses were performed using the computer softwareStatistical Package for the Social Sciences, version 20.0 (SPSS, Chicago, IL).

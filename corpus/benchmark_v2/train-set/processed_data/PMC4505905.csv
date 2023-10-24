@@ -1,0 +1,2 @@
+tokens,labels
+"['These', 'final', 'effect', 'sizes', 'and', 'their', 'standard', 'errors', 'were', 'then', 'input', 'to', 'STATA', 'together', 'with', 'relevant', 'study', 'information', 'for', 'the', 'subgroup', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

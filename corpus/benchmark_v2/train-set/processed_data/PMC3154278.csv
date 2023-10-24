@@ -1,0 +1,2 @@
+tokens,labels
+"['Non-parametric', 'tests', 'were', 'applied', 'using', 'SPSS', '17.0', '(SPSS', 'Inc.),', 'with', 'the', 'level', 'of', 'significance', 'set', 'at', 'alpha', '=', '0.05.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

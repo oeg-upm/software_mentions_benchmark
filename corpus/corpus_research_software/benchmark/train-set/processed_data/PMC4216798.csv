@@ -1,0 +1,4 @@
+tokens,labels
+"[""Student's"", 't', 'test', 'was', 'used', 'to', 'compare', 'unpaired', 'variables', 'and', 'P<0.05', '(2-sided)', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Synergism', 'for', 'combination', 'therapies', 'was', 'defined', 'using', 'Calcusyn', 'software', '(Biosoft,', 'Ferguson,', 'MO)', 'and', 'applied', 'to', 'MTS', 'assays.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'fraction', 'of', 'cells', 'affected', '(Fa)', 'was', 'determined', 'and', 'combination', 'indices', '(CI)', 'were', 'produced', 'by', 'the', 'software', 'that', 'utilizes', 'the', 'methodology', 'applied', 'by', 'Chou', 'and', 'Talalay', '[14].']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+
+Data are expressed as mean ± SEM of (N) individual samples per group. Statistical analysis was performed using ANOVA combined with Dunnet's or two-tailed Student's t -tests for comparison within the same group or two groups, respectively. Differences were considered significant at P < 0.05. The maximal inhibitory activity values were calculated and confirmed by nonlinear regression analysis using a Prism 4.0 software (GraphPad Software).

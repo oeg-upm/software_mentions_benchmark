@@ -1,0 +1,14 @@
+tokens,labels
+"['Because', 'of', 'skewed', 'distributions,', 'the', 'natural', 'logarithmic', '(ln)', 'transformations', 'were', 'performed', 'for', 'triglycerides.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Log-transformed', 'values', 'were', 'reconverted', 'to', 'antilogarithm', 'forms', 'in', 'tables.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Medications', 'for', 'hypertension,', 'dyslipidemia,', 'and', 'diabetes', 'were', 'coded', 'as', 'dummy', 'variables.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Alcohol', 'intake,', 'smoking', 'habits,', 'and', 'history', 'of', 'CAD', 'were', 'also', 'coded', 'as', 'dummy', 'variables.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'mean', 'parameters', 'and', 'frequencies', 'stratified', 'by', 'smoking', 'habits', 'were', 'compared', 'using', 'the', 'Mantel-Haenszel', 'x', '2', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Demographic', 'and', 'clinical', 'characteristics', 'of', 'study', 'subjects', 'stratified', 'by', 'gender', '(Table', '1)', 'were', 'demonstrated.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Demographic', 'and', 'clinical', 'characteristics', 'of', 'the', 'study', 'subjects', 'in', 'both', 'genders', 'stratified', 'by', 'smoking', 'habits', 'adjustment', 'for', 'age', 'were', 'also', 'demonstrated', 'in', 'Tables', '2', 'and', '3.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Multivariate', 'analysis', 'for', 'AI', 'adjusted', 'for', 'age', 'was', 'performed', 'by', 'a', 'linear', 'regression', 'analysis', '(Tables', '4', 'and', '5).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Multiple', 'stepwise', 'regression', 'analysis', 'was', 'performed', 'for', 'independent', 'associated', 'factors', 'of', 'AI', '(Tables', '6', 'and', '7).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Adjusted', 'means', 'of', 'AI', 'levels', 'stratified', 'by', 'the', '4', 'groups', 'of', 'smoking', 'status', 'in', 'both', 'genders', 'were', 'compared', 'using', 'multiple', 'linear', 'regression', 'analysis', 'Fig.', '1A', 'and', 'B).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'significance', 'was', 'defined', 'as', 'P', '<', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analyses', 'were', 'performed', 'using', 'SAS', 'version', '9.3', '(SAS,', 'Inc.,', 'Cary,', 'NC).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"
+['[17]'],['O']

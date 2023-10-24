@@ -1,0 +1,1 @@
+We present SelfKG with efficient strategies to optimize this objective for aligning entities without label supervision. 

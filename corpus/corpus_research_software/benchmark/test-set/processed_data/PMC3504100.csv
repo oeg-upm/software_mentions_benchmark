@@ -1,0 +1,2 @@
+tokens,labels
+"['Stimuli', 'were', 'presented', 'using', 'the', 'Cogent', '2000', 'toolbox', '(http://www.vislab.ucl.ac.uk/cogent.php)', 'for', 'MATLAB', '(The', 'Mathworks', 'Inc.)', 'on', 'LCD-goggles', '(Resonance', 'Technology', 'Inc.).']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

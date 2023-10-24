@@ -1,0 +1,8 @@
+tokens,labels
+"['CT', 'images', 'data', 'were', 'reconstructed', 'at', '1-mm-thick', 'sections', 'with', 'a', 'reconstruction', 'increment', 'of', '1', 'mm', 'and', 'a', 'sharp', 'kernel', '(B70f).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['They', 'were', 'transferred', 'to', 'a', 'personal', 'computer', 'running', 'MevisPULMO', 'software', '(version', '1.4,', 'Fraunhofer', 'MEVIS,', 'Bremen,', 'Germany)', 'and', 'analyzed', 'for', 'quantitative', 'emphysema', 'assessment', 'by', 'one', 'operator', '(NS).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', '3×3', 'kernelbased', 'axial', 'Gauss', 'smoothing', 'was', 'applied', 'to', 'minimize', 'the', 'noise', 'in', 'sharp', 'kernel', 'images.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['For', 'the', 'whole', 'lung,', 'emphysema', 'extent', 'was', 'defined', 'as', 'percentage', 'of', 'lung', 'voxels', '#-950', 'Hounsfield', 'units.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+['14'],['O']
+"['A', 'two-tailed', 'P-value', ',0.05', 'was', 'always', 'considered', 'as', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['SPSS', '22.0', '(IBM', 'Corporation,', 'Armonk,', 'NY,', 'USA)', 'was', 'used', 'for', 'all', 'the', 'statistical', 'analysis.']","['B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

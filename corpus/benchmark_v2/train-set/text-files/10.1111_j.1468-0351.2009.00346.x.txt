@@ -1,0 +1,2 @@
+
+Estimation by maximum likelihood of both models can be automatically implemented in STATA, although the maximization of the likelihood function of the second model requires the evaluation of an integral by Gaussian Quadrature (Butler and Moffitt, 1982). The first model ignores individual heterogeneity and does not exploit the repeated observation available on the same woman. The inference requires the use of a robust covariance matrix to take into account the error serial correlation induced by the unobserved individual component not varying with time.

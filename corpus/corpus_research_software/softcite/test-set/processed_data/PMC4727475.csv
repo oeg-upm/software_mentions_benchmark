@@ -1,0 +1,4 @@
+tokens,labels
+"['The', 'terminologies', 'that', 'were', 'used', 'to', 'identify', 'these', 'articles', 'included:', 'plastic', 'surgery,', 'auricular', 'defects,', 'reconstructions,', 'ear', 'trauma,', 'bioengineering,', 'facial', 'surgery.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'articles', 'obtained', 'from', 'different', 'databases', 'into', 'the', 'bibliographic', 'software', 'package', 'EndNote', 'were', 'imported', 'and', 'merged', 'into', 'one', 'complete', 'database.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Two', 'review', 'authors', 'independently', 'assessed', 'the', 'titles', 'and', 'abstracts', 'of', 'all', 'articles', 'found', 'by', 'the', 'searching', 'method', 'outlined', 'above.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

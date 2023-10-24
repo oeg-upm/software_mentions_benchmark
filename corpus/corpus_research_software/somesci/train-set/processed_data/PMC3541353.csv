@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'data', 'were', 'analysed', 'using', 'Statistical', 'Analysis', 'Systems', '(SAS', 'version', '9.2.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'B-Application_Mention', 'O', 'O']"

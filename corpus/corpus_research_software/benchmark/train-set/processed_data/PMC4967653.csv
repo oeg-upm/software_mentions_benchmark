@@ -1,0 +1,8 @@
+tokens,labels
+"['The', 'following', 'methods', 'were', 'used', 'for', 'statistical', 'analysis:', 'STATISTICA', 'release', '10', 'from', 'Stat', 'Soft', 'Poland,', 'SAS', 'System', '10.0', 'SAS', 'Institute', 'Inc.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O']"
+"['Institute', 'of', 'Rheumatology,', 'Warsaw,', 'Poland.']","['O', 'O', 'O', 'O', 'O']"
+"['Normal', 'distribution', 'data', 'have', 'been', 'presented', 'as', 'mean', 'and', 'standard', 'deviations,', 'whereas', 'abnormal', 'distribution', 'data', 'as', 'median', 'and', 'interquartile', 'range.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Depending', 'on', 'their', 'distribution,', 'data', 'were', 'analyzed', 'using', 'Student', 't-test', 'or', 'Mann-Whitney', 'u', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['P-values', '<', '0.05', 'were', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"[""Cohen's"", 'κ', 'coefficient', 'with', 'linear', 'weighting', 'was', 'used', 'to', 'measure', 'agreement', 'between', 'DAS28-ESR', 'and', 'DAS28-CRP', 'values.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['In', 'order', 'to', 'assess', 'the', 'variation', 'between', 'DAS28-ESR', 'and', 'DAS28-CRP,', 'the', 'Bland-Altman', 'plot', 'was', 'used.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

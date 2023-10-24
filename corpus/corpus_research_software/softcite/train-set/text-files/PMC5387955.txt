@@ -1,0 +1,2 @@
+
+We used SAS V.9.2 (SAS Institute, Cary, North Carolina, USA) for our statistical analyses. Permission from the Danish Data Protection Board was granted.

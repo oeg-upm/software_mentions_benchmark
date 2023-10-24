@@ -1,0 +1,5 @@
+tokens,labels
+"['We', 'used', 'general', 'linear', 'models', 'to', 'determine', 'if', 'colony', 'and', 'patriline', 'have', 'a', 'significant', 'effect', 'on', 'the', 'antimicrobial', 'activity', 'of', 'a', 'worker’s', 'hemolymph', 'using', 'the', 'GLM', 'procedure', 'in', 'SAS', 'Ver.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+['4.'],['O']
+"['We', 'also', 'conducted', 'nested', 'analysis', 'of', 'variance', 'to', 'estimate', 'the', 'variance', 'component', 'associated', 'with', 'patriline', 'and', 'colony,', 'using', 'the', 'NESTED', 'procedure', 'in', 'SAS']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention']"
+"['Post-hoc', 'pairwise', 'comparisons', 'between', 'patrilines', 'were', 'conducted', 'using', 'Tukey’s', 'HSD', 'function', 'in', 'R', 'version', '3.0.1', '[43].']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

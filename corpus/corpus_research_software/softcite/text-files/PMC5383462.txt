@@ -1,0 +1,2 @@
+
+A comparative analysis of continuous data was performed by an independent t-test. A comparative analysis of categorical data was performed by a Chi-square test. SPSS version 16.0 was used for these analyses. A p-value of 0.05 or less was considered statistically significant.

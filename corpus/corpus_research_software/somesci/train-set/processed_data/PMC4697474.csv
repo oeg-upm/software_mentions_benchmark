@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'Cox', 'proportional', 'hazard', 'assumption', 'was', 'formally', 'tested', 'through', 'the', 'Schoenfeld', 'residual', 'test', 'in', 'Stata', 'and', 'is', 'not', 'violated.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O']"

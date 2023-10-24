@@ -1,0 +1,2 @@
+tokens,labels
+"['Convenient', 'integration', 'between', 'Matlab', 'and', 'Google', 'Cloud', 'was', 'achieved', 'through', 'using', 'a', 'software', 'called', 'Techila', 'Technologies']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention']"

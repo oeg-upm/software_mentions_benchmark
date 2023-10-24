@@ -1,0 +1,8 @@
+tokens,labels
+"['The', 'data', 'was', 'analyzed', 'using', 'SPSS', 'software.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+"['The', 'independent', 't', 'test', 'was', 'used', 'to', 'compare', 'age', 'and', 'baseline', 'values', 'of', 'pain', 'and', 'disability', 'between', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'paired', 't', 'test', 'was', 'used', 'to', 'compare', 'pain', 'on', 'NPRS', 'and', 'Disability', 'on', 'NDI', 'within', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'dependent', 'variables', 'were', 'compared', 'between', 'baseline,', 'their', 'values', 'at', '2', 'weeks', 'and', 'their', 'values', 'at', 'end', 'of', '4', 'weeks.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'independent', 't', 'test', 'was', 'used', 'to', 'compare', 'pain', 'on', 'NPRS', 'and', 'disability', 'on', 'NDI', 'between', 'the', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'values', 'of', 'both', 'groups,', 'group', 'A', 'and', 'group', 'B,', 'were', 'compared', 'at', 'baseline', 'and', 'for', 'the', 'difference', 'from', 'baseline,', 'at', 'the', 'end', 'of', '2', 'weeks', 'and', 'at', 'the', 'end', 'of', '4', 'weeks.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['We', 'used', '95%', 'CI', 'and', 'the', 'results', 'were', 'accepted', 'as', 'significant', 'if', 'p<', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

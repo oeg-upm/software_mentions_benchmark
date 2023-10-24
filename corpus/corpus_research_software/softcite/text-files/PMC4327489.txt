@@ -1,0 +1,2 @@
+
+The Mann-Whitney U and Chi-square tests were used to assess differences in variables between the two groups at baseline and at the end of the trial. The differences between proportions were tested using the chi-square test and comparison in the perception of tooth staining was analyzed using Fisher's exact test. Significance was established when p<0.05. The SPSS software package (SPSS, Chicago, Illinois, USA) was used for the data analysis.

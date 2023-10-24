@@ -1,0 +1,2 @@
+tokens,labels
+"['All', 'analyses', 'were', 'conducted', 'using', 'Stata', 'software,', 'V.13', '(Stata', '2013,', 'Stata', 'Statistical', 'Software:', 'Release', '13,', 'College', 'Station,', 'Texas,', 'USA:', 'StataCorp', 'LP).']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

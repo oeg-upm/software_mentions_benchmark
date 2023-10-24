@@ -1,0 +1,2 @@
+tokens,labels
+"['These', 'measurements', 'were', 'analyzed', 'using', 'SPSS', 'to', 'investigate', 'whether', 'apparent', 'size', 'in', 'the', 'two-dimensional', 'plane', 'that', 'is', 'visible', 'to', 'a', 'perceiver', 'varied', 'across', 'low,', 'neutral,', 'and', 'high', 'status', 'cues.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

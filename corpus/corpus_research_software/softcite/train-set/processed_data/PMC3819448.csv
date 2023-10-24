@@ -1,0 +1,9 @@
+tokens,labels
+['(Fig.'],['O']
+"['1)', '(Fig.']","['O', 'O']"
+"['2)', 'A', 'phylogenetic', 'tree,', 'which', 'was', 'constructed', 'with', 'the', 'neighborjoining', 'method', 'by', 'using', 'Molecular', 'Evolutionary', 'Genetics', 'Analysis', '(MEGA)', 'software', 'version', '5.05', '[11],', 'revealed', 'this', 'isolate', 'to', 'be', 'W.', 'confusa', '(Fig.', '3).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Empirical', 'therapy', 'with', 'ceftriaxone', 'was', 'initiated', 'after', 'blood', 'culture', 'submission.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['In', 'spite', 'of', 'the', 'treatment,', 'fever', 'persisted', 'for', '3', 'days', 'and', 'the', 'C-reactive', 'protein', 'level', 'did', 'not', 'decrease.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'ceftriaxone', 'treatment', 'was', 'changed', 'to', 'teicoplanin', 'plus', 'piperacillin-tazobactam', 'after', 'isolation', 'of', 'gram-positive', 'coccobacilli', 'from', 'the', 'blood', 'culture.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Fever', 'and', 'other', 'symptoms', 'subsided', 'with', 'the', 'new', 'regimen.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'subsequent', 'blood', 'cultures', 'were', 'negative,', 'and', 'the', 'patient', 'was', 'discharged', 'on', 'the', '9th', 'hospital', 'day', 'with', 'an', 'uneventful', 'recovery.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

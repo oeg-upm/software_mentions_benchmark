@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'scanned', 'images', 'were', 'analyzed', 'to', 'determine', 'Cy3：Cy5', 'ratios', 'for', 'each', 'array', 'element', 'using', 'MAC', 'Viewer', 'TM', 'v1', 'Table', '2', 'were', 'calculated', 'via', 't', 'test', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

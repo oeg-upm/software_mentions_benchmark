@@ -1,0 +1,2 @@
+tokens,labels
+"['We', 'imputed', 'the', 'data', 'under', 'an', 'MAR', 'assumption', 'through', 'multiple', 'imputation', 'using', 'chained', 'equations', '(Stata', 'ICE', 'package).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O']"

@@ -1,0 +1,2 @@
+
+All statistical analyses were performed with Stata version 11 (StataCorp., USA). Trial results were expressed as percent vaccine efficacy, defined as 1 -relative risk. Estimates were pooled using a randomeffects model applying the DerSimonian & Laird approach [22]. Heterogeneity was assessed using the x 2 test with a P value of <0 . 10 indicating statistical significance and by the I 2 statistic, which measures the percentage of variation attributable to heterogeneity. A value of 0% indicates no observed heterogeneity and larger values show increasing heterogeneity [23].

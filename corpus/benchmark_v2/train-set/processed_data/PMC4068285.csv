@@ -1,0 +1,3 @@
+tokens,labels
+"['For', 'statistical', 'analysis,', 'the', ""Student's"", 't', 'test', 'was', 'applied.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['P', '0.05', 'was', 'considered', 'significant', 'using', 'GraphPad', 'for', 'graphic', 'presentation.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"

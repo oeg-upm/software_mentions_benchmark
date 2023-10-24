@@ -1,0 +1,6 @@
+tokens,labels
+"['Prevalence', 'of', 'glucose', 'tolerance', 'categories', 'were', 'calculated', 'for', 'both', 'sets', 'of', 'diagnostic', 'criteria', 'and', 'to', 'examine', 'the', 'agreement', 'between', 't', 'he', 'two', 'criteria,', 'all', 'categories', 'of', 'glucose', 'tolerance', 'were', 'calculated.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['10', ')', 'Metabolic', 'characteristics', 'of', 'different', 'glucose', 'tolerance', 'categories', 'were', 'compared.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Differences', 'among', 'these', 'groups', 'were', 'tested', 'with', 'analysis', 'of', 'variance.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Statistical', 'analyses', 'were', 'done', 'us', 'ing', 'the', 'Statistical', 'Packages', 'for', 'Social', 'Science', '(SPSS)', '8.0', 'for', 'windows.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O']"
+"['P-values', '<', '0.05(two-tailed)', 'were', 'considered', 'to', 'be', 'statistically', 's', 'ignificant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

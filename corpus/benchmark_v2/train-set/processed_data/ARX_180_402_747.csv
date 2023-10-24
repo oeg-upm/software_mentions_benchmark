@@ -1,0 +1,3 @@
+tokens,labels
+"['The', 'evaluation', 'shows', 'that', 'FIT', 'has', 'low', 'probability', 'of', 'making', 'both', 'Type', 'I', 'and', 'Type', 'II', 'errors', 'compared', 'to', 'other', 'tests,', 'especially', 'as', 'the', 'number', 'of', 'available', 'samples', 'grows.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Our', 'implementation', 'of', 'FIT', 'is', 'publicly', 'available1.']","['O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"

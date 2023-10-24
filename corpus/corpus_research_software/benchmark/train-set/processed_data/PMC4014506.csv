@@ -1,0 +1,2 @@
+tokens,labels
+"['The', 'Statistical', 'Package', 'for', 'the', 'Social', 'Sciences', '(SPSS', 'Version', '19.0', '(SPSS,', 'Chicago,', 'IL)', 'and', 'XLSTAT', '(Addinsoft', 'SARL,', 'Germany)', 'were', 'used', 'to', 'conduct', 'analyses.']","['O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

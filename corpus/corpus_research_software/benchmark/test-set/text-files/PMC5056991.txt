@@ -1,0 +1,2 @@
+
+Histological analysis. Muscle cryosections (8 µm thickness) were stained with Hematoxylin-Eosin by standard method. Light microscopy was performed using an upright microscope (DMR, Leica, Nanterre, France). Images were captured using a monochrome camera (DS-Ri1; Nikon) and NIS-Elements BR 3.2 software (Nikon). The area of fibres with internal nuclei was measured using the NIS-Elements BR software and divided by the total area of the muscle section (n = 3 cryosections for each condition).

@@ -1,0 +1,7 @@
+tokens,labels
+"['All', 'data', 'are', 'expressed', 'as', 'mean', '±', 'SD.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['SPSS', 'for', 'Windows']","['B-Application_Mention', 'O', 'O']"
+"['16.0', 'software', 'package', 'was', 'used', 'to', 'analyze', 'the', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Differences', 'among', 'groups', 'were', 'determined', 'by', 'one-way', 'ANOVA', 'followed', 'by', 'Tukey', 'post-hoc', 'tests.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"[""Student's"", 't-test', 'was', 'used', 'to', 'compare', 'the', 'difference', 'between', 'two', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Differences', 'were', 'considered', 'significant', 'at', 'P', 'values', 'less', 'than', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

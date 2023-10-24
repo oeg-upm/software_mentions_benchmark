@@ -1,0 +1,6 @@
+tokens,labels
+"['All', 'results', 'are', 'expressed', 'as', 'the', 'mean', '§', 'standard', 'error', 'of', 'the', 'mean.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analyses', 'were', 'performed', 'using', 'StatLight2000', 'software', '(Yukms', 'Co.,', 'Ltd,', 'Tokyo,', 'Japan).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'behavioral', 'data,', 'except', 'for', 'that', 'of', 'the', 'von', 'Frey', 'test,', 'were', 'analyzed', 'using', 'one-way', 'analysis', 'of', 'variance', '(ANOVA)', 'with', 'post', 'hoc', 'multiple', 'comparison', 'using', ""Tukey's"", 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'data', 'for', 'the', 'von', 'Frey', 'test', 'were', 'analyzed', 'using', 'ANOVA', 'performed', 'with', 'Scheff', ""e's"", 'multiple', 'comparison', 'tests.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Differences', 'resulting', 'in', 'P', 'values', 'of', '<0.05', 'were', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

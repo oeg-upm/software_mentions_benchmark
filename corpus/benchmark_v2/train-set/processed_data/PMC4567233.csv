@@ -1,0 +1,6 @@
+tokens,labels
+"['All', 'statistical', 'analyses', 'were', 'performed', 'using', 'the', 'statistical', 'program', 'for', 'social', 'sciences', '(SPSS', 'Inc.,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O']"
+"['Categorical', 'variables', 'were', 'analyzed', 'using', 'chi-squared', 'test', 'and', ""Fisher's"", 'exact', 'test', 'when', 'appropriate.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Continues', 'variables', 'were', 'analyzed', 'using', ""Student's"", 't-test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Binary', 'logistic', 'regression', 'analysis', 'was', 'performed', 'to', 'identify', 'the', 'independent', 'predictors', 'of', 'HBV', 'reactivation.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'P-value', 'of', ',0.05', 'was', 'considered', 'statically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

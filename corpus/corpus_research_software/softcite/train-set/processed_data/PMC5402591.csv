@@ -1,0 +1,8 @@
+tokens,labels
+"['Per-protocol', 'analysis', 'was', 'conducted', 'to', 'evaluate', 'the', 'treatment', 'effect.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'baseline', 'characteristics', 'were', 'presented', 'as', 'absolute', 'number', '(percentage)', 'or', 'mean', '(standard', 'deviation).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['To', 'compare', 'baseline', 'characteristics', 'between', 'groups,', 'the', 'Mann-Whitney', 'U', 'test', 'was', 'used', 'for', 'continuous', 'variables', 'and', 'Fisher', 'exact', 'test', 'for', 'categorical', 'variables.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'Wilcoxon', 'signed-rank', 'test', 'was', 'used', 'to', 'compare', 'differences', 'between', 'pre-and', 'posttraining', 'outcomes', 'within', 'each', 'group.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Changes', 'from', 'baseline', 'of', 'each', 'outcome', 'measure', 'between', 'groups', 'were', 'compared', 'using', 'linear', 'regression', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', '2-tailed', 'P', 'value', 'of', 'less', 'than', '0.05', 'was', 'considered', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analyses', 'were', 'performed', 'using', 'SPSS', 'software', 'version', '14.0', '(SPSS', 'Inc.,', 'Chicago,', 'IL).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

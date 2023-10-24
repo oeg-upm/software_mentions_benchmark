@@ -1,0 +1,4 @@
+tokens,labels
+"['Because', 'of', 'the', 'misfit', 'of', 'the', 'data', 'to', 'normal', 'hypothesis,', 'non-parametric', 'tests', 'such', 'as', 'the', 'Mann-Whitney', 'U', 'test', 'and', 'non-parametric', 'correlation', 'tests', 'of', 'Gamma', 'and', 'Kendall', 'were', 'applied.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Data', 'processing', 'was', 'carried', 'out', 'viaSPSS', 'ver.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+"['16', '(SPSS', 'Inc.,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,2 @@
+
+A MATLAB script that implements this check is available in the Additional Material to the present paper.

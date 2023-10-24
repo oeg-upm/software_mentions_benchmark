@@ -1,0 +1,6 @@
+tokens,labels
+"['Scanning', 'electron', 'microscopy', 'and', 'X-ray', 'dispersive', 'spectroscopy.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['SEM', 'samples', 'were', 'prepared', 'by', 'breaking', 'a', 'QDSSC', 'anode', 'or', 'cathode', 'in', 'half.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'SEM', 'used', 'a', 'Quanta', '400', 'field', 'emission', 'gun', 'made', 'by', 'FEI', 'Company.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', '20', 'kV', 'electron', 'beam', 'was', 'scanned', 'across', 'the', 'cross-section,', 'and', 'then', 'the', 'energy', 'and', 'the', 'count', 'of', 'X-rays', 'were', 'measured.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Elemental', 'analysis', 'was', 'conducted', 'using', 'Genesis', 'EDX', 'software.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O']"

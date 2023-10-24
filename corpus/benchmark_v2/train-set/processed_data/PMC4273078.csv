@@ -1,0 +1,7 @@
+tokens,labels
+"['Statistical', 'analyses', 'were', 'conducted', 'using', 'the', 'SAS', 'program', '(version', '9.1)', 'for', 'Windows.']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'data', 'are', 'presented', 'as', 'the', 'mean', '±', 'SD.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 't', 'test', 'was', 'used', 'to', 'test', 'for', 'the', 'homogeneity', 'of', 'demographic', 'and', 'clinical', 'characteristics', 'between', 'the', 'exercise', 'and', 'control', 'group.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Significant', 'differences', 'between', 'groups', 'were', 'determined', 'using', 'unpaired', 't', 'tests.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Significant', 'differences', 'within', 'groups', 'were', 'determined', 'using', 'paired', 't', 'tests.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'level', 'of', 'statistical', 'significance', 'was', 'considered', 'to', 'be', 'a', 'probability', 'value', 'of', 'less', 'than', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

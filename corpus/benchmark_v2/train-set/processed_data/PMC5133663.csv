@@ -1,0 +1,9 @@
+tokens,labels
+"['A', 'descriptive', 'analysis', 'was', 'conducted', 'to', 'show', 'the', 'characteristics', 'of', 'the', '134', 'subjects.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Data', 'were', 'summarized', 'as', 'mean', 'and', 'standard', 'deviation,', 'median', 'and', 'interquartile', 'range,', 'or', 'frequencies', 'and', 'percentages', 'as', 'appropriate.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Comparisons', 'among', 'groups', 'on', 'the', 'crude', 'values', 'of', 'oxysterols', 'were', 'made', 'using', 'one-way', 'ANOVA.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"[""Tukey's"", 'multiple', 'comparison', 'post-hoc', 'test', 'was', 'then', 'used', 'to', 'determine', 'significant', 'differences', 'between', 'the', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'analyses', 'were', 'conducted', 'using', 'SPSS', 'version', '21', 'software', '(IBM', 'Corporation).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O']"
+"['Table', '1', 'summarizes', 'the', 'demographics,', 'clinical', 'features', 'and', 'sperm', 'characteristics', 'of', '134', 'subjects', 'enrolled', 'in', 'the', 'study.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'four', 'groups', 'did', 'not', 'differ', 'in', 'term', 'of', 'ejaculate', 'volume.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['As', 'expected', 'from', 'the', 'enrolling', 'procedure,', 'semen', 'parameters', 'were', 'significantly', 'different', 'between', 'the', 'four', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

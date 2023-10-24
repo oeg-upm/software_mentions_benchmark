@@ -1,0 +1,8 @@
+tokens,labels
+"['The', 'chi-square', 'test', 'was', 'used', 'to', 'determine', 'whether', 'there', 'is', 'a', 'significant', 'difference', 'between', 'two', 'groups', 'in', 'Fig.', '2', 'to', '6.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'p', 'value', '(<0.01)', 'was', 'used', 'to', 'test', 'statistical', 'significance', 'of', 'evidence.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'SPSS', 'Package', 'for', 'the', 'Social', 'Sciences', '21.0)', 'was', 'used', 'to', 'analyzed.']","['O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Overall,', '75%', 'of', 'fusion', 'rate', 'was', 'seen', 'and', '25%', 'of', 'non-fusion', 'rate', 'was', 'seen.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['In', 'alendronate', 'group,', 'fusion', 'was', 'achieved', 'in', '66.7%', 'compared', 'to', '73.9%', 'in', 'control', 'group', '(no', 'medication)', '(Fig.', '2).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['There', 'was', 'no', 'statistical', 'difference', 'between', 'the', 'two', 'groups', '(p=0.599).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Alendronate', 'seems', 'to', 'have', 'no', 'effect', 'on', 'the', 'fusion', 'rate.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

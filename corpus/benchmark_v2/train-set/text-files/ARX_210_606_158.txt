@@ -1,0 +1,1 @@
+This paper introduces PyGAD, an open-source easyto-use Python library for building the genetic algorithm.

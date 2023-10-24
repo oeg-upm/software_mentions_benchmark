@@ -1,0 +1,2 @@
+
+The data collected included age, gender, operating time, length of hospital stay, second port insertion, conversion to open surgery and complications. The statistical analyses were performed using the SPSS ver. 11.5 (SPSS Inc., Chicago, IL, USA). The data was expressed as the mean ± standard deviation. Mann-Whitney U and t-tests were used for the statistical analysis. P < 0.05 was accepted as statistically significant.

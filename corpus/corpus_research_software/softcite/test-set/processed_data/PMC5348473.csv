@@ -1,0 +1,7 @@
+tokens,labels
+"['Chi-square', 'test', 'was', 'utilized', 'to', 'compare', 'the', 'differences', 'in', 'MAGI1', 'protein', 'expression', 'between', 'GC', 'tissues', 'and', 'adjacent', 'noncancerous', 'tissues.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'association', 'of', 'MAGI1', 'protein', 'expression', 'with', 'clinicopathological', 'features', 'in', 'GC', 'patients', 'was', 'analyzed', 'by', 'Chi-square', 'test', 'and', 'KruskalWallis', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Other', 'data', 'were', 'analyzed', 'using', ""Student's"", 't-test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'the', 'statistical', 'analyses', 'were', 'carried', 'out', 'using', 'the', 'IBM', 'SPSS', 'Statistics', '(Version', '21.0;', 'IBM', 'corp.,', 'New', 'York,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'data', 'were', 'represented', 'as', '±s.']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['Two-tailed', 'P<0.05', 'was', 'considered', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O']"

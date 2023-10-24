@@ -1,0 +1,8 @@
+tokens,labels
+"['The', 'ratio', 'of', 'Msi1-containing', 'granules', 'to', 'total', 'marker-containing', 'granules', 'was', 'determined', 'in', 'Fig.', '4', 'B', '.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'percent', 'colocalization', '(Fig.']","['O', 'O', 'O', 'O']"
+"['4', 'B;']","['O', 'O']"
+"['1)', 'was', 'estimated', 'as', 'described', 'previously', '(', 'Barbee', 'et', 'al.,', '2006', ').']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'weighted', 'colocalization', 'coeffi', 'cients', '(Fig.']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['4', 'B;']","['O', 'O']"
+"['2)', 'were', 'calculated', 'using', 'LSM', 'Image', 'Examiner', 'software', '(Carl', 'Zeiss,', 'Inc.).']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O']"

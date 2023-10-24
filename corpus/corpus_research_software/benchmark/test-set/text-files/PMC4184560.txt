@@ -1,0 +1,2 @@
+
+Confocal images were captured using an Olympus FV1000 microscope with the latest Fluoview software Ver.3.1 (Olympus, Tokyo, Japan). A stack of five images from 0.5-lm step slices was combined for the analysis. At least three different animals in each group were used for the analysis, and sections from three fields in each brain were evaluated.

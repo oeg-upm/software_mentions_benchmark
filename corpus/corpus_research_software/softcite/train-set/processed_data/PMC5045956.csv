@@ -1,0 +1,3 @@
+tokens,labels
+"['Data', 'were', 'analyzed', 'by', 'performing', 'the', 'Chisquare,', 'and', 'the', 'paired', 'and', 'independent', 'samples', 't-tests', 'by', 'using', 'the', 'SPSS', 'Ver.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"
+"['13', 'software.']","['O', 'O']"

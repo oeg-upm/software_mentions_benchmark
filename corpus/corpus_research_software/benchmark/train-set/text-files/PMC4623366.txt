@@ -1,0 +1,2 @@
+
+Study design H9B-MC-BCDV (FLEX V; NCT01202773) was a phase 3, double-blind, placebo-controlled study comprised of a screening period of 7-28 days, a 24-week treatment period and post-treatment follow-up for up to 48 weeks. Participants were randomly assigned (1:1:1) to treatment groups by a computer generated random sequence using the Interactive Voice Response System (IVRS); the randomisation code was held by the vendor performingIVRS functions.

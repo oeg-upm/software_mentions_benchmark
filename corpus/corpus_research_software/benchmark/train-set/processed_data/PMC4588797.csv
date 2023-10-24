@@ -1,0 +1,3 @@
+tokens,labels
+"['The', 'collected', 'data', 'was', 'subjected', 'to', 'statistical', 'analysis', 'using', 'SPSS', '(Statistical', 'Package', 'for', 'Social', 'Sciences)', 'version', '17.0', '(IBM', 'Statistics,', 'Chicago,', 'Illinois,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Descriptive', 'statistics', 'was', 'drawn', 'with', 'respective', 'percentages', 'to', 'have', 'a', 'comparative', 'overview.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

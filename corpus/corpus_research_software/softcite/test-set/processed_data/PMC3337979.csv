@@ -1,0 +1,9 @@
+tokens,labels
+['Statistics.'],['O']
+"['Data', 'were', 'analysed', 'using', 'the', 'GraphPad', 'Prism', '4.']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O']"
+"[""Student's"", 't-test', '(two-tailed)', 'was', 'used', 'for', 'comparison', 'of', 'difference', 'between', 'two', 'distributions.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Multiple', 'groups', 'were', 'compared', 'using', 'one-way', 'or', 'two-way', 'analysis', 'of', 'variance', 'with', 'the', 'Bonferroni', 'post', 'hoc', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Data', 'acquisition', 'and', 'analysis.']","['O', 'O', 'O', 'O']"
+"['Data', 'were', 'acquired', 'and', 'analysed', 'using', 'the', 'pClamp', 'software', '(version', '8.0;', 'Axon', 'Instruments).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O']"
+"['Currents', 'were', 'recorded', 'from', 'small', 'cells', '(', '<', '25', 'µm)', 'using', 'an', 'Axopatch', '(200', 'series)', 'patch', 'clamp', 'amplifier,', 'filtered', 'at', '5', 'kHz', 'and', 'sampled', 'at', '20', 'kHz.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'series', 'resistance', 'was', 'compensated', '(60-75%).']","['O', 'O', 'O', 'O', 'O', 'O']"

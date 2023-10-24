@@ -1,0 +1,6 @@
+tokens,labels
+"['Data', 'were', 'evaluated', 'by', 'one', 'way', 'analysis', 'of', 'variance', '(ANOVA)', 'followed', 'by', 'the', ""Tukey's"", 'post', 'hoc', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Repeated', 'ANOVA', 'were', 'run', 'for', 'MWM', 'traveled', 'distance', 'and', 'escape', 'latency', 'data.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Analyses', 'were', 'performed', 'using', 'SPSS']","['O', 'O', 'O', 'O', 'B-Application_Mention']"
+"['Significance', 'level', 'was', 'set', 'at', 'p<', '0.05.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Values', 'were', 'expressed', 'as', 'mean', '±', 'SEM.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"

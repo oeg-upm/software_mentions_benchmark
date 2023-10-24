@@ -1,0 +1,7 @@
+tokens,labels
+"['All', 'data', 'presented', 'in', 'this', 'paper', 'are', 'the', 'actual', 'untransformed', 'data', 'except', 'log-transformed', 'data', 'used', 'for', 'bacterial', 'count', 'when', 'necessary', 'to', 'best', 'approximate', 'the', 'normal', 'distribution.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Except', 'for', 'mortality,', 'all', 'data', 'were', 'analysed', 'using', 'the', 'one-way', 'ANOVA.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Mortality', 'data', 'were', 'analysed', 'by', 'chi-square', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Significant', 'means', 'were', 'then', 'elucidated', 'using', 'the', 'Duncan', 'multiple', 'range', 'tests.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'statistical', 'tests', 'were', 'conducted', 'at', '95%', 'confidence', 'level', 'using', 'SAS', 'program', '(Version', '6.0,', 'SAS', 'Institute', 'Inc,', '2003).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['The', 'results', 'were', 'expressed', 'as', 'means', 'with', 'pooled', 'of', 'standard', 'error', 'of', 'mean', '(SEM).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

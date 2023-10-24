@@ -1,0 +1,2 @@
+tokens,labels
+"['Demographic,', 'clinical,', 'and', 'laboratory', 'data', 'from', 'the', 'electronic', 'medical', 'record', 'and', 'study', 'forms', 'were', 'de-identified,', 'entered', 'into', 'an', 'Excel', 'spreadsheet,', 'and', 'exported', 'into', 'Stata', 'v14', 'software', '(StataCorp,', '2011,', 'College', 'Station,', 'Texas)', 'for', 'analysis.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

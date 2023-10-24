@@ -1,0 +1,2 @@
+tokens,labels
+"['A', 'moderated', 'hierarchical', 'regression', 'was', 'performed', 'using', 'SPSS', '(IBM)', 'to', 'estimate', 'the', 'amount', 'of', 'variance', 'in', 'child', 'birthweight', 'explained', 'by', 'stressor', 'and', 'distress', 'variables', 'separately', 'and', 'by', 'the', 'interaction', 'among', 'stressors', 'and', 'maternal', 'characteristics.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

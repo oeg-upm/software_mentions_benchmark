@@ -1,0 +1,6 @@
+tokens,labels
+"['Statistical', 'analyses', 'were', 'conducted', 'using', 'one-way', 'ANOVA', 'with', 'Bonferroni', 'post-test', 'via', 'the', 'SPSS', 'for', 'Windows', 'software', 'package', '(ver.17,', 'SPSS', 'Inc.,', 'Chicago,', 'IL,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Unpaired', 'two-tailed', ""Student's"", 't', 'test', 'was', 'used', 'to', 'compare', 'means', 'between', 'different', 'groups.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'value', 'of', 'p', 'b', '0.05', 'was', 'taken', 'to', 'indicate', 'statistical', 'significance.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Results', 'are', 'expressed', 'as', 'mean', '±', 'SD.']","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['All', 'figures', 'were', 'rendered', 'using', 'the', 'Prism', '5', 'software', 'package', '(GraphPad', 'Software,', 'CA,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

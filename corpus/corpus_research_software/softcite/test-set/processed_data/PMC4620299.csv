@@ -1,0 +1,5 @@
+tokens,labels
+"['Sample', 'size', 'was', 'calculated', 'as', '110', 'depressed', 'subjects', 'and', '220', 'control', 'subjects,', 'using', 'the', 'software', 'open', 'Epi', 'with', 'two', 'sided', 'confidence.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O']"
+"['27,28', 'The', 'investigators', 'provided', 'subjects', 'with', 'all', 'related', 'information,', 'understandable', 'to', 'the', 'subjects.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'written', 'informed', 'consent', 'form', 'was', 'signed', 'and', 'dated', 'by', 'subjects', 'and', 'investigators.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['This', 'study', 'has', 'been', 'approved', 'by', 'the', 'Ethics', 'Committee', 'of', 'Tehran', 'University', 'of', 'Medical', 'Sciences.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

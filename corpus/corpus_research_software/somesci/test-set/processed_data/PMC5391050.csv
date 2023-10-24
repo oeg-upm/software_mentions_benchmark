@@ -1,0 +1,2 @@
+tokens,labels
+"['Data', 'were', 'analyzed', 'using', 'GraphPad', 'Prism', 'version', '6.0f', 'for', 'Mac', 'OS', 'X,', '(GraphPad', 'Software,', 'La', 'Jolla', 'California', 'USA,', 'www.graphpad.com).']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,4 @@
+tokens,labels
+"['We', 'performed', 'statistical', 'analyses', 'on', 'the', 'rotarod', 'scores', 'using', 'the', 'Statistical', 'Analysis', 'System', '(Enterprise', '4.1;', 'SAS', 'Korea)', 'on', 'a', 'CHA', 'University', 'mainframe', 'computer.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'I-Application_Mention', 'I-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Performance', 'measures', 'were', 'analyzed', 'using', 'the', 'PROC', 'MIXED', 'program,', 'a', 'linear', 'mixed', 'models', 'procedure.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'p', 'value', 'of', '＜0.05', 'was', 'considered', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

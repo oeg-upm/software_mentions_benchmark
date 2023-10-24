@@ -1,0 +1,2 @@
+
+All experiments were performed on at least three individuals. Results are presented as the mean ± standard deviation (SD). The significance of the differences was determined using the two-tailed Student's t-test and one-way analysis of variance (ANOVA). The difference was considered significant if p < 0.05. The IBM SPSS ver. 19.0 for Windows (IBM Co., Armonk, NY, USA) was used for statistical analysis.

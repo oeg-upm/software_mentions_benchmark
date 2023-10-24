@@ -1,0 +1,2 @@
+tokens,labels
+"['All', 'statistical', 'analysis', 'was', 'conducted', 'in', 'Minitab', '16', '(Minitab', 'Ltd).']","['O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"

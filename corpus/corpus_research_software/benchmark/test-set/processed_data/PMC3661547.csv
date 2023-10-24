@@ -1,0 +1,2 @@
+tokens,labels
+"['All', 'analyses', 'were', 'adjusted', 'for', 'sample', 'weights', 'and', 'NHANES', 'complex', 'survey', 'design', 'using', 'Stata', '(11.2).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O']"

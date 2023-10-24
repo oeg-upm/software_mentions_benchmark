@@ -1,0 +1,2 @@
+tokens,labels
+"['Areas', 'under', 'the', 'curve', 'were', 'calculated', 'using', 'the', 'trapezoid', 'rule', 'utilising', 'Sigmaplot', 'graphing', 'software', '(SystatSoftwareInc.,', 'California,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O']"

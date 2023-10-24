@@ -1,0 +1,2 @@
+
+Statistical analysis was carried out using Review Manager 5.3.0. The changes in seven functional indexes were determined as differences between baseline and study completion. Outcome measurements were combined by calculating the mean difference with 95% confidence interval (CI). To quantify the effect of heterogeneity test result, I 2 heterogeneity test was used. A random-effects model was used if I 2 value was .50%; if not, a fixed-effects model was used. Publication bias was evaluated using the funnel plot.

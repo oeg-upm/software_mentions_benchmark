@@ -1,0 +1,1 @@
+This paper introduces AtomREM (Atomistic Rare Event Manager), which is an MPI parallelized solver program package for executing this method, which yields minimum energy reaction pathways in terms of the microscopic evolution of atomic positions.

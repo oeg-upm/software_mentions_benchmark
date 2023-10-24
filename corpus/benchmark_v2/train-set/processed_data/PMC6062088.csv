@@ -1,0 +1,2 @@
+tokens,labels
+"['Studies', 'were', 'exported', 'to', 'remove', 'the', 'duplicates', 'in', 'Refworks', 'and', 'then', 'exported', 'to', 'Microsoft', 'Excel']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention']"

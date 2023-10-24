@@ -1,0 +1,5 @@
+tokens,labels
+"['Statistical', 'analysis', 'was', 'performed', 'with', 'SPSS', '22', 'software', '(SPSS', 'Inc.,', 'USA).']","['O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O']"
+"['Categorical', 'variables', 'were', 'analyzed', 'using', 'the', 'Chi-square', 'and', 'Fisher', 'exact', 'test.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['Continuous', 'variables', 'were', 'analyzed', 'with', 't-test.']","['O', 'O', 'O', 'O', 'O', 'O']"
+"['P', '<', '0.05', 'was', 'considered', 'as', 'statistically', 'significant.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,3 @@
+tokens,labels
+"['The', 'statistical', 'software', 'package', 'SPSS', '13.0', 'for', 'Windows', 'was', 'used', 'for', 'this', 'analysis.']","['O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"['A', 'descriptive', 'analysis', 'of', 'the', 'variables', 'was', 'firstly', 'carried', 'out;', 'the', 'percentages', 'were', 'calculated', 'for', 'the', 'qualitative', 'variables', 'and', 'means', 'and', 'standard', 'deviations', 'for', 'the', 'numerical', 'variable.']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

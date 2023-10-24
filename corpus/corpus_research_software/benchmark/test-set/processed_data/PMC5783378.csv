@@ -1,0 +1,2 @@
+tokens,labels
+"['Here,', 'we', 'used', 'a', 'derivative', 'of', 'a', 'Gaussian', 'filter', 'as', 'a', 'temporal', 'gradient', 'filter', 'suggested', 'by', 'Simoncelli', 'and', 'colleagues', '[28]', '(see', 'also', 'MATLAB', 'built-in', 'function', 'opticalFlowLKDoG).']","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Application_Mention', 'O', 'O', 'O']"

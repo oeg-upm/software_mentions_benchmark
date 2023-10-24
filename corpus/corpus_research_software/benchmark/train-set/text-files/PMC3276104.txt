@@ -1,0 +1,2 @@
+
+Data were analysed with a statistical programme JMP 5.1 Start Statistics, third edition (SAS Institute, Inc., Cary, North Carolina, USA). Differences between WT and reporter lines were tested using One-Way-ANOVA and data were pooled when no difference was found. Data are means (6SE). Separation of means was performed by t test. A probability level of P <0.05 was considered to indicate significant differences.
